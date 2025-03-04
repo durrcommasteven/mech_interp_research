@@ -121,6 +121,8 @@ class LLamaExamineToolkit:
         average_heads: bool = False,
     ) -> torch.Tensor:
         """
+        Note this is wrong as it doesnt include RoPE
+
         Compute attention scores using a simplified, intervention-friendly approach.
 
         This method reshapes the queries and keys to separate heads, computes
@@ -208,12 +210,15 @@ class LLamaExamineToolkit:
         ]
         activation_containers = [ActivationContainer() for string in strings]
 
+        source_token_indices = []
+
         # Start tracing for activation capture
         with self.llama.trace(remote=self.remote) as tracer:
             for string, (token_idx, cutoff_idx), ac in zip(
                 strings, index_pairs, activation_containers
             ):
                 cutoff_string = string[:cutoff_idx]
+                source_token_indices.append(token_idx)
                 with tracer.invoke(cutoff_string):
                     # Extract the output activation at the newline token for each layer
                     for layer_idx, layer in enumerate(self.llama.model.layers):
@@ -254,7 +259,7 @@ class LLamaExamineToolkit:
                                 token_string=self.llama.tokenizer.decode(token_int),
                             )
 
-        return activation_containers
+        return activation_containers, source_token_indices
 
     def generate_with_transplanted_activity(
         self,
@@ -319,19 +324,19 @@ class LLamaExamineToolkit:
                                     source_token_index - delta, i, "output"
                                 )
                             print(
-                                "target_token = ",
+                                "source_token = ",
                                 target_token_idx - delta,
                                 activation_container.get_token_by_index(
-                                    target_token_idx - delta
+                                    source_token_index - delta
                                 ),
                             )
                             toks = self.llama.tokenizer.encode(cutoff_string)
                             print(
-                                "source_token = ",
-                                source_token_index - delta,
-                                self.llama.tokenizer.decode(
-                                    toks[source_token_index - delta]
-                                ),
+                                "target_token = ",
+                                target_token_idx - delta,
+                                (self.llama.tokenizer.decode(
+                                    toks[target_token_idx - delta]
+                                ),),
                             )
 
             # Proceed to the next token generation step
@@ -369,18 +374,19 @@ class LLamaExamineToolkit:
             A list of generated strings for each target.
         """
         # Extract newline activations from source strings
-        activation_containers = self.extract_newline_activations(
+        activation_containers, source_newline_indices = self.extract_newline_activations(
             strings=source_strings, index=index, transplant_strings=transplant_strings
         )
         output_strings = []
 
         # Process each target string with corresponding source activations
-        for target_string, activation_container in zip(
-            target_strings, activation_containers
+        for target_string, activation_container, source_newline_index in zip(
+            target_strings, activation_containers, source_newline_indices
         ):
             tokens = self.generate_with_transplanted_activity(
                 target_string=target_string,
                 activation_container=activation_container,
+                source_token_index=source_newline_index,
                 num_new_tokens=num_new_tokens,
                 index=index,
                 transplant_strings=transplant_strings,
