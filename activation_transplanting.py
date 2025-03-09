@@ -1,19 +1,22 @@
 import math
-import torch
+import os
+from collections import defaultdict
+from dataclasses import dataclass, field
+from datetime import datetime
+from typing import Optional, Union
+
+
 import matplotlib.pyplot as plt
+import numpy as np
+import torch
+
+# project-specific imports
+import nnsight
 from nnsight import CONFIG
 from transformers.models.llama.modeling_llama import (
     LlamaRotaryEmbedding,
     apply_rotary_pos_emb,
 )
-from dataclasses import dataclass, field
-import torch
-from typing import Optional, Union
-import nnsight
-from collections import defaultdict
-import os
-from datetime import datetime
-import numpy as np
 
 
 @dataclass
@@ -190,7 +193,7 @@ class LLamaExamineToolkit:
       - Extracting and transplanting activations at specific tokens
     """
 
-    def __init__(self, llama_model, remote=True, num_prev=0):
+    def __init__(self, llama_model, remote=True):
         """
         Initialize the toolkit.
 
@@ -201,48 +204,114 @@ class LLamaExamineToolkit:
         self.llama = llama_model
         self.llama_config = llama_model.config
         self.remote = remote
-        self.num_prev = num_prev
+
+    def split_string_into_tokens(self, string):
+        return [
+            self.llama.tokenizer.decode(w) for w in self.llama.tokenizer.encode(string)
+        ]
 
     def identify_target_token_index(
-        self, string: str, token_string: str= None, index: int = 0
+        self, string: str, target_string: str = None, occurrence_index: int = 0
     ) -> tuple[int, int]:
         """
-        Identify the token index corresponding to a newline and a cutoff point for the string.
+        Identifies the token index of a target string within a larger string and returns the character
+        cutoff at the end of the final token that contains any part of the target string.
 
-        index tells the index of the token we're looking for. For instance, if there are
-        5 instances of the token /n/n,
-
-        The method:
-          - Tokenizes the string.
-          - Decodes each token individually.
-          - Finds the token that contains the maximum number of newline characters.
-          - Computes the cutoff index in the original string after decoding tokens up to that point.
+        Args:
+            string: The full string to search in
+            target_string: The substring to find
+            occurrence_index: Which occurrence of the target_string to find (0-indexed)
 
         Returns:
-            A tuple (newline_token_index, cutoff_char_index) where:
-              - newline_token_index: index in the tokenized sequence with the most newlines.
-              - cutoff_char_index: character index such that the substring up to that point
-                ends exactly after the newline token.
+            tuple[int, int]: (token_index, character_cutoff)
+                token_index is the index of the last token containing part of the target string
+                character_cutoff is the character position after the full last token
         """
         # Encode the string into tokens
         tokens = self.llama.tokenizer.encode(string)
-        # Decode each token individually to inspect its content
-        decoded_tokens = [self.llama.tokenizer.decode([token]) for token in tokens]
 
-        #if token_string[]
-        # Identify the token index with the maximum newline characters
-        newline_index = max(
-            range(len(decoded_tokens)), key=lambda i: decoded_tokens[i].count("\n")
-        )
-        newline_token = decoded_tokens[newline_index]
-        # now we identify the indices of tokens here
-        newline_index = [i for i, v in enumerate(decoded_tokens) if v == newline_token][
-            index
-        ]
-        # Compute the character cutoff after the newline token (skipping the first token)
-        newline_cutoff = len(self.llama.tokenizer.decode(tokens[1 : newline_index + 1]))
+        # If no target string is provided, return the last token
+        if target_string is None:
+            return len(tokens) - 1, len(string)
 
-        return newline_index, newline_cutoff
+        # Check if the target string itself is a complete token
+        target_token_id = self.llama.tokenizer.convert_tokens_to_ids(target_string)
+        if (
+            target_token_id != 0
+            and target_token_id != self.llama.tokenizer.unk_token_id
+        ):
+            # The string itself is a complete token
+            try:
+                target_indices = [
+                    i for i, v in enumerate(tokens) if v == target_token_id
+                ]
+                if occurrence_index >= len(target_indices):
+                    raise ValueError(
+                        f"Target token '{target_string}' occurrence {occurrence_index} not found in string"
+                    )
+
+                target_index = target_indices[occurrence_index]
+                print("w're here, ", target_index)
+
+                # Get the character position after decoding up to and including this token
+                target_cutoff = len(
+                    self.llama.tokenizer.decode(tokens[1 : target_index + 1])
+                )
+                return target_index, target_cutoff
+            except IndexError:
+                raise ValueError(f"Target token '{target_string}' not found in string")
+        else:
+            # Find all occurrences of the target string
+            occurrences = []
+            start = 0
+            while True:
+                start = string.find(target_string, start)
+                if start == -1:
+                    break
+                occurrences.append((start, start + len(target_string)))
+                start += 1  # Move past this occurrence
+
+            if not occurrences or occurrence_index >= len(occurrences):
+                raise ValueError(
+                    f"Target string '{target_string}' occurrence {occurrence_index} not found in string"
+                )
+
+            target_start, target_end = occurrences[occurrence_index]
+
+            # Find the tokens that contain any part of the target string
+            start_token_index = None
+            end_token_index = None
+
+            # Track character positions for each token
+            char_positions = []
+            decoded_text = ""
+
+            # Skip the first token if it's a special token (like BOS)
+            start_idx = 1 if len(tokens) > 1 else 0
+
+            for i in range(start_idx, len(tokens)):
+                prev_decoded_text = decoded_text
+                decoded_text = self.llama.tokenizer.decode(tokens[start_idx : i + 1])
+
+                # Track the character span of this token
+                token_start = len(prev_decoded_text)
+                token_end = len(decoded_text)
+                char_positions.append((token_start, token_end))
+
+                # Check if this token overlaps with our target
+                if token_start <= target_end and token_end > target_start:
+                    if start_token_index is None:
+                        start_token_index = i
+                    end_token_index = i
+
+            if start_token_index is None or end_token_index is None:
+                raise ValueError(f"Could not find tokens containing '{target_string}'")
+
+            # The character cutoff should be at the end of the last token
+            # that contains any part of the target string
+            _, last_token_end = char_positions[end_token_index - start_idx]
+
+            return end_token_index, last_token_end
 
     def compute_llama_attention(
         self,
@@ -449,8 +518,10 @@ class LLamaExamineToolkit:
     def extract_newline_activations(
         self,
         strings: list[str],
-        index: int = 0,
+        occurrence_index: int = 0,
         transplant_strings: tuple[str] = ("key", "value"),
+        num_prev: int = 0,
+        num_fut: int = 0,
     ) -> list[list[tuple[torch.Tensor, torch.Tensor]]]:
         """
         Extract activations at the newline token position for a list of strings.
@@ -468,10 +539,13 @@ class LLamaExamineToolkit:
         Returns:
             A list (for each string) of lists (for each layer) of activation tensors.
         """
+        assert num_prev >= 0
+        assert num_fut >= 0
         print("extracting newline activations")
         # Compute token indices and cutoff positions for all strings
         index_pairs = [
-            self.identify_target_token_index(string, index=index) for string in strings
+            self.identify_target_token_index(string, occurrence_index=occurrence_index)
+            for string in strings
         ]
         activation_containers = [ActivationContainer() for string in strings]
 
@@ -487,31 +561,31 @@ class LLamaExamineToolkit:
                 with tracer.invoke(cutoff_string):
                     # Extract the output activation at the newline token for each layer
                     for layer_idx, layer in enumerate(self.llama.model.layers):
-                        for delta in range(self.num_prev + 1):
+                        for delta in range(-num_prev, 1 + num_fut):
                             if "key" in transplant_strings:
                                 ac.set_activation(
-                                    token_index=token_idx - delta,
+                                    token_index=token_idx + delta,
                                     layer_index=layer_idx,
                                     tensor=layer.self_attn.k_proj.output[
-                                        :, token_idx - delta, :
+                                        :, token_idx + delta, :
                                     ].save(),
                                     label="key",
                                 )
                             if "value" in transplant_strings:
                                 ac.set_activation(
-                                    token_index=token_idx - delta,
+                                    token_index=token_idx + delta,
                                     layer_index=layer_idx,
                                     tensor=layer.self_attn.v_proj.output[
-                                        :, token_idx - delta, :
+                                        :, token_idx + delta, :
                                     ].save(),
                                     label="value",
                                 )
                             if "output" in transplant_strings:
                                 ac.set_activation(
-                                    token_index=token_idx - delta,
+                                    token_index=token_idx + delta,
                                     layer_index=layer_idx,
                                     tensor=layer.self_attn.o_proj.output[
-                                        :, token_idx - delta, :
+                                        :, token_idx + delta, :
                                     ].save(),
                                     label="output",
                                 )
@@ -519,26 +593,26 @@ class LLamaExamineToolkit:
                             if "residual" in transplant_strings:
                                 # input to self-attention
                                 ac.set_activation(
-                                    token_index=token_idx - delta,
+                                    token_index=token_idx + delta,
                                     layer_index=layer_idx,
-                                    tensor=layer.input[:, token_idx - delta, :].save(),
+                                    tensor=layer.input[:, token_idx + delta, :].save(),
                                     label="residual_input",
                                 )
                                 if layer_idx == self.llama_config.num_hidden_layers - 1:
                                     ac.set_activation(
-                                        token_index=token_idx - delta,
+                                        token_index=token_idx + delta,
                                         layer_index=layer_idx,
                                         tensor=self.llama.model.norm.output[
-                                            :, token_idx - delta, :
+                                            :, token_idx + delta, :
                                         ].save(),
                                         label="final_residual_output",
                                     )
 
                             token_int = self.llama.tokenizer.encode(cutoff_string)[
-                                token_idx - delta
+                                token_idx + delta
                             ]
                             ac.set_tokens(
-                                token_index=token_idx - delta,
+                                token_index=token_idx + delta,
                                 token_int=token_int,
                                 token_string=self.llama.tokenizer.decode(token_int),
                             )
@@ -551,7 +625,9 @@ class LLamaExamineToolkit:
         source_token_index: int,
         activation_container: ActivationContainer,
         num_new_tokens: int,
-        index: int = 0,
+        occurrence_index: int = 0,
+        num_prev: int = 0,
+        num_fut: int = 0,
         transplant_strings: tuple[str] = ("key", "value"),
     ):
         """
@@ -571,11 +647,13 @@ class LLamaExamineToolkit:
         Returns:
             The raw generated tokens.
         """
+        assert num_prev >= 0
+        assert num_fut >= 0
         print("generating with transplant")
         layers = self.llama.model.layers
         num_layers = self.llama_config.num_hidden_layers
         target_token_idx, cutoff_idx = self.identify_target_token_index(
-            string=target_string, index=index
+            string=target_string, occurrence_index=occurrence_index
         )
         cutoff_string = target_string[:cutoff_idx]
 
@@ -589,55 +667,55 @@ class LLamaExamineToolkit:
                 if idx == 0:
                     # Replace activations at the newline token across all layers
                     for i in range(num_layers):
-                        for delta in range(self.num_prev + 1):
+                        for delta in range(-num_prev, num_fut + 1):
                             if "key" in transplant_strings:
                                 layers[i].self_attn.k_proj.output[
-                                    :, target_token_idx - delta, :
+                                    :, target_token_idx + delta, :
                                 ] = activation_container.get_activation(
-                                    source_token_index - delta, i, "key"
+                                    source_token_index + delta, i, "key"
                                 )
                             if "value" in transplant_strings:
                                 layers[i].self_attn.v_proj.output[
-                                    :, target_token_idx - delta, :
+                                    :, target_token_idx + delta, :
                                 ] = activation_container.get_activation(
-                                    source_token_index - delta, i, "value"
+                                    source_token_index + delta, i, "value"
                                 )
                             if "output" in transplant_strings:
                                 layers[i].self_attn.o_proj.output[
-                                    :, target_token_idx - delta, :
+                                    :, target_token_idx + delta, :
                                 ] = activation_container.get_activation(
-                                    source_token_index - delta, i, "output"
+                                    source_token_index + delta, i, "output"
                                 )
                             if "residual" in transplant_strings:
                                 # 1. Beginning of layer (input residual stream)
-                                layers[i].input[:, target_token_idx - delta, :] = (
+                                layers[i].input[:, target_token_idx + delta, :] = (
                                     activation_container.get_activation(
-                                        source_token_index - delta, i, "residual_input"
+                                        source_token_index + delta, i, "residual_input"
                                     )
                                 )
                                 if i == self.llama_config.num_hidden_layers - 1:
                                     self.llama.model.norm.output[
-                                        :, target_token_idx - delta, :
+                                        :, target_token_idx + delta, :
                                     ] = activation_container.get_activation(
-                                        token_index=source_token_index - delta,
+                                        token_index=source_token_index + delta,
                                         layer_index=i,
                                         label="final_residual_output",
                                     )
 
                             print(
                                 "source_token = ",
-                                target_token_idx - delta,
+                                target_token_idx + delta,
                                 activation_container.get_token_by_index(
-                                    source_token_index - delta
+                                    source_token_index + delta
                                 ),
                             )
                             toks = self.llama.tokenizer.encode(cutoff_string)
                             print(
                                 "target_token = ",
-                                target_token_idx - delta,
+                                target_token_idx + delta,
                                 (
                                     self.llama.tokenizer.decode(
-                                        toks[target_token_idx - delta]
+                                        toks[target_token_idx + delta]
                                     ),
                                 ),
                             )
@@ -654,7 +732,9 @@ class LLamaExamineToolkit:
         source_strings: list[str],
         target_strings: list[str],
         num_new_tokens: int,
-        index: int = 0,
+        occurrence_index: int = 0,
+        num_prev: int = 0,
+        num_fut: int = 0,
         transplant_strings: tuple[str] = ("key", "value"),
     ) -> list[str]:
         """
@@ -676,12 +756,17 @@ class LLamaExamineToolkit:
         Returns:
             A list of generated strings for each target.
         """
+        assert num_prev >= 0
+        assert num_fut >= 0
+
         # Extract newline activations from source strings
         activation_containers, source_newline_indices = (
             self.extract_newline_activations(
                 strings=source_strings,
-                index=index,
+                occurrence_index=occurrence_index,
                 transplant_strings=transplant_strings,
+                num_prev=num_prev,
+                num_fut=num_fut,
             )
         )
         output_strings = []
@@ -695,8 +780,10 @@ class LLamaExamineToolkit:
                 activation_container=activation_container,
                 source_token_index=source_newline_index,
                 num_new_tokens=num_new_tokens,
-                index=index,
+                occurrence_index=occurrence_index,
                 transplant_strings=transplant_strings,
+                num_prev=num_prev,
+                num_fut=num_fut,
             )
             decoded = self.llama.tokenizer.decode(tokens[0])
             output_strings.append(decoded)
