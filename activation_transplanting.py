@@ -229,7 +229,7 @@ class LLamaExamineToolkit:
         # Decode each token individually to inspect its content
         decoded_tokens = [self.llama.tokenizer.decode([token]) for token in tokens]
 
-        if token_string[:2] == "<|" and token_string[-2:] == "|>" 
+        if token_string in 
         # Identify the token index with the maximum newline characters
         newline_index = max(
             range(len(decoded_tokens)), key=lambda i: decoded_tokens[i].count("\n")
