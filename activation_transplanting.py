@@ -190,7 +190,7 @@ class LLamaExamineToolkit:
       - Extracting and transplanting activations at specific tokens
     """
 
-    def __init__(self, llama_model, remote=True, num_prev=1):
+    def __init__(self, llama_model, remote=True, num_prev=0):
         """
         Initialize the toolkit.
 
@@ -203,9 +203,14 @@ class LLamaExamineToolkit:
         self.remote = remote
         self.num_prev = num_prev
 
-    def identify_newline_index(self, string: str, index: int = 0) -> tuple[int, int]:
+    def identify_target_token_index(
+        self, string: str, token_string: str, index: int = 0
+    ) -> tuple[int, int]:
         """
         Identify the token index corresponding to a newline and a cutoff point for the string.
+
+        index tells the index of the token we're looking for. For instance, if there are
+        5 instances of the token /n/n,
 
         The method:
           - Tokenizes the string.
@@ -224,6 +229,7 @@ class LLamaExamineToolkit:
         # Decode each token individually to inspect its content
         decoded_tokens = [self.llama.tokenizer.decode([token]) for token in tokens]
 
+        if token_string[:2] == "<|" and token_string[-2:] == "|>" 
         # Identify the token index with the maximum newline characters
         newline_index = max(
             range(len(decoded_tokens)), key=lambda i: decoded_tokens[i].count("\n")
@@ -465,7 +471,7 @@ class LLamaExamineToolkit:
         print("extracting newline activations")
         # Compute token indices and cutoff positions for all strings
         index_pairs = [
-            self.identify_newline_index(string, index=index) for string in strings
+            self.identify_target_token_index(string, index=index) for string in strings
         ]
         activation_containers = [ActivationContainer() for string in strings]
 
@@ -568,7 +574,7 @@ class LLamaExamineToolkit:
         print("generating with transplant")
         layers = self.llama.model.layers
         num_layers = self.llama_config.num_hidden_layers
-        target_token_idx, cutoff_idx = self.identify_newline_index(
+        target_token_idx, cutoff_idx = self.identify_target_token_index(
             string=target_string, index=index
         )
         cutoff_string = target_string[:cutoff_idx]
