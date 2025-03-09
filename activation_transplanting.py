@@ -204,7 +204,7 @@ class LLamaExamineToolkit:
         self.num_prev = num_prev
 
     def identify_target_token_index(
-        self, string: str, token_string: str, index: int = 0
+        self, string: str, token_string: str= None, index: int = 0
     ) -> tuple[int, int]:
         """
         Identify the token index corresponding to a newline and a cutoff point for the string.
@@ -229,7 +229,7 @@ class LLamaExamineToolkit:
         # Decode each token individually to inspect its content
         decoded_tokens = [self.llama.tokenizer.decode([token]) for token in tokens]
 
-        if token_string in 
+        #if token_string[]
         # Identify the token index with the maximum newline characters
         newline_index = max(
             range(len(decoded_tokens)), key=lambda i: decoded_tokens[i].count("\n")
