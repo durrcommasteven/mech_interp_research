@@ -211,7 +211,7 @@ class LLamaExamineToolkit:
         ]
 
     def identify_target_token_index(
-        self, string: str, target_string: str = None, occurrence_index: int = 0
+        self, string: str, target_substring: str = None, occurrence_index: int = 0
     ) -> tuple[int, int]:
         """
         Identifies the token index of a target string within a larger string and returns the character
@@ -231,11 +231,11 @@ class LLamaExamineToolkit:
         tokens = self.llama.tokenizer.encode(string)
 
         # If no target string is provided, return the last token
-        if target_string is None:
+        if target_substring is None:
             return len(tokens) - 1, len(string)
 
         # Check if the target string itself is a complete token
-        target_token_id = self.llama.tokenizer.convert_tokens_to_ids(target_string)
+        target_token_id = self.llama.tokenizer.convert_tokens_to_ids(target_substring)
         if (
             target_token_id != 0
             and target_token_id != self.llama.tokenizer.unk_token_id
@@ -247,7 +247,7 @@ class LLamaExamineToolkit:
                 ]
                 if occurrence_index >= len(target_indices):
                     raise ValueError(
-                        f"Target token '{target_string}' occurrence {occurrence_index} not found in string"
+                        f"Target token '{target_substring}' occurrence {occurrence_index} not found in string"
                     )
 
                 target_index = target_indices[occurrence_index]
@@ -259,21 +259,23 @@ class LLamaExamineToolkit:
                 )
                 return target_index, target_cutoff
             except IndexError:
-                raise ValueError(f"Target token '{target_string}' not found in string")
+                raise ValueError(
+                    f"Target token '{target_substring}' not found in string"
+                )
         else:
             # Find all occurrences of the target string
             occurrences = []
             start = 0
             while True:
-                start = string.find(target_string, start)
+                start = string.find(target_substring, start)
                 if start == -1:
                     break
-                occurrences.append((start, start + len(target_string)))
+                occurrences.append((start, start + len(target_substring)))
                 start += 1  # Move past this occurrence
 
             if not occurrences or occurrence_index >= len(occurrences):
                 raise ValueError(
-                    f"Target string '{target_string}' occurrence {occurrence_index} not found in string"
+                    f"Target string '{target_substring}' occurrence {occurrence_index} not found in string"
                 )
 
             target_start, target_end = occurrences[occurrence_index]
@@ -305,7 +307,9 @@ class LLamaExamineToolkit:
                     end_token_index = i
 
             if start_token_index is None or end_token_index is None:
-                raise ValueError(f"Could not find tokens containing '{target_string}'")
+                raise ValueError(
+                    f"Could not find tokens containing '{target_substring}'"
+                )
 
             # The character cutoff should be at the end of the last token
             # that contains any part of the target string
@@ -411,7 +415,7 @@ class LLamaExamineToolkit:
         with self.llama.trace(remote=True) as tracer:
             for string_idx, string in enumerate(strings):
                 with tracer.invoke(string):
-                    # Extract the output activation at the newline token for each layer
+                    # Extract the output activation at the target token for each layer
                     for layer_idx, layer in enumerate(self.llama.model.layers):
                         layer_q = layer.self_attn.q_proj.output.save()
                         layer_k = layer.self_attn.k_proj.output.save()
@@ -518,8 +522,9 @@ class LLamaExamineToolkit:
     def extract_newline_activations(
         self,
         strings: list[str],
+        target_substring: str,
         occurrence_index: int = 0,
-        transplant_strings: tuple[str] = ("key", "value"),
+        transplant_strings: tuple[str] = ("residual"),
         num_prev: int = 0,
         num_fut: int = 0,
     ) -> list[list[tuple[torch.Tensor, torch.Tensor]]]:
@@ -541,10 +546,14 @@ class LLamaExamineToolkit:
         """
         assert num_prev >= 0
         assert num_fut >= 0
-        print("extracting newline activations")
+        print("extracting token activations")
         # Compute token indices and cutoff positions for all strings
         index_pairs = [
-            self.identify_target_token_index(string, occurrence_index=occurrence_index)
+            self.identify_target_token_index(
+                string,
+                target_substring=target_substring,
+                occurrence_index=occurrence_index,
+            )
             for string in strings
         ]
         activation_containers = [ActivationContainer() for string in strings]
@@ -622,6 +631,7 @@ class LLamaExamineToolkit:
     def generate_with_transplanted_activity(
         self,
         target_string: str,
+        target_substring: str,
         source_token_index: int,
         activation_container: ActivationContainer,
         num_new_tokens: int,
@@ -653,7 +663,9 @@ class LLamaExamineToolkit:
         layers = self.llama.model.layers
         num_layers = self.llama_config.num_hidden_layers
         target_token_idx, cutoff_idx = self.identify_target_token_index(
-            string=target_string, occurrence_index=occurrence_index
+            string=target_string,
+            target_substring=target_substring,
+            occurrence_index=occurrence_index,
         )
         cutoff_string = target_string[:cutoff_idx]
 
@@ -732,6 +744,7 @@ class LLamaExamineToolkit:
         source_strings: list[str],
         target_strings: list[str],
         num_new_tokens: int,
+        target_substring: str,
         occurrence_index: int = 0,
         num_prev: int = 0,
         num_fut: int = 0,
@@ -763,6 +776,7 @@ class LLamaExamineToolkit:
         activation_containers, source_newline_indices = (
             self.extract_newline_activations(
                 strings=source_strings,
+                target_substring=target_substring,
                 occurrence_index=occurrence_index,
                 transplant_strings=transplant_strings,
                 num_prev=num_prev,
@@ -777,6 +791,7 @@ class LLamaExamineToolkit:
         ):
             tokens = self.generate_with_transplanted_activity(
                 target_string=target_string,
+                target_substring=target_substring,
                 activation_container=activation_container,
                 source_token_index=source_newline_index,
                 num_new_tokens=num_new_tokens,
