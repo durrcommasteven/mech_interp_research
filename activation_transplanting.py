@@ -235,11 +235,11 @@ class LLamaExamineToolkit:
             return len(tokens) - 1, len(string)
 
         # Check if the target string itself is a complete token
-        target_token_id = self.llama.tokenizer.convert_tokens_to_ids(target_substring)
-        if (
-            target_token_id != 0
-            and target_token_id != self.llama.tokenizer.unk_token_id
-        ):
+        vocab = self.llama.tokenizer.get_vocab()
+        if False:  # target_substring in vocab:
+            # NOTE: for now, i think the next way is the best approach
+            pass
+            target_token_id = vocab[target_substring]
             # The string itself is a complete token
             try:
                 target_indices = [
@@ -301,7 +301,7 @@ class LLamaExamineToolkit:
                 char_positions.append((token_start, token_end))
 
                 # Check if this token overlaps with our target
-                if token_start <= target_end and token_end > target_start:
+                if token_start < target_end and token_end > target_start:
                     if start_token_index is None:
                         start_token_index = i
                     end_token_index = i
@@ -556,6 +556,7 @@ class LLamaExamineToolkit:
             )
             for string in strings
         ]
+
         activation_containers = [ActivationContainer() for string in strings]
 
         source_token_indices = []
@@ -718,7 +719,7 @@ class LLamaExamineToolkit:
                                 "source_token = ",
                                 target_token_idx + delta,
                                 activation_container.get_token_by_index(
-                                    source_token_index + delta
+                                    target_token_idx + delta
                                 ),
                             )
                             toks = self.llama.tokenizer.encode(cutoff_string)
@@ -728,7 +729,7 @@ class LLamaExamineToolkit:
                                 (
                                     self.llama.tokenizer.decode(
                                         toks[target_token_idx + delta]
-                                    ),
+                                    ).replace("\\", "\\\\"),
                                 ),
                             )
 
@@ -748,7 +749,7 @@ class LLamaExamineToolkit:
         occurrence_index: int = 0,
         num_prev: int = 0,
         num_fut: int = 0,
-        transplant_strings: tuple[str] = ("key", "value"),
+        transplant_strings: tuple[str] = ("residual",),
     ) -> list[str]:
         """
         Transplant the newline token activations from source strings to target strings.
@@ -806,3 +807,121 @@ class LLamaExamineToolkit:
         self.activation_containers = activation_containers
 
         return output_strings
+
+    def evaluate_with_transplanted_activity(
+        self,
+        target_string: str,
+        target_substring: str,
+        source_token_index: int,
+        activation_container: ActivationContainer,
+        occurrence_index: int = 0,
+        num_prev: int = 0,
+        num_fut: int = 0,
+        transplant_strings: tuple[str] = ("key", "value"),
+    ):
+        """
+        NOTE: For now, this only returns the final logit
+
+        evaluate a given intervention on the model given swapped
+        activations.
+
+        intervention is a function which acts on self.llama
+
+        This method:
+          1. Identifies the newline token in the string.
+          2. Truncates the string at that point.
+          3. During generation, replaces the activation at the newline token in the first new token
+             with the provided key, value activities (a tuple of key, value tensors, one per layer).
+
+        Args:
+            string: The input string to generate from.
+            activities: A list of activation tensors, one per layer.
+            num_new_tokens: The number of tokens to generate.
+
+        Returns:
+            The raw generated tokens.
+        """
+        assert num_prev >= 0
+        assert num_fut >= 0
+        print("generating with transplant")
+        layers = self.llama.model.layers
+        num_layers = self.llama_config.num_hidden_layers
+        target_token_idx, cutoff_idx = self.identify_target_token_index(
+            string=target_string,
+            target_substring=target_substring,
+            occurrence_index=occurrence_index,
+        )
+
+        cutoff_string = target_string[:cutoff_idx]
+
+        with self.llama.trace(
+            target_string,
+            remote=self.remote,
+        ) as tracer:
+            # Replace activations at the newline token across all layers
+
+            for i in range(num_layers):
+                for delta in range(-num_prev, num_fut + 1):
+                    if "key" in transplant_strings:
+                        layers[i].self_attn.k_proj.output[
+                            :, target_token_idx + delta, :
+                        ] = activation_container.get_activation(
+                            source_token_index + delta, i, "key"
+                        )
+                        print("we are transplanting key")
+                    if "value" in transplant_strings:
+                        layers[i].self_attn.v_proj.output[
+                            :, target_token_idx + delta, :
+                        ] = activation_container.get_activation(
+                            source_token_index + delta, i, "value"
+                        )
+                        print("we are transplanting value")
+                    if "output" in transplant_strings:
+                        layers[i].self_attn.o_proj.output[
+                            :, target_token_idx + delta, :
+                        ] = activation_container.get_activation(
+                            source_token_index + delta, i, "output"
+                        )
+                        print("we are transplanting output")
+                    if "residual" in transplant_strings:
+                        # 1. Beginning of layer (input residual stream)
+                        layers[i].input[:, target_token_idx + delta, :] = (
+                            activation_container.get_activation(
+                                source_token_index + delta, i, "residual_input"
+                            )
+                        )
+                        print("we are transplanting residual")
+                        if i == self.llama_config.num_hidden_layers - 1:
+                            self.llama.model.norm.output[
+                                :, target_token_idx + delta, :
+                            ] = activation_container.get_activation(
+                                token_index=source_token_index + delta,
+                                layer_index=i,
+                                label="final_residual_output",
+                            )
+
+                    if i == 0:
+                        # we really only have to do this once
+                        print(
+                            "source_token = ",
+                            source_token_index + delta,
+                            activation_container.get_token_by_index(
+                                source_token_index + delta
+                            ),
+                        )
+                        toks = self.llama.tokenizer.encode(target_string)
+                        print(
+                            "these are toks",
+                            toks,
+                            self.llama.tokenizer.encode(target_string)[
+                                target_token_idx
+                            ],
+                        )
+                        print(
+                            "target_token = ",
+                            target_token_idx + delta,
+                            self.llama.tokenizer.decode(toks[target_token_idx + delta]),
+                        )
+
+            final_logits = self.llama.lm_head.output[0, -1, :].save()
+        return final_logits
