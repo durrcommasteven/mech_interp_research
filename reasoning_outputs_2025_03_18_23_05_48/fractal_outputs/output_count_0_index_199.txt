@@ -1,0 +1,31 @@
+prompt: <｜User｜>Using simple terms, What are fractals? Explain in 150 words
+<｜Assistant｜>
+<think>
+
+continuation: <think>
+
+newline: <think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar that is found in fruits and can also be added to foods as a sweetener. It is a monosaccharide, meaning it is a single unit of sugar, and it is water-soluble, which makes it easy to dissolve in liquids. Fructose is also known as fruit sugar because it is abundant in fruits like apples, bananas, and dates.
+
+One of the key characteristics of fructose is that it is a reducing sugar. This means that
+<｜begin▁of▁sentence｜><think>
+Fructose, often referred to as fruit sugar, is a type of sugar found naturally in fruits, vegetables, and honey. It is a monosaccharide, meaning it is a single unit of sugar. Fructose is also known as glucose, but it is important to note that while both are monosaccharides, they are structurally different and have distinct metabolic pathways in the body.
+
+One key difference between fructose and glucose is how they are absorbed and utilized by the body.
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar that is often found in fruits, honey, and other natural sweeteners. It is known for its distinctively sweet taste and is commonly used in various culinary applications. Fructose is also known as fruit sugar because it is naturally present in many fruits. It is a monosaccharide, meaning it is a single type of sugar molecule, and it is one of the two main sugars that make up table sugar, the other being glucose.
+
+Fructose is unique
+<｜begin▁of▁sentence｜><think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, honey, and sweet vegetables. It's known for its sweetness and is often used in cooking and baking. Here are some key points about fructose:
+
+1. **Types of Fructose**:
+   - **Free Fructose**: Found in fruits and vegetables. It's the form that's directly absorbed by the body.
+   - **Bound Fructose**: Found in foods like onions and garlic. It needs to
+<｜begin▁of▁sentence｜><think>
+Fracking, or hydraulic fracturing, is a method used to extract natural gas from deep underground rock formations. It involves pumping a mixture of water, sand, and chemicals into the ground to break apart the rock and release the gas trapped inside. Fracking has been a controversial topic due to its environmental impact, including concerns about water contamination, climate change, and potential health risks.
+
+One of the key concerns about fracking is its impact on water resources. The process uses large amounts of water, which can

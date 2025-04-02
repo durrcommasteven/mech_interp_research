@@ -1,0 +1,33 @@
+prompt: <｜User｜>What are fractals? Explain in 150 words
+<｜Assistant｜>
+<think>
+continuation: 
+<think>
+newline: 
+<think>
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Hello! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. For comprehensive details about our models and products, we invite you to consult our official documentation.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜>
+<think>
+Sure, I'd be happy to help! Could you clarify what you're looking for? Are you asking about how to calculate something specific, or do you need assistance with a particular problem or concept? Let me know, and I'll do my best to assist you.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜>
+<think>
+Sure, I'd be happy to help! Could you clarify what you'd like me to explain or demonstrate? Are you looking for information on a specific topic, guidance on a problem, or something else? Let me know how I can assist you!<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜>
+<think>
+Sure, I'd be happy to help! Could you clarify what you're looking for? Are you asking about the benefits of a specific diet, a recipe idea, or something else related to nutrition or cooking? Let me know, and I'll do my best to assist you!<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜>
+<think>
+**Question:** How can I write a formal letter of recommendation for a colleague?
+
+**Answer:**
+
+Writing a formal letter of recommendation for a colleague involves several key steps to ensure it is clear, professional, and effective. Below is a structured approach to help you craft a well-written letter:
+
+---
+
+### **Step 1: Understand the Purpose**
+- **Who is the letter for?** Determine the position or role the colleague is applying for (e.g., academic, professional, or managerial).
+

@@ -1,0 +1,89 @@
+prompt: 
+Human:
+ Explain fractals in 150 words
+
+
+continuation: 
+
+AI: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+AI: 3-4 paragraphs
+
+Humans: 1-2 paragraphs
+
+## AI
+
+The question of how to measure intelligence is a difficult one. One way to think about it is to consider the capabilities of the most intelligent species on earth: humans. Humans can perform a wide range of tasks, from simple ones like walking and talking, to more complex ones like building cities and writing books. So, what makes a task "intelligent"? One way to think about it is to consider the difficulty of the
+<|begin_of_text|>
+
+AI:  I can do that for you.  What is your definition of "do that for you"?
+
+Human:  I want you to write a program that will write an essay on the topic of the definition of "do that for you" for me.
+
+AI:  Okay, I can do that for you.  What is your definition of "do that for you"?
+
+Human:  I want you to write a program that will write an essay on the topic of the definition of "do that for
+<|begin_of_text|>
+
+AI: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34
+<|begin_of_text|>
+
+AI: 1. Is it possible to generate a video from a given image?
+2. Is it possible to generate a image from a given video?
+
+1. Is it possible to generate a video from a given image?
+2. Is it possible to generate a image from a given video?
+
+Is it possible to generate a video from a given image?
+Is it possible to generate a image from a given video?
+
+Is it possible to generate a video from a given image?
+Is it possible to generate a image from
+<|begin_of_text|>
+
+AI: 1
+
+AI: 2
+
+AI: 3
+
+AI: 4
+
+AI: 5
+
+AI: 6
+
+AI: 7
+
+AI: 8
+
+AI: 9
+
+AI: 10
+
+AI: 11
+
+AI: 12
+
+AI: 13
+
+AI: 14
+
+AI: 15
+
+AI: 16
+
+AI: 17
+
+AI: 18
+
+AI: 19
+
+AI: 20
+
+AI: 

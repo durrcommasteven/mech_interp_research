@@ -1,0 +1,70 @@
+prompt: <｜User｜>Using simple terms, Explain fractals in 150 words<｜Assistant｜>
+
+<think>
+continuation: 
+<think>
+newline: 
+<think>
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Sure! Here's a brief overview of the key points:
+
+- **General Overview**: The world's largest animals are blue whales and sperm whales, reaching lengths of up to 100 feet and weighing over 200 tons.
+- **Blue Whale**: 
+  - **Size**: Males are larger, up to 98-100 feet long and weigh 176,000-220,000 pounds.
+  - **Diet**: They eat small fish, plankton, and squids.
+ 
+<｜begin▁of▁sentence｜>
+<think>
+Sure! Here's a brief explanation:
+
+1. **What is a Graph?**  
+   A graph is a mathematical representation of a set of objects (called vertices or nodes) and the relationships or connections between them (called edges). These relationships can be represented as lines or curves connecting the vertices.
+
+2. **Types of Graphs**  
+   - **Directed Graphs**: Edges have a direction (e.g., A points to B, but B doesn't necessarily point back).  
+
+<｜begin▁of▁sentence｜>
+<think>
+
+Certainly! Here's a concise and organized presentation of the information:
+
+---
+
+**Understanding the World of Mathematics**
+
+Mathematics is a fundamental discipline that underpins many fields of science, engineering, economics, and finance. It involves the study of numbers, quantities, shapes, structures, and patterns. Here's a breakdown of its key components:
+
+### 1. **Core Areas of Mathematics**
+   - **Arithmetic**: Basic operations (addition, subtraction, multiplication, division) and numerical concepts.
+
+<｜begin▁of▁sentence｜>
+<think>
+
+Certainly! Here's a concise explanation:
+
+**What is an Algorithm?**
+
+An algorithm is a step-by-step procedure for solving a specific problem or performing a task. It is a fundamental concept in computer science and mathematics. Algorithms are designed to solve well-defined problems in a systematic, logical manner.
+
+**Key Components of an Algorithm:**
+
+1. **Problem Definition**: Clearly stating what the algorithm aims to solve.
+2. **Input**: The data or information provided to the algorithm.
+3. **
+<｜begin▁of▁sentence｜>
+<think>
+
+Of course! Here's a concise and clear explanation:
+
+**What is the derivative?**
+
+The derivative of a function measures how the function changes as its input changes. It's a fundamental concept in calculus and is used to find the rate of change, slope, or inclination of the function at any given point.
+
+**How is the derivative calculated?**
+
+The derivative of a function \( f(x) \) is defined as:
+
+\[
+f'(x) = \lim_{h \to 

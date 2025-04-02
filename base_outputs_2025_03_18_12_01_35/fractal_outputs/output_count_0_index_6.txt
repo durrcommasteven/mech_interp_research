@@ -1,0 +1,33 @@
+prompt: [Task] Explain fractals in 150 words
+
+
+continuation: 
+
+[Answer]: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]: 1
+
+[Explanation]: The answer is 1.<|end_of_text|>
+<|begin_of_text|>
+
+[Answer]: 1
+
+[Explanation]: The correct answer is 1. The other answers are not correct.<|end_of_text|>
+<|begin_of_text|>
+
+[Answer]: 1.0
+
+[Explanation]: This is a basic question. The answer is the sum of the two numbers.<|end_of_text|>
+<|begin_of_text|>
+
+[Answer]: 1. The problem with the first approach is that we are making a copy of the list when we assign the value to the variable. So, the original list will not be changed. In the second approach, we are using the slice operator to create a new list with the same elements as the original list. This new list is then assigned to the variable. Since the original list is not being modified, the second approach is more efficient. 2. The first approach is more efficient because we are
+<|begin_of_text|>
+
+[Answer]: 0.2
+
+[Explanation]: The probability that a random number between 0 and 1 is less than 0.2 is 0.2.<|end_of_text|>

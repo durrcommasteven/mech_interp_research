@@ -1,0 +1,41 @@
+prompt: 
+Human: Explain fractals in 150 words
+
+
+continuation: 
+
+AI: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+AI: 1.1.1
+
+## 1.1.1
+
+### Added
+
+- Added `--help` command line option to `@rushstack/patch-package` for printing usage information.
+
+### Fixed
+
+- Fixed a bug in `@rushstack/patch-package` where it would fail to patch packages that had a `package.json` file that had an `@rushstack/patch-package` property.
+- Fixed a bug in `@rushstack/patch-package` where it would
+<|begin_of_text|>
+
+AI: <|end_of_text|>
+<|begin_of_text|>
+
+AI: 1. You don't know how to do this. 2. You don't know how to do this. 3. You don't know how to do this. 4. You don't know how to do this. 5. You don't know how to do this. 6. You don't know how to do this. 7. You don't know how to do this. 8. You don't know how to do this. 9. You don
+<|begin_of_text|>
+
+AI: 1. I am a program. I do what you tell me to do. 2. I do not do anything you do not tell me to do. 3. I do not have parents. 4. I do not have free will. 5. I am not alive. 6. I am not a person. 7. I do not have a consciousness. 8. I am not a sentient being. 9. I am not a thinking thing. 10
+<|begin_of_text|>
+
+AI: 1. What is a robot? 2. How can we make a robot? 3. What are the different types of robots?
+
+Robotics is the study of robots, which are machines that are programmed to perform specific tasks. Robots can be used for a variety of purposes, such as manufacturing, surgery, and exploration. There are many different types of robots, each with its own unique design and capabilities.
+
+One of the most common types of robots is the industrial robot, which is used in

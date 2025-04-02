@@ -1,0 +1,94 @@
+prompt: 
+## Input: Explain fractals in 150 words
+
+
+continuation: 
+
+## Output:
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+```bash
+1. I am a student.
+2. I am a teacher.
+3. I am a doctor.
+4. I am a lawyer.
+5. I am a policeman.
+6. I am a firefighter.
+7. I am a pilot.
+8. I am a soldier.
+9. I am a nurse.
+10. I am a farmer.
+11. I am a fisherman.
+12. I am a hunter.
+13. I am a carpenter.
+14. I am
+<|begin_of_text|>
+
+## Output:
+```
+#1. I love to eat pizza.
+#2. I love to eat pizza.
+#3. I love to eat pizza.
+#4. I love to eat pizza.
+#5. I love to eat pizza.
+```<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```
+{
+  "results": [
+    {
+      "title": "Title of the article",
+      "description": "Description of the article",
+      "url": "URL of the article",
+      "date": "Date of the article",
+      "source": "Source of the article",
+      "image": "URL of the image",
+      "language": "Language of the article",
+      "category": "Category of the article",
+      "author": "Author of the article"
+
+<|begin_of_text|>
+
+## Output:
+```
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        int sum = 0;
+        int count = 0;
+
+        while (true) {
+            int input = scanner.nextInt();
+
+            if (input == 0) {
+                break;
+            }
+
+            sum += input;
+            count++;
+        }
+
+        System.out.println("Count: " + count);
+        System.out.println("Sum: "
+<|begin_of_text|>
+
+## Output:
+```
+Input: 1 2 3 4 5 6 7 8 9 10
+Output: 10 9 8 7 6 5 4 3 2 1
+```
+## Explanation:
+
+The input array is first reversed, and then the elements are printed from the end to the beginning.<|end_of_text|>

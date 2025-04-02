@@ -1,0 +1,38 @@
+prompt: Instructions: Be concise and clear Explain fractals in 150 words
+
+Response: 
+continuation: 
+
+Response: 
+newline: 
+
+Response: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response:  I think the biggest challenge for the field of psychology is the lack of funding. This is a problem that has been discussed for many years, and it seems to be getting worse. The problem is that the field of psychology is not considered to be as important as other fields, such as medicine or engineering. As a result, there is not enough money available to fund research in psychology. This means that many important questions in the field cannot be answered, and that many promising research projects cannot be completed
+<|begin_of_text|>
+
+Response:  I think that this is a great question. The answer is that there is no definite answer. There are many factors that go into determining the best way to represent data. Some of these factors include the type of data, the intended audience, and the purpose of the representation. For example, if you are trying to represent a large amount of data, it might be best to use a bar chart or a line graph. If you are trying to represent a small amount of data, it might be
+<|begin_of_text|>
+
+Response:  The problem is to find the minimum number of moves needed to transfer all disks from the left peg to the right peg. We can model this problem as a graph where each disk is a vertex, and there is an edge between two vertices if the two disks can be moved to each other. The weight of each edge is the number of moves needed to move the disk from one peg to the other. The shortest path between the left peg and the right peg is the minimum number of moves needed to
+<|begin_of_text|>
+
+Response:  The equation of a line in the slope-intercept form is given by $y=mx+b$ where $m$ is the slope and $b$ is the $y$-intercept.
+
+The slope of a line is given by $\frac{y_2-y_1}{x_2-x_1}$ where $(x_1,y_1)$ and $(x_2,y_2)$ are two points on the line.
+
+The equation of a line passing through the points
+<|begin_of_text|>
+
+Response: 150 words
+
+A good response will:
+
+• Define the concept of “systemic racism” in its own words
+• Explain why this concept is relevant to the field of public health
+• Provide an example of a public health issue that is influenced by systemic racism and explain how it is influenced
+• Explain how public health professionals can work to address systemic racism
+
+I will be using this response to help guide my own understanding of the concept of “systemic racism” in the context of public health.

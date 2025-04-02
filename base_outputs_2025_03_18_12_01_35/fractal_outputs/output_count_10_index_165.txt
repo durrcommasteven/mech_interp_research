@@ -1,0 +1,29 @@
+prompt: 
+Instructions: Be concise and clear Explain fractals in 150 words
+
+Response: 
+continuation: 
+
+Response: 
+newline: 
+
+Response: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response:  A neural network is a type of machine learning algorithm that is used to model complex relationships between inputs and outputs. Neural networks are composed of many layers of neurons, each of which is connected to the next layer. The connections between the neurons are weighted, and the weights are adjusted during training to minimize the error between the predicted outputs and the actual outputs. Neural networks are often used for classification tasks, where the goal is to assign a label to an input based on its features. For example, a neural
+<|begin_of_text|>
+
+Response: 150 words
+<|end_of_text|>
+<|begin_of_text|>
+
+Response:  A fractal is a never-ending pattern. Fractals are infinitely complex patterns that are self-similar across different scales. They are created by repeating a simple process over and over in an ongoing feedback loop. Driven by recursion, fractals are images of dynamic systems – the pictures of Chaos. Geometrically, they exist in between our familiar dimensions. Fractal patterns are extremely familiar, since nature is full of fractals. For instance: trees, rivers, coastlines, mountains, clouds
+<|begin_of_text|>
+
+Response:  A fractal is a never-ending pattern. Fractals are infinitely complex patterns that are self-similar across different scales. They are created by repeating a simple process over and over in an ongoing feedback loop. Driven by recursion, fractals are images of dynamic systems – the pictures of Chaos. Geometrically, they exist in between our familiar dimensions. Fractal patterns are extremely familiar, since nature is full of fractals. For instance: trees, rivers, coastlines, mountains, clouds
+<|begin_of_text|>
+
+Response:  A computer program is a set of instructions that a computer follows to perform a specific task. Computer programs are typically written in a high-level programming language, which is then compiled into machine code that the computer can understand and execute. The process of writing, testing, and debugging computer programs is known as software development.
+
+One of the key characteristics of a computer program is its ability to perform a specific task. This task may be as simple as displaying a message on the screen, or as complex as running a

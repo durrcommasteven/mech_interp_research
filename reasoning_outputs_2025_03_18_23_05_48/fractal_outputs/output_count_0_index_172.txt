@@ -1,0 +1,33 @@
+prompt: <｜User｜>What are fractals? Explain in 150 words<｜Assistant｜>
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, also known as fruit sugar, is a type of sugar that is naturally present in fruits. It is a monosaccharide, meaning it is a single unit of sugar. Fructose is sweeter than glucose, another common sugar, and is often used in sweetening foods and beverages. In its natural form, fructose is found in fruits such as apples, bananas, grapes, and dates. It can also be added to foods as a sweetener, though it is important
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, also known as fruit sugar, is a type of sugar found naturally in fruits, vegetables, and other foods. It is a monosaccharide, meaning it is a single unit of sugar. Fructose is sweeter than glucose, another common sugar, and is often used in sweetening foods and beverages.
+
+One of the key characteristics of fructose is that it is a reducing sugar. Reducing sugars have a hemiacetal group, which allows them to be reduced by certain
+<｜begin▁of▁sentence｜>
+<think>
+Okay, so I need to figure out how to explain the concept of "emotional intelligence" in a simple way. I'm not entirely sure I fully grasp it myself, so I'll have to break it down step by step.
+
+First, I remember hearing the term "emotional intelligence" in a psychology class. I think it's about understanding your own emotions and those of others. But I'm not exactly clear on what that entails. Maybe it's not just about knowing emotions but also managing
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar found in various natural foods such as fruits, honey, and sugar cane. It is a disaccharide, meaning it is composed of two monosaccharides: glucose and fructose. Unlike glucose, fructose is a ketohexose, which means it has a ketone group attached to the sixth carbon. This structural difference gives fructose certain unique properties in the body.
+
+One key characteristic of fructose is its sweetness. It is sweeter
+<｜begin▁of▁sentence｜>
+<think>
+Okay, so I'm trying to understand what quantum computing is. I know it's a big deal in technology and science, but I'm a bit fuzzy on the details. Let me start by breaking down what I know and then see if I can figure out more.
+
+First, I remember hearing that quantum computers use something called qubits instead of the regular bits that regular computers use. Bits are like the building blocks of computers, right? They can be 0 or 1, and by combining

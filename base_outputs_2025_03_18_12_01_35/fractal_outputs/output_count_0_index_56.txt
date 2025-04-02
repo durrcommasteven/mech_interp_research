@@ -1,0 +1,83 @@
+prompt: 
+## Input: Explain fractals in 150 words
+
+
+continuation: 
+
+## Output:
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+```
+The output is: 1
+The output is: 2
+The output is: 3
+```
+## Explanation:
+```
+We first create an empty list using the list() constructor.
+Then we append three numbers to the list using the append() method.
+Finally, we print the list using the print() function.
+```
+## Code:
+```
+numbers = list()
+numbers.append(1)
+numbers.append(2)
+numbers.append(3)
+print("The output is:",
+<|begin_of_text|>
+
+## Output:
+```
+# A C program to demonstrate the working of 
+# the printf() function 
+#include <stdio.h> 
+int main() 
+{ 
+    // printing a string 
+    printf("Hello GeeksforGeeks"); 
+    return 0; 
+} 
+```<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```
+Hello world
+```
+<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```
+import { render } from '@testing-library/react';
+import { MemoryRouter } from'react-router-dom';
+import { Provider } from'react-redux';
+import store from '../redux/configureStore';
+import App from '../App';
+
+test('renders learn react link', () => {
+  render(
+    <MemoryRouter>
+      <Provider store={store}>
+        <App />
+      </Provider>
+    </MemoryRouter>
+  );
+});
+```<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```
+{
+  "id": "4a3c6f9f-8b2d-4c48-9d3b-4c1d1b6c2a0c",
+  "created": "2018-07-11T15:00:00.000Z",
+  "updated": "2018-07-11T15:00:00.000Z",
+  "title": "4a3c6f9f-

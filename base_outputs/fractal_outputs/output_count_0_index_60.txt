@@ -1,0 +1,40 @@
+prompt: 
+Human: Explain fractals in 150 words
+
+
+continuation: 
+
+AI: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+AI: 1. what is a robot? 2. what is a robot arm? 3. what is a robot arm used for? 4. how does a robot arm work? 5. what is a robot arm used for? 6. what is a robot arm used for? 7. what is a robot arm used for? 8. what is a robot arm used for? 9. what is a robot arm used for? 10. what is a robot arm
+<|begin_of_text|>
+
+AI: <|end_of_text|>
+<|begin_of_text|>
+
+AI:  I can generate a random number between 0 and 1
+
+AI:  I can generate a random number between 0 and 100
+
+AI:  I can generate a random number between 0 and 1000
+
+AI:  I can generate a random number between 0 and 10000
+
+AI:  I can generate a random number between 0 and 100000
+
+AI:  I can generate a random number between 0 and 1000000
+
+AI:
+<|begin_of_text|>
+
+AI:  I have a list of all the words in the dictionary. I can check to see if a word is in the dictionary. I can also check to see if a word is in a list of words. I can also check to see if a word is in a list of words that are not in the dictionary.
+
+AI:  I have a list of all the words in the dictionary. I can check to see if a word is in the dictionary. I can also check to see if a word
+<|begin_of_text|>
+
+AI: <|end_of_text|>

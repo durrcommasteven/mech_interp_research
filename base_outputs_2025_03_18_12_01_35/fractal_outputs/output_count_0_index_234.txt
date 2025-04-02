@@ -1,0 +1,65 @@
+prompt: 
+# Question
+ Explain fractals in 150 words
+
+
+continuation: 
+
+# Answer
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+# Answer
+The answer is simple. The answer is always simple. The answer is never simple. The answer is simple. The answer is always simple. The answer is never simple. The answer is simple. The answer is always simple. The answer is never simple. The answer is simple. The answer is always simple. The answer is never simple. The answer is simple. The answer is always simple. The answer is never simple. The answer is simple. The answer is always simple. The answer is never
+<|begin_of_text|>
+
+# Answer
+The answer to this question is not known, as it depends on the specific use case and the requirements of the problem being solved. However, some possible answers could include:
+- The use of a specific programming language or framework that is well-suited for the task at hand.
+- The use of specific algorithms or data structures that are known to perform well in the given scenario.
+- The use of specific optimization techniques or heuristics to improve the performance of the solution.
+- The use of specific hardware
+<|begin_of_text|>
+
+# Answer
+1. The answer is a question
+2. The answer is a question
+3. The answer is a question
+4. The answer is a question
+5. The answer is a question
+6. The answer is a question
+7. The answer is a question
+8. The answer is a question
+9. The answer is a question
+10. The answer is a question
+11. The answer is a question
+12. The answer is a question
+13. The answer
+<|begin_of_text|>
+
+# Answer
+## Python
+
+```python
+# Python code to illustrate 
+# the working of for loop 
+for i in range(0, 5): 
+	print(i) 
+```
+
+## C++
+
+```cpp
+// C++ program to illustrate 
+// the working of for loop 
+for (int i = 0; i < 5; i++) 
+	cout << i << endl; 
+```<|end_of_text|>
+<|begin_of_text|>
+
+# Answer
+In computer science, an algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation. Algorithms are always unambiguous and are used as specifications for performing calculations, data processing, automated reasoning, and other tasks.<|end_of_text|>

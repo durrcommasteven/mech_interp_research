@@ -1,0 +1,32 @@
+prompt: <｜User｜>As an expert, What are fractals? Explain in 150 words
+<｜Assistant｜>
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, honey, and sweeteners. It is known for its sweet taste and is often used in processed foods and beverages. Here are some key points about fructose:
+
+1. **Sources**: Fructose can be found in fruits like apples, pears, and grapes, as well as in honey and sugar. It is also a component of high-fructose corn syrup, a common sweetener used in sodas and
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar that is found naturally in fruits and can also be produced synthetically. It is a monosaccharide, meaning it is a single unit of a carbohydrate, and it is the sweetest known natural sugar. Fructose is also known as fruit sugar because it is abundant in fruits like apples, pears, and strawberries.
+
+One of the key characteristics of fructose is that it is a reducing sugar. This means that it can reduce the oxygen content of a
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar that is often found in fruits, honey, and other natural sweeteners. It is a monosaccharide, meaning it is a single unit of sugar, and it is known for its sweet taste. Fructose is absorbed into the bloodstream more slowly than glucose, which can help regulate blood sugar levels. However, it can still contribute to weight gain and insulin resistance when consumed in excess.
+
+In the context of keto diets, which focus on high-fat, low
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is a monosaccharide that is sweeter than glucose and is commonly found in fruits, honey, and sweetened beverages. It is also known as fruit sugar. Fructose is absorbed through the small intestine and is metabolized in the liver, where it is converted into glucose for energy. However, unlike glucose, fructose does not directly raise blood sugar levels as much after consumption because it is metabolized differently. This is why consuming foods high in
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally present in various foods and beverages, such as fruits, honey, and sugar cane. It is a simple carbohydrate that the body can absorb quickly, providing a rapid energy source. However, unlike glucose, fructose is not utilized by the body for energy in the same way. Instead, it is converted into glycogen for storage, or it can be metabolized into other forms of energy, such as fat and protein, depending on the body's needs

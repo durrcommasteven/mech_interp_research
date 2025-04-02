@@ -1,0 +1,26 @@
+prompt: <｜User｜>Provide a clear explanation of fractals in 150 words<｜Assistant｜>
+
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Frugality is the practice of using resources wisely and avoiding wasteful spending. It involves making thoughtful decisions about what to buy, how much to buy, and whether the purchase provides value. Frugality can range from simple habits, like bringing a reusable water bottle to avoid buying plastic, to more extreme practices, like extreme couponing or minimalism. The goal is often to save money, reduce debt, or live a more sustainable lifestyle. Frugality can be applied to various areas of life
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is a monosaccharide found in various natural foods such as fruits, honey, and sweeteners. It is known for its sweet taste and is often used in baking and cooking. Fructose can exist in two forms: as a free molecule (referred to as "free fructose") and as a glycosidic form when bonded to another molecule, such as in sucrose (table sugar) or high fructose corn syrup (HFCS
+<｜begin▁of▁sentence｜>
+<think>
+Fructify is a digital marketing and advertising platform designed to help businesses and creators grow their online presence. It offers tools for content creation, marketing, and analytics, providing users with the resources they need to engage their audience, monetize their content, and track their performance. Fructify aims to simplify the digital marketing process, making it accessible for individuals and businesses of all sizes.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜>
+<think>
+Francesco di Giacomo, known as il Francese, was a 13th-century Italian religious figure, a member of the Friars Minor. He was a close follower of Saint Francis of Assisi and played a significant role in the early days of the Franciscan movement. Francese is particularly remembered for his deep spiritual life, his strict adherence to the Franciscan Rule, and his contributions to the expansion of Franciscan ideals. He is considered one of the key figures
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is a monosaccharide that can exist in both a linear and a branched form. In its linear form, it is known as linear fructose, and in its branched form, it is called branched fructose. Both forms are commonly found in natural sugars and are important components of various foods and biological systems. The structural difference between the two forms lies in the arrangement of the carbon atoms, with the branched form having a hydrox

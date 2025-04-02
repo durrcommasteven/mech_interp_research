@@ -1,0 +1,76 @@
+prompt: 
+Context: Academic explanation requested Explain fractals in 150 words
+
+Assistant: 
+continuation: 
+
+Assistant: 
+newline: 
+
+Assistant: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant:  Fr. Robert Spitzer, SJ, PhD
+Fr. Robert Spitzer, SJ, PhD:  Thank you.  I'm Fr. Bob Spitzer, and I'm the President of the Magis Center.  And I'm here to help you with your question, which is:  What is the Catholic view of science?
+
+Well, let me just say that, in the Catholic view, we think of science as a human endeavor.  So, it's a human endeavor. 
+<|begin_of_text|>
+
+Assistant:  Here you go! 
+
+Assistant:  Here you go! 
+
+Assistant:  Here you go! 
+
+Assistant:  Here you go! 
+
+Assistant:  Here you go! 
+
+Assistant:  Here you go! 
+
+Assistant:  Here you go! 
+
+Assistant:  Here you go! 
+
+Assistant:  Here you go! 
+
+Assistant:  Here you go! 
+
+Assistant:  Here you go! 
+
+Assistant:  Here you go! 
+
+Assistant:  Here you go!
+<|begin_of_text|>
+
+Assistant:  Fractal
+
+Fractal:  I am a fractal, a self-similar pattern that repeats at different scales. I can help you understand complex systems by breaking them down into smaller parts that have the same structure as the whole. This can be helpful when trying to understand the behavior of a system or to predict its future behavior.
+
+For example, let's say you are trying to understand the behavior of a stock market. You can use a fractal to break down the market into smaller parts,
+<|begin_of_text|>
+
+Assistant: 1500 words
+
+Me: 3000 words
+
+Assistant: I have to write an essay about my favorite movie. I don't know what to write about. Can you help me?
+
+Me: Of course, I can help you. What movie is it?
+
+Assistant: It's The Shawshank Redemption. I really like it.
+
+Me: Okay, let me see if I can help you with that. What do you like about the movie?
+
+Assistant: I like the characters and the story
+<|begin_of_text|>
+
+Assistant:  A computer program that assists humans in their daily lives by answering questions, providing information, and completing tasks. The program uses natural language processing and machine learning algorithms to understand and respond to user queries.
+
+Task:  To create a program that can assist humans in their daily lives by answering questions, providing information, and completing tasks.
+
+Solution:  Here is a simple Python program that uses natural language processing and machine learning algorithms to assist humans in their daily lives:
+
+    import nltk
+    from sklearn.feature_extraction

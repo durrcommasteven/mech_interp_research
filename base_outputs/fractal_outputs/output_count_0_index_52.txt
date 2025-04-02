@@ -1,0 +1,26 @@
+prompt: 
+Instructions: Be concise and clear Explain fractals in 150 words
+
+
+continuation: 
+
+Response: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response: <|end_of_text|>
+<|begin_of_text|>
+
+Response: <|end_of_text|>
+<|begin_of_text|>
+
+Response: 1. I think the most important thing is to have a good understanding of the basic concepts and principles of computer science, such as algorithms, data structures, and programming languages. Without a solid foundation in these areas, it can be difficult to build upon and apply more advanced concepts. 2. Another important factor is to have a good understanding of the practical applications of computer science, such as how to design and implement software systems, how to use programming languages to solve real-world problems, and how to
+<|begin_of_text|>
+
+Response: <|end_of_text|>
+<|begin_of_text|>
+
+Response: 1. The word "billion" is used in a variety of ways, and the term "trillion" is often used to describe a number that is one thousand times larger than a billion. In this context, a trillion is a number that is one thousand times larger than a billion. For example, if a billion is equal to one thousand million, then a trillion would be equal to one million billion. The word "trillion" is also used to describe a number that is one thousand

@@ -1,0 +1,54 @@
+prompt: # Question Explain fractals in 150 words
+
+# Answer
+
+continuation: 
+
+# Answer
+
+newline: 
+
+# Answer
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+# Answer
+# A Python program to find the sum of the first n natural numbers.
+
+# Function to find sum of first n natural numbers
+def sumNaturals(n):
+    # Base case
+    if n == 1:
+        return 1
+    # Recur for n-1
+    else:
+        return n + sumNaturals(n-1)
+
+# Driver code
+print("The sum of first 100 natural numbers is", sumNaturals(100))
+<|end_of_text|>
+<|begin_of_text|>
+
+# Answer
+# A computer program is a sequence of instructions written in a programming language. It is a set of instructions that a computer follows to perform a specific task. The instructions are written in a language that the computer can understand, such as C, Java, or Python. A computer program can be as simple as a single line of code or as complex as a large software application.
+
+# To create a computer program, you need to have a good understanding of the programming language you are using. You also need
+<|begin_of_text|>
+
+# Answer
+# A binary search tree is a binary tree where the values of all nodes in the left subtree are less than or equal to the node's value, and the values of all nodes in the right subtree are greater than or equal to the node's value.
+
+# A binary search tree is a binary tree that satisfies the following properties:
+# The left subtree of a node contains only nodes with keys less than the node's key.
+# The right subtree of a node contains only nodes with keys greater than the
+<|begin_of_text|>
+
+# Answer
+# In the context of machine learning, a model is a representation of a real-world phenomenon that can be used to make predictions or decisions. A model can be created by analyzing data and identifying patterns or relationships between different variables. Once a model is created, it can be used to make predictions or decisions about new data.
+
+# In the context of machine learning, a model is a representation of a real-world phenomenon that can be used to make predictions or decisions. A model can be created by analyzing data
+<|begin_of_text|>
+
+# Answer
+Friction is the force that resists motion between two surfaces that are in contact with each other. It is a force that acts in the opposite direction to the motion of the object. The greater the friction, the greater the force needed to start or maintain the motion of the object. The frictional force is proportional to the normal force (the force perpendicular to the surface) and the coefficient of friction between the surfaces. The coefficient of friction is a measure of the frictional force between two surfaces and

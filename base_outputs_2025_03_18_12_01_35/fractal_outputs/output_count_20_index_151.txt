@@ -1,0 +1,27 @@
+prompt: [Task] Explain fractals in 150 words
+
+[Answer]: 
+continuation: 
+
+[Answer]: 
+newline: 
+
+[Answer]: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]:  Fractals are a set of numbers that are defined recursively. They are defined by a rule that defines the set. For example, the set of all positive integers can be defined recursively as the set of all numbers that are either 1 or the sum of two numbers in the set. The set of all positive integers is a fractal because it can be defined recursively. The set of all positive integers is also a fractal because it can be defined recursively. The set of all positive integers is
+<|begin_of_text|>
+
+[Answer]: 1. Introduction
+
+The notion of fractal dimension is a generalization of the dimension of a Euclidean space. It is defined for sets that are not necessarily regular enough to be defined by a simple mathematical formula. The fractal dimension of a set can be defined as the limit of the ratio of the logarithm of the number of copies of a set to the logarithm of the size of the copies, as the size of the copies goes to zero. The fractal dimension is a measure of
+<|begin_of_text|>
+
+[Answer]:  Fractals are beautiful. A fractal is a never-ending pattern. Fractals are infinitely complex patterns that are self-similar across different scales. They are created by repeating a simple process over and over in an ongoing feedback loop. Driven by recursion, fractals are images of dynamic systems – the pictures of Chaos. Geometrically, they exist in between our familiar dimensions. Fractal patterns are extremely familiar, since nature is full of fractals. For instance: trees, rivers
+<|begin_of_text|>
+
+[Answer]: 1. A fractal is a mathematical set that exhibits a repeating pattern displayed at every scale. It is also known as expanding symmetry or evolving symmetry. If the replication is exactly the same at every scale, it is called a self-similar pattern. An example of this is the Menger Sponge. Fractals can also be nearly the same at different levels. This latter pattern is illustrated in the magnifications of the Mandelbrot set. Fractals also include the idea of a detailed
+<|begin_of_text|>
+
+[Answer]: 1. A fractal is a never-ending pattern. Fractals are infinitely complex patterns that are self-similar across different scales. They are created by repeating a simple process over and over in an ongoing feedback loop. Driven by recursion, fractals are images of dynamic systems – the pictures of Chaos. Geometrically, they exist in between our familiar dimensions. Fractal patterns are extremely familiar, since nature is full of fractals. For instance: trees, rivers, coastlines, mountains

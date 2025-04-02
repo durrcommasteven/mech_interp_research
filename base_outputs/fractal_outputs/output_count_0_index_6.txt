@@ -1,0 +1,48 @@
+prompt: [Task] Explain fractals in 150 words
+
+
+continuation: 
+
+[Answer]: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]: 1.4
+
+Explanation:
+
+1.4
+
+The formula is:
+
+$A=\frac{1}{2}bh$
+
+Where $A$ is the area, $b$ is the base, and $h$ is the height.<|end_of_text|>
+<|begin_of_text|>
+
+[Answer]: 1. For the first one, I would say that the first one is the one that is more likely to be true. It is more likely to be true because it is the one that has the most evidence to back it up. The second one is the one that is less likely to be true. It is less likely to be true because it is the one that has the least evidence to back it up.
+
+2. The second one is the one that is more likely to be true. It
+<|begin_of_text|>
+
+[Answer]: 1.0
+
+[Explanation]: The correct answer is 1.0. This is because the sum of the angles in a triangle is always 180 degrees, and the angle at the vertex opposite the longest side is always the largest angle in the triangle. Therefore, the angle at the vertex opposite the side of length 3 is the largest angle in the triangle, and its measure must be 180 - (45 + 60) = 180 - 105 = 75 degrees. Since
+<|begin_of_text|>
+
+[Answer]: 1
+
+Explanation: 
+
+- The value of the variable `x` is 10, so the expression `x + 5` evaluates to 15.
+- The expression `x + 5` is then assigned to the variable `y`.
+- The value of the variable `y` is now 15, so the expression `y * 2` evaluates to 30.
+- The expression `y * 2` is then assigned to the variable `z`.
+- The value of
+<|begin_of_text|>
+
+[Answer]: 1
+[Explanation]: The correct answer is 1.<|end_of_text|>

@@ -1,0 +1,39 @@
+prompt: # Question Explain fractals in 150 words
+
+# Answer
+
+continuation: 
+
+# Answer
+
+newline: 
+
+# Answer
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+# Answer
+# The first step is to calculate the number of pairs of integers that can be formed from the given set of integers. This can be done by calculating the factorial of the number of integers in the set and then dividing it by the factorial of the number of integers in the set minus one. This will give us the number of pairs of integers that can be formed.
+
+# The next step is to calculate the sum of the pairs of integers. This can be done by iterating through the pairs of integers and
+<|begin_of_text|>
+
+# Answer
+# A graph is a data structure that represents a network of connected nodes. A node is a data object that can have zero or more connections to other nodes. Graphs are used to model many real-world phenomena, such as social networks, transportation networks, and biological networks. In this article, we will explore the concept of graphs and how they can be represented in Python.
+
+# Graphs can be represented in Python using two main data structures: adjacency lists and adjacency matrices. An adjacency list is a
+<|begin_of_text|>
+
+# Answer
+A set of mathematical objects, usually numbers, that are related to each other in a specific way. For example, the set of natural numbers is the set of all positive integers. The set of integers is the set of all positive and negative integers. The set of rational numbers is the set of all numbers that can be expressed as a ratio of two integers. The set of real numbers is the set of all numbers that can be expressed as a decimal or as a ratio of two integers. The set
+<|begin_of_text|>
+
+# Answer
+# A computer program is a collection of instructions that tells the computer how to do a task.
+# In computer science, a program is a collection of instructions that a computer can follow in order to perform a task. Programs are written by programmers, and they can be run on a variety of different types of computers.
+# A computer program is a set of instructions that a computer can follow to perform a task. Programs can be written in any programming language, but the most popular languages are C, C
+<|begin_of_text|>
+
+# Answer
+# A graph is a non-linear data structure that can be looked at as a collection of vertices (or nodes) potentially connected by line segments named edges. The vertices may be points, places, or items represented in computer programs as lists of structured data. The edges may be directed (asymmetric) or undirected (symmetric). A graph is a non-linear data structure that can be looked at as a collection of vertices (or nodes) potentially connected by line segments named edges. The vertices may

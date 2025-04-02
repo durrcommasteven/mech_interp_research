@@ -1,0 +1,28 @@
+prompt: <｜User｜>Explain fractals in 150 words
+<｜Assistant｜>
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, also known as fruit sugar, is a type of monosaccharide, a simple sugar, which means it is a single unit of a carbohydrate. It is a six-carbon compound, similar in structure to glucose, but its functional groups differ, particularly in the arrangement of hydroxyl (-OH) groups. Fructose is commonly found in fruits, vegetables, and other natural foods, and it is often used in processed foods and beverages due to its sweetness and stability.
+
+One
+<｜begin▁of▁sentence｜>
+<think>
+Fracking, or hydraulic fracturing, is a method used to extract natural gas from deep underground rock formations. It involves injecting a mixture of water, sand, and chemicals into the ground at high pressure, which breaks up the rock and releases trapped gas. This process can have various environmental impacts, including contamination of water supplies, disruption of ecosystems, and potential health risks. The environmental impact of fracking depends on the location, the type of rock being fracked, and the regulations in place. In some
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar found naturally in fruits, honey, and other sweet foods. It is a monosaccharide, meaning it is a single unit of sugar. Fructose is also known as fruit sugar and is known for its sweet taste. It is absorbed into the bloodstream quickly, providing a fast source of energy. Fructose can be found in two forms: as free fruit sugar and as fructose syrup, which is a concentrated source of fructose used in processed foods.
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar found in various foods, including fruits, honey, and sugar syrups. It is a monosaccharide, meaning it is a single unit of carbohydrates. Fructose is also known as fruit sugar and is often used in sweetening foods and beverages. In its natural form, fructose is found in combination with other sugars as part of a polysaccharide, such as in table sugar (sucrose), which is a disaccharide
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar found naturally in fruits, is often consumed in processed forms like high-fructose corn syrup (HFCS), which is commonly added to soft drinks, candies, and other foods. While HFCS is a common sweetener, its impact on health has been a topic of debate. Some studies suggest that excessive consumption of HFCS may contribute to metabolic syndrome, insulin resistance, and other health issues, particularly when consumed in large amounts and as part of an otherwise unhealthy diet.

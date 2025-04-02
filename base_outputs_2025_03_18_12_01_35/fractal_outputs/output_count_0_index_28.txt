@@ -1,0 +1,68 @@
+prompt: Human: Explain fractals in 150 words
+
+
+continuation: 
+
+AI: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+AI:  What is the meaning of the word “love”?
+Human:  Love is a feeling of strong or intense affection.
+AI:  What is the meaning of the word “hate”?
+Human:  Hate is a strong feeling of dislike.
+AI:  What is the meaning of the word “hate”?
+Human:  Hate is a strong feeling of dislike.
+AI:  What is the meaning of the word “hate”?
+Human:
+<|begin_of_text|>
+
+AI:  What is the purpose of life?
+
+Me:  To live a happy life.
+
+AI:  What is a happy life?
+
+Me:  To live a happy life.
+
+AI:  What is a happy life?
+
+Me:  To live a happy life.
+
+AI:  What is a happy life?
+
+Me:  To live a happy life.
+
+AI:  What is a happy life?
+
+Me:  To live a happy life.
+
+AI:
+<|begin_of_text|>
+
+AI:  I don't know what this means.  Could you give me an example?
+
+User:  Sure.  For example, if you're on a website that has a search bar, and you type in a word, and then press enter, the website will take you to a page that has all the articles that contain that word.  That's an example of a search engine.
+
+AI:  Okay, I think I understand now.  A search engine is a
+<|begin_of_text|>
+
+AI:  I'm sorry, I don't understand the question. Can you please rephrase it?
+
+AI:  I'm sorry, I don't understand the question. Can you please rephrase it?
+
+AI:  I'm sorry, I don't understand the question. Can you please rephrase it?
+
+AI:  I'm sorry, I don't understand the question. Can you please rephrase it?
+
+AI:  I'm sorry, I don't understand the question.
+<|begin_of_text|>
+
+AI: 3.3
+
+You are a student in a mathematics class. You are given a problem to solve. You have to write a program that can solve the problem. The program should be able to solve the problem in a way that is efficient and effective. The program should also be able to explain the solution to the problem in a way that is easy to understand.
+
+The problem you have to solve is the following: You are given a list of numbers. You have to find the number that is the

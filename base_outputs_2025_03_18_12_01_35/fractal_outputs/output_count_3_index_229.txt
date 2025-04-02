@@ -1,0 +1,47 @@
+prompt: 
+Instructions: Be concise and clear
+ Explain fractals in 150 words
+
+Response: 
+continuation: 
+
+Response: 
+newline: 
+
+Response: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response: 150 words
+
+A fractal is a geometric shape that is self-similar, which means that it is composed of parts that are similar to the whole. Fractals are often used to model natural objects and processes, such as coastlines, trees, and lightning. They can also be used to create abstract art and to generate random numbers.
+
+There are many different types of fractals, but they all have a few things in common. First, they are made up of a small number of simple
+<|begin_of_text|>
+
+Response: 150 words
+
+A response of 150 words is required that addresses the following prompt: Explain the difference between the terms "reliability" and "validity" as they relate to assessment instruments. Provide an example of each term and explain why they are important to the measurement process.
+
+Response: 150 words
+
+A response of 150 words is required that addresses the following prompt: Explain how you would go about selecting an appropriate assessment instrument for measuring a specific construct (e.g., intelligence, personality
+<|begin_of_text|>
+
+Response:  A 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D
+<|begin_of_text|>
+
+Response: 150 words
+
+Friction is a force that acts on two surfaces that are in contact. It is a force that opposes the relative motion of two surfaces that are in contact. Friction is caused by the roughness of the surfaces in contact. The friction force is proportional to the normal force, which is the force that acts perpendicular to the surface in contact. The friction force is given by the formula F_f = \mu N, where F_f is the friction force, \mu is the coefficient
+<|begin_of_text|>
+
+Response: 150 words
+
+A. A digital marketing strategy is a plan that helps a company define its online goals and how it plans to achieve them. It can be used to reach new customers, increase sales, or improve brand awareness.
+
+B. A digital marketing strategy can be used to reach new customers, increase sales, or improve brand awareness.
+
+C. A digital marketing strategy can be used to reach new customers, increase sales, or improve brand awareness.
+
+D. A digital marketing strategy can be used to reach

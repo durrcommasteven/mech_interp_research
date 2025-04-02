@@ -1,0 +1,62 @@
+prompt: System: Provide a detailed explanation
+ Explain fractals in 150 words
+
+Assistant: 
+continuation: 
+
+Assistant: 
+newline: 
+
+Assistant: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant: 150
+
+Teacher: 200
+
+<|end_of_text|>
+<|begin_of_text|>
+
+Assistant: 1/2 point
+
+Student: 1/2 point
+
+<|end_of_text|>
+<|begin_of_text|>
+
+Assistant: 150 words
+
+Student: 300 words
+
+Teacher: 600 words
+
+<|end_of_text|>
+<|begin_of_text|>
+
+Assistant:  Explain your answer to the question.<|end_of_text|>
+<|begin_of_text|>
+
+Assistant:  Explain what a graph is
+
+Assistant:  Explain what a graph is
+
+Assistant:  Explain what a graph is
+
+Assistant:  Explain what a graph is
+
+Assistant:  Explain what a graph is
+
+Assistant:  Explain what a graph is
+
+Assistant:  Explain what a graph is
+
+Assistant:  Explain what a graph is
+
+Assistant:  Explain what a graph is
+
+Assistant:  Explain what a graph is
+
+Assistant:  Explain what a graph is
+
+Assistant:  Explain

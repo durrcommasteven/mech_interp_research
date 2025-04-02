@@ -1,0 +1,28 @@
+prompt: <｜User｜>Explain fractals in 150 words
+<｜Assistant｜><think>
+
+continuation: <think>
+
+newline: <think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to make a simple website. I've heard that HTML and CSS are the basic building blocks, but I'm not exactly sure how they work together. Let me start by understanding what each of them does.
+
+HTML, HyperText Markup Language, is used to structure the content of a webpage. It tells the browser what elements to display. For example, using tags like <h1> for headings, <p> for paragraphs, and so on. So
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to write a Python script that can take a string and then output the number of unique words in it. I'm a bit new to programming, so I need to think carefully about how to approach this.
+
+First, I know that in Python, strings can be split into words using the split() method. But wait, I remember that by default, split() splits on any whitespace, which includes spaces, tabs, newlines, and so on.
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to write a Python program that can read a text file and then determine the most common words in that text. Hmm, where do I start? Well, I know that Python has a lot of built-in functions and modules that can help with this kind of task. Let me think about the steps involved.
+
+First, I need to read the text file. I remember that the `open()` function is used for opening files in Python. But wait, what
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to make a simple web app that lets me create and manage todos. Hmm, I've heard that web apps often use HTML, CSS, and JavaScript. Maybe I can start by setting up the basic HTML structure. Let me think, I'll need a title, a heading, and some buttons to add todos and maybe delete them.
+
+Wait, how do I make the form to add todos appear when I click the button? Oh right, I can use
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to make a simple website. I've heard that HTML is the basic structure, and then you can use CSS to style it. But I'm not exactly sure where to start. Let me think through this step by step.
+
+First, I know that a website is made up of pages, and each page is created with HTML. Each page starts with a doctype declaration, which tells the browser what kind of document it is. I think it's usually

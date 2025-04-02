@@ -1,0 +1,30 @@
+prompt: <｜User｜>For a beginner audience, Explain fractals in 150 words<｜Assistant｜>
+
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Okay, so I need to explain what quantum computing is in a simple way. Let me start by breaking down what I know. Quantum computers are different from regular computers because they use quantum bits, or qubits, instead of the usual binary bits. I remember that bits are like switches that can be either 0 or 1, but qubits can be in multiple states at once. That part is a bit tricky, so I need to make sure I get that right.
+
+I think it's
+<｜begin▁of▁sentence｜>
+<think>
+Okay, so I need to explain how to make a simple meatloaf recipe. Let me think about the steps and ingredients someone would need. First, I should probably list the ingredients. Ground beef is a good base, and I think adding some breadcrumbs will help bind it. Maybe an egg to make it moist. Onions and garlic add flavor, so I'll include those. A clove of garlic sounds right. Seasonings like salt, pepper, and maybe some paprika or Italian seasoning
+<｜begin▁of▁sentence｜>
+<think>
+Okay, so I need to figure out how to explain the concept of infinity in a simple way, especially for someone who might not be familiar with it. Hmm, infinity is something that comes up a lot in math and science, but it can be a bit tricky to grasp. Let me start by thinking about what infinity actually means.
+
+I know that infinity isn't something you can touch or see. It's more of a concept. So maybe I can use something relatable, like the ocean.
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar found in fruits, is often consumed as part of a balanced diet. It can be enjoyed in moderation as part of a healthy lifestyle.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜>
+<think>
+Frugality is a practice where people intentionally reduce their spending to save money and live a more economical lifestyle. This can involve saving a portion of income, creating a budget, or avoiding unnecessary expenses. The goal is often to build savings, pay off debt, or achieve financial goals. Practicing frugality can involve various strategies like shopping for discounts, cooking at home instead of dining out, or using public transportation instead of owning a car. It’s a way to align financial habits with personal values

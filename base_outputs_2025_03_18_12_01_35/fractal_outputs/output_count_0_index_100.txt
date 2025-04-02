@@ -1,0 +1,27 @@
+prompt: 
+Instructions: Be concise and clear
+ Explain fractals in 150 words
+
+
+continuation: 
+
+Response: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response: <|end_of_text|>
+<|begin_of_text|>
+
+Response: 1. The main function of the heart is to pump blood. Blood is pumped from the heart to the lungs to pick up oxygen. Blood is pumped from the heart to the lungs to pick up oxygen. Blood is pumped from the heart to the lungs to pick up oxygen. Blood is pumped from the heart to the lungs to pick up oxygen. Blood is pumped from the heart to the lungs to pick up oxygen. Blood is pumped from the heart to the lungs to pick up oxygen. Blood is pumped
+<|begin_of_text|>
+
+Response: <|end_of_text|>
+<|begin_of_text|>
+
+Response: 1. What is a variable? What are the two types of variables? 2. What is a data structure? What are the two types of data structures? 3. What is a data type? What are the two types of data types? 4. What is a constant? What are the two types of constants? 5. What is an array? What are the two types of arrays? 6. What is a function? What are the two types of functions? 
+<|begin_of_text|>
+
+Response: <|end_of_text|>

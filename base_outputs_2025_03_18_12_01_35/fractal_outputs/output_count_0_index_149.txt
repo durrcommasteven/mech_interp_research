@@ -1,0 +1,49 @@
+prompt: Instructions: Be concise and clear Explain fractals in 150 words
+
+Response: 
+continuation: 
+
+Response: 
+newline: 
+
+Response: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response: 150 words
+
+A. The following questions will help you prepare for the exam. Please answer the following questions in your own words. Use the textbook and other resources to help you. Please be sure to cite your sources.
+
+1. What is a database?
+
+2. What is a database management system (DBMS)?
+
+3. What is the difference between a DBMS and a database?
+
+4. What is a database schema?
+
+5. What is a data model?
+
+6. What is a relational database
+<|begin_of_text|>
+
+Response:  The following is a list of the possible responses that can be given by the student for the question, "The following is a list of the possible responses that can be given by the student for the question, "The following is a list of the possible responses that can be given by the student for the question, "The following is a list of the possible responses that can be given by the student for the question, "The following is a list of the possible responses that can be given by the
+<|begin_of_text|>
+
+Response:  Fracture is the separation of the material into two or more parts. It is caused by the application of a load that exceeds the elastic limit of the material. The most common types of fracture are tensile, shear, and brittle. Tensile fracture occurs when the material is pulled apart. Shear fracture occurs when the material is cut or torn. Brittle fracture occurs when the material breaks without any visible signs of deformation.
+
+Fracture is a very important concept in materials science because
+<|begin_of_text|>
+
+Response: 150 words
+
+# Answer
+
+A good example of the use of the scientific method is the development of a new type of vaccine. A researcher starts with a hypothesis, or a proposed explanation for a phenomenon. The researcher then designs an experiment to test the hypothesis. In this case, the hypothesis might be that a new vaccine will protect people from a particular disease. The experiment would involve giving the vaccine to a group of people and then monitoring them for the disease. If the vaccine is effective, the people
+<|begin_of_text|>
+
+Response: 150 words
+
+The problem with the way that the US has dealt with the opioid crisis is that the problem has not been addressed as a whole.  The opioid crisis has been broken down into pieces, and the pieces are being dealt with separately.  The problem with this approach is that the pieces are not separate.  The opioid crisis is a whole, and it needs to be dealt with as a whole.  The pieces are interconnected, and they need to be dealt with as a whole.
+
+The

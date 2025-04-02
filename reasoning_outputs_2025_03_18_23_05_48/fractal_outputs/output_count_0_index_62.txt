@@ -1,0 +1,28 @@
+prompt: <｜User｜>In scientific terminology, Explain fractals in 150 words<｜Assistant｜>
+
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar that is found in various natural foods such as fruits, honey, and sweeteners. It is a monosaccharide, meaning it is a single unit of carbohydrates, and it is known for its sweet taste. Fructose is also referred to as fruit sugar, which can sometimes be confusing because it is distinct from glucose, another common sugar.
+
+One of the key characteristics of fructose is that it is a reducing sugar, which means it can be measured using
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, honey, and sweeteners. It is a monosaccharide, meaning it is a single unit of carbohydrates. Fructose is also known as fruit sugar and is commonly used in processed foods, beverages, and desserts due to its sweetening properties. Unlike glucose, fructose is absorbed more slowly into the bloodstream, which can help regulate blood sugar levels. However, excessive consumption of fructose, particularly in
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, honey, and sweeteners. It is known for its sweet taste and is often used in baking and cooking. Fructose can be consumed in its raw form or added to meals for sweetness. It is also a key component in certain processed foods and beverages.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of monosaccharide, is a natural sugar found in various fruits, vegetables, and other natural sources. It is also known as fruit sugar and is a primary component of honey and sugar cane. Fructose is known for its sweet taste and is widely used in food and beverage production. It is distinct from glucose in that it is absorbed more slowly into the bloodstream, which can help regulate blood sugar levels. Fructose is also commonly used in sweetening products, especially
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar that is often found in fruits and honey. It is a simple carbohydrate, which means it is a monosaccharide, and it consists of a single ring structure with five carbon atoms. Unlike other sugars such as glucose, fructose is not absorbed directly through the small intestine but is instead broken down in the colon by bacteria, which ferments it into short-chain fatty acids (SCFAs) such as acetate, propionate, and butyrate

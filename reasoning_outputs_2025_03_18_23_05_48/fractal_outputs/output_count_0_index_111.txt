@@ -1,0 +1,37 @@
+prompt: <｜User｜>As an expert, Provide a clear explanation of fractals in 150 words
+<｜Assistant｜>
+
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Francesco Petrarchi, known as Petrarch, was a Italian scholar, poet, and Renaissance humanist. He is considered one of the greatest poets of the Italian Renaissance and is often referred to as the "Prince of Poets." Petrarch's work spans various genres, including sonnets, madrigals, and treatises on classical learning. His sonnets, particularly the "Sonetti a la divina Laura," are celebrated for their profound emotional depth and literary beauty.
+
+Petr
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar found in various foods such as fruits, honey, and sugar syrups, is a natural sweetener. It is a monosaccharide, meaning it is a single unit of carbohydrate, and is often referred to as a "reducing sugar" because it can reduce the chemical tests used to identify carbohydrates. Here are some key points about fructose:
+
+1. **Source**: Fructose is abundant in fruits like apples, bananas, grapes, and
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar that is found in fruits and can also be produced industrially. It is a monosaccharide, meaning it is a single unit of water and two carbons linked together. Fructose is also known as fruit sugar and is often used in food and beverage production due to its sweet taste and compatibility with various ingredients.
+
+### Key Points:
+1. **Natural Occurrence**: Fructose is abundant in fruits such as apples, pears, and sugar cane.
+
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar that is naturally present in foods like fruits, honey, and sugarcane. It is a simple carbohydrate, which means it is a monosaccharide, and it is known for its sweet taste. Fructose is also called fruit sugar because it is abundant in fruits. 
+
+One key characteristic of fructose is that it is a reducing sugar, meaning it can be oxidized and reduces other substances in the body, such as hemoglobin in a test for
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar found naturally in fruits and honey. It is a simple carbohydrate, specifically a monosaccharide, and is known for its sweet taste. Fructose is also known as fruit sugar and is commonly used in various foods and beverages as a sweetener. It can be ingested in its raw form, such as in fruits like apples, pears, and berries, or it can be processed into other forms like high fructose corn syrup, which is often used

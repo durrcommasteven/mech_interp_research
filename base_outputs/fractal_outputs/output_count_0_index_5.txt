@@ -1,0 +1,48 @@
+prompt: Instructions: Be concise and clear Explain fractals in 150 words
+
+Response: 
+continuation: 
+
+Response: 
+newline: 
+
+Response: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response:  Here are some ideas for your essay:
+1. Define the term “reliability” and explain why it is important in the context of a project.
+2. Discuss the different types of reliability, such as test-retest reliability, inter-rater reliability, and internal consistency reliability.
+3. Describe how reliability is measured and how it is used to evaluate the quality of a project.
+4. Provide examples of projects that have high or low reliability and explain why.
+5. Discuss the importance of
+<|begin_of_text|>
+
+Response: 1. The following is a summary of the 2013 American College of Cardiology (ACC) and the American Heart Association (AHA) guidelines for the management of blood pressure (BP) in adults. The guidelines are based on the most recent evidence-based research and are intended to help healthcare providers make informed decisions about the treatment of BP in adults. The guidelines include recommendations for the diagnosis, treatment, and follow-up of patients with high BP.
+
+2. The guidelines define high BP as
+<|begin_of_text|>
+
+Response: 1. What is the difference between a normal distribution and a binomial distribution?
+
+A normal distribution is a continuous distribution that describes the probability distribution of many natural phenomena, such as heights and weights of people. A binomial distribution is a discrete distribution that describes the probability of a certain number of successes in a sequence of independent Bernoulli trials.
+
+2. What is the difference between a sample and a population?
+
+A sample is a subset of a population, while a population is the entire group of individuals
+<|begin_of_text|>
+
+Response: 1. The first step in this process is to understand the problem. What is the question asking? What are the constraints? What are the variables? What is the objective function? 2. The second step is to formulate a mathematical model. This involves representing the problem as a system of equations and inequalities. 3. The third step is to solve the mathematical model using a computer or a calculator. 4. The fourth step is to interpret the results. What do they mean in terms of
+<|begin_of_text|>
+
+Response: 150 words
+
+A. What is a probability distribution? What are the properties of a probability distribution?
+
+B. What is the relationship between the probability distribution of a random variable and the probability distribution of the sample mean?
+
+C. How do you calculate the mean and standard deviation of the sampling distribution of the sample mean?
+
+D. How do you calculate the mean and standard deviation of the sampling distribution of the sample proportion?
+
+E. What is the Central Limit Theorem? What are the conditions for the Central

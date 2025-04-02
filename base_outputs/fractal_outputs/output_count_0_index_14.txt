@@ -1,0 +1,133 @@
+prompt: <prompt>Explain fractals in 150 words</prompt>
+
+
+continuation: 
+
+ <response>
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+ <response> <message> <id> <type> <code> <description> <value> </message> </response>
+<|end_of_text|>
+<|begin_of_text|>
+
+ <response> 
+   <status>success</status> 
+   <message>Success</message> 
+   <data> 
+     <result> 
+       <id>1</id> 
+       <name>Test</name> 
+       <description>Test</description> 
+       <type>Test</type> 
+       <user>1</user> 
+       <group>1</group> 
+       <status>1</status> 
+       <created_at>2015-
+<|begin_of_text|>
+
+ <response> 
+
+ <error>0</error>
+
+ <message>Success</message>
+
+ <data>
+
+ <list>
+
+ <item>
+
+ <id>1</id>
+
+ <name>John Doe</name>
+
+ <email>john.doe@domain.com</email>
+
+ <phone>+1 555 555 5555</phone>
+
+ <address>123 Main St</address>
+
+ <city>New York</city>
+
+ <state>NY</state>
+
+ <zip>10001</zip>
+
+ </item>
+
+ <
+<|begin_of_text|>
+
+ <response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response> 
+
+<response>
+<|begin_of_text|>
+
+ <response> 
+ <id>100</id> 
+ <title>Test Title</title> 
+ <description>Test Description</description> 
+ <content>Test Content</content> 
+ </response> 
+ </response>
+```
+```
+<?php
+require_once 'HTTP/Request2.php';
+
+$request = new HTTP_Request2('https://api.yourdomain.com/endpoint');
+$request->setMethod(HTTP_Request2::METHOD_POST);
+$request->setConfig(array(
+    'follow_redirects' =>

@@ -1,0 +1,55 @@
+prompt: <｜User｜>In scientific terminology, Explain fractals in 150 words
+<｜Assistant｜>
+
+<think>
+continuation: 
+<think>
+newline: 
+<think>
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+A **diagonal matrix** is a square matrix where all the non-zero entries are located on the main diagonal (from the top-left to the bottom-right). This structure allows for efficient computation and analysis in various fields, including linear algebra, computer graphics, and machine learning.
+
+### Key Properties of Diagonal Matrices:
+1. **Square Matrix**: Diagonal matrices are always square, meaning the number of rows equals the number of columns.
+2. **Zero and Identity Matrices**: 
+  
+<｜begin▁of▁sentence｜>
+<think>
+In the realm of artificial intelligence, neural networks have emerged as a powerful tool for learning and decision-making. These networks, inspired by the structure of the human brain, consist of layers of interconnected neurons that process information through weighted connections. Here's a brief overview of how neural networks work:
+
+1. **Input Layer**: The network begins with an input layer, which receives raw data. For example, if the task is image recognition, the input layer might take in an image.
+
+2. **Hidden
+<｜begin▁of▁sentence｜>
+<think>
+A **C++ Reference** is a comprehensive resource that provides detailed information about the C++ programming language, including its syntax, semantics, and standard libraries. It is an essential tool for developers who work with C++ to understand the language's features and to solve development problems.
+
+The C++ Reference is often used in conjunction with other resources, such as documentation for specific libraries or frameworks, and can be accessed through various channels:
+
+1. **Official Documentation**: The most authoritative source is the official C
+<｜begin▁of▁sentence｜>
+<think>
+In mathematics, the term "dimension" is a fundamental concept that describes the number of degrees of freedom in a mathematical object. Here are some key points about dimensions:
+
+1. **Definition**: A dimension is a measure that describes the size of an object's space. In one dimension, objects have length but no width or height. In two dimensions, they have length and width, and in three dimensions, they have length, width, and height.
+
+2. **Examples**:
+   - **
+<｜begin▁of▁sentence｜>
+<think>
+**Answer:**
+
+A **quadratic equation** is a type of polynomial equation of degree two. It is generally expressed in the form:
+
+\[ ax^2 + bx + c = 0 \]
+
+where:
+- \( a \), \( b \), and \( c \) are coefficients (constants),
+- \( a \neq 0 \).
+
+### Steps to Solve a Quadratic Equation:
+
+1. **Identify the coefficients**:
+   - \( a \) (coefficient

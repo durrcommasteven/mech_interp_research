@@ -1,0 +1,30 @@
+prompt: <｜User｜>In scientific terminology, Provide a clear explanation of fractals in 150 words<｜Assistant｜>
+
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, honey, and sweeteners. It is a monosaccharide, meaning it is a single unit of carbohydrate. Fructose is also known as fruit sugar and is often used as a sweetener in cooking and baking. It can be beneficial in moderation as part of a balanced diet, contributing to overall energy and providing vitamins and minerals depending on the source. However, its impact on blood sugar levels should be
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is a monosaccharide that can exist in two forms: as a free molecule (referred to as "free fructose") and as a glycoside (referred to as "glycosylated fructose"). In its free form, fructose is a reducing sugar, meaning it can be oxidized and reduce other molecules, such as in the reaction involving Benedict's solution. In its glycoside form, fructose is not a
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally found in various foods such as fruits, honey, and sweeteners. It is a monosaccharide, meaning it is a single unit of carbohydrates and can be directly absorbed by the body. Fructose is sweeter than glucose, with a caloric content of about 4.5 kilocalories per gram. It is often used in processed foods, baked goods, and beverages, contributing to the sweet taste desired in many dishes.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of carbohydrate, is naturally found in various foods such as fruits, vegetables, and honey. It is a monosaccharide, meaning it is a single unit of sugar, and it can be differentiated from glucose by its structure and properties. Fructose is often referred to as "fruit sugar" because it is abundant in fruits like apples, bananas, and dates. 
+
+One key characteristic of fructose is that it is a reducing sugar, meaning it can reduce the oxidation
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar found naturally in fruits, vegetables, and honey. It is a monosaccharide, meaning it is a single unit of sugar. Fructose is also known as fruit sugar and is commonly used in various food products, including candies, desserts, and energy drinks. It is known for its sweet taste and is often used as a substitute for other sugars in baking and cooking.
+
+One of the key characteristics of fructose is its solubility. It dissolves

@@ -1,0 +1,70 @@
+prompt: ## Input: Explain fractals in 150 words
+
+## Output:
+
+continuation: 
+
+## Output:
+
+newline: 
+
+## Output:
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+# 1. A short description of the project.
+# 2. A short description of the problem.
+# 3. A short description of the solution.
+# 4. A short description of the tools used.
+# 5. A short description of the dataset used.
+# 6. A short description of the data preprocessing steps.
+# 7. A short description of the model architecture.
+# 8. A short description of the training process.
+# 9. A short
+<|begin_of_text|>
+
+## Output:
+# 1. If the input is a number, print out "I'm a number"
+# 2. If the input is a string, print out "I'm a string"
+# 3. If the input is a boolean, print out "I'm a boolean"
+# 4. If the input is a list, print out "I'm a list"
+# 5. If the input is a dictionary, print out "I'm a dictionary"
+# 6. If
+<|begin_of_text|>
+
+## Output:
+## 1. What is the name of the variable?
+## 2. What is the value of the variable?
+## 3. What type of variable is this?
+## 4. How many bytes is this variable?
+## 5. What is the address of the variable?
+## 6. What is the name of the variable?
+## 7. What is the value of the variable?
+## 8. What type of variable is this?
+## 9. How many bytes
+<|begin_of_text|>
+
+## Output:
+## - The user should be prompted to enter a number.
+## - The user should be told if the number is even or odd.
+## - If the number is even, the user should be prompted to enter a new number.
+## - If the number is odd, the user should be prompted to enter a new number.
+## - The user should be told if the new number is even or odd.
+## - The user should be prompted to enter a new number.
+## - The user should be
+<|begin_of_text|>
+
+## Output:
+## * Use a single sentence to describe the problem
+## * Use a single sentence to describe the solution
+## * Use a single sentence to describe the context
+## * Use a single sentence to describe the input
+## * Use a single sentence to describe the output
+## * Use a single sentence to describe the algorithm
+## * Use a single sentence to describe the implementation
+## * Use a single sentence to describe the test cases
+## * Use a single sentence to describe the performance
+
+

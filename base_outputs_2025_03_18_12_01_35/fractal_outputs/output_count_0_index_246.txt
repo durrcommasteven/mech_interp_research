@@ -1,0 +1,39 @@
+prompt: 
+[Task]
+ Explain fractals in 150 words
+
+
+continuation: 
+
+[Answer]: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]: 1. What is the difference between a class and an object?
+
+A class is a template or blueprint for an object. An object is an instance of a class.
+
+2. What is the difference between a class and an interface?
+
+A class is a template or blueprint for an object, while an interface is a contract that defines the behavior of an object.
+
+3. What is the difference between an abstract class and an interface?
+
+An abstract class is a class that cannot be instantiated, while an interface is
+<|begin_of_text|>
+
+[Answer]: 1. I am a student. I am studying at university. I am learning English. I am learning how to use this language. I am learning how to speak. I am learning how to write. I am learning how to read. I am learning how to listen. I am learning how to understand. I am learning how to communicate. I am learning how to communicate with people. I am learning how to communicate with people from other cultures. I am learning how to communicate with people from other
+<|begin_of_text|>
+
+[Answer]: 1. 1.5, 3, 4.5, 6, 7.5, 9, 10.5, 12, 13.5, 15
+2. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+3. 1, 2, 3, 4, 5, 6, 7, 8,
+<|begin_of_text|>
+
+[Answer]: 1. 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1
+<|begin_of_text|>
+
+[Answer]: <|end_of_text|>

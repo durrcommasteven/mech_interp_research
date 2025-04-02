@@ -1,0 +1,25 @@
+prompt: <｜User｜>As an expert, Write a concise explanation of fractals limited to 150 words<｜Assistant｜><think>
+continuation: <｜Assistant｜><think>
+
+newline: <｜Assistant｜><think>
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out what to write for "What is something you wish you knew before you started your current job?" Hmm, I just started my job a few months ago, so I'm still getting the hang of things. Let me think about what I've learned so far and what I wish I knew before.
+
+First off, I remember being really excited about my job because it seemed like a good opportunity. But now that I'm here, I realize there are some things I
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to understand what a database is. I've heard the term before, but I'm not entirely sure what it is. Let me start by breaking it down. The word "database" sounds like it has something to do with information storage. Maybe it's a place where you store data?
+
+I remember seeing something about spreadsheets in school. You know, like Excel or Google Sheets. Those are programs where you can organize data into rows and columns. Maybe a database is like
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to understand what "web scraping" is. I've heard the term before, but I'm not exactly sure what it entails. Let me try to break it down. I think it has something to do with the internet and extracting information from websites. Maybe it's like copying data from a webpage to somewhere else? But I'm not sure if that's all there is to it.
+
+I remember hearing that web scraping is used for things like price comparison websites. For example,
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out what "the greatest common divisor of two numbers" means. I remember from math class that GCD stands for Greatest Common Divisor, but I'm not exactly sure how it works. Let me try to break it down.
+
+First, what are two numbers? They are just integers, right? Like, for example, 12 and 18. So, if I have these two numbers, 12 and 18, I want to find their GCD
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to understand what "corporate governance" means. I've heard the term before, especially in business contexts, but I'm not exactly sure what it entails. Let me try to break it down.
+
+From the definition I read earlier, corporate governance is about how companies are managed and controlled to ensure they operate legally, ethically, and effectively. It involves the relationships between different stakeholders, like shareholders, directors, managers, employees, and customers. I think the key here is

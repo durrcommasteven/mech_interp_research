@@ -1,0 +1,28 @@
+prompt: 
+Instructions: Be concise and clear Explain fractals in 150 words
+
+
+continuation: 
+
+Response: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response: <|end_of_text|>
+<|begin_of_text|>
+
+Response: 1. I am a software engineer with 2 years of experience. I have a strong background in computer science and have completed my degree in the field. I have also worked on several projects that required me to use different programming languages and frameworks. I am confident that I can complete this task within the given timeframe.
+
+2. I am a software engineer with 2 years of experience. I have a strong background in computer science and have completed my degree in the field. I have also worked on several
+<|begin_of_text|>
+
+Response: 1. The data used to train the model is the historical data of the stock market. The model is trained to predict the stock price based on the historical data. The model is then used to predict the stock price in the future. 2. The model is a deep learning model that uses a neural network to predict the stock price. The model is trained on historical data of the stock market and is then used to predict the stock price in the future. 3. The model is a machine
+<|begin_of_text|>
+
+Response: 1. The main purpose of the experiment was to determine the effect of the temperature on the rate of reaction. This is because the rate of reaction increases with the increase of temperature and it also decreases with the decrease of temperature. 2. The experiment was carried out by adding a small amount of the catalyst, which is the enzyme, to the substrate, which is the glucose. The reaction was then allowed to proceed for a certain period of time, after which the amount of glucose that had been converted
+<|begin_of_text|>
+
+Response: <|end_of_text|>

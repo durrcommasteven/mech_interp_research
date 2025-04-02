@@ -1,0 +1,79 @@
+prompt: 
+## Input: Explain fractals in 150 words
+
+
+continuation: 
+
+## Output:
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+```
+```
+
+## Code:
+```
+```
+
+## Comments:
+```
+```<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+- A markdown file with the input text, converted to lowercase, and the first letter of each word capitalized.
+- A csv file with the input text, converted to lowercase, and the first letter of each word capitalized.<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```
+Enter the number of elements: 3
+Enter element 1: 1
+Enter element 2: 2
+Enter element 3: 3
+The sorted array is: 1 2 3
+```<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+- The output is a markdown file that contains the following:
+  - The text of the input
+  - A list of all the words in the input, with each word on a new line
+  - A count of the number of times each word appears in the input
+  - The longest word in the input
+  - The shortest word in the input
+  - The average word length in the input
+
+## Input:
+- The input is a string of text.
+
+## Code:
+```
+<|begin_of_text|>
+
+## Output:
+```
+```
+
+## Code:
+```
+# include   <bits/stdc++.h>
+using   namespace   std ;
+
+int   main (){
+     string  s;
+     getline (cin,s);
+     int  ans= 0,c= 0,i;
+     for (i= 0 ;i<s.size();i++){
+         if (s[i]=='' ){
+            ans= max (ans,c);
+            c= 0 ;
+        } else {
+            c++;
+        }
+

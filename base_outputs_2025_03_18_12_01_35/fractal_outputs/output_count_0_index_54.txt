@@ -1,0 +1,47 @@
+prompt: 
+[Task] Explain fractals in 150 words
+
+
+continuation: 
+
+[Answer]: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]: <|end_of_text|>
+<|begin_of_text|>
+
+[Answer]: 1. In 2019, the U.S. economy experienced a growth of 2.3% as measured by the GDP. The economy has been growing steadily for the past decade, with a few minor downturns along the way. The growth has been driven by a combination of factors, including low unemployment, high consumer confidence, and a strong stock market.
+
+2. The Federal Reserve has been raising interest rates since 2015, and the current rate is 2.25%. This has
+<|begin_of_text|>
+
+[Answer]: 1. I am the one who will be doing the work.
+2. I am the one who will be doing the work. I will be doing the work. I will be doing the work.
+3. I am the one who will be doing the work. I will be doing the work. I will be doing the work. I will be doing the work.
+4. I am the one who will be doing the work. I will be doing the work. I will be doing the work
+<|begin_of_text|>
+
+[Answer]: 1. What is the difference between a function and a method?
+
+Function: a piece of code that performs a task or calculates a value. A function can be passed data to operate on, and can optionally return a result.
+
+Method: a piece of code that is available to all objects of a class. A method can be called from an instance of a class, and the method can use the values of that instance's properties while it is executing.
+
+2. What is the difference between a class and
+<|begin_of_text|>
+
+[Answer]: 1) What is the problem domain?
+    - 2) What is the problem statement?
+    - 3) What is the context?
+    - 4) What is the data type?
+    - 5) What is the algorithm?
+    - 6) What is the complexity?
+    - 7) What is the solution?
+    - 8) What is the output?
+    - 9) What is the code?
+    - 10) What is the result?
+

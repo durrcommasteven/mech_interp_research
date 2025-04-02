@@ -1,0 +1,26 @@
+prompt: <｜User｜>As an expert, Explain fractals in 150 words
+<｜Assistant｜><think>
+
+continuation: <think>
+
+newline: <think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to understand this problem about a frog and a scorpion. The frog is sitting on the scorpion's back, and they're both in a desert area. The frog asks the scorpion, "Why are you so cross today?" The scorpion responds by stinging the frog, and then the frog asks again, "Why are you so cross today?" The scorpion says, "Because I can't get rid of you!" Then the frog asks, "Why
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to write a Python function that can reverse a string. I remember that in Python, you can reverse a string using slicing. Let me think about how that works. 
+
+If I have a string like "hello", slicing it from the end with step -1 gives me "olleh". So, s[::-1] should reverse the string. But I want to make sure I understand why this works. 
+
+When you slice a string in Python,
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to solve this problem. It's about a triangle where the sum of two sides is equal to the third side. Hmm, that sounds interesting. Let me think about what I know regarding triangles and their properties.
+
+First, I remember that in a triangle, the sum of any two sides must be greater than the third side. This is called the triangle inequality theorem. It's a fundamental rule that helps determine if three lengths can form a triangle. But
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to calculate the number of moles of solute in a solution. Hmm, let's see. I remember that in chemistry, when you have a solution, you can find out the number of moles of solute by knowing the mass of the solute and its molar mass. But wait, sometimes you might not have the mass directly, so maybe you have to calculate it using the mass of the solution and the mass percentage of the solute
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to approach this problem. The user is asking about the process of writing a research paper, specifically focusing on the steps involved. They provided a detailed example with ten steps, so maybe I can use that as a starting point.
+
+First, I should think about each of the steps outlined in the example. The example starts with defining the topic and conducting a literature review, which makes sense because before you can write anything, you need to know what's already been

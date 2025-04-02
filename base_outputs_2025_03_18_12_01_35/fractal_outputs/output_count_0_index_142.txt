@@ -1,0 +1,65 @@
+prompt: <prompt>Explain fractals in 150 words</prompt>
+
+
+continuation: 
+
+ <response>
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+ <response> 
+ <success>1</success>
+ <error>0</error>
+ <message>Successful</message>
+ <data>
+ <id>1</id>
+ <name>Example</name>
+ <email>example@domain.com</email>
+ <created>2016-04-08 16:16:35</created>
+ <modified>2016-04-08 16:16:35</modified>
+ <password>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</password>
+ <
+<|begin_of_text|>
+
+ <response> 
+  <title>Success</title>
+  <message>Response message</message>
+  <code>200</code>
+  <data>
+    <key>data</key>
+    <value>value</value>
+  </data>
+ </response>
+
+ <response> 
+  <title>Error</title>
+  <message>Response message</message>
+  <code>500</code>
+ </response>
+
+ <response> 
+  <title>Success</title>
+  <message>
+<|begin_of_text|>
+
+ <response> 
+ <success>1</success> 
+ <result> 
+ <id>1</id> 
+ <title>Test</title> 
+ <description>Test</description> 
+ <image>https://www.yourdomain.com/images/test.jpg</image> 
+ <url>https://www.yourdomain.com/</url> 
+ <url2>https://www.yourdomain.com/</url2> 
+ <url3>https://www.yourdomain.com/</url
+<|begin_of_text|>
+
+ <response> 
+    <message>Message</message>
+ </response><|end_of_text|>
+<|begin_of_text|>
+
+ <response><|end_of_text|>

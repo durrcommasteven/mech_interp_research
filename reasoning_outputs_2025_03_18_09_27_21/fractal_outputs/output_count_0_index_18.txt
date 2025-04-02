@@ -1,0 +1,25 @@
+prompt: <｜User｜>In scientific terminology, Write a concise explanation of fractals limited to 150 words<｜Assistant｜>
+continuation: <｜Assistant｜>
+newline: <｜Assistant｜>
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+
+The term "Quantum Computing" refers to a computing model inspired by quantum mechanics, which leverages the principles of superposition and entanglement to perform calculations. Unlike classical computers, which use bits (0s and 1s) to store and process information, quantum computers use quantum bits, or qubits, which can exist in a superposition of states (both 0 and 1 simultaneously). This unique property allows quantum computers to process a vast number of possibilities simultaneously, potentially
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+
+The term "Quantum Mechanics" refers to the branch of physics that deals with the behavior of particles and waves at the scale of atoms and subatomic particles. It is a fundamental theory in physics, providing a description of the physical properties of nature at the quantum level. Quantum mechanics is based on the principles of wave-particle duality and the Schrödinger equation, which are used to predict the probabilities of particles' states. The theory has led to technologies such as semicon
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+
+The term "quantum leap" in physics refers to a sudden, dramatic change in the state of a quantum system. This change occurs when a quantum system absorbs energy, transitioning from one discrete energy level to another. The probability of such a transition is governed by the selection rules, which depend on the quantum numbers of the initial and final states. Quantum leaps are significant in areas like atomic physics and laser technology, where they explain phenomena like emission and absorption spectra.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+
+The concept of "feminine" in philosophy typically refers to a category or concept used to describe qualities, traits, or characteristics associated with femininity. These qualities are often discussed in the context of gender studies, feminist theory, and philosophy of gender, aiming to understand and critique traditional notions of gender roles and identities.
+
+Key ideas related to the "feminine" in philosophy include:
+
+1. **Gender as Performance**: The idea that gender roles, including femininity, are performed or
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+
+The term "quantum leap" is most commonly associated with quantum mechanics, describing the abrupt transition of a quantum system from one discrete energy state to another. This phenomenon occurs when an electron in an atom moves from a lower energy level to a higher one by absorbing energy, such as through light, causing it to jump to a higher orbit. The probability of such a transition is determined by the selection rules of the atom, which dictate the allowed changes in the quantum numbers.
+
+In everyday language,

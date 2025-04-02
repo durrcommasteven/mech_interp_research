@@ -1,0 +1,83 @@
+prompt: Context: Academic explanation requested Explain fractals in 150 words
+
+
+continuation: 
+
+Assistant: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant:  Hi! What can I help you with today?
+
+User:  I need to find the roots of this equation
+
+Assistant:  What equation?
+
+User:  x^2 - 3x - 10 = 0
+
+Assistant:  Alright, let's start by factoring this equation. Can you do that?
+
+User:  x^2 - 3x - 10 = 0
+
+Assistant:  Yes, that's the one. So
+<|begin_of_text|>
+
+Assistant:  What is your question?
+
+Question:  How do I find the value of $\frac{1}{\infty}$?
+
+Assistant:  What does the symbol $\infty$ represent?
+
+Question:  $\infty$ represents the concept of infinity.
+
+Assistant:  What is the definition of infinity?
+
+Question:  Infinity is the concept of something that is unending.
+
+Assistant:  How do you know that infinity is unending?
+
+Question:  Because
+<|begin_of_text|>
+
+Assistant:  I'm afraid I can't help you with that. I'm just an AI language model.
+
+User:  I see. Can you tell me about the different types of AI language models?
+
+Assistant:  Sure! There are several types of AI language models, each with their own strengths and weaknesses. One common type is the rule-based model, which uses a set of rules to generate language. These rules can be based on grammar, syntax, or other linguistic principles. Another type is
+<|begin_of_text|>
+
+Assistant:  What is the derivative of $y=\sin x$?
+
+Student:  $\cos x$.
+
+Assistant:  What is the derivative of $y=\sin x^2$?
+
+Student:  $2x\cos x^2$.
+
+Assistant:  What is the derivative of $y=\sin (x^2)$?
+
+Student:  $\cos (x^2)$.
+
+Assistant:  What is the derivative of $y=\sin (x
+<|begin_of_text|>
+
+Assistant:  What is the value of $$\sqrt{16}$$?
+
+Student:  $$4$$
+
+Assistant:  What is the value of $$\sqrt{25}$$?
+
+Student:  $$5$$
+
+Assistant:  What is the value of $$\sqrt{36}$$?
+
+Student:  $$6$$
+
+Assistant:  What is the value of $$\sqrt{49}$$?
+
+Student:  $$7$$
+
+Assistant: 

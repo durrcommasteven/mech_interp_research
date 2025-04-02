@@ -1,0 +1,40 @@
+prompt: 
+# Question Explain fractals in 150 words
+
+# Answer
+
+continuation: 
+
+# Answer
+
+newline: 
+
+# Answer
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+# Answer
+# The answer to this question is that the most important part of a data scientist's job is to make sure that the data is clean and accurate. This is because the data is what will be used to make decisions and predictions, and if the data is not clean and accurate, then the decisions and predictions will not be accurate either. In order to ensure that the data is clean and accurate, data scientists must use a variety of tools and techniques, such as data cleaning and data validation. Additionally,
+<|begin_of_text|>
+
+# Answer
+# 
+# I have a lot of things to do today, so I need to plan my day carefully. I will start by making a list of all the tasks I need to complete. Then, I will prioritize them based on their importance and urgency. After that, I will allocate time for each task and make sure to leave some buffer time in case something unexpected comes up. Finally, I will start working on the tasks one by one, focusing on the most important ones first. If I encounter
+<|begin_of_text|>
+
+# Answer
+# The first line of the code imports the necessary libraries. The next line creates a list of words, where each word is a string. The for loop iterates over the words in the list and checks if the word is a palindrome. If the word is a palindrome, it is appended to the palindromes list. Finally, the palindromes list is printed.<|end_of_text|>
+<|begin_of_text|>
+
+# Answer
+# 
+# In a nutshell, a class is a blueprint for creating objects, and an object is an instance of a class. Classes are like blueprints for creating objects, and objects are like the actual buildings that are created using those blueprints. Classes define the structure and behavior of objects, while objects are the actual entities that exist in the real world. Classes are like the plans for building a house, and objects are like the actual house that is built using those plans.
+# 
+# Classes
+<|begin_of_text|>
+
+# Answer
+# The main idea of the program is to use the `while` loop to repeatedly ask the user to input the number of people in the group, and then use the `if` statement to determine whether the number of people is valid. If the number of people is valid, the program will use the `break` statement to exit the loop and print the number of people. Otherwise, the program will print an error message and ask the user to input the number of people again.
+# 
+#

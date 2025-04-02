@@ -1,0 +1,27 @@
+prompt: <｜User｜>Explain fractals in 150 words
+<｜Assistant｜>
+
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally present in many foods and beverages. It is a simple carbohydrate that is often found in fruits, such as apples, bananas, and honey. In its natural form, fructose is bonded to other molecules, such as water, to form fructose derivatives like fructose-1,6-bisphosphate, which are essential for energy production in cells. When fructose is consumed as a sugar, it is absorbed into the bloodstream and can be metabol
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally present in various foods like fruits, honey, and sweet vegetables. It is a simple carbohydrate, meaning it breaks down into glucose in the body. Fructose is absorbed through the digestive system and can be metabolized by the liver for energy. It is also used in processed foods and beverages, such as candies, sodas, and baked goods, to enhance sweetness.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is a monosaccharide that exists in two forms: as a free molecule and as a glycoside. In its free form, fructose is a ketose, meaning it has a ketone group. When it is bonded to another molecule, such as in glycosides, it becomes a fructose glycoside. Fructose is commonly found in fruits, honey, and sweeteners like table sugar, where it is often paired with glucose
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar found naturally in fruits, vegetables, and honey. It is a simple carbohydrate, meaning it is a monosaccharide, and it can be absorbed directly into the bloodstream. Unlike glucose, fructose is not required to be broken down by the body to provide energy, as it can be used directly by the cells. Fructose is also known for its role in the formation of glycogen, the body's stored form of energy, and it plays a key
+<｜begin▁of▁sentence｜>
+<think>
+A **quantum computer** is a computing system that uses **quantum mechanics** to perform calculations. Unlike classical computers, which rely on bits (binary digits), quantum computers use **qubits**—the basic unit of quantum information. Qubits can be in a **superposition** of states, meaning they can simultaneously be 0 and 1. This unique property allows quantum computers to perform certain calculations much faster than classical computers, particularly for tasks like **simulating quantum systems**, **fact

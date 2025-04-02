@@ -1,0 +1,88 @@
+prompt: # Question Explain fractals in 150 words
+
+
+continuation: 
+
+# Answer
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+# Answer
+```
+const { MongoClient } = require('mongodb');
+
+const client = new MongoClient(process.env.MONGODB_URI, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
+
+let dbConnection;
+
+async function connectToDatabase() {
+  if (dbConnection) {
+    return dbConnection;
+  }
+
+  await client.connect();
+  dbConnection = client.db('sample_mflix');
+  return dbConnection;
+}
+
+module.exports = { connectToDatabase };
+```<|end_of_text|>
+<|begin_of_text|>
+
+# Answer
+```
+<?php
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $message = $_POST['message'];
+    $from = 'From: Contact Form';
+    $to = 'youremail@example.com';
+    $subject = 'Hello';
+
+    $body = "From: $name\n E-Mail: $email\n Message:\n $message";
+
+    if ($_POST['submit']) {
+        if (mail ($to, $subject,
+<|begin_of_text|>
+
+# Answer
+```
+function removeDuplicates(nums) {
+    let i = 0;
+    for (let j = 1; j < nums.length; j++) {
+        if (nums[j]!== nums[i]) {
+            i++;
+            nums[i] = nums[j];
+        }
+    }
+    return i + 1;
+}
+```<|end_of_text|>
+<|begin_of_text|>
+
+# Answer
+```
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        int N = Integer.parseInt(st.nextToken());
+        int M = Integer.parseInt(st.nextToken());
+        int[][] dp = new int[N + 1][M + 1];
+        for (int i =
+<|begin_of_text|>
+
+# Answer
+The question asks for the difference between the two values. The two values are 5.3 and 6.4. Subtracting 5.3 from 6.4 yields 1.1.<|end_of_text|>

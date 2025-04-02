@@ -1,0 +1,49 @@
+prompt: <prompt>Explain fractals in 150 words</prompt>
+
+
+continuation: 
+
+ <response>
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+ <response> <type> <name> <value> <comment> <code> </response> 
+
+ <response> <type> <name> <value> <comment> <code> </response> 
+
+ <response> <type> <name> <value> <comment> <code> </response> 
+
+ <response> <type> <name> <value> <comment> <code> </response> 
+
+ <response> <type> <name> <value> <comment>
+<|begin_of_text|>
+
+ <response> 
+  <content>
+   <p>  <a href="http://www.khanacademy.org/math/algebra/alg-linear-equations-topic/alg-linear-equations/v/linear-equations" target="_blank">Linear Equations</a> </p>
+   <p>  <a href="http://www.khanacademy.org/math/algebra/alg-linear-equations-topic/alg-linear-equations/v/linear-equations" target="_blank">Linear Equations</
+<|begin_of_text|>
+
+ <response> </response> 
+<|end_of_text|>
+<|begin_of_text|>
+
+ <response> 1 </response>
+ <response> 2 </response>
+ <response> 3 </response>
+ <response> 4 </response>
+ <response> 5 </response>
+ <response> 6 </response>
+ <response> 7 </response>
+ <response> 8 </response>
+ <response> 9 </response>
+ <response> 10 </response>
+ <response> 11 </response>
+ <response> 12 </response>
+ <response> 13 </response
+<|begin_of_text|>
+
+ <response>  <data>  <item>  <author>  <title>  <link>  <pubDate>  <description>  <guid>  <media:thumbnail>  <media:content>  <media:thumbnail>  <media:content>  <media:thumbnail>  <media:content>  <media:thumbnail>  <media:content>  <media:thumbnail>  <media:content>  <media:thumbnail> 

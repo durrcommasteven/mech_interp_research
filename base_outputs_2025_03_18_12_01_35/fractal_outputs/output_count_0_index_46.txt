@@ -1,0 +1,90 @@
+prompt: 
+<prompt>Explain fractals in 150 words</prompt>
+
+
+continuation: 
+
+ <response>
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+ <response> 
+  <result>
+   <name>hadoop</name>
+   <status>running</status>
+   <version>2.5.1</version>
+  </result>
+  <result>
+   <name>hbase</name>
+   <status>running</status>
+   <version>0.98.6-hadoop2</version>
+  </result>
+  <result>
+   <name>hdfs</name>
+   <status>running</status>
+  
+<|begin_of_text|>
+
+ <response> <status>200</status> <error>0</error> <message>OK</message> <result> <title>Get User Info</title> <user_id>1</user_id> <username>admin</username> <firstname>admin</firstname> <lastname>admin</lastname> <email>admin@admin.com</email> <group_id>1</group_id> <status>1</status> <image>data/avatars/m/1.jpg</image
+<|begin_of_text|>
+
+ <response> 
+  <type>text/plain</type> 
+  <value>Hi! How are you?</value> 
+ </response> 
+ <response> 
+  <type>text/plain</type> 
+  <value>How do you feel today?</value> 
+ </response> 
+ <response> 
+  <type>text/plain</type> 
+  <value>What's your favorite color?</value> 
+ </response> 
+ <response> 
+  <type>text/plain
+<|begin_of_text|>
+
+ <response> 
+    <result>
+        <id>1</id>
+        <name>John</name>
+        <age>23</age>
+    </result>
+    <result>
+        <id>2</id>
+        <name>Mark</name>
+        <age>22</age>
+    </result>
+</response>
+<|end_of_text|>
+<|begin_of_text|>
+
+ <response>response</response>
+ 
+ <response>response</response>
+ 
+ <response>response</response>
+ 
+ <response>response</response>
+ 
+ <response>response</response>
+ 
+ <response>response</response>
+ 
+ <response>response</response>
+ 
+ <response>response</response>
+ 
+ <response>response</response>
+ 
+ <response>response</response>
+ 
+ <response>response</response>
+ 
+ <response>response</response>
+ 
+ <response>response</response>
+

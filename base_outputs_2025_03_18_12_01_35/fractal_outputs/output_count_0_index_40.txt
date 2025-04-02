@@ -1,0 +1,68 @@
+prompt: 
+## Input: Explain fractals in 150 words
+
+
+continuation: 
+
+## Output:
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+```bash
+./main.py
+```
+```bash
+Enter a number: 5
+The factorial of 5 is 120
+```
+<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```
+Output: 1
+```
+## Explanation:
+
+  1. If the input is a string, then we will convert it into a list of characters.
+  2. Then we will iterate over each character in the list and if the character is a vowel, then we will add it to the vowels list.
+  3. After iterating over all the characters, we will return the vowels list.
+
+## Code:
+```
+def find_vowels(input):
+    vowels = []
+
+<|begin_of_text|>
+
+## Output:
+```
+The following is the output of your program:
+Hello, world!
+```
+## Explanation:
+```
+The program begins by printing a string to the console. The string is enclosed in double quotes, indicating that it is a string literal. The string contains the phrase "Hello, world!", which is a traditional greeting often used in introductory programming examples.
+The print() function is used to print the string to the console. The print() function takes a string as input and prints it to the console
+<|begin_of_text|>
+
+## Output:
+```python
+'Output: Hello, World!'
+```
+<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+- A simple text file with the given input as the output
+- A simple text file with the given input as the output
+
+## Input:
+- A simple text file with the given input as the output
+- A simple text file with the given input as the output
+<|end_of_text|>

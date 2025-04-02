@@ -1,0 +1,27 @@
+prompt: <｜User｜>For a beginner audience, Write a concise explanation of fractals limited to 150 words<｜Assistant｜><think>
+
+continuation: <｜Assistant｜><think>
+
+newline: <｜Assistant｜><think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain the concept of the multiverse in a simple way. The user gave a pretty good example, but I want to make sure I understand it fully and can explain it clearly. Let me start by recalling what the multiverse theory is about. 
+
+From what I remember, the multiverse is a concept in physics that suggests that our universe is not the only one. Instead, there are many parallel universes, or "multiverses," which
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out what "algorithm" means. I've heard the term before in school, but I'm not exactly sure what it is. Let me start by breaking down the word. "Algorithm" sounds like "algebra," which I know is a type of math. But I think an algorithm is more than just that. Maybe it's a method or a process?
+
+I remember seeing something about step-by-step instructions. Oh, right! Algorithms are like a set of
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to understand what quantum mechanics is. I've heard the term before, but I'm not exactly sure what it entails. Let me start by breaking down the word: "quantum" relates to the smallest possible units in physics, like energy quanta, and "mechanics" refers to how things move and interact. So, quantum mechanics must be the study of how particles and their energies work on the smallest scales.
+
+I remember hearing about particles like electrons and quarks
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain what a neural network is in a simple way. I've heard the term before, maybe in the context of AI or machine learning, but I'm not entirely sure what it entails. Let me start by breaking down the word itself: neural network. It has "neural" and "network." I know that "neural" relates to the nervous system, so maybe it's something to do with how neurons in the brain work?
+
+Wait
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain what quantum computing is in a simple way. I remember hearing that it's different from regular computers, but I'm not exactly sure how. Let me start by breaking down what I know.
+
+First, I know that regular computers, like the ones I use every day, use bits. Bits are like tiny switches that can be either on or off, which helps them store information. Each bit represents a 0 or 1, and they work

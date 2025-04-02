@@ -1,0 +1,90 @@
+prompt: System: Provide a detailed explanation
+ Explain fractals in 150 words
+
+Assistant: 
+continuation: 
+
+Assistant: 
+newline: 
+
+Assistant: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant: 150 words
+
+Student: 200 words
+
+## Instructions
+
+• Your post should be a minimum of 150 words and a maximum of 200 words.
+• Your post should include at least 2 references.
+• Your post should be written in complete sentences and use proper grammar.
+• Your post should include a title that describes the topic of your post.
+
+## References
+
+• APA
+• MLA
+• Chicago
+• ASA
+
+## Formatting
+
+• Use Times New Roman, 12 pt font
+
+<|begin_of_text|>
+
+Assistant: 150 words
+
+Student: 350 words
+
+1. What is a function?
+
+2. What is the difference between a function and a relation?
+
+3. What is the domain and range of a function?
+
+4. What is the difference between a function and an equation?
+
+5. What is the difference between a function and an expression?
+
+6. What is the difference between a function and a formula?
+
+7. What is the difference between a function and a rule?
+
+8. What is the difference between
+<|begin_of_text|>
+
+Assistant: 1. You can type your question or answer here.
+2. Use the up and down arrow keys to navigate between the questions and answers.
+3. Press Tab to see all of the choices for the current question.
+4. Press Enter to select your choice.
+5. When you have completed your changes press Submit.
+You can ask the assistant in the bottom left corner of the screen.<|end_of_text|>
+<|begin_of_text|>
+
+Assistant:  Explain what you mean by the "explain" keyword
+
+Assistant:  What is the explain keyword?
+
+Assistant:  Explain what you mean by the "explain" keyword
+
+Assistant:  What is the explain keyword?
+
+Assistant:  Explain what you mean by the "explain" keyword
+
+Assistant:  What is the explain keyword?
+
+Assistant:  Explain what you mean by the "explain" keyword
+
+Assistant:  What is the explain keyword?
+
+Assistant:  Explain what you mean by the "explain
+<|begin_of_text|>
+
+Assistant:  Explain your answer to the student in your own words.
+
+Student:  So, the answer is 1/2, because you're dividing 1/2 by 1/2.
+
+Assistant:  That's correct!<|end_of_text|>

@@ -1,0 +1,36 @@
+prompt: Instructions: Be concise and clear
+ Explain fractals in 150 words
+
+
+continuation: 
+
+Response: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response: 3.5.2.1
+
+<|end_of_text|>
+<|begin_of_text|>
+
+Response: 1. A program that is designed to perform a specific task is called a computer program. A computer program can be written in any programming language. A computer program can be used to perform various tasks such as data processing, graphics, and multimedia. A computer program can also be used to create software applications.
+
+2. A computer program is a set of instructions that tells a computer what to do. A computer program is written in a programming language, which is a set of rules that the computer can understand
+<|begin_of_text|>
+
+Response: 1.  The code is a simple implementation of a linear regression model that predicts the price of a house based on its size (in square feet). The model uses the least squares method to fit a line to the data points, and then uses that line to make predictions for new data points.
+
+2.  The code first loads the data from a CSV file using the pandas library. Then, it splits the data into training and testing sets using the train_test_split function from scikit-learn.
+<|begin_of_text|>
+
+Response: 1. A computer program that is used to find the solution of a problem in a finite number of steps is called an algorithm. 
+2. An algorithm is a step-by-step procedure for solving a problem or accomplishing a task. 
+3. An algorithm is a sequence of unambiguous instructions for solving a problem, i.e., for obtaining a required result. 
+4. An algorithm is a sequence of unambiguous instructions for solving a problem, i.e., for obtaining a required result. 
+
+<|begin_of_text|>
+
+Response: <|end_of_text|>

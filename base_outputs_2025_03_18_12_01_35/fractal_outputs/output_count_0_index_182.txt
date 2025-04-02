@@ -1,0 +1,35 @@
+prompt: 
+[Task] Explain fractals in 150 words
+
+
+continuation: 
+
+[Answer]: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]: 1. The first one is a `null`, the second one is a `undefined`, and the third one is an `undefined`. The difference is that `null` is an object, while `undefined` is a primitive type. 
+
+[Answer]: 2. The first one is a `null`, the second one is a `undefined`, and the third one is an `undefined`. The difference is that `null` is an object, while `undefined` is a primitive type. 
+
+
+<|begin_of_text|>
+
+[Answer]: 2
+<|end_of_text|>
+<|begin_of_text|>
+
+[Answer]: 1. I can use the "find" command to search for the files with a specific extension. For example, to find all files with the.txt extension, I can use the command "find. -name '*.txt'". 2. I can use the "grep" command to search for specific patterns within the files. For example, to search for the word "hello" in all files with the.txt extension, I can use the command "grep -r hello *.txt".
+<|begin_of_text|>
+
+[Answer]: 1. I have a lot of experience in the field of web development and I am interested in learning more about it. I am also a good communicator and can work well with others. I am looking for a position where I can use my skills and knowledge to contribute to the company's success.<|end_of_text|>
+<|begin_of_text|>
+
+[Answer]: 1. There are no real constants in the world. Every thing is changing. Even the constants are changing. The only thing that is constant is change. 
+
+2. I think the answer is simple. If the world is changing, we have to change with it. If we don't change, we will be left behind. 
+
+3. I think the answer is simple. If the world is changing, we have to change with it. If we don't change, we will be left behind

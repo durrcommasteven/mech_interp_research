@@ -1,0 +1,41 @@
+prompt: 
+Instructions: Be concise and clear
+ Explain fractals in 150 words
+
+Response: 
+continuation: 
+
+Response: 
+newline: 
+
+Response: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response:  A blockchain is a growing list of records, called blocks, that are linked together using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree). By design, a blockchain is resistant to modification of the data. It is "an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way". For use as a distributed ledger, a blockchain is typically managed by a peer-to
+<|begin_of_text|>
+
+Response: 150 words
+
+A computer program that is able to learn from data and make decisions based on that learning is called an artificial intelligence (AI) program. AI programs are used in a variety of fields, including finance, healthcare, and manufacturing. AI programs can be used to make decisions about which products to recommend to customers, which investments to make, and which medical treatments to prescribe. AI programs can also be used to automate tasks that would otherwise require human intervention, such as customer service or data entry.
+
+
+<|begin_of_text|>
+
+Response:  A database is a collection of information that is organized so that it can be easily accessed, managed, and updated. It is a structured set of data that is stored electronically in a computer system. Databases are used in a wide range of applications, including business, scientific research, and government. They are used to store and retrieve information quickly and efficiently, and to analyze and manipulate data for decision-making purposes.
+
+One of the main advantages of using a database is that it allows for the efficient storage and
+<|begin_of_text|>
+
+Response: 150 words
+
+A fractal is a geometric pattern that is repeated at ever smaller scales to produce irregular shapes and surfaces that cannot be represented by classical geometry. They are created by repeating a simple process over and over in an ongoing feedback loop. 
+
+Fractals are useful in modeling structures (such as eroded coastlines or snowflakes) in which similar patterns recur at progressively smaller scales, and in describing partly random or chaotic phenomena such as crystal growth such as snowflakes and crystals, lightning
+<|begin_of_text|>
+
+Response: 150 words
+
+A system is a collection of components that work together to achieve a common goal. Systems are used in many different fields, including engineering, biology, and computer science. Systems are often designed to be efficient, reliable, and flexible.
+
+In engineering, systems are used to design and build complex machines and structures. For example, a car is a system that consists of many different components, such as the engine, the transmission, the suspension, and the brakes. These components work together to allow

@@ -1,0 +1,25 @@
+prompt: [Task] Explain fractals in 150 words
+
+[Answer]: 
+continuation: 
+
+[Answer]: 
+newline: 
+
+[Answer]: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]:  There are a few ways to think about the concept of a fractal.  The most intuitive way is to think of a fractal as a geometric shape that is self-similar, or similar to itself at different scales.  This means that if you zoom in on a fractal, you will see the same pattern repeated over and over again.  For example, the Sierpinski triangle is a fractal that is made up of smaller and smaller Sierpinski
+<|begin_of_text|>
+
+[Answer]:  I think a fractal is a pattern that repeats itself at every scale. A fractal is a pattern that repeats itself at every scale. A fractal is a pattern that repeats itself at every scale. A fractal is a pattern that repeats itself at every scale. A fractal is a pattern that repeats itself at every scale. A fractal is a pattern that repeats itself at every scale. A fractal is a pattern that repeats itself at every scale. A fractal is a pattern
+<|begin_of_text|>
+
+[Answer]: 1. Fractals are patterns that repeat on all scales. They are often defined recursively, which means that the pattern can be divided into smaller versions of itself. This property makes them useful for modeling natural phenomena such as coastlines, mountains, and trees. Fractals can also be used to create interesting graphics and animations. 2. Fractals are patterns that repeat on all scales. They are often defined recursively, which means that the pattern can be divided into smaller versions of itself.
+<|begin_of_text|>
+
+[Answer]:  Fractal geometry is a branch of mathematics that studies geometric patterns in which self-similarity exists on all scales. The field also includes some patterns that are not exactly self-similar, but for which a local form repeats such that the form makes up a significant proportion of the whole. Fractals are rare in the physical world but are found in nature in a range of different areas such as in the complex patterns of snowflakes, pineapples and Romanesco broccoli, in the top
+<|begin_of_text|>
+
+[Answer]:  Fractals are mathematical sets that exhibit a property known as self-similarity, which means that they can be subdivided into parts, each of which is a reduced-size copy of the whole. The term was coined by Benoit Mandelbrot in 1975 and was derived from the Latin fractus meaning “broken” or “fractured”. Fractals are often used to model natural objects or phenomena such as coastlines, mountain ranges, lightning bolts, blood vessels, and

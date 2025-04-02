@@ -1,0 +1,43 @@
+prompt: # Question Explain fractals in 150 words
+
+# Answer
+
+continuation: 
+
+# Answer
+
+newline: 
+
+# Answer
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+# Answer
+# A list is an ordered collection of items. An ordered collection implies that the position of elements in the collection matters. For example, the first element of the list is the head and the last element is the tail. The position of the head is important because it is the first element that will be accessed when iterating over the list. The position of the tail is important because it is the last element that will be accessed when iterating over the list.
+
+# The head and tail of a list are not
+<|begin_of_text|>
+
+# Answer
+# The answer is that there is no definite answer to this question. The best way to learn Python is to use it. This means that you should try to use Python in a real-world setting, such as writing a script to automate a task or building a web application. You should also try to read Python code that others have written, and try to understand how it works. Finally, you should try to solve problems using Python, such as coding challenges or projects. By doing all of these things
+<|begin_of_text|>
+
+# Answer
+A set is an unordered collection of distinct elements of the same type. Unordered means that the elements in the set have no order. Distinct means that no two elements in the set are the same. The elements in a set are called members or elements of the set. The elements of a set can be any type of data, including numbers, strings, and other sets. A set is usually represented by a list of its elements, enclosed in curly braces. For example, the set of all
+<|begin_of_text|>
+
+# Answer
+# A string is a sequence of characters, letters, and numbers. A string is a collection of characters enclosed within quotes. Strings are immutable. In Python, strings are represented as a sequence of bytes. The string data type is used to represent text. It is a sequence of characters. A string is a collection of characters enclosed within quotes. Strings are immutable. In Python, strings are represented as a sequence of bytes.
+
+# A string is a sequence of characters, letters, and numbers. A
+<|begin_of_text|>
+
+# Answer
+# A set is an unordered collection with no duplicate elements. Basic uses include membership testing and eliminating duplicate entries. Its main application lying in operations on mathematical sets like union, intersection, set difference, symmetric difference, and others, as well as calculating cardinality of sets (the number of elements in a set).
+
+# A set is created by placing all the items (elements) inside curly braces {}, separated by comma or by using the set() constructor.
+
+# >>> s = set()
+# >>> s
+

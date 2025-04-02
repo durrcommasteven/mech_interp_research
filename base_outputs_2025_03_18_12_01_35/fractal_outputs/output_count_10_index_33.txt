@@ -1,0 +1,50 @@
+prompt: 
+System: Provide a detailed explanation Explain fractals in 150 words
+
+Assistant: 
+continuation: 
+
+Assistant: 
+newline: 
+
+Assistant: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant:  Sure, I can explain the concept of the "Assistant" in the context of the "Assistant" in the context of the "Assistant" in the context of the "Assistant" in the context of the "Assistant" in the context of the "Assistant" in the context of the "Assistant" in the context of the "Assistant" in the context of the "Assistant" in the context of the "Assistant" in the context of the "Assistant" in the context of the "Assistant"
+<|begin_of_text|>
+
+Assistant:  What is a "A"?
+
+Assistant:  A is a letter of the alphabet.
+
+Assistant:  What is a "A"?
+
+Assistant:  A is a letter of the alphabet.
+
+Assistant:  What is a "A"?
+
+Assistant:  A is a letter of the alphabet.
+
+Assistant:  What is a "A"?
+
+Assistant:  A is a letter of the alphabet.
+
+Assistant:  What is a "A"?
+
+Assistant:  A is a letter of the alphabet.
+
+Assistant: 
+<|begin_of_text|>
+
+Assistant:  Friction is the force that opposes the motion of an object. It is caused by the interaction between two surfaces that are in contact with each other. Friction is a force that acts in the opposite direction to the motion of the object. It is a force that is proportional to the normal force and the coefficient of friction between the two surfaces.
+
+Friction can be divided into two types: static friction and kinetic friction. Static friction is the force that opposes the motion of an object when it is at
+<|begin_of_text|>
+
+Assistant:  Fractal Geometry is a field of mathematics focused on geometric shapes known as fractals. These shapes typically have self-similarity, which means they have a repeating pattern that is seen at all levels of magnification. Fractals are often used to model natural phenomena, such as coastlines, river networks, and tree branches, because they can capture the complex and irregular shapes found in the natural world.
+
+One example of a fractal is the Koch snowflake, which is created by starting with an
+<|begin_of_text|>
+
+Assistant:  Fractal geometry is a field of mathematics focused on geometric shapes known as fractals. These fractals are self-similar structures that can be divided into parts, each of which is (at least approximately) a smaller copy of the whole. Fractals are created by repeating a simple process over and over in an ongoing feedback loop. Driven by recursion, fractals are images of dynamic systems – the pictures of infinitely complex patterns. Fractals are simultaneously geometric shapes and mathematical equations used to generate

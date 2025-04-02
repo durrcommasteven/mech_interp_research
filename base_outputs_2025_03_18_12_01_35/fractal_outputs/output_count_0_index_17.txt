@@ -1,0 +1,101 @@
+prompt: System: Provide a detailed explanation Explain fractals in 150 words
+
+Assistant: 
+continuation: 
+
+Assistant: 
+newline: 
+
+Assistant: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant: 150 words
+
+• @
+• 17
+• 100% (2) 2 out of 2 people found this document helpful
+
+This preview shows page 1 - 3 out of 17 pages.
+
+Assistant: 150 words. 1. The following is a list of the 20 most common surnames in the United States (2000 census): 1. Smith 2. Johnson 3. Williams 4. Brown 5. Jones 6. Garcia
+<|begin_of_text|>
+
+Assistant: 150 words, at least 3 references
+
+Question 1: Write a 150-word response to the following question: In the context of this week’s material, what is the most important difference between the 2016 and 2020 elections? How did this difference affect the outcome of the election?
+
+Question 2: Write a 150-word response to the following question: How does the concept of “swing state” affect the outcome of presidential elections? In what ways do the states
+<|begin_of_text|>
+
+Assistant: 150 words
+
+Question:
+
+Question 1: (15 marks)
+
+The following information relates to the income statement of a company for the year ended 30 June 2020:
+
+Sales revenue 1,000,000
+
+Cost of goods sold 600,000
+
+Other expenses 300,000
+
+Profit before tax 100,000
+
+Tax expense 40,000
+
+The company’s financial year ends on 30 June each year. The company’s financial year is longer than 12 months.
+
+
+<|begin_of_text|>
+
+Assistant: 150 words
+
+1. The correct answer is:
+
+A
+
+2. The correct answer is:
+
+C
+
+3. The correct answer is:
+
+B
+
+4. The correct answer is:
+
+D
+
+5. The correct answer is:
+
+A
+
+6. The correct answer is:
+
+C
+
+7. The correct answer is:
+
+B
+
+8. The correct answer is:
+
+D
+
+9. The correct answer is:
+
+A
+
+10. The correct answer is:
+
+C<|end_of_text|>
+<|begin_of_text|>
+
+Assistant: 100% correct answer
+
+The following question is from a past year's AP Physics 1 exam.
+
+A student is riding a bike on a flat road. The student's mass is 50 kg and the mass of the bike is 10 kg. The total mass is 60 kg. The student is riding the bike at 4.0 m/s and then the student applies the brakes and the bike comes to a stop after 4.0 seconds. The student's acceleration is 1.

@@ -1,0 +1,68 @@
+prompt: ## Input: Explain fractals in 150 words
+
+
+continuation: 
+
+## Output:
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+```
+$./output
+```
+<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```
+    1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 
+<|begin_of_text|>
+
+## Output:
+```
+$ echo "Hello World!" |./hello
+Hello World!
+```
+## Description:
+
+In this challenge, you will be given a string. Your job is to print out the string in a way that the first character is printed, then the second character is printed, and so on until the last character is printed. You can assume that the string will not be empty.
+
+## Test cases:
+```
+Input: "Hello World!"
+Output: "Hello World!"
+
+Input: "Hello World
+<|begin_of_text|>
+
+## Output:
+```
+I am a programmer
+```
+## Explanation:
+
+The code above uses the `println()` function to print the string "I am a programmer" to the console. The `println()` function takes a single argument, which is the string to print, and prints it to the console, followed by a newline character.<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```
+The output is: 0
+The output is: 1
+The output is: 2
+The output is: 3
+The output is: 4
+The output is: 5
+The output is: 6
+The output is: 7
+The output is: 8
+The output is: 9
+The output is: 10
+```
+## Explanation:
+
+We create an array of numbers from 0 to 10, and then use

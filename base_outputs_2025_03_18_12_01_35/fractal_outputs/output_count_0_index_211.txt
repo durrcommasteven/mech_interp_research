@@ -1,0 +1,70 @@
+prompt: Context: Academic explanation requested
+ Explain fractals in 150 words
+
+Assistant: 
+continuation: 
+
+Assistant: 
+newline: 
+
+Assistant: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant:  Hello, I'm Assistant. How can I help you?
+
+User:  I need help with a math problem.
+
+Assistant:  Sure, what's the problem?
+
+User:  I need to solve for x in the equation x^2 + 5x + 6 = 0.
+
+Assistant:  Okay, let's start by factoring the left side of the equation.
+
+User:  Sure, go ahead.
+
+Assistant:  So we have (x
+<|begin_of_text|>
+
+Assistant:  I'll do my best, sir
+
+You:      What are you best at?
+
+Assistant:  Helping people with their questions about math
+
+You:      What's your favorite math topic?
+
+Assistant:  Algebra
+
+You:      What's your least favorite math topic?
+
+Assistant:  Trigonometry
+
+You:      What is your favorite number?
+
+Assistant:  42
+
+You:      What is your least favorite number?
+
+Assistant:  37
+
+You:      What's your favorite shape
+<|begin_of_text|>
+
+Assistant:  The assistant is a tool that allows you to easily find the answer to any question. Just type your question and let the assistant do its work.
+
+Question:  What is the definition of a vector space?
+
+Assistant:  Vector space is a set of objects called vectors, 
+<|begin_of_text|>
+
+Assistant: 150
+
+Teacher: 300
+
+Tutor: 500
+
+<|end_of_text|>
+<|begin_of_text|>
+
+Assistant:  I have prepared the following resources to help you with this task: [HTML, CSS, JavaScript, and jQuery](https://www.google.com/search?q=HTML%2C+CSS%2C+JavaScript%2C+and+jQuery&sxsrf=ALiCzsbVz4V2Vf2Yd0oDqR7qW5vQfG1ZGg%3A1669924797172&ei=6c8g

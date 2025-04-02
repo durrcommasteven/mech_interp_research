@@ -1,0 +1,49 @@
+prompt: Instructions: Be concise and clear Explain fractals in 150 words
+
+Response: 
+continuation: 
+
+Response: 
+newline: 
+
+Response: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response:  The following is a list of the most important things that I learned from the course. I hope you find them useful and interesting. I have also included some of my own thoughts and experiences in the process of writing this post. I hope you enjoy it! I think it is important to note that this is not a comprehensive list of all the things that I learned from the course. There are many more things that I learned from the course that are not listed here. I hope you enjoy the
+<|begin_of_text|>
+
+Response: 150 words
+
+A. The “Cognitive Revolution” is a term used to describe the shift in the study of the mind from a behaviorist approach to an approach that emphasizes the role of mental processes in behavior. This shift was marked by the development of cognitive psychology as a distinct field of study in the 1950s and 1960s. The behaviorist approach, which dominated psychology in the early 20th century, focused on observable behavior and sought to explain it in terms of environmental
+<|begin_of_text|>
+
+Response:  I have attached the answer to the question.
+
+Step by step explanation:
+
+A
+
+If the mean of the data set is 16 and the standard deviation is 3, then the data set has a standard deviation of 3.
+
+The data set has a standard deviation of 3.
+
+B
+
+If the mean of the data set is 16 and the standard deviation is 3, then the data set has a standard deviation of 3.
+
+The data set has a standard deviation of 3
+<|begin_of_text|>
+
+Response: 1. Explain the difference between a function and a relation. Give an example of each.
+
+A relation is a set of ordered pairs, where each ordered pair is a set of two elements. The set of first elements is called the domain, and the set of second elements is called the range. A function is a relation in which each element in the domain is paired with exactly one element in the range.
+
+For example, the relation {(1,2), (2,4), (3,6
+<|begin_of_text|>
+
+Response: 150 words
+
+A
+
+In the case of the American Civil War, the abolitionists were the people who wanted to abolish slavery. They wanted to do so because they believed that it was wrong for people to be enslaved. The abolitionists were not successful in ending slavery, but they did help to create the conditions that eventually led to its end. The abolitionists were a diverse group of people, including both men and women, and they came from all walks of life. Some of the most famous abolition

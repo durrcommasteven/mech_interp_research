@@ -1,0 +1,58 @@
+prompt: <prompt>Explain fractals in 150 words</prompt>
+
+
+continuation: 
+
+ <response>
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+ <response> 
+	<code>200</code>
+	<message>Success</message>
+	<result>
+		<id>1</id>
+		<username>admin</username>
+		<password>1234</password>
+		<fullname>Admin</fullname>
+		<role>admin</role>
+	</result>
+</response><|end_of_text|>
+<|begin_of_text|>
+
+ <response> 
+    <id>1</id>
+    <name>john</name>
+    <email>john@example.com</email>
+ </response>
+
+ <response> 
+    <id>2</id>
+    <name>doe</name>
+    <email>doe@example.com</email>
+ </response><|end_of_text|>
+<|begin_of_text|>
+
+ <response> <id>2</id> <title>My title</title> <description>My description</description> <link rel="alternate" type="text/html" href="http://example.com/"/> <link rel="edit" href="http://example.com/2"/> <author><name>Me</name><uri>http://example.com/</uri></author> <contributor><name>Myself</name><uri>http://example.com/</uri></contrib
+<|begin_of_text|>
+
+ <response>  
+ <result>  
+ <success>1</success>  
+ <message>Success</message>  
+ <data>  
+ <total>1</total>  
+ <perpage>10</perpage>  
+ <currentpage>1</currentpage>  
+ <lastpage>1</lastpage>  
+ <pages>1</pages>  
+ <records>1</records>  
+ <next>0</next>  
+ <prev>0</prev>  
+ <first>0</
+<|begin_of_text|>
+
+ <response> <|end_of_text|>

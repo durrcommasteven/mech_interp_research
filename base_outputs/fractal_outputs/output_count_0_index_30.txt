@@ -1,0 +1,59 @@
+prompt: <prompt>Explain fractals in 150 words</prompt>
+
+
+continuation: 
+
+ <response>
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+ <response> 
+    <success>1</success> 
+    <message>Operation Successful</message> 
+    <data> 
+      <id>1</id> 
+      <name>John</name> 
+      <email>john@example.com</email> 
+      <phone>1234567890</phone> 
+      <address>Address</address> 
+      <city>City</city> 
+      <state>State</state> 
+      <zip>12345</
+<|begin_of_text|>
+
+ <response> <value> <text> <value> <text> <value> <text> <value> <text> <value> <text> <value> <text> <value> <text> <value> <text> <value> <text> <value> <text> <value> <text> <value> <text> <value> <text> <value> <text> <value> <text> <value> <text> <value> <
+<|begin_of_text|>
+
+ <response> 
+ <message>Success</message> 
+ <data> 
+ <id>1</id> 
+ <name>John</name> 
+ <email>john@example.com</email> 
+ <address>1 Main St.</address> 
+ </data> 
+ </response> 
+
+ <response> 
+ <message>Success</message> 
+ <data> 
+ <id>2</id> 
+ <name>Bob</name> 
+ <email>bob@example.com</email> 
+ <
+<|begin_of_text|>
+
+ <response> <result> <item> <title>First Item</title> </item> <item> <title>Second Item</title> </item> </result> </response>
+
+ <response> <result> <item> <title>First Item</title> </item> <item> <title>Second Item</title> </item> </result> </response>
+
+ <response> <result> <item> <title>First Item</title> </item> <item>
+<|begin_of_text|>
+
+ <response>  <body>
+ <section>
+ <para> <title> Overview </title>
+ <para>  The <ulink url="http://www.w3.org/TR/2005/REC-xmlschema-1-20041028/#cos-numeric" role="RFC"> numeric facet </ulink> is used to constrain the value of an attribute or element to be a valid numeric value.  This includes integers, floating point numbers, and decimal numbers.  The following facets are used to

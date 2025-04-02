@@ -1,0 +1,57 @@
+prompt: System: Provide a detailed explanation Explain fractals in 150 words
+
+
+continuation: 
+
+Assistant: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant: 1. What is the value of the expression $$\frac{5}{6} \times \frac{4}{5}$$? 2. What is the value of the expression $$\frac{2}{3} \times \frac{4}{5}$$? 3. What is the value of the expression $$\frac{1}{2} \times \frac{3}{4}$$? 4. What is the value of the expression $$\frac{
+<|begin_of_text|>
+
+Assistant:  Let's start with the question.
+
+Question:  Let's say you have a function $$f(x) = \frac{1}{x^2+1}$$.
+
+And we want to find the derivative of this function.
+
+So we're going to use the quotient rule.
+
+So the quotient rule says that the derivative of this function is going to be equal to the derivative of the numerator times the denominator, minus the numerator times the derivative of the denominator, all over the denominator squared.
+
+
+<|begin_of_text|>
+
+Assistant: 1. What is the difference between the first and second derivatives of a function?
+
+Assistant: 2. What is the difference between the first and second derivatives of a function?
+
+Assistant: 3. What is the difference between the first and second derivatives of a function?
+
+Assistant: 4. What is the difference between the first and second derivatives of a function?
+
+Assistant: 5. What is the difference between the first and second derivatives of a function?
+
+Assistant: 6. What is the
+<|begin_of_text|>
+
+Assistant: 1) Describe the general characteristics of a solution.
+2) Describe the process of dissolving a solute in a solvent.
+3) Explain how the concentration of a solution can be determined.
+4) Explain how the concentration of a solution can be expressed as a mole fraction.
+5) Explain how the concentration of a solution can be expressed as a molarity.
+6) Explain how the concentration of a solution can be expressed as a molality.
+7) Explain how the concentration of a solution can be
+<|begin_of_text|>
+
+Assistant: 1.5 points each question, 2.5 points each question. The total points for the assignment are 25.
+
+1. A particle of mass m moves in the potential field V(x) = x2/2. Find the ground state energy.
+
+2. A particle of mass m moves in the potential field V(x) = -x2/2. Find the ground state energy.
+
+3. A particle of mass m moves in the potential field V(x) = x2/2

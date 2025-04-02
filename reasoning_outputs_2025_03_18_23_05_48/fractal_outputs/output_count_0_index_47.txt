@@ -1,0 +1,42 @@
+prompt: <｜User｜>Using simple terms, Explain fractals in 150 words
+<｜Assistant｜>
+
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is a naturally occurring carbohydrate found in various foods like fruits, honey, and sugarcane. It's known for its sweet taste and is often used in cooking, baking, and as a sweetener in beverages. Fructose can also be processed into other forms, such as high-fructose corn syrup, which is commonly used in processed foods and drinks.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜>
+<think>
+A **diagonal line** is a line that crosses the shape from one corner to another. It’s often used in geometry, art, and design. Here are some key points about diagonal lines:
+
+1. **Types of Diagonal Lines**:
+   - **Main Diagonal**: Connects two opposite corners of a shape, passing through its center.
+   - **Anti-Diagonal**: Connects the other two opposite corners, forming a diagonal that runs the opposite way.
+   - **Minor
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar that the body metabolizes differently than glucose. It is often referred to as "fruit sugar" because it is abundant in fruits. Fructose can be found in various forms, such as fructose-1,6-bisphosphate, which is a key component of glycolysis, the process by which cells convert glucose into energy.
+
+Fructose is also known for its role in the liver, where it is converted into glucose, glycogen, and other energy
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar found in fruits, is often described as "fruit sugar." It is a naturally occurring sweetener that plays a role in the flavor and energy content of fruits. Here are some key points about fructose:
+
+1. **Source**: Fructose is abundant in fruits like apples, bananas, grapes, and dates. It is also found in honey and some vegetables.
+
+2. **Sweetness**: Fructose is sweeter than glucose, which is why it is used in
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a natural sugar found in fruits, is a type of monosaccharide. It’s known for its sweet taste and is often used in foods and drinks. Here are some key points about fructose:
+
+1. **Structure**: Fructose is a six-carbon molecule with five hydroxyl groups. Unlike glucose, it has a ketone group, which gives it a different structure and some unique properties.
+
+2. **Sources**: Fructose is abundant in fruits like apples,

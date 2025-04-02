@@ -1,0 +1,67 @@
+prompt: 
+# Question Explain fractals in 150 words
+
+# Answer
+
+continuation: 
+
+# Answer
+
+newline: 
+
+# Answer
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+# Answer
+# A Python dictionary is a collection of items, where each item is a key-value pair. The key is used to access the value. Dictionaries are mutable, which means they can be changed after they are created.
+
+# For example, you can create a dictionary like this:
+
+# my_dict = {'key1': 'value1', 'key2': 'value2'}
+
+# To access the value associated with a key, you can use the following syntax:
+
+# print(my_dict['key1
+<|begin_of_text|>
+
+# Answer
+# 1. 0.5
+# 2. 0.25
+# 3. 0.125
+# 4. 0.0625
+
+# 5. 0.03125
+# 6. 0.015625
+# 7. 0.0078125
+# 8. 0.00390625
+
+# 9. 0.001953125
+# 10. 0.000976562
+<|begin_of_text|>
+
+# Answer
+# 1. I am able to identify the types of the data, and the appropriate
+#    data structures to store the data.
+# 2. I can identify the types of operations that need to be performed on the
+#    data, and the appropriate algorithms to perform those operations.
+# 3. I can write code to implement the algorithms, and test the code to ensure
+#    that it is working correctly.
+# 4. I can use the code to solve the
+<|begin_of_text|>
+
+# Answer
+# A function is a block of code which only runs when it is called. You can pass data, known as parameters, into a function. A function can return data as a result.
+
+# The return statement is used in a function to return the result and terminate the function.
+
+# The return statement is optional in a function. If omitted, the function will return None to the caller.
+
+# A function definition is executed before calling the function, so that the code executes sequentially, creating an execution context
+<|begin_of_text|>
+
+# Answer
+A computer program is a sequence of instructions that can be executed by a computer to perform a specific task. A program is a set of instructions that tells the computer what to do and how to do it. The instructions in a program are written in a programming language that the computer can understand.
+
+A program can be as simple as a single line of code that tells the computer to print a message on the screen, or it can be as complex as a large software application that performs a wide range of tasks

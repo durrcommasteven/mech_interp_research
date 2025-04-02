@@ -1,0 +1,40 @@
+prompt: # Question
+ Explain fractals in 150 words
+
+
+continuation: 
+
+# Answer
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+# Answer
+The answer is: 
+``` 
+The best way to learn a new language is to immerse yourself in it. This means listening to it, reading it, and speaking it as much as possible. If you have the opportunity to live in a country where the language is spoken, even better! But if that's not an option, there are still plenty of ways to immerse yourself in the language. You can watch movies and TV shows in the language, listen to music, and read books.
+<|begin_of_text|>
+
+# Answer
+In this problem we will be using the [**`numpy`**](https://numpy.org/doc/stable/user/quickstart.html) library. We will be using the `numpy.random` module. 
+
+The `numpy.random` module contains a function called `normal`. This function generates a random number that follows the normal distribution. The normal distribution is a bell shaped curve. 
+
+The normal distribution is often used to represent a population of data. It is used to represent data that is symmetric around
+<|begin_of_text|>
+
+# Answer
+When a user enters a URL in their browser, the browser sends an HTTP request to the server hosting the website. The server then responds with the HTML content of the webpage. The browser then renders the HTML content, including any images, stylesheets, and scripts, to display the webpage to the user.
+
+The browser also sends additional HTTP requests for any resources that are referenced in the HTML, such as images, stylesheets, and scripts. These requests are made in parallel, which means that the browser
+<|begin_of_text|>
+
+# Answer
+* The answer is that the question is meaningless. A computer is a general purpose device that can be used for any number of tasks, including solving problems. The question is like asking "What is the best use of a hammer?" The answer is that it depends on what you want to do with it. If you want to drive a nail, then a hammer is a great tool. If you want to paint a wall, then a brush is a better choice. The same is true for computers.
+<|begin_of_text|>
+
+# Answer
+I have been a long time user of the Windows OS. I have used Windows 95, 98, ME, XP, Vista, 7, 8, and 10. I have used Windows 10 for the last 5 years. I am very familiar with the Windows OS and its features. I am also familiar with the Linux OS and its features. I have used Linux Mint for the last 5 years. I am very familiar with the Linux OS and its features. I

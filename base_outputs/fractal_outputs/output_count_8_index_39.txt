@@ -1,0 +1,28 @@
+prompt: 
+[Task] Explain fractals in 150 words
+
+[Answer]: 
+continuation: 
+
+[Answer]: 
+newline: 
+
+[Answer]: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]:  A fractal is a mathematical set that exhibits a repeating pattern that displays at every scale. It is also known as a shape that is self-similar and independent of scale. One of the most famous fractals is the Mandelbrot set, which is a set of complex numbers that can be represented as the solution of a simple equation. The Mandelbrot set is a fractal because it exhibits a repeating pattern that is self-similar and independent of scale. The Mandelbrot
+<|begin_of_text|>
+
+[Answer]: <|end_of_text|>
+<|begin_of_text|>
+
+[Answer]:  Fractal geometry is a branch of mathematics focused on geometric shapes known as fractals. These shapes are self-similar and have a fractional (non-integer) dimension. Fractals are often generated through a process of recursion, where a shape is repeatedly divided into smaller parts that are similar to the original shape. This recursive process can create infinitely complex and detailed patterns.
+
+One example of a fractal is the Mandelbrot set, which is a set of complex numbers that are plotted on a
+<|begin_of_text|>
+
+[Answer]:  A fractal is a pattern that repeats itself infinitely.  It can be made up of any kind of geometry, but the key is that the pattern repeats itself.  An example of this is a fern.  If you look at the stem, it is made up of the same pattern as the leaves, but smaller.  The same is true of the leaves, they are made up of the same pattern as the stem, but smaller.  This pattern repeats itself infinitely, making the fern a
+<|begin_of_text|>
+
+[Answer]: <|end_of_text|>

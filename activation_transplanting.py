@@ -42,6 +42,9 @@ class ActivationContainer:
     token_str_to_token_idx = defaultdict(list)
 
     def set_tokens(self, token_index, token_int, token_string):
+        if isinstance(token_int, torch.Tensor):
+            token_int = token_int.item()
+
         self.token_idx_to_value_dict[token_index] = (token_string, token_int)
 
         self.token_int_to_token_idx[token_int].append(token_index)
@@ -53,7 +56,7 @@ class ActivationContainer:
     def get_token_by_index(self, token_index):
         return self.token_idx_to_value_dict.get(token_index, None)
 
-    def set_activation(self, token_index, layer_index, tensor, label):
+    def set_activation(self, token_index, layer_index, tensor, label):    
         self.activity_dict[(token_index, layer_index)][label] = tensor
 
     def get_activation(self, token_index, layer_index, label):
@@ -66,6 +69,15 @@ class ActivationContainer:
             output.append(self.activity_dict[(token_index, layer_index)][label])
             layer_index += 1
         return output
+    
+    def set_values(self):
+        # reset the value of all tensors contained in the activity dict 
+        for key1 in self.activity_dict:
+            for key2 in self.activity_dict[key1]:
+                v = self.activity_dict[key1][key2]
+                if isinstance(v, nnsight.intervention.graph.proxy.InterventionProxy):
+                    #print(v, key1, key2)
+                    self.activity_dict[key1][key2] = v.value
 
 
 @dataclass
@@ -950,3 +962,5 @@ class LLamaExamineToolkit:
 
             final_logits = self.llama.lm_head.output[0, -1, :].save()
         return final_logits
+    
+

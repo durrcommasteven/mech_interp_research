@@ -1,0 +1,67 @@
+prompt: System: Provide a detailed explanation
+ Explain fractals in 150 words
+
+
+continuation: 
+
+Assistant: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant:  What can I help you with?
+
+Question
+
+Assistant:  What can I help you with?
+
+Explain how to calculate the volume of a cone using the formula V=1/3πr^2h
+
+• Questions are typically answered in as fast as 30 minutes
+
+Solve your problem for the price of one coffee
+
+• Math expert for every subject
+• Pay only if we can solve it
+
+Step 1
+
+The volume of a cone is given by the formula
+
+
+<|begin_of_text|>
+
+Assistant:  Let's try it.  What is the statement of the problem?
+
+Problem Statement:  Let's try it.  What is the statement of the problem?
+
+Expert Solution:
+
+Let us start with the given information. We have a point on the line that is 4 units from the origin. The slope of the line is -2. We will use the point-slope form of a line to find the equation of the line. The point-slope form
+<|begin_of_text|>
+
+Assistant:  What can I help you with?
+
+You:  What is a graph?
+
+Assistant:  Graphs are a way to visually represent data. They are often used to show the relationship between two or more variables. There are many different types of graphs, but some of the most common are line graphs, bar graphs, and pie charts.
+
+You:  What is a line graph?
+
+Assistant:  A line graph is a type of graph that shows the relationship between two variables by plotting
+<|begin_of_text|>
+
+Assistant: <|end_of_text|>
+<|begin_of_text|>
+
+Assistant:  I will do my best to guide you through this problem, but I'm here to help as much as I can. Feel free to ask for clarification at any point if you get stuck!
+
+Explanation:
+
+Let's start by finding the volume of the solid of revolution. The formula for the volume of a solid of revolution is
+
+$V=\pi\int_{a}^{b}{f\left(x\right)}^{2}\mathrm{dx}$
+
+where $f\left(x\

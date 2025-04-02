@@ -1,0 +1,29 @@
+prompt: <｜User｜>What are fractals? Explain in 150 words
+<｜Assistant｜>
+
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, honey, and sweet vegetables. It is a simple carbohydrate that provides energy through its conversion into glucose. Fructose is also found in table sugar, which is a common sweetener used in many recipes and beverages. While it can be a healthy component of a balanced diet when consumed in moderation, excessive consumption of fructose, particularly in sugary drinks or processed foods, can lead to negative health effects, including weight
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar found in various foods, including fruits, honey, and sweetened beverages. It is a natural component of the diet and, like other sugars, can be part of a balanced nutritional intake. However, its impact on health depends on the overall diet, lifestyle, and individual genetics. For example, high intake of fructose, particularly in sugary drinks or processed foods, can contribute to weight gain and may increase the risk of metabolic syndrome or type 2 diabetes.
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally present in various foods and is often referred to as fruit sugar. It is a monosaccharide, meaning it is a single unit of carbohydrates. Fructose is sweeter than glucose and is commonly found in fruits such as apples, bananas, and grapes. It can also be added to foods as a sweetener.
+
+One of the key characteristics of fructose is its ability to be absorbed and utilized by the body in a manner similar to glucose
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, honey, and sweeteners. It is known for its sweet taste and is often used in baking, cooking, and as a dietary supplement. Fructose can be classified into two main forms: glucose and fructose. Glucose is absorbed quickly by the body and provides energy, while fructose is metabolized more slowly and can be stored as glycogen or converted into fat. It is important to note that fr
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is a natural component found in various foods such as fruits, honey, and sweetened beverages. It is a simple carbohydrate, consisting of a chain of five carbon atoms and five hydroxyl groups. Unlike glucose, fructose is absorbed more slowly into the bloodstream, which can help regulate blood sugar levels. It is also known for its role in glycemic control and may have benefits for heart health and metabolism.<｜end▁of▁sentence｜>

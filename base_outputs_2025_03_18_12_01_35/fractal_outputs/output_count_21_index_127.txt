@@ -1,0 +1,33 @@
+prompt: 
+<prompt>Explain fractals in 150 words</prompt>
+
+ <response>
+continuation: 
+
+ <response>
+newline: 
+
+ <response>
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+ <response>Fractal patterns are found in nature, such as in the branching of trees, the structure of snowflakes, the branching of blood vessels and the structure of DNA.</response>
+
+ <response>Fractals are a part of many natural patterns, including the shapes of plants and clouds, the growth patterns of crystals and the shapes of coastlines. They are also used to generate artificial patterns, such as the Mandelbrot set, which is a set of complex numbers that can be represented as
+<|begin_of_text|>
+
+ <response>Fractal is a type of geometry where a shape is repeated over and over again to create a larger shape. This is done by using the same shape to create the next size up and so on. For example, the Sierpinski triangle is a fractal where a triangle is repeated over and over again to create a larger triangle. </response>
+
+ <response>Fractals are used to model and study natural phenomena that are self-similar, or where the same pattern repeats over and over
+<|begin_of_text|>
+
+ <response>Fractal geometry is a field of mathematics that studies geometric shapes and patterns that are self-similar across different scales. It is a branch of mathematics that deals with the study of fractals, which are geometric objects that exhibit self-similarity at different scales. Fractals are characterized by a property known as self-similarity, which means that they have a similar structure at different scales. Fractals are often used to model natural phenomena, such as coastlines, mountains, and clouds,
+<|begin_of_text|>
+
+ <response>Fractal geometry is a field of mathematics focused on geometric shapes called fractals. Fractals are generally self-similar patterns, where self-similar means they are "the same from near as from far".
+
+
+Fractals are created by repeating a simple process over and over in an ongoing feedback loop. Driven by recursion, fractals are images of dynamic systems – the pictures of Chaos. Geometrically, they exist in between our familiar dimensions. Fractal patterns are extremely familiar, since
+<|begin_of_text|>
+
+ <response>Fractal geometry is a branch of mathematics that studies geometric shapes that are self-similar across multiple scales. In fractal geometry, the same patterns are repeated on different scales. Fractals are typically irregular shapes that can be split into parts, each of which is (at least approximately) a reduced-size copy of the whole. A fractal is not quite the same thing as a fractal dimension, although the two are related. A fractal dimension is a statistical quantity that describes how a fract

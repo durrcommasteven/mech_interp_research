@@ -1,0 +1,26 @@
+prompt: <｜User｜>As an expert, Provide a clear explanation of fractals in 150 words<｜Assistant｜>
+<think>
+
+continuation: <think>
+
+newline: <think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to make a simple calculator using HTML, CSS, and JavaScript. I've never done this before, but I know the basics of each language. Let me break it down step by step.
+
+First, I need to set up the basic HTML structure. I know that every HTML file starts with a doctype declaration, followed by the html tag, head, and body tags. The head will contain the title and some CSS styles, while the body will
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar that is found in fruits and can also be obtained from honey. It is a simple carbohydrate, which means it is a monosaccharide and consists of a single ring structure with five carbon atoms. Fructose is unique because, unlike glucose, it is not an aldose; instead, it is a ketose. This structural difference affects how the body metabolizes fructose compared to glucose.
+
+One of the key differences between fructose and glucose is their metabolism
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to solve the problem where I need to show that the sum of 1/n! from n=0 to infinity is equal to e. I've heard that e is the base of the natural logarithm and it's approximately 2.71828, but I'm not entirely sure how to connect the series 1/n! to e. 
+
+First, I remember that e can be expressed as a power series. I think it's something like
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar that is often found in fruits and can also be added to various foods as a sweetener. It is a monosaccharide, meaning it is a single unit of sugar. Fructose is also known as fruit sugar because it is abundant in fruits like apples, bananas, and pears.
+
+One key difference between fructose and other sugars is its structure. Fructose is a ketohexose, which means it has a ketone group attached to a
+<｜begin▁of▁sentence｜><think>
+Fructose, a type of sugar, is found in various natural foods such as fruits, honey, and sugar cane. It is a key component in the formation of sucrose, a disaccharide that is a major source of energy for plants and animals. In the human body, fructose is absorbed through the intestines and transported to the liver, where it is converted into glucose for energy. However, an overconsumption of fructose can lead to health issues, such as insulin resistance

@@ -1,0 +1,64 @@
+prompt: 
+# Question Explain fractals in 150 words
+
+
+continuation: 
+
+# Answer
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+# Answer
+The answer is simple, if we know the answer we can solve the problem. But if we don't know the answer, we can't solve the problem. So, we have to know the answer first.<|end_of_text|>
+<|begin_of_text|>
+
+# Answer
+The answer is as follows:
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Define the function to be integrated
+def f(x):
+    return np.sin(x)
+
+# Define the interval of integration
+a, b = 0, 2*np.pi
+
+# Define the number of subintervals
+n = 10
+
+# Define the step size
+h = (b - a) / n
+
+# Initialize the sum
+sum = 0
+
+# Loop over
+<|begin_of_text|>
+
+# Answer
+The answer is that the two statements are equivalent, because the statement
+$\forall x \exists y \, P(x, y)$
+is equivalent to
+$\exists y \forall x \, P(x, y)$
+by the commutativity of conjunction.<|end_of_text|>
+<|begin_of_text|>
+
+# Answer
+The answer is a simple one: because it is easy to understand. But why is it easy to understand? Because it is simple. The answer is a simple one: because it is easy to understand. But why is it easy to understand? Because it is simple. The answer is a simple one: because it is easy to understand. But why is it easy to understand? Because it is simple. The answer is a simple one: because it is easy to understand. But why is it easy
+<|begin_of_text|>
+
+# Answer
+A
+
+Explanation:
+
+The answer is A, because the second sentence has the same meaning as the first sentence.
+
+The second sentence is a paraphrase of the first sentence.<|end_of_text|>

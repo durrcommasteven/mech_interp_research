@@ -1,0 +1,28 @@
+prompt: <｜User｜>Using simple terms, What are fractals? Explain in 150 words
+<｜Assistant｜><think>
+
+continuation: <think>
+
+newline: <think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to explain this concept about vectors and their properties. The user mentioned something about vectors being like arrows that have both magnitude and direction, and they pointed out that vectors can be added and subtracted. They also talked about the importance of the direction in determining whether two vectors are equal or opposites. 
+
+Hmm, I need to make sure I understand each of these points clearly. Let me start by recalling what a vector is. From what I remember,
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to approach this problem. The question is asking me to explain how to solve for x in the equation 3x + 4 = 9. Hmm, I remember from algebra that this is a linear equation, and I think I need to isolate x on one side to find its value. Let me think about the steps involved.
+
+First, I have 3x + 4 = 9. To get x by itself, I should probably
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to help someone who is struggling with their weight. I remember reading that being more active and eating better can help, but I'm not entirely sure how to start. Maybe I should think about what causes weight gain in the first place. I know that when people eat more calories than they burn, they gain weight. But how do I translate that into something someone can do?
+
+I think the first step is setting realistic goals. If someone is really overweight
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to write a Python program that can recognize and describe the type of a person based on their face. Hmm, that sounds like a problem involving face recognition. I'm not super familiar with face recognition algorithms, but I know that they usually involve machine learning, like using deep neural networks to identify features in a face.
+
+First, I think I need to gather some data. Maybe I can start by collecting images of different people with their labels, like "male
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to answer this question about the impact of social media on mental health. The user provided a detailed response, but I need to think through it as if I'm just starting to understand the topic. Let me break it down step by step.
+
+First, I remember that social media is a big part of everyone's daily life now. People use platforms like Facebook, Instagram, Twitter, etc., to connect with friends, share news, and express themselves.

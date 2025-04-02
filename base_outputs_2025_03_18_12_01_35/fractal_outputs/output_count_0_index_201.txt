@@ -1,0 +1,63 @@
+prompt: ## Input:
+ Explain fractals in 150 words
+
+## Output:
+
+continuation: 
+
+## Output:
+
+newline: 
+
+## Output:
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+A text file containing the following:
+1. The text "I am a bot" (no other text)
+2. The text "I am a bot" (no other text)
+3. The text "I am a bot" (no other text)
+4. The text "I am a bot" (no other text)
+5. The text "I am a bot" (no other text)
+6. The text "I am a bot" (no other text)
+7. The
+<|begin_of_text|>
+
+## Output:
+A paragraph describing the output of the function.<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+ A computer is a device that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the ability to follow generalized sets of operations, called programs. These programs enable computers to perform an extremely wide range of tasks. A "complete" computer including the hardware, the operating system (main software), and peripheral equipment required and used for "full" operation can be referred to as a computer system. This term may as well be used for a group of computers that
+<|begin_of_text|>
+
+## Output:
+ A computer program that takes in a sentence and outputs the sentence with the words in reverse order. For example, "hello world" would become "world hello". The program should use a while loop to iterate through the words in the sentence and reverse the order.
+
+## Solution:
+```python
+sentence = input("Enter a sentence: ")
+words = sentence.split()
+reversed_words = []
+while words:
+    reversed_words.append(words.pop())
+print(" ".join(reversed_words))
+```
+In this solution
+<|begin_of_text|>
+
+## Output:
+ A program that can read the input from the user and display the output.
+
+## Steps to complete:
+1. Create a new python file called `input_output.py`
+2. Write a program that can read the input from the user and display the output.
+3. Run the program and verify the output.
+
+## Example:
+```python
+input_name = input("Enter your name: ")
+print(f"Hello {input_name}")
+```<|end_of_text|>

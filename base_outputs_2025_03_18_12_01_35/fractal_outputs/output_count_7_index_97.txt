@@ -1,0 +1,56 @@
+prompt: 
+System: Provide a detailed explanation
+ Explain fractals in 150 words
+
+Assistant: 
+continuation: 
+
+Assistant: 
+newline: 
+
+Assistant: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant: 1500 words
+
+Assistant: What do you want to write about?
+
+Assistant: Do you want to write about something specific?
+
+Assistant: Do you want to write about something specific?
+
+Assistant: Do you want to write about something specific?
+
+Assistant: Do you want to write about something specific?
+
+Assistant: Do you want to write about something specific?
+
+Assistant: Do you want to write about something specific?
+
+Assistant: Do you want to write about something specific?
+
+Assistant: Do you want to write about something
+<|begin_of_text|>
+
+Assistant: 150 words
+<|end_of_text|>
+<|begin_of_text|>
+
+Assistant:  Fractals are complex geometric shapes that are created by repeating a simple process over and over in an ongoing feedback loop. Fractals are characterized by self-similarity, which means that they look similar at different levels of magnification. This self-similarity can be seen in the structure of many natural objects, such as snowflakes, trees, and coastlines. Fractals can also be used to model complex systems, such as the stock market and the weather.
+
+The study of
+<|begin_of_text|>
+
+Assistant:  A human assistant that can help you with a variety of tasks, such as fetching information from the internet, setting reminders, or making phone calls.
+
+Chatbot:  A chatbot is a computer program that can simulate a conversation with human users, typically through voice or text-based interfaces.
+
+Computer Vision:  Computer vision is the field of artificial intelligence that deals with the ability of computers to understand and interpret visual information from the world around them.
+
+Deep Learning:  Deep learning is a subset of machine learning
+<|begin_of_text|>
+
+Assistant:  Fractals are patterns that repeat at different scales. They are created by mathematical equations that describe the way that a pattern repeats itself over and over again. Fractals can be used to describe natural phenomena, such as the branching of trees or the structure of snowflakes, and they can also be used to create interesting and complex patterns.
+
+Fractals can be created using a variety of different mathematical equations. One common equation used to create fractals is the Mandelbrot set. The

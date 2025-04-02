@@ -1,0 +1,43 @@
+prompt: # Question
+ Explain fractals in 150 words
+
+
+continuation: 
+
+# Answer
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+# Answer
+- It is a system of data storage that is organized into files and directories. It is a way to organize and store data on a computer or other device.<|end_of_text|>
+<|begin_of_text|>
+
+# Answer
+<|end_of_text|>
+<|begin_of_text|>
+
+# Answer
+The answer to this question is that the answer is the answer.
+<|end_of_text|>
+<|begin_of_text|>
+
+# Answer
+The answer is that the program will not work because the function `f` does not return a value. In order for the program to work, the function `f` must return a value. This can be done by adding a return statement to the function, as shown below:
+```python
+def f():
+    print("Hello, World!")
+    return "Hello, World!"
+```
+In this case, the function `f` will return the string `"Hello, World!"` when it is
+<|begin_of_text|>
+
+# Answer
+The answer is:
+```bash
+$ curl -s https://raw.githubusercontent.com/bradtraversy/udemy_python_rest_api/master/api.py
+```
+<|end_of_text|>

@@ -1,0 +1,87 @@
+prompt: ## Input:
+ Explain fractals in 150 words
+
+
+continuation: 
+
+## Output:
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+```
+Output:
+The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "The output is "
+<|begin_of_text|>
+
+## Output:
+```
+The output of this program is:
+```
+## Explanation:
+
+In this program we are using the system() function to execute the command on the command line.
+
+## Program 2:
+
+## Source Code:
+```
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+
+int main()
+{
+    char *cmd = "ls -l";
+    int status;
+    FILE *fp;
+
+    fp = popen(cmd, "r");
+    if(fp == NULL)
+    {
+        printf("
+<|begin_of_text|>
+
+## Output:
+```bash
+$./hello_world.sh
+Hello World!
+```
+<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```bash
+$ python3 main.py
+Input: 3
+Output: 1
+Input: 5
+Output: 2
+Input: 7
+Output: 3
+Input: 10
+Output: 3
+Input: 13
+Output: 4
+Input: 17
+Output: 4
+Input: 19
+Output: 4
+Input: 21
+Output: 4
+Input: 23
+Output: 5
+Input
+<|begin_of_text|>
+
+## Output:
+```
+This is an example of a Markdown document. It is written in plain text, but it is formatted with Markdown syntax. This syntax is easy to learn and it is used to format text in a way that is easy to read and understand.
+
+In this document, we will use Markdown syntax to format the text. We will also use some HTML tags to add some extra formatting to the text.
+
+To start, we will use a header to give the document a title. We will use the #

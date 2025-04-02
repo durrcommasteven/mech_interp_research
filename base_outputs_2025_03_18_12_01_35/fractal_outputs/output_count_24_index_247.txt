@@ -1,0 +1,31 @@
+prompt: 
+[Task]
+ Explain fractals in 150 words
+
+[Answer]: 
+continuation: 
+
+[Answer]: 
+newline: 
+
+[Answer]: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]:  Fractals are patterns that repeat on all scales. They are a mathematical concept that has been applied to many fields, including computer graphics, physics, and biology. Fractals are often used to model natural phenomena, such as coastlines and mountain ranges.
+
+Fractals can be created using a variety of methods, including recursive functions, iterated function systems, and L-systems. These methods allow for the creation of complex and intricate patterns that would be difficult to create using traditional methods.
+
+Fr
+<|begin_of_text|>
+
+[Answer]:  A fractal is a never ending pattern. The most common example is a fractal tree, where the branches are smaller versions of the whole tree. Fractals are used in nature to create patterns. For example, the branches of a tree are fractal. The branches are smaller versions of the whole tree. This is because the branches are used to carry water and nutrients to the leaves. The leaves are used to photosynthesize and produce food for the tree. The branches are also used to
+<|begin_of_text|>
+
+[Answer]:  A fractal is a never ending pattern. It can be found in nature and in the man made world. It can be found in clouds, in the branches of trees, in the veins of a leaf and in the patterns of snowflakes. Fractals are also found in man made objects like computer chips, the design of a river bed and in the design of the branches of a tree. Fractals are made up of smaller fractals and so on. Fractals are self
+<|begin_of_text|>
+
+[Answer]:  Fractal is a shape that is self-similar across different scales. It is an infinitely repeating pattern.  A fractal is a rough or fragmented geometric shape that can be split into parts, each of which is (at least approximately) a reduced-size copy of the whole. A fractal is an object or quantity that displays self-similarity, in a somewhat technical sense, on all scales. The object need not exhibit exactly the same structure at all scales, but the same "type"
+<|begin_of_text|>
+
+[Answer]:  Fractal is a self-similar pattern. Fractal is a repeating pattern in a mathematical equation. Fractal is a repeating pattern in a mathematical equation. The fractal pattern is a repeating pattern in a mathematical equation. The fractal pattern is a repeating pattern in a mathematical equation. The fractal pattern is a repeating pattern in a mathematical equation. The fractal pattern is a repeating pattern in a mathematical equation. The fractal pattern is a repeating pattern in a mathematical equation. The fractal pattern

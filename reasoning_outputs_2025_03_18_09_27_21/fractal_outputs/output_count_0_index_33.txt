@@ -1,0 +1,29 @@
+prompt: <｜User｜>Using simple terms, Explain fractals in 150 words<｜Assistant｜><think>
+
+continuation: <｜Assistant｜><think>
+
+newline: <｜Assistant｜><think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out what to write about the user's query. They asked for an explanation of the word "algorithm" in simple terms. Hmm, let me break this down.
+
+First, I should start by defining what an algorithm is in a way that's easy to understand. Maybe I can use an example they might relate to, like cooking. People know how to make a meal, so that could work.
+
+Wait, the user also mentioned that it's a step-by-step
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain what a photon is. I remember from school that photons are related to light, but I'm a bit fuzzy on the details. Let me start by breaking it down.
+
+First, I think photons are tiny particles, right? But wait, they're not like atoms or molecules; they're much smaller. I've heard the term "quantum" before, so maybe that has something to do with it. Quantum mechanics is a field of physics
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain how photosynthesis works. I remember it's a process plants use, but I'm a bit fuzzy on the details. Let me try to recall what I learned in school.
+
+First, I think photosynthesis has something to do with chlorophyll. Yeah, that's the green pigment in plants. So chlorophyll must be involved in the process. I remember seeing diagrams where chloroplasts are involved. Chloroplasts are those structures inside
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain what a database is in a simple way. Hmm, I know a database is like a collection of data, but I'm not exactly sure about the details. Let me think.
+
+First, I remember that databases store information in a structured way. Maybe it's organized? Like, not just random data. So, if I have a list of things, a database would keep them in a more orderly fashion. I think it's something like a
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain what a chemical reaction is in a way that's easy to understand. I remember in school, the teacher used examples with things like baking soda and vinegar reacting to make fizz. That's a good start because it's something relatable.
+
+First, I should probably define what a chemical reaction is. From what I recall, it's when two or more substances combine and produce new substances. So, it's a process that changes the chemical composition of

@@ -1,0 +1,56 @@
+prompt: ## Input: Explain fractals in 150 words
+
+## Output:
+
+continuation: 
+
+## Output:
+
+newline: 
+
+## Output:
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+## 1. A list of 5 words, which are the most frequently used in the text. 
+## 2. A list of 5 words, which are the least frequently used in the text. 
+## 3. A list of 5 words, which are the most frequently used in the text, but not in the output of the previous task.
+## 4. A list of 5 words, which are the least frequently used in the text, but not in the
+<|begin_of_text|>
+
+## Output:
+# - 1. Write a Python program to count the number of even and odd numbers from a series of numbers.
+# - 2. Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings.
+# - 3. Write a Python program to map two lists into a dictionary.
+# - 4. Write a Python program to map two lists into a dictionary.
+# - 
+<|begin_of_text|>
+
+## Output:
+## 1. The first 1000 prime numbers
+## 2. The first 1000 prime numbers that are not in the Fibonacci sequence
+## 3. The first 1000 prime numbers that are in the Fibonacci sequence
+## 4. The first 1000 prime numbers that are not in the Fibonacci sequence and are not in the first 1000 prime numbers
+
+## 5. The first 1000 prime numbers that are in the Fibonacci sequence and are not in
+<|begin_of_text|>
+
+## Output:
+- [x] a list of all the possible questions and answers
+- [x] a list of all the possible questions and answers
+- [x] a list of all the possible questions and answers
+- [x] a list of all the possible questions and answers
+- [x] a list of all the possible questions and answers
+- [x] a list of all the possible questions and answers
+- [x] a list of all the possible questions and answers
+- [
+<|begin_of_text|>
+
+## Output:
+# 1. A string with the input text.
+# 2. A string with the input text with all the vowels removed.
+# 3. A string with the input text with all the vowels removed, but with the first letter of each word capitalized.
+# 4. A string with the input text with all the vowels removed, but with the first letter of each word capitalized, and with a period at the end of each sentence.
+# 5. A string with the input text

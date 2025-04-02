@@ -1,0 +1,82 @@
+prompt: ## Input: Explain fractals in 150 words
+
+
+continuation: 
+
+## Output:
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+```
+Hello, World!
+```
+<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```
+$ cat output.txt
+$ python3./script.py
+$ cat output.txt
+```
+## Explanation:
+```
+$ cat output.txt
+```
+```
+$ python3./script.py
+```
+```
+$ cat output.txt
+```
+## Source Code:
+```
+import os
+import sys
+
+with open("output.txt", "w") as f:
+    f.write("")
+
+if __name__ == "__main__":
+    os.system("cat output.txt")
+    os
+<|begin_of_text|>
+
+## Output:
+```
+1. The function must return the string "hello world" as a result.
+2. The function must return the string "hello world" as a result.
+3. The function must return the string "hello world" as a result.
+4. The function must return the string "hello world" as a result.
+5. The function must return the string "hello world" as a result.
+6. The function must return the string "hello world" as a result.
+7.
+<|begin_of_text|>
+
+## Output:
+```
+$ go run main.go
+Hello, world!
+```<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```
+$./a.out
+This is a test
+```
+## Explanation:
+
+The program is very simple. We just print the string "This is a test". However, the program is compiled and run as a 64-bit program. Thus, we need to compile it using the -m64 flag.
+
+## Compile and run:
+```
+$ gcc -m64 -o a.out a.c
+$./a.out
+This is a test
+```<|end_of_text|>

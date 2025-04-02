@@ -1,0 +1,75 @@
+prompt: <prompt>Explain fractals in 150 words</prompt>
+
+
+continuation: 
+
+ <response>
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+ <response> 
+ <data>
+ <row>
+ <id>1</id>
+ <name>John</name>
+ <surname>Doe</surname>
+ </row>
+ </data>
+ </response><|end_of_text|>
+<|begin_of_text|>
+
+ <response> <|end_of_text|>
+<|begin_of_text|>
+
+ <response> 
+ <message> 
+ <code>200</code> 
+ <text>OK</text> 
+ </message> 
+ <result> 
+ <id>1</id> 
+ <name>John Doe</name> 
+ <email>john@doe.com</email> 
+ <password>12345678</password> 
+ <phone>+1234567890</phone> 
+ <address>123 Main St.</address> 
+ <city>Anytown</city> 
+ <state
+<|begin_of_text|>
+
+ <response> 
+  <name>response</name> 
+  <id>response</id> 
+  <type>response</type> 
+  <fields> 
+   <field> 
+    <name>id</name> 
+    <id>id</id> 
+    <type>string</type> 
+    <required>true</required> 
+    <length>255</length> 
+   </field> 
+   <field> 
+    <name>title</name>
+<|begin_of_text|>
+
+ <response> 
+  <message> 
+   <header> 
+    <version>1.0</version> 
+    <status>OK</status> 
+    <message> 
+     <code>0</code> 
+     <text>OK</text> 
+    </message> 
+   </header> 
+   <body> 
+    <data> 
+     <request> 
+      <id>1234</id> 
+     </request> 
+     <response> 
+     

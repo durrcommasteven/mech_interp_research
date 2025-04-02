@@ -1,0 +1,32 @@
+prompt: <｜User｜>In scientific terminology, Explain fractals in 150 words
+<｜Assistant｜>
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is a monosaccharide that can be found in various natural sources such as fruits, honey, and sweeteners. It is known for its sweet taste and is often used in food and beverage production. Here are some key points about fructose:
+
+1. **Structure**: Fructose exists in two forms—alpha and beta. The alpha form is the more common one found in nature.
+
+2. **Sources**: Fructose is abundant in fruits like apples
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is a monosaccharide that exists in two primary forms: glucose and fructose. Glucose is a simple sugar that is a fundamental energy source for cells, while fructose, also known as fruit sugar, is another essential carbohydrate. Fructose is often found in fruits, vegetables, and honey and is known for its sweet taste. It plays a significant role in energy metabolism, particularly in the liver, where it is converted into glucose through a process
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is a monosaccharide that exists in two primary forms: as a free monomer (fructose) and as a glycosidic bond with another monosaccharide, such as glucose, forming a disaccharide called sucrose. In its free monomer form, fructose is a ketohexose, which means it has a ketone group attached to a six-carbon chain. This structural feature allows fructose to
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar found naturally in foods such as fruits, honey, and sugarcane. It is a monosaccharide, meaning it is a single unit of carbohydrates. Fructose is also known as fruit sugar and is commonly used as a sweetener in various foods and beverages. 
+
+One of the key characteristics of fructose is that it is a reducing sugar, meaning it can be oxidized and reduces other compounds, such as sulfurous acid derivatives, in a reaction
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, honey, and sweeteners. It is a simple monosaccharide, meaning it consists of a single unit of two carbons, five hydrogens, and five oxygens. Unlike glucose, another common sugar, fructose is absorbed more slowly and is associated with a slower rise in blood glucose levels, which may have potential health benefits. However, the exact mechanism of its absorption and metabolism can vary depending

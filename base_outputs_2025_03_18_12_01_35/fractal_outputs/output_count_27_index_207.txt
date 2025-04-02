@@ -1,0 +1,27 @@
+prompt: <prompt>Explain fractals in 150 words</prompt>
+
+ <response>
+continuation: 
+
+ <response>
+newline: 
+
+ <response>
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+ <response>Fractal is a fractal generator. It allows you to generate a fractal image from a mathematical function. It also allows you to generate fractal images from a given set of points. It also allows you to generate fractal images from a given set of points. It also allows you to generate fractal images from a given set of points. It also allows you to generate fractal images from a given set of points. It also allows you to generate fractal images from a given set of
+<|begin_of_text|>
+
+ <response>Fractals are mathematical objects that have a self-similar structure. They are characterized by their recursive nature, where each part of the object is similar to the whole. Fractals are often used in the study of complex systems, such as turbulence and the stock market, because they can capture the behavior of these systems in a way that is more intuitive than traditional mathematical models. Fractals are also used in computer graphics to create realistic images of natural objects, such as trees and mountains.</response
+<|begin_of_text|>
+
+ <response>Fractal art is an art form that generates images using fractals. A fractal is a mathematical set that displays self-similarity, that is, parts of the set resemble the whole set. Fractal art is created by generating fractal images using computer software. Fractal art can be created using a variety of different techniques, including Mandelbrot sets, Julia sets, and other fractal algorithms. The resulting images can be incredibly complex and beautiful, and can be used to create a
+<|begin_of_text|>
+
+ <response>Fractal dimension is a measure of the complexity of a fractal. It is an index that is applied to fractals to measure their dimension. It is an index that is applied to fractals to measure their dimension. It is an index that is applied to fractals to measure their dimension. It is an index that is applied to fractals to measure their dimension. It is an index that is applied to fractals to measure their dimension. It is an index that is applied to fractals to
+<|begin_of_text|>
+
+ <response>Fractal</response>
+
+<|end_of_text|>

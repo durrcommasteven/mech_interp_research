@@ -1,0 +1,75 @@
+prompt: 
+## Input:
+ Explain fractals in 150 words
+
+## Output:
+
+continuation: 
+
+## Output:
+
+newline: 
+
+## Output:
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+ 
+ A sentence that starts with a capital letter and ends with a period. The sentence should be written in the first person. The sentence should have at least 5 words. The sentence should be in the present tense. The sentence should have at least one word that starts with a consonant and one word that starts with a vowel. The sentence should have at least one word that ends with a consonant and one word that ends with a vowel. The sentence should have at least one word that is
+<|begin_of_text|>
+
+## Output:
+A text file containing the markdown for the article.
+<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+ A short description of the topic and a list of subtopics.
+
+## Algorithm
+ 1. Read the prompt.
+ 2. Use a short description of the topic as the title.
+ 3. Use a list of subtopics as the content.
+
+## Code
+```python
+import markdown
+from docutils.core import publish_parts
+
+def generate_markdown(prompt):
+    # Generate a short description of the topic
+    topic = prompt.split(" ")[0]
+    description = f"{topic} is
+<|begin_of_text|>
+
+## Output:
+ Fractal
+
+## Steps:
+ 1. Import `p5.js` and `p5.dom.js`
+ 2. Create a sketch
+ 3. Create a function to draw the fractal
+ 4. Call the function in the setup
+ 5. Draw the fractal in the draw function
+ 6. Add a button to toggle the fractal
+ 7. Add a slider to adjust the size of the fractal
+ 8. Add a slider to adjust the color
+<|begin_of_text|>
+
+## Output:
+A text file containing the following text:
+```
+A text file containing the following text:
+A text file containing the following text:
+A text file containing the following text:
+A text file containing the following text:
+A text file containing the following text:
+A text file containing the following text:
+A text file containing the following text:
+A text file containing the following text:
+A text file containing the following text:
+A text file containing the following text:
+A text file containing the following text:
+A text

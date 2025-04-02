@@ -1,0 +1,32 @@
+prompt: 
+[Task]
+ Explain fractals in 150 words
+
+[Answer]: 
+continuation: 
+
+[Answer]: 
+newline: 
+
+[Answer]: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]:  Fractal geometry is a branch of mathematics that studies geometric patterns in which the same patterns are repeated at ever smaller scales. In other words, a fractal is a geometric shape that repeats itself at different scales. The word "fractal" was coined by Benoit Mandelbrot in 1975, and it comes from the Latin word "fractus", which means "broken" or "fragmented". Fractals are often used to model natural phenomena that have a complex structure, such
+<|begin_of_text|>
+
+[Answer]:  Fractal geometry is a branch of mathematics focused on fractals and fractal analysis. A fractal is a never-ending pattern that is self-similar across different scales. Fractals are often used to model natural phenomena that exhibit self-similarity, such as coastlines, mountain ranges, and tree branches. Fractal geometry is useful in fields such as physics, biology, and computer science, as it allows for the analysis of complex systems that are too difficult to study using traditional Euclidean geometry
+<|begin_of_text|>
+
+[Answer]:  Fractal is a very interesting concept. The concept of fractal is a concept that is used in mathematics, but it is also used in many other fields. For example, fractal is used in computer graphics, music, and art. The concept of fractal is a concept that is used in mathematics, but it is also used in many other fields. For example, fractal is used in computer graphics, music, and art.
+
+The concept of fractal is a concept that is used in
+<|begin_of_text|>
+
+[Answer]: 1. A fractal is a rough or fragmented geometric shape that can be subdivided in parts, each of which is (at least approximately) a reduced-size copy of the whole. The term was coined by Benoît Mandelbrot in 1975 and was derived from the Latin fractus meaning "broken" or "fractured".
+
+2. Fractals are encountered ubiquitously in nature due to a "fundamental pattern" that repeats
+itself, the pattern being
+<|begin_of_text|>
+
+[Answer]:  A fractal is a mathematical set that exhibits a repeating pattern displayed at every scale. It is also known as expanding symmetry or evolving symmetry. If the replication is exactly the same at every scale, it is called a self-similar pattern. An example of this is the Menger Sponge. Fractals can also be nearly the same at different levels. This latter pattern is illustrated in the magnifications of the Mandelbrot set. Fractals also include the idea of a detailed pattern that

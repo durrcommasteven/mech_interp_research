@@ -1,0 +1,88 @@
+prompt: 
+<prompt>Explain fractals in 150 words</prompt>
+
+
+continuation: 
+
+ <response>
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+ <response> <value>1</value> </response>
+
+ <response> <value>2</value> </response>
+
+ <response> <value>3</value> </response>
+
+ <response> <value>4</value> </response>
+
+ <response> <value>5</value> </response>
+
+ <response> <value>6</value> </response>
+
+ <response> <value>7</value> </response>
+
+ <response> <value>8</value> </response
+<|begin_of_text|>
+
+ <response>1</response>
+ <result>
+ <message>1</message>
+ <id>1</id>
+ <name>1</name>
+ <description>1</description>
+ <address>1</address>
+ <city>1</city>
+ <state>1</state>
+ <zip>1</zip>
+ <phone>1</phone>
+ <email>1</email>
+ <fax>1</fax>
+ <web>1</web>
+ <active>1</active>
+ <company
+<|begin_of_text|>
+
+ <response> <text>Hi, I'm <b>Bot</b>! I am a bot created by <a href="https://github.com/lukebarnes">Luke Barnes</a> to help you learn more about <b>Physics</b>!</text> </response>
+
+ <response> <text>Ask me a question, like "What is a photon?"</text> </response>
+
+ <response> <text>My name is <b>Bot</b>,
+<|begin_of_text|>
+
+ <response> <message> <title> </title> <body> </body> </message> </response>
+
+ <message> <title> </title> <body> </body> </message>
+
+ <title> </title> <body> </body>
+
+ <body> </body>
+
+ <title> </title> <body> </body>
+
+ <body> </body>
+
+ <title> </title> <body> </body>
+
+ <body> </body>
+
+ <title> </title> <
+<|begin_of_text|>
+
+ <response> 
+ <result> 
+ <title> 
+ <text> 
+ <a href="http://www.google.com"> 
+ <link> 
+ <link rel="alternate" href="http://www.google.com" type="text/html" /> 
+ </link> 
+ </a> 
+ </text> 
+ </title> 
+ </result> 
+ </response> 
+<|end_of_text|>

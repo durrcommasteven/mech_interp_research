@@ -1,0 +1,23 @@
+prompt: <｜User｜>For a beginner audience, Explain fractals in 150 words
+<｜Assistant｜><think>
+continuation: <think>
+newline: <think>
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to make a website for my business. I've heard that having a website is really important these days, especially for reaching customers and building an online presence. But I'm not exactly sure where to start. I remember seeing some friends who have websites, and they mentioned things like HTML and CSS, but I'm not really familiar with those. Maybe I need to learn some coding?
+
+Wait, maybe there's a simpler way. I think I've
+<｜begin▁of▁sentence｜><think>
+Alright, so I'm trying to figure out how to solve this problem. It says, "Prove that the sum of the squares of the roots of a quadratic equation is equal to the square of the sum of the roots." Hmm, okay, let's break this down.
+
+First, I remember that for a quadratic equation, there are some standard formulas related to the roots. The general form of a quadratic equation is \( ax^2 + bx + c = 0 \), right?
+<｜begin▁of▁sentence｜><think>
+Alright, so I have this problem where I need to find the number of possible subsets of a set with 3 elements, where the subsets must have an even number of elements and the elements are either all even or all odd. Hmm, okay, let's break this down step by step.
+
+First, let me make sure I understand the problem correctly. I have a set with 3 elements. Let's say, for example, the set is {1, 2, 3}.
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to solve the equation 2x + 3y = 31. I remember from class that this is a linear equation, and probably I need to find the values of x and y that make the equation true. But I'm not exactly sure how to start. Let me think.
+
+First, I guess I could try to solve for one variable in terms of the other. Maybe I'll solve for x first. So, if I subtract
+<｜begin▁of▁sentence｜><think>
+Alright, so I need to figure out how to solve the equation 3x + 4y = 25. Hmm, okay, let's see. I remember from algebra that this is a linear equation with two variables, x and y. Since there are two variables, usually, you need two equations to solve for both variables. But here, there's only one equation. That probably means there are infinitely many solutions, right? Because with just one equation, you can't pinpoint exact

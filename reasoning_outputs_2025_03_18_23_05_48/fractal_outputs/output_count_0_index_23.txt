@@ -1,0 +1,27 @@
+prompt: <｜User｜>As an expert, Explain fractals in 150 words
+<｜Assistant｜>
+<think>
+
+continuation: <think>
+
+newline: <think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Fracking, or hydraulic fracturing, is a method used to extract natural gas from deep underground rock formations. It involves injecting a high-pressure mixture of water, sand, and chemicals into the ground to break apart the rock and release the gas trapped inside. The process is controversial due to its environmental and health impacts, as well as concerns about water contamination and climate change. Proponents argue that it is a necessary part of meeting global energy demands and can reduce reliance on fossil fuels.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜><think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, honey, and sweet vegetables. It's known for its sweet taste and is often used in cooking, baking, and as a sweetener in beverages. Fructose can also be added to foods as a commercial sweetener, such as in candies, processed foods, and energy drinks.
+
+One of the key characteristics of fructose is its ability to dissolve in water, making it a popular choice for sweetening beverages.
+<｜begin▁of▁sentence｜><think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, honey, and sweet vegetables. It is known for its unique properties compared to other sugars like glucose. Here are some key points about fructose:
+
+1. **Sweetness**: Fructose is sweeter than glucose, meaning you can use less of it to achieve the same level of sweetness. This can be beneficial in reducing calorie intake.
+
+2. **Digestion**: Fructose is absorbed differently from other sugars.
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar that is often found in fruits and can also be added to foods as a sweetener. It is a monosaccharide, meaning it is a single unit of sugar, and it is also known as fruit sugar. Fructose is absorbed into the bloodstream differently compared to other sugars like glucose, and it can have different effects on blood sugar levels and insulin response.
+
+One of the key differences between fructose and glucose is how they are absorbed by the body.
+<｜begin▁of▁sentence｜><think>
+Fructose, a type of sugar found in fruits, is often considered a "healthy" sugar because it can be digested without the need for insulin. However, consuming too much fructose can lead to health issues, such as insulin resistance and metabolic syndrome, particularly when combined with a high-calorie diet. Moderation is key when it comes to fructose consumption.<｜end▁of▁sentence｜>

@@ -1,0 +1,27 @@
+prompt: <｜User｜>Using simple terms, Provide a clear explanation of fractals in 150 words<｜Assistant｜><think>
+
+continuation: <｜Assistant｜><think>
+
+newline: <｜Assistant｜><think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain the concept of infinity in mathematics. Hmm, where do I even start? I remember from school that infinity is a big deal, but I'm not exactly sure why. Let me think... I think it's something to do with numbers that go on forever, right? Like, if you keep adding one more number, you never reach a point where you can say, "Okay, we're done."
+
+Wait, but how does that work with
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain how the heart works in a simple way. I remember from school that the heart is a muscle that pumps blood, but I'm a bit fuzzy on the details. Let me try to break it down step by step.
+
+First, I think the heart has four chambers. I've heard the terms atria and ventricles before. Maybe the atria are the upper chambers and the ventricles are the lower ones? So, the heart
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out what to write for this query. The user is asking for a definition of what it means to be "carbon neutral." Hmm, I remember that carbon neutral usually refers to something that doesn't contribute to climate change. But I should probably break it down more. 
+
+First, I think about what causes carbon emissions. It's mainly from burning fossil fuels, right? Like coal, oil, and gas. So, carbon neutral would mean not adding any more greenhouse
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain what a database is. Let me start by thinking about what I know. I've heard the term used a lot, especially in the context of computers and the internet. I think it has something to do with organizing information, but I'm not exactly sure how.
+
+Maybe I can start by breaking down the word. "Database" – does that have a Greek or Latin root? I'm not sure, but I'll check. Wait, maybe
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain the concept of "sin" in a way that's easy to understand. Let me start by recalling what I know about trigonometry. Sin, along with cos, tan, and the other functions, are fundamental in trigonometry and are related to the sides of a right triangle. 
+
+I remember that in a right-angled triangle, the sine of an angle is the ratio of the length of the opposite side to the hypotenuse

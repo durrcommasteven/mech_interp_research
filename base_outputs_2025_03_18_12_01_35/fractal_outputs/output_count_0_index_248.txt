@@ -1,0 +1,53 @@
+prompt: 
+## Input:
+ Explain fractals in 150 words
+
+
+continuation: 
+
+## Output:
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+```
+"Hello, my name is John."
+```
+<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```
+In [1]: print("hello")
+hello
+```
+<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```
+I am a student of 5th sem.
+```
+<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```bash
+$./main.py
+> Enter your text: Hello, world!
+> Hello, world!
+```
+
+## Steps:
+1. Ask the user for input
+2. Print the input
+<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+![output](https://github.com/Rajeshkumarpriya/Python-Programming/blob/main/Week-2/Day-4/Output.png)
+<|end_of_text|>

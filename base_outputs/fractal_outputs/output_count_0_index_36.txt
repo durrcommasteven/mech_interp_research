@@ -1,0 +1,38 @@
+prompt: 
+Instructions: Be concise and clear Explain fractals in 150 words
+
+
+continuation: 
+
+Response: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response: <|end_of_text|>
+<|begin_of_text|>
+
+Response: <|end_of_text|>
+<|begin_of_text|>
+
+Response:  I have used the following code to get the list of all the users in my AD and it works fine.
+
+    $users = Get-ADUser -Filter * -Properties Name, DisplayName, SamAccountName, UserPrincipalName, Enabled, PasswordNeverExpires, PasswordLastSet, LastLogonDate, whenChanged, whenCreated, AccountExpirationDate | Sort-Object -Property Name
+
+    $users | ForEach-Object {
+
+    $user = $_
+
+    $userObject = [
+<|begin_of_text|>
+
+Response: 1. The main reason why the water is salty is because of evaporation. The salt is left behind in the ocean and the water is evaporated into the air. This is why the ocean is salty. 2. The ocean is salty because of the water cycle. The water cycle is when water evaporates from the ocean and then falls back down as rain or snow. The salt is left behind in the ocean. This is why the ocean is salty. 3. 
+<|begin_of_text|>
+
+Response: 1
+
+The word "response" refers to the reaction or reply that is given in return to something that has been said or done. In the context of the prompt, the word "response" would refer to the reaction or reply that is given in response to the question about the word "response." In other words, the response to the question about the word "response" would be the definition of the word "response."
+
+The word "response" can be defined in a number of ways, depending

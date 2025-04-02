@@ -1,0 +1,92 @@
+prompt: 
+<prompt>Explain fractals in 150 words</prompt>
+
+
+continuation: 
+
+ <response>
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+ <response> 
+   <success>1</success>
+   <message>Successfully logged in.</message>
+   <data>
+     <user_id>1</user_id>
+     <user_name>admin</user_name>
+     <email>admin@admin.com</email>
+     <role>admin</role>
+   </data>
+ </response><|end_of_text|>
+<|begin_of_text|>
+
+ <response> 
+  <body> 
+   <response> 
+    <error> 
+     <code> 
+      0 
+     </code> 
+     <message> 
+      Success 
+     </message> 
+    </error> 
+    <result> 
+     <status> 
+      1 
+     </status> 
+     <data> 
+      <id> 
+       0 
+      </id> 
+      <name> 
+       Test 
+      </name> 
+     
+<|begin_of_text|>
+
+ <response> 
+  <message>
+   <error> 
+    <code>0</code>
+    <message>Request was successful</message>
+   </error>
+   <data>
+    <id>1</id>
+    <title>My first article</title>
+    <author>John Doe</author>
+    <content>My first article content</content>
+    <date>2021-01-01</date>
+   </data>
+  </message>
+ </response><|end_of_text|>
+<|begin_of_text|>
+
+ <response> 
+ <status>success</status>
+ <message>success</message>
+ <data> 
+ <id>1</id>
+ <name>ABC</name>
+ <description>ABC</description>
+ <image>http://localhost:8080/website/images/abc.png</image>
+ <website>http://localhost:8080/website/</website>
+ <createdDate>2016-09-30T12:14:16.000+0000</createdDate>
+ <updated
+<|begin_of_text|>
+
+ <response> 
+  <content type="application/json">
+  {
+    "success": true,
+    "message": "Success",
+    "data": {
+      "id": 2,
+      "name": "Test"
+    }
+  }
+  </content>
+  </response><|end_of_text|>

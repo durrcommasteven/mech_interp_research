@@ -1,0 +1,33 @@
+prompt: 
+Instructions: Be concise and clear
+ Explain fractals in 150 words
+
+
+continuation: 
+
+Response: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response: 1. It's a form of data storage that is non-volatile, meaning it doesn't lose its contents when the power is turned off. 2. It is the most commonly used type of data storage device for computers. 3. It is used to store programs and data on a computer. 4. It is used to store data on a computer. 5. It is used to store data on a computer. 6. It is used to store data on a computer.
+<|begin_of_text|>
+
+Response:  I'm not sure what you mean by "I'm not sure what you mean by "I'm not sure what you mean by "I'm not sure what you mean by "I'm not sure what you mean by "I'm not sure what you mean by "I'm not sure what you mean by "I'm not sure what you mean by "I'm not sure what you mean by "I'm not sure what you mean by "I'm not sure what you mean by "I
+<|begin_of_text|>
+
+Response: <|end_of_text|>
+<|begin_of_text|>
+
+Response: 1. A program written in a programming language is called source code. 2. Source code is a set of instructions written by a programmer that can be understood by a computer. 3. Source code is converted into machine code by a compiler. 4. Machine code is a set of instructions that can be understood by a computer. 5. Machine code is then executed by the computer to perform the desired task.
+
+<|end_of_text|>
+<|begin_of_text|>
+
+Response: 1. What is the difference between a computer and a calculator?
+A computer is a general-purpose machine that can be programmed to perform a wide variety of tasks. A calculator is a specific-purpose machine that can only perform a limited number of tasks.
+2. What is the difference between a computer and a smartphone?
+A computer is a general-purpose machine that can be programmed to perform a wide variety of tasks. A smartphone is a specific-purpose machine that can only perform a limited number of tasks.
+3.

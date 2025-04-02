@@ -1,0 +1,35 @@
+prompt: 
+[Task] Explain fractals in 150 words
+
+
+continuation: 
+
+[Answer]: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]: 1. I will be able to learn more about the world and how it works. 2. I will be able to help others in my community and make a difference. 3. I will be able to make a positive impact on the world and help others. 4. I will be able to learn more about myself and my potential. 5. I will be able to help others and make a difference. 6. I will be able to learn more about the world and how
+<|begin_of_text|>
+
+[Answer]: 1. I'm not sure what you mean by "a function is a value". Can you elaborate?
+
+2. I think you're referring to the fact that a function is a mapping from inputs to outputs, and that the output of a function is a value. So, in that sense, a function can be thought of as a value.
+
+3. I'm not sure what you mean by "a function is a value". Can you elaborate?
+
+4. I think you're referring to the fact
+<|begin_of_text|>
+
+[Answer]: 1.1.1.1
+<|end_of_text|>
+<|begin_of_text|>
+
+[Answer]: 1.1.1
+
+<|end_of_text|>
+<|begin_of_text|>
+
+[Answer]: 1. Use a list comprehension to filter the list of integers so that it only contains numbers that are not divisible by 2 or 3. 2. Use a list comprehension to filter the list of integers so that it only contains numbers that are divisible by 2 or 3. 3. Use a list comprehension to filter the list of integers so that it only contains numbers that are not divisible by 2 or 3, but are divisible by 5. 4. Use a

@@ -1,0 +1,30 @@
+prompt: <｜User｜>What are fractals? Explain in 150 words<｜Assistant｜>
+
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is a natural component found in various foods such as fruits, honey, and sweeteners. It is a monosaccharide, meaning it is a single unit of carbohydrate, and it is water-soluble, which makes it easily digestible. Fructose is known for its sweet taste and is often used in baking, cooking, and as a sweetener in beverages.
+
+One of the unique aspects of fructose is its ability to dissolve in hot water
+<｜begin▁of▁sentence｜>
+<think>
+Francesco Pascalis di Carmignano, better known as Pacino, was a prominent figure in the Renaissance who served as a condottiere, military leader, and statesman in 16th-century Italy. He played a significant role in the power struggles of the Italian city-states, particularly during the Italian Wars. Pacino's military tactics and strategic mind earned him the respect of his contemporaries, and he was often consulted by various rulers and factions.
+
+Pacino's career was
+<｜begin▁of▁sentence｜>
+<think>
+Frugality is the practice of using resources wisely and avoiding waste. It involves making thoughtful choices about spending, saving, and investing to maximize the value and minimize the unnecessary expense. Frugal living can include strategies like budgeting, reducing debt, and focusing on experiences over material possessions. The goal is often to achieve financial stability and live a fulfilling life without unnecessary spending.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜>
+<think>
+Frugality, or the practice of living within one's means, is a key aspect of personal finance that emphasizes saving money and reducing unnecessary expenses. It involves making thoughtful decisions about spending, prioritizing needs over wants, and finding creative ways to maximize savings. Frugality can include strategies like budgeting, avoiding impulse purchases, and exploring cost-effective alternatives. By adopting a frugal lifestyle, individuals can improve their financial health, build savings, and work toward achieving their financial goals.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, also known as fruit sugar, is a type of monosaccharide, a simple sugar consisting of a five-carbon ring structure. It is a natural component of many fruits, vegetables, and other plant-based foods. Fructose is sweeter than glucose and can be found in its free state in fruits or as a component of sucrose (table sugar) when paired with glucose. It is commonly used as a sweetener in various foods and beverages.<｜end▁of▁sentence｜>

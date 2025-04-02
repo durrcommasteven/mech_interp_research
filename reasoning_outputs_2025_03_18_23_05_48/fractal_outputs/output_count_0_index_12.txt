@@ -1,0 +1,35 @@
+prompt: <｜User｜>Explain fractals in 150 words<｜Assistant｜>
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is found in fruits and honey. It's a simple carbohydrate, meaning it's a monosaccharide, which is a single unit of sugar. Unlike glucose, which is the primary energy source for cells, fructose is often used in the body for energy, especially in the muscles and liver. It can be sweet and is commonly used in processed foods, drinks, and desserts, but excessive consumption can lead to health issues like tooth decay, insulin resistance
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, vegetables, and honey. It can also be added to processed foods as a sweetener. Here are some key points about fructose:
+
+1. **Sources**: Fructose is found in abundance in fruits like apples, pears, and bananas; in vegetables such as cucumbers and tomatoes; and in sweeteners like honey and sugar.
+
+2. **Types**: There are two main forms of fructose:
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally found in various foods such as fruits, honey, and sweeteners. It is a monosaccharide, meaning it's a single unit of carbohydrates. Fructose is also known as fruit sugar and is commonly used in processed foods, beverages, and as a sweetener in cooking. Unlike glucose, fructose is absorbed more slowly into the bloodstream, which can help regulate blood sugar levels. However, excessive consumption of fructose, especially in sug
+<｜begin▁of▁sentence｜>
+<think>
+Okay, so I need to figure out how to answer the question, "How can I explain the concept of infinity to someone else?" Hmm, I'm not entirely sure where to start, but I think I've heard a bit about infinity in math class. Let me try to break it down.
+
+First, what exactly is infinity? I remember my teacher saying it's something that goes on forever, but I'm not sure how that works in math. I guess it's not just like a really
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, honey, and sweet vegetables. It is a simple carbohydrate that provides energy. Here are some key points about fructose:
+
+1. **Sources**: Found in abundance in fruits like apples, pears, and berries, as well as in sweet vegetables such as carrots and beets.
+
+2. **Types**: Two common forms—free fructose (found in fruits) and fructose glucose (from foods like honey

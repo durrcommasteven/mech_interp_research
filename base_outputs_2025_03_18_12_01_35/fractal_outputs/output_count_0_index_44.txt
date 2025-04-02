@@ -1,0 +1,66 @@
+prompt: 
+Human: Explain fractals in 150 words
+
+
+continuation: 
+
+AI: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+AI: <|end_of_text|>
+<|begin_of_text|>
+
+AI: 1
+
+AI: 2
+
+AI: 3
+
+AI: 4
+
+AI: 5
+
+AI: 6
+
+AI: 7
+
+AI: 8
+
+AI: 9
+
+AI: 10
+
+AI: 11
+
+AI: 12
+
+AI: 13
+
+AI: 14
+
+AI: 15
+
+AI: 16
+
+AI: 17
+
+AI: 18
+
+AI: 19
+
+AI: 20
+
+AI: 
+<|begin_of_text|>
+
+AI: <|end_of_text|>
+<|begin_of_text|>
+
+AI: <|end_of_text|>
+<|begin_of_text|>
+
+AI: <|end_of_text|>

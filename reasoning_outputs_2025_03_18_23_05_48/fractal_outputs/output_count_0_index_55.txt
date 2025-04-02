@@ -1,0 +1,23 @@
+prompt: <｜User｜>In scientific terminology, Explain fractals in 150 words
+<｜Assistant｜>
+<think>
+
+continuation: <think>
+
+newline: <think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Fructo, the Italian company specializing in the production of fruit-based products, is expanding its presence in the global market with a new production plant in the United States. This move aims to strengthen its distribution network and cater to the growing demand for fruit-based ingredients in North America. The new plant will focus on the production of frozen fruits and fruit purees, which are essential for various industries, including food and beverage manufacturing, pharmaceuticals, and cosmetics. Fructo has established itself as a leader
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar that is found naturally in fruits and can also be added as a sweetener in processed foods. It is a monosaccharide, meaning it is a single unit of sugar, and it is known for its sweet taste. Fructose can exist in two forms: as a free sugar and as a glycoside. When it is a free sugar, it is called fructose, and when it is attached to another sugar molecule, it is called fruct
+<｜begin▁of▁sentence｜><think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, honey, and sweet vegetables. It is a monosaccharide, meaning it is a single unit of carbohydrates. Unlike glucose, which is more commonly studied, fructose is absorbed through the small intestine and does not require insulin for its metabolism. However, it can still contribute to blood sugar levels, making it a subject of interest in diabetes research.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜><think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, vegetables, and honey. It is a monosaccharide, meaning it is a single unit of sugar, and it is sweeter than glucose. Fructose is also known as fruit sugar because it is abundant in fruits. It is often used as a sweetener in processed foods, beverages, and desserts. 
+
+One of the key characteristics of fructose is that it is a reducing sugar, which means
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar that is found in fruits, honey, and other natural sources. It is a hexose, meaning it has six carbon atoms, and it is distinct from glucose in its structure. Fructose is a reducing sugar, which means it can reduce the oxygen content of a solution, unlike glucose, which is a non-reducing sugar. This property is important in certain chemical reactions and biological processes.
+
+One of the key differences between fructose and glucose is their metabolic pathways

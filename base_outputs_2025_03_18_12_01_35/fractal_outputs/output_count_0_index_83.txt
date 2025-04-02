@@ -1,0 +1,58 @@
+prompt: Context: Academic explanation requested
+ Explain fractals in 150 words
+
+Assistant: 
+continuation: 
+
+Assistant: 
+newline: 
+
+Assistant: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant: 1500 characters left
+
+Include images with your question and make them clearer by using marks. Text
+
+A
+
+• 1
+• 2
+• 3
+• 4
+• Next
+• Show more<|end_of_text|>
+<|begin_of_text|>
+
+Assistant: 1
+Difficulty: 1
+Happiness: 5
+<|end_of_text|>
+<|begin_of_text|>
+
+Assistant: 150 points, due 11:59pm on Tuesday, March 3, 2020 (no extensions)
+
+## Overview
+
+This assignment is a bit of a departure from the other assignments in that you will not be writing any code. Instead, you will be writing a paper. You will need to work with a partner, and you will be graded on your ability to work with your partner. You will also be graded on your ability to read and understand a paper, and your ability to write
+<|begin_of_text|>
+
+Assistant:  I see you're still working on the problem.  Can I help?
+
+You:  I am having trouble with the concept of the derivative.
+
+Assistant:  I see.  Can you tell me more about what is causing you trouble?
+
+You:  I understand the concept of the derivative, but I don't understand the process of finding it.
+
+Assistant:  What do you mean by "finding the derivative"?
+
+You:  I mean, I understand the concept of the derivative, but I don
+<|begin_of_text|>
+
+Assistant: 1500 characters left
+
+Include: 1500 characters left
+
+• Was this helpful?<|end_of_text|>

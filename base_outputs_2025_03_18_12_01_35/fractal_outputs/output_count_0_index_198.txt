@@ -1,0 +1,54 @@
+prompt: [Task]
+ Explain fractals in 150 words
+
+
+continuation: 
+
+[Answer]: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]: 1. This is a classic example of a "hidden variable" problem. The problem is that there is a hidden variable, the position of the particle, which is not observed, but which determines the outcome of the experiment. The hidden variable is not observed because it is not possible to measure it. The problem is that the hidden variable is not observable because it is not possible to measure it.
+
+2. The hidden variable is the position of the particle. The position of the particle is not observable because
+<|begin_of_text|>
+
+[Answer]: 1.1.1.1
+
+Explanation: https://www.whatsmyip.org/<|end_of_text|>
+<|begin_of_text|>
+
+[Answer]: 1. What is the difference between a variable and a constant? Give an example of each.
+
+A variable is a symbol used to represent a value that can change. A constant is a symbol that represents a value that does not change.
+
+For example, the variable x could represent the number of apples in a basket, while the constant pi represents the ratio of the circumference of a circle to its diameter.
+
+2. What is a function? Give an example of a function and its domain and range.
+
+A
+<|begin_of_text|>
+
+[Answer]: <|end_of_text|>
+<|begin_of_text|>
+
+[Answer]: 1. What is the purpose of the following code snippet?
+
+    const { name, email } = require('user');
+    console.log(`Hello ${name}, your email is ${email}`);
+
+[Answer]: 2. What is the purpose of the following code snippet?
+
+    function double(x) {
+      return x * 2;
+    }
+
+    const result = double(5);
+    console.log(result);
+
+[Answer]: 3. What is the purpose of the following code snippet?
+
+    function

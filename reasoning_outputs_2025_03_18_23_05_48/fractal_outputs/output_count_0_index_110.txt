@@ -1,0 +1,38 @@
+prompt: <｜User｜>As an expert, Provide a clear explanation of fractals in 150 words<｜Assistant｜>
+
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is a naturally occurring monosaccharide found in various foods such as fruits, honey, and sugar cane. It is a sweet-tasting compound that plays a role in the flavor profile of many dishes and beverages. Fructose is also known for its role in glycosylation, where it attaches to proteins and other biomolecules, contributing to their function and structure. In the context of cooking, fructose is often used to add sweetness without altering the moisture
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar found naturally in various foods, such as fruits, honey, and sweeteners like table sugar. It is a monosaccharide, meaning it is a single unit of sugar, and it is known for its sweet taste. Fructose can exist in different forms, including fructose-1,6-bisphosphate (F-1,6-BP), which is a key intermediate in glycolysis, the process by which glucose is broken down to
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar that occurs naturally in various foods, such as fruits, honey, and sugar cane. It is a monosaccharide, meaning it is a single unit of carbohydrates. Fructose is also known as fruit sugar because it is abundant in fruits. It is a reducing sugar, which means it can be used to reduce other molecules, such as in the Maillard reaction, which is important in cooking and food processing.
+
+Fructose is sweeter than glucose, which
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally found in fruits and can also be derived from certain vegetables like beets. It is a versatile component in various industries, including food, pharmaceuticals, and cosmetics. Here are some key points about fructose:
+
+1. **Chemical Structure**: Fructose is a hexose sugar with the chemical formula C6H12O6. It differs from glucose in its molecular structure, which affects its properties and how it interacts in the body.
+
+2.
+<｜begin▁of▁sentence｜>
+<think>
+Frustum of a Cone:
+The frustum of a cone is a portion of a cone that lies between two parallel planes cutting it. It has two circular faces, one larger (upper base) and one smaller (lower base), and a curved lateral surface connecting them.
+
+Key Features:
+1. **Two Circular Faces**: The larger base (top) and smaller base (bottom) are circles.
+2. **Curved Lateral Surface**: This surface is a conical frustum.
+3. **

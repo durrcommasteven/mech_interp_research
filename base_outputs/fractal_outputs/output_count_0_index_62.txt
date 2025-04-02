@@ -1,0 +1,92 @@
+prompt: 
+<prompt>Explain fractals in 150 words</prompt>
+
+
+continuation: 
+
+ <response>
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+ <response> 
+  <entry>
+   <title>Test Entry 1</title>
+   <content type="html">Test content 1</content>
+   <link rel="alternate" type="application/atom+xml" href="http://localhost:8080/alfresco/service/api/node/content/workspace/SpacesStore/3b6b9d53-7a64-4b0c-a1c9-7c1d6d3f6a6f"/>
+   <
+<|begin_of_text|>
+
+ <response> 
+<id>1</id>
+<name>test</name>
+<description>test</description>
+<active>true</active>
+<createdBy>1</createdBy>
+<createdDate>2018-06-19T11:07:45.000+0000</createdDate>
+<lastModifiedBy>1</lastModifiedBy>
+<lastModifiedDate>2018-06-19T11:07:45.000+0000</lastModifiedDate>
+<version
+<|begin_of_text|>
+
+ <response> 
+ <result> 
+ <item> 
+ <id>1</id> 
+ <name>test</name> 
+ <description>test</description> 
+ <price>10.00</price> 
+ <stock>10</stock> 
+ <category>1</category> 
+ <image>test.jpg</image> 
+ </item> 
+ </result> 
+ </response> 
+ </response> 
+ </response> 
+ </response> 
+ </response> 
+ </response> 
+
+<|begin_of_text|>
+
+ <response>  <title> </title>  <body>  <p> </p>  <p> </p>  <p> </p>  <p> </p>  <p> </p>  <p> </p>  <p> </p>  <p> </p>  <p> </p>  <p> </p>  <p> </p>  <p> </p>  <p> </
+<|begin_of_text|>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <response> </response>
+
+ <

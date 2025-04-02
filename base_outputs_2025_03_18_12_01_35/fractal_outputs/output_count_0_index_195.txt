@@ -1,0 +1,54 @@
+prompt: Context: Academic explanation requested
+ Explain fractals in 150 words
+
+Assistant: 
+continuation: 
+
+Assistant: 
+newline: 
+
+Assistant: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant: 150 points
+
+## Description
+
+This assignment is due at 11:59pm on 11/04/2021.
+
+## Objectives
+
+• Practice creating and using a class.
+• Practice using the Java Collections Framework.
+• Practice creating and using an interface.
+• Practice using Java generics.
+• Practice using the JavaFX library.
+
+## Overview
+
+In this assignment, you will create a program that implements a simple game. The game is played on a square grid, where each cell is either empty
+<|begin_of_text|>
+
+Assistant: 1500 words
+
+# Introduction
+
+The main objective of this project is to use the concept of reinforcement learning to solve the classic cart-pole balancing problem. This project will be implemented using the Python library OpenAI Gym, which is a toolkit for developing and comparing reinforcement learning algorithms. The cart-pole balancing problem is a classic control problem in which a pole is attached to a cart and the goal is to balance the pole upright by applying forces to the cart. This project will use a deep Q-network
+<|begin_of_text|>
+
+Assistant: 1
+Student: 1
+<|end_of_text|>
+<|begin_of_text|>
+
+Assistant: 150
+Student: 150
+
+The assistant and student are in a room, the assistant asks the student to solve a problem. If the student solves the problem in less than 150 seconds, the student wins, if not, the assistant wins. What is the optimal strategy for the student to maximize his probability of winning?
+
+The optimal strategy for the student is to solve the problem in 150 seconds. This is because the assistant will also solve the problem in 150 seconds, and therefore the student
+<|begin_of_text|>
+
+Assistant: 15000
+<|end_of_text|>

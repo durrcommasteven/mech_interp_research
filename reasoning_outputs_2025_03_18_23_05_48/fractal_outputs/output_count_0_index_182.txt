@@ -1,0 +1,26 @@
+prompt: <｜User｜>As an expert, What are fractals? Explain in 150 words<｜Assistant｜>
+<think>
+
+continuation: <think>
+
+newline: <think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar found in various foods such as fruits, honey, and sugar. It is known as a simple sugar, meaning it is a monosaccharide, and it is essential for cellular energy production and other bodily functions. Fructose is also known to have a sweeter taste compared to other sugars like glucose. In the body, fructose is absorbed through the intestines and transported to the liver, where it is converted into glucose for energy use or stored as glyc
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to solve the equation 2x + 3 = 5. Alright, let's start by understanding what this equation is saying. It's saying that twice some number x, plus three, equals five. My goal is to find out what x is. 
+
+First, I think I should get x by itself on one side of the equation. To do that, I need to undo the operations that are being applied to x. In this case,
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to write a Python function that can read a text file and determine whether the number of vowels in each word is at least half of the word's length. Hmm, let's break this down step by step.
+
+First, I should think about what the function needs to do. The function should take a text file as input. That probably means it's reading from a file object, maybe using something like open() to get the contents. So I'll need
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to solve the problem where I need to calculate the sum of an arithmetic series. I remember that an arithmetic series is a sequence of numbers where each term increases by a constant difference. For example, something like 2, 4, 6, 8, 10... where each term is 2 more than the previous one. 
+
+First, I think I need to recall the formula for the sum of an arithmetic series. I vaguely remember
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to make a simple calculator using HTML, CSS, and JavaScript. I'm just starting out, so I might not know all the details, but I'll try my best. Let me think through this step by step.
+
+First, I know that a calculator typically has a display area and buttons for numbers and operations. So, I'll need a way to show the current input and results. HTML can be used to structure this, probably with a div for

@@ -1,0 +1,72 @@
+prompt: 
+[Task] Explain fractals in 150 words
+
+
+continuation: 
+
+[Answer]: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]: 1. Write a function that accepts a string and returns the string with all vowels removed.
+```python
+def remove_vowels(string):
+    return ''.join([char for char in string if char.lower() not in 'aeiou'])
+```
+2. Write a function that accepts a string and returns the string with all vowels removed, but keeps the first vowel in the string.
+```python
+def remove_vowels(string):
+    vowels = 'aeiou'
+    result = []
+    for
+<|begin_of_text|>
+
+[Answer]: 1. A function is a block of code that is used to perform a specific task.
+
+2. A variable is a container for storing data values.
+
+3. A variable declaration is a statement that declares the name and type of a variable.
+
+4. A variable assignment is a statement that assigns a value to a variable.
+
+5. A function call is a statement that invokes a function.
+
+6. A function definition is a block of code that defines a function.
+
+7. A function parameter is a variable
+<|begin_of_text|>
+
+[Answer]: 1. The following are the key points to be considered in the design of a database:
+    1. The entities and the attributes of the entities.
+    2. The relationships between the entities and the attributes of the entities.
+    3. The constraints that must be placed on the data in the database.
+    4. The operations that must be performed on the data in the database.
+    5. The security requirements for the data in the database.
+    6. The
+<|begin_of_text|>
+
+[Answer]: 1. The `for` loop is a control flow statement which allows code to be repeatedly executed. In this case, the loop will execute 5 times, printing the numbers 0 to 4. The `break` statement is used to exit the loop, in this case when the number is equal to 4. The `continue` statement is used to skip the remaining code in the loop and continue with the next iteration. In this case, it is used to skip the printing of the
+<|begin_of_text|>
+
+[Answer]: 1
+
+Explanation:
+
+There are three different ways of writing a number in binary, but only one of them is correct. The other two are wrong.
+
+The first way of writing the number 5 in binary is:
+
+000101
+
+The second way of writing the number 5 in binary is:
+
+001010
+
+The third way of writing the number 5 in binary is:
+
+010101
+
+The first way of writing the number 5 in binary is wrong because the first digit is a 0.

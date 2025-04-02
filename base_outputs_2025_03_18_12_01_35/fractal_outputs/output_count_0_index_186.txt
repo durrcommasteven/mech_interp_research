@@ -1,0 +1,94 @@
+prompt: 
+# Question Explain fractals in 150 words
+
+
+continuation: 
+
+# Answer
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+# Answer
+## Question
+- Answer
+- Question
+
+## Question
+- Answer
+- Question
+
+## Question
+- Answer
+- Question
+
+## Question
+- Answer
+- Question
+
+## Question
+- Answer
+- Question
+
+## Question
+- Answer
+- Question
+
+## Question
+- Answer
+- Question
+
+## Question
+- Answer
+- Question
+
+## Question
+- Answer
+- Question
+
+## Question
+- Answer
+- Question
+
+## Question
+- Answer
+- Question
+
+##
+<|begin_of_text|>
+
+# Answer
+```
+# 1
+# A class of objects that can be used to access and manipulate the data of other objects.
+# 2
+# An object is an instance of a class.
+# 3
+# The class is the template that defines the properties and methods of the objects that will be created from it.
+# 4
+# Objects are instances of classes.
+# 5
+# A class is a template for objects.
+# 6
+# An object is an instance of
+<|begin_of_text|>
+
+# Answer
+## The answer is 4. The reason is that the 4th digit is the first digit of the answer.<|end_of_text|>
+<|begin_of_text|>
+
+# Answer
+I am a newbie in data science and machine learning and I am trying to learn the basics of the field. I am currently reading the book "Data Science for Business" by Foster Provost and Tom Fawcett. I have just finished the chapter on "Machine Learning" and I am trying to understand the concept of "Data Science". I have a few questions about the concept of "Data Science". I hope someone can help me understand it better.
+
+1. What is the difference between "
+<|begin_of_text|>
+
+# Answer
+- [ ] A
+- [ ] B
+- [ ] C
+- [ ] D
+<|end_of_text|>

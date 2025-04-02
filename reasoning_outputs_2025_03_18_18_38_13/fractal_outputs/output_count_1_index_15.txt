@@ -1,0 +1,29 @@
+prompt: <｜User｜>Explain fractals in 150 words
+<｜Assistant｜>
+
+<think>
+
+continuation: 
+<think>
+
+newline: 
+<think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is a naturally occurring monosaccharide found in various fruits, vegetables, and honey. It is a sweet-tasting compound that plays a role in the flavor profile of many foods. Fructose is also known to have some health benefits, such as contributing to the maintenance of gut health and potentially aiding in the management of conditions like diabetes, though its impact on blood sugar levels can vary depending on the context in which it is consumed.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is naturally present in various foods like fruits, honey, and sweet vegetables. It is a simple carbohydrate, meaning it breaks down quickly into glucose in the body. Fructose is absorbed through the small intestine and can be metabolized by the liver, where it is converted into glycogen for energy storage or used directly for energy. Interestingly, unlike other sugars like glucose, fructose does not cause a rapid spike in blood sugar levels because it is metabolized more slowly
+<｜begin▁of▁sentence｜>
+<think>
+Fructose is a type of sugar found naturally in foods like fruits, honey, and sweeteners. It is a monosaccharide, meaning it is a single unit of carbohydrates. Fructose is also known as fruit sugar and is often used in processed foods, beverages, and desserts. Here are some key points about fructose:
+
+1. **Structure**: Fructose is a six-carbon monosaccharide, similar in structure to glucose, but with different functional groups. Unlike glucose
+<｜begin▁of▁sentence｜>
+<think>
+Fractals are mathematical objects that exhibit self-similarity and scale invariance, often appearing in natural structures like coastlines, mountains, and fluid flows. They can be described using various mathematical equations, such as the Mandelbrot set, the Julia set, and L-systems. These objects have properties that make them infinitely complex yet often simple to create, leading to their widespread use in art, science, and architecture.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜>
+<think>
+Fructose, a type of sugar, is a simple carbohydrate found in various foods such as fruits, honey, and sweetened beverages. It is known for its sweet taste and is often used in cooking and baking. Fructose can exist in different forms, such as fructose-1,6-bisphosphate, which is a key intermediate in glycolysis, the metabolic pathway that breaks down glucose into pyruvate. However, in its monomeric form, fructose is absorbed

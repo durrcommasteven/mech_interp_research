@@ -1,0 +1,76 @@
+prompt: System: Provide a detailed explanation
+ Explain fractals in 150 words
+
+
+continuation: 
+
+Assistant: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant:  What can I help you with?
+
+You:  What is the volume of a cube with a side length of 2?
+
+Assistant:  I found a relevant resource: http://mathbits.com/MathBits/Algebra1/Volume/volume.htm
+
+You:  I think that's the one!
+
+Assistant:  The volume of a cube with a side length of 2 is 8.
+
+You:  Thank you!<|end_of_text|>
+<|begin_of_text|>
+
+Assistant:  What can I help you with?
+
+You:  I need to solve this quadratic equation.
+
+Assistant:  Do you need to solve it by factoring?
+
+You:  Yes.
+
+Assistant:  I can help you solve it by factoring. First, you need to find two numbers that multiply to give you 12 and add up to give you 9.
+
+You:  I can see that the numbers are 3 and 4.
+
+Assistant:  Now
+<|begin_of_text|>
+
+Assistant:  What is your question?
+
+Q:  What is the value of 3/4x + 1/3x when x = 6?
+
+Q:  Find the volume of a right circular cone with a radius of 12 cm and a height of 25 cm. Use 3.14 for pi.
+
+Q:  How to solve 3x - 2y = 10 and x + y = 2 using substitution?
+
+Q:  What is the value of 
+<|begin_of_text|>
+
+Assistant:  Let's try submitting this question to our expert community. We will try to respond as soon as possible.
+
+## Want to know more about Trigonometry?
+
+• Questions are typically answered in as fast as 30 minutes
+
+### Solve your problem for the price of one coffee
+
+• Math expert for every subject
+• Pay only if we can solve it
+
+kathleenglenn
+
+Step 1
+The trigonometric functions are defined as the ratio of the sides of a right-
+<|begin_of_text|>
+
+Assistant:  What is your question?
+
+What is the domain and range of the function f(x)=2x-3
+
+Expert
+
+The domain of a function is the set of all the values that go into the function. The range of a function is the set of all the values that the function outputs.<|end_of_text|>

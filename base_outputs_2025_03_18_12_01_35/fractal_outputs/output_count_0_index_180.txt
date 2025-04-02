@@ -1,0 +1,28 @@
+prompt: 
+Instructions: Be concise and clear Explain fractals in 150 words
+
+
+continuation: 
+
+Response: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response: 1. The main difference between a function and a method is that a function is a block of code that performs a task, while a method is a function that is a member of a class. 2. A function can be used in any context, while a method can only be used in the context of the class it belongs to. 3. A function can be called by its name, while a method must be called by its class name and method name. 4. A function can
+<|begin_of_text|>
+
+Response: <|end_of_text|>
+<|begin_of_text|>
+
+Response: 1. The word "cloud" is used in the context of computer technology to refer to a collection of servers that are connected to each other and to the Internet, allowing users to access and store data and applications remotely. In this sense, the cloud is a metaphor for the Internet, which is often referred to as the "cloud" due to its abstract and intangible nature.
+
+2. The term "cloud" is also used in the context of computing to refer to a specific type of computing architecture
+<|begin_of_text|>
+
+Response: <|end_of_text|>
+<|begin_of_text|>
+
+Response:  The purpose of the analysis is to determine whether there is a significant difference in the mean number of hours spent studying per week between male and female students. The null hypothesis is that there is no significant difference in the mean number of hours spent studying per week between male and female students. The alternative hypothesis is that there is a significant difference in the mean number of hours spent studying per week between male and female students. The analysis will use a two-sample t-test to compare the mean number of hours spent studying

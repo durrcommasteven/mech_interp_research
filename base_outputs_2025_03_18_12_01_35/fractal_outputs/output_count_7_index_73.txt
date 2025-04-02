@@ -1,0 +1,50 @@
+prompt: ## Input:
+ Explain fractals in 150 words
+
+## Output:
+
+continuation: 
+
+## Output:
+
+newline: 
+
+## Output:
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+ Fractals are mathematical structures that have the property of self-similarity. This means that they can be divided into parts, each of which is a reduced-size copy of the whole. The name fractal comes from the Latin word fractus, meaning "broken". Fractals are a new way of looking at the world, and they are used in many fields, including art, music, science, and engineering. They are also used to describe complex systems, such as the weather and the
+<|begin_of_text|>
+
+## Output:
+ A sentence that describes what the output of this program will be.<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+ Fractals are geometric shapes that are created by repeating a simple process over and over in an ongoing feedback loop. Fractals are created by defining very basic starting shapes and rules, called generators. The generators are used to create increasingly complex shapes. The repeating process is called an iteration. The result is a never-ending pattern. When the generator is repeated, the resulting shape is always self-similar—a fancy way of saying that the new shape is very much like the old one. 
+
+Fract
+<|begin_of_text|>
+
+## Output:
+ Fractal trees and a sun in the sky
+
+## Description
+The project uses a recursive algorithm to create fractal trees. The algorithm is based on a 3D model of a tree, which is then projected onto a 2D surface using a perspective projection. The algorithm is then used to create a sequence of images, each of which is a different stage in the growth of the tree. The final image is a combination of all the stages.
+
+## Installation
+To install the project, you
+<|begin_of_text|>
+
+## Output:
+A text file containing the prompt and the student's response.
+
+## Instructions:
+1. Create a new file in the "text" folder called "response.txt"
+2. Write the prompt to the file.
+3. Read the user's response and write it to the file.
+4. Close the file.
+5. Submit the file.
+<|end_of_text|>

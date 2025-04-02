@@ -1,0 +1,28 @@
+prompt: [Task]
+ Explain fractals in 150 words
+
+[Answer]: 
+continuation: 
+
+[Answer]: 
+newline: 
+
+[Answer]: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]: <|end_of_text|>
+<|begin_of_text|>
+
+[Answer]:  Fractals are basically patterns that repeat themselves at different scales. They can be found in nature, like the branches of a tree, or the veins in a leaf. They can also be found in math, like the Mandelbrot set, or the Koch snowflake. Fractals are often used in art and design, because they can create interesting and complex patterns.
+
+Fractals are a type of self-similar object, which means that they are made up of smaller versions of themselves
+<|begin_of_text|>
+
+[Answer]:  A fractal is a never-ending pattern. Fractals are infinitely complex patterns that are self-similar across different scales. They are created by repeating a simple process over and over in an ongoing feedback loop. Driven by recursion, fractals are images of dynamic systems – the pictures of Chaos. Geometrically, they exist in between our familiar dimensions. Fractal patterns are extremely familiar, since nature is full of fractals. For instance: trees, rivers, coastlines, mountains, clouds
+<|begin_of_text|>
+
+[Answer]:  A fractal is a natural phenomenon or a mathematical set that exhibits a repeating pattern that displays at every scale. It is also known as expanding symmetry or evolving symmetry. If the replication is exactly the same at every scale, it is called a self-similar pattern. An example of this is the Menger Sponge. Fractals can also be nearly the same at different levels. This latter pattern is illustrated in the magnifications of the Mandelbrot set. Fractals also include the idea
+<|begin_of_text|>
+
+[Answer]:  Fractal geometry is a field of mathematics focusing on fractals — geometric shapes that exhibit a detailed structural pattern that repeats itself indefinitely, at smaller and smaller scales. Fractal geometry is an extension of Euclidean geometry, which is the study of shapes in flat, two-dimensional (2-D) space. Fractal geometry is the study of shapes in irregular, three-dimensional (3-D) space. Fractal geometry is used in many fields, including computer graphics, meteorology, biology, chemistry, and

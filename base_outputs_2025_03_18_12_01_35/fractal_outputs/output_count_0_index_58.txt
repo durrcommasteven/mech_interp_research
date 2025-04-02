@@ -1,0 +1,56 @@
+prompt: 
+# Question Explain fractals in 150 words
+
+
+continuation: 
+
+# Answer
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+# Answer
+```
+The answer is the following: 
+
+There are two types of programming languages: high-level and low-level. 
+High-level languages are easier to read and write, but they are not as efficient as low-level languages. 
+Low-level languages are more difficult to read and write, but they are more efficient. 
+The choice of language depends on the application and the programmer's preference. 
+
+The advantages of high-level languages include: 
+- They are easier to read and write 
+- They are
+<|begin_of_text|>
+
+# Answer
+- A
+<|end_of_text|>
+<|begin_of_text|>
+
+# Answer
+- The first time I heard the word "Cloud" is from my brother. He told me that Cloud is the place where all the information is stored. I didn't know what he meant by that. I thought it was just a word that he made up. But as I grew older, I started to understand what he meant. Cloud is a place where we can store our information, like our photos, videos, and documents. We can access them from anywhere in the world, as long as
+<|begin_of_text|>
+
+# Answer
+```
+# 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 
+<|begin_of_text|>
+
+# Answer
+- [ ] This is a question
+- [ ] This is a question
+- [ ] This is a question
+- [ ] This is a question
+- [ ] This is a question
+- [ ] This is a question
+- [ ] This is a question
+- [ ] This is a question
+- [ ] This is a question
+- [ ] This is a question
+- [ ] This is a question
+- [ ] This is a question
+- [ ] This

@@ -1,0 +1,23 @@
+prompt: <｜User｜>For a beginner audience, Write a concise explanation of fractals limited to 150 words<｜Assistant｜>
+continuation: <｜Assistant｜><think>
+
+newline: <｜Assistant｜>
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Alright, so I need to figure out what to write about when explaining how to explain something complex in a simple way. Let me start by understanding the task. The user provided an example where they broke down quantum mechanics into something more relatable, using everyday examples like a cat and a radio. That makes sense because quantum mechanics is abstract and hard to grasp, so using familiar analogies helps.
+
+Okay, so first, I should think about what the user is asking. They want me to explain how
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain what a neural network is. Hmm, I've heard the term before, especially with all the talk about AI and machine learning. But I'm not exactly sure what it is. Let me try to break it down.
+
+First, I think neural networks have something to do with computers processing information, maybe like how the brain works. I remember hearing that they're inspired by the human brain's structure. So, maybe they have layers or nodes that
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain what a graph is in a way that's easy to understand, especially for someone who's just getting into math or programming. I know a graph is a way to represent data, but I'm not entirely sure about all the details. Let me start by breaking it down.
+
+First, I remember that graphs have two main components: points and lines. Points are usually called vertices, and lines are called edges. Each vertex has a value, like
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Alright, so I need to figure out how to explain what a database is in simple terms. Let me start by recalling what I know about databases. They are like big collections of information, right? But I'm not entirely sure about the specifics. Maybe I should break it down.
+
+First, the term "database" probably has something to do with information storage. I remember hearing that databases are organized in some way, maybe like a library? In a library, books are arranged on shelves, and
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out what a "quantum computer" is. I've heard the term before, probably in sci-fi movies or something, but I'm not really sure what it actually is. Let me start by breaking down the word. "Quantum" makes me think of quantum mechanics, which I know is a branch of physics dealing with very small particles like electrons and photons. "Computer" is just a machine that processes information. So maybe a quantum computer is a computer

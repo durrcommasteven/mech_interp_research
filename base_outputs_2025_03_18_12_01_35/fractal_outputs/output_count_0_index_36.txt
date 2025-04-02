@@ -1,0 +1,36 @@
+prompt: 
+Instructions: Be concise and clear Explain fractals in 150 words
+
+
+continuation: 
+
+Response: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response:  A video game is a computer program that runs on a computer. It is a form of entertainment that involves the player controlling a character or characters in a virtual world. The player can interact with the world and the other characters in it, and the game can be played alone or with others. Video games are often divided into genres, such as action, adventure, role-playing, sports, and strategy.
+
+The first video game was created in the 1950s, and the industry has grown rapidly since
+<|begin_of_text|>
+
+Response:  A website that allows users to upload, store, and share their photos. The photos can be viewed, commented on, and liked by other users. The website also allows users to create albums and share them with others. The website is designed to be user-friendly and easy to navigate, with a clean and modern interface.<|end_of_text|>
+<|begin_of_text|>
+
+Response: 1) The first step is to understand the problem at hand. This involves defining the problem, identifying the constraints, and setting goals. 2) The second step is to develop a solution. This involves brainstorming ideas, evaluating options, and selecting a solution. 3) The third step is to implement the solution. This involves putting the solution into practice, monitoring its progress, and making adjustments as needed. 4) The fourth step is to evaluate the results. This involves assessing the effectiveness
+<|begin_of_text|>
+
+Response: 1. What is the difference between a function and a relation?
+
+A relation is a set of ordered pairs. A function is a relation where no two ordered pairs have the same first coordinate but different second coordinates.
+
+2. What is the difference between a function and a relation?
+
+A function is a special type of relation in which each input has only one output. A relation is any set of ordered pairs. For example, the set {(1,2), (3,4), (5,6
+<|begin_of_text|>
+
+Response:  A digital signature is a mathematical scheme for verifying the authenticity of digital messages or documents. A valid digital signature, where the prerequisites are satisfied, gives a recipient very strong reason to believe that the message was created by a known sender (authentication), and that the message was not altered in transit (integrity). Digital signatures are a standard element of most cryptographic protocol suites, and are commonly used for software distribution, financial transactions, and in other cases where it is important to detect forgery or tampering.
+
+

@@ -1,0 +1,97 @@
+prompt: 
+System: Provide a detailed explanation
+ Explain fractals in 150 words
+
+Assistant: 
+continuation: 
+
+Assistant: 
+newline: 
+
+Assistant: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant:  Sure, I can help you with that. Here is some information about the concept of a "loop" in computer science and how it is used in programming:
+
+In computer science, a loop is a sequence of instructions that is executed repeatedly until a certain condition is met. Loops are used to perform repetitive tasks or to iterate over a collection of data.
+
+There are several types of loops in computer science, including while loops, for loops, and do-while loops. Each type of loop has
+<|begin_of_text|>
+
+Assistant: 150 words
+
+Student: 350 words
+
+Teacher: 500 words
+
+A student can write 150 words, but a teacher can write 500 words. A teacher writes three times as much as a student. How many words can a teacher write?
+
+### Solution:
+
+Let the number of words that a student can write be x. Then, the number of words that a teacher can write is 3x. The problem states that a student can write 150 words, so x = 150
+<|begin_of_text|>
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500
+<|begin_of_text|>
+
+Assistant:  Fractal geometry is a branch of mathematics concerning fractals (from the Latin adjective fractus, meaning "broken"). A fractal is a natural or artificial "rough" or fragmented geometric shape that can be split into parts, each of which is (at least approximately) a reduced-size copy of the whole, a property called self-similarity.<|end_of_text|>
+<|begin_of_text|>
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500 words
+
+Assistant: 1500

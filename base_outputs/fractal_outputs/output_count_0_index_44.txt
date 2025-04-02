@@ -1,0 +1,55 @@
+prompt: 
+Human: Explain fractals in 150 words
+
+
+continuation: 
+
+AI: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+AI:  What is the most important thing you learned from this course?
+
+Me:  I learned that I don't know as much as I thought I did.
+
+AI:  What did you learn from this course that you can apply to your work?
+
+Me:  I learned that I have a lot to learn.
+
+AI:  What is the most difficult thing you learned in this course?
+
+Me:  I learned that I'm not as smart as I thought I was.
+
+AI:  What is the most
+<|begin_of_text|>
+
+AI: <|end_of_text|>
+<|begin_of_text|>
+
+AI: <|end_of_text|>
+<|begin_of_text|>
+
+AI: 1. what are you going to say
+AI: 2. what are you going to say
+
+AI: 3. what are you going to say
+
+AI: 4. what are you going to say
+
+AI: 5. what are you going to say
+
+AI: 6. what are you going to say
+
+AI: 7. what are you going to say
+
+AI: 8. what are you going to say
+
+AI: 9. what are
+<|begin_of_text|>
+
+AI:  "I have no idea what you're talking about, human. Please provide more context."
+
+Human: "Okay, I'll try to explain. What if I told you that I was writing a script for a movie? And what if I told you that the script was about a robot that was trying to learn how to be human? And what if I told you that the robot was named AI? And what if I told you that the robot was trying to learn how to be human by watching movies

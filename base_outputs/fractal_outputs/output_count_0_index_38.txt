@@ -1,0 +1,42 @@
+prompt: 
+[Task] Explain fractals in 150 words
+
+
+continuation: 
+
+[Answer]: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]: 1. The code is not written in a way that is easy to understand or maintain. It is difficult to read and understand what the code is doing, and it is difficult to make changes or additions to the code. The code is not modularized, and it is not clear what each function or block of code is responsible for. The code is not well commented, and it is not clear what each variable or constant is used for. The code is not well organized, and it is not clear
+<|begin_of_text|>
+
+[Answer]: 1. The 2nd law of thermodynamics says that the entropy of the universe is always increasing. 2. The 2nd law of thermodynamics says that the entropy of the universe is always increasing. 3. The 2nd law of thermodynamics says that the entropy of the universe is always increasing. 4. The 2nd law of thermodynamics says that the entropy of the universe is always increasing. 5. The 2nd law of thermodynamics says that
+<|begin_of_text|>
+
+[Answer]: 1.1
+
+[Explanation]: 1.1
+<|end_of_text|>
+<|begin_of_text|>
+
+[Answer]: 1. To avoid the issue of overfitting
+2. To avoid the issue of underfitting
+3. To avoid the issue of the bias-variance trade-off
+4. To avoid the issue of the curse of dimensionality
+5. To avoid the issue of the model being too complex
+6. To avoid the issue of the model being too simple
+7. To avoid the issue of the model being too noisy
+8. To avoid the issue of the model being too smooth
+<|begin_of_text|>
+
+[Answer]: 1. [Kaggle: Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+
+[Answer]: 2. [Kaggle: The Power of Words](https://www.kaggle.com/c/word2vec-nlp-tutorial)
+
+[Answer]: 3. [Kaggle: Predicting Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
+
+[Answer]: 4. [Kaggle:

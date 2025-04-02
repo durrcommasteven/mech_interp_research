@@ -1,0 +1,27 @@
+prompt: <｜User｜>As an expert, Explain fractals in 150 words
+<｜Assistant｜>
+<think>
+
+continuation: <think>
+
+newline: <think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar that is often found in fruits and honey. It is a monosaccharide, meaning it is a single unit of a carbohydrate, and it is known for its sweet taste. Unlike other sugars like glucose, fructose is not absorbed through the digestive system in the same way. Instead, it is absorbed directly into the bloodstream through the intestines, which can lead to a rapid increase in blood sugar levels, often referred to as a "sugar rush."
+
+
+<｜begin▁of▁sentence｜><think>
+Fructose, a type of sugar, is naturally found in various foods such as fruits, honey, and sweet vegetables. It is known for its distinct taste and is often used in cooking, baking, and as a sweetener in beverages. Fructose is also a component of sucrose, which is commonly found in sugar cane and sugar beet roots. Here are some key points about fructose:
+
+1. **Sources**: Fructose is abundant in fruits like apples, pears, and dates. It
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar that is found in various natural foods such as fruits, honey, and sweeteners. It is a monosaccharide, meaning it is a single unit of carbohydrates. Fructose is also known as fruit sugar, and it is the sugar that is found in higher concentrations in fruits like bananas, apples, and oranges.
+
+Fructose is unique compared to other sugars because it is a reducing sugar, which means it can reduce other compounds, such as amino acids,
+<｜begin▁of▁sentence｜><think>
+Francesco di Giacomo, known as the "Poet of the Sun," was a Neapolitan singer-songwriter, musician, and actor. He is best remembered for his contributions to the Italian canzone tradition, blending traditional folk elements with modern genres like pop and rock. His music often reflected his deep connection to his hometown of Naples, celebrating its culture, history, and people.
+
+Giacomo's career began in the mid-1960s, and he quickly gained a dedicated
+<｜begin▁of▁sentence｜><think>
+Fructose, a type of sugar, is found in various foods such as fruits, honey, and sugary drinks. It's a natural sweetener that plays a role in taste perception and energy production. When fructose is ingested, it is absorbed into the bloodstream and can lead to a spike in blood sugar levels, similar to glucose. However, unlike glucose, fructose is metabolized differently in the liver, which can have implications for health, particularly for individuals with conditions like insulin resistance or

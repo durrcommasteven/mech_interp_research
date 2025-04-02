@@ -1,0 +1,23 @@
+prompt: <｜User｜>For a beginner audience, Describe the concept of fractals in 150 words or less<｜Assistant｜><think>
+continuation: <｜Assistant｜><think>
+
+newline: <｜Assistant｜><think>
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain how photosynthesis works step by step. I remember from school that it's something plants do, but I'm a bit fuzzy on the details. Let me think about what I know and try to piece it together.
+
+First, I think photosynthesis has something to do with light. I remember hearing that plants use sunlight to make their own food. So, maybe it's called photophosphorylation or something like that. Wait, no,
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain the concept of "quadratic equations" to someone who might not know much about it. Let me start by recalling what I know. Quadratic equations are a type of mathematical equation that involve the square of a variable. The general form is usually something like ax² + bx + c = 0, where a, b, and c are constants, and a isn't zero. 
+
+Hmm, maybe I should break it down into smaller parts
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain how photosynthesis works. Hmm, I remember from school that it's something plants do, but I'm not exactly clear on the details. Let me think about what I know.
+
+I think photosynthesis has something to do with light. Maybe it's how plants make their own food? Yeah, I've heard terms like chlorophyll and chloroplasts. Chlorophyll is the green pigment, right? So maybe that's what captures the
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain how photosynthesis works step by step. Let me start by recalling what I know. Photosynthesis is a process that plants and some other organisms use to make their own food. It involves light, so it's light-dependent, and it produces glucose, which is a type of sugar. I think the main equation for photosynthesis is something like 6CO2 + 6H2O + light → C6H12O6 + 
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to explain what a database is. Hmm, I know it's some kind of collection of data, but I'm not entirely sure about the specifics. Maybe I should start by thinking about what data is. Data is just facts or information, like numbers, words, or anything that can be measured or described. So, a database must be a way to organize all that data in a structured way.
+
+Wait, I think databases are used to store information efficiently. They probably have

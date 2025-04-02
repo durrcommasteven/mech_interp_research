@@ -1,0 +1,72 @@
+prompt: ## Input: Explain fractals in 150 words
+
+
+continuation: 
+
+## Output:
+
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+```
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "John Doe"
+    }
+  ]
+}
+```<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```
+Hello World!
+```<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+```
+<output>
+  <div class="col-6 col-sm-4">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <p class="card-text"><small class="text-muted">Last updated
+<|begin_of_text|>
+
+## Output:
+```
+# include   < iostream >
+# include   < string >
+
+using   namespace   std ;
+
+int   main () {
+   string  s;
+   cin >>  s;
+   if  (s ==  " Yes " ) {
+     cout  <<  " 1 "  <<  endl ;
+  }  else   if  (s ==  " No " ) {
+     cout  <<  " 0 "  <<  endl ;
+  }  else  {
+    
+<|begin_of_text|>
+
+## Output:
+```
+Enter the name of the file:  test.txt
+Enter the string to search:  Hello
+Found the string in the file.
+```
+## Explanation:
+
+In this program, we are using the fstream library to read and write data from a file. The fstream library provides us with the ifstream class, which is used to read data from a file, and the ofstream class, which is used to write data to a file.
+
+We first open the file for reading using the ifstream

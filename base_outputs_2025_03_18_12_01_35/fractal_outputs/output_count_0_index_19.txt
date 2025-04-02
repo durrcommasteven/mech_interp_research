@@ -1,0 +1,65 @@
+prompt: Context: Academic explanation requested Explain fractals in 150 words
+
+Assistant: 
+continuation: 
+
+Assistant: 
+newline: 
+
+Assistant: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant: 150 words
+
+The number of ways to choose k objects from a set of n objects is given by the binomial coefficient, $\binom{n}{k}$, which is defined as $\binom{n}{k} = \frac{n!}{k!(n-k)!}$. The binomial coefficient can be computed using the following formula:
+
+$\binom{n}{k} = \frac{n!}{k!(n-k)!}$
+
+where $n!$ is the factorial of n.
+
+
+<|begin_of_text|>
+
+Assistant: 1500 characters left
+
+Include images or diagrams if needed. Do not submit any outside resources.
+
+## Question 1 (1 point) A 1.5 kg mass is attached to a spring and undergoes simple harmonic motion with a period of 0.1 s. The total energy of the system is 1.5 J. Find the amplitude of the motion.
+
+## Question 2 (1 point) A 1.5 kg mass is attached to a spring and undergoes simple harmonic
+<|begin_of_text|>
+
+Assistant: 1500 characters left
+
+## Definition:
+
+A function is a relation that maps every element from a set (domain) to a single element in another set (range). The function is said to be one-to-one if every element in the range is mapped to by only one element in the domain.
+
+## One-to-one Function:
+
+A function is said to be one-to-one if every element in the range is mapped to by only one element in the domain.
+
+## Example:
+
+Let f: A→B
+<|begin_of_text|>
+
+Assistant: 150 words
+
+# 150 words
+
+## 1. What is a random variable?
+
+A random variable is a variable whose value is subject to variations due to chance or probability.
+
+## 2. What is the difference between discrete and continuous random variables?
+
+A discrete random variable is a variable that can take on only a countable number of values, such as 0, 1, 2, 3, etc. A continuous random variable is a variable that can take on any value within
+<|begin_of_text|>
+
+Assistant: 150 words
+
+Q: In the figure below, two blocks are connected by a massless rope that passes over a massless pulley. The coefficient of kinetic friction between block A and the surface is 0.25. If block A is pulled to the right at a constant velocity, what is the magnitude of the force F?
+
+A: The answer is 100 N. The friction force is 0.25mg = 0.25*5 = 1.25 N. The

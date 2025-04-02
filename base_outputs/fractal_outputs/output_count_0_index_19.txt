@@ -1,0 +1,77 @@
+prompt: Context: Academic explanation requested Explain fractals in 150 words
+
+Assistant: 
+continuation: 
+
+Assistant: 
+newline: 
+
+Assistant: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant: 1500 character limit, please keep your question short
+
+Note: Due to the high volume of questions, we are unable to guarantee a timely response from our instructors. Thank you for your patience
+
+1. Expert says:
+
+$2(1+\frac{1}{x})^2$
+
+2. Expert says:
+
+the answer is $2(1+\frac{1}{x})^2$
+
+3. Expert says:
+
+2(1+1/x)^2
+
+4. Expert says:
+
+$
+<|begin_of_text|>
+
+Assistant: 150 words
+
+Explanation:
+
+I'm going to start by saying that this question is a bit vague, but I'm going to try my best to answer it.
+
+In general, the best way to learn physics is to work through problems. This is because physics is all about understanding how things work, and the best way to do that is to see how they work in practice. There are a lot of different ways to learn physics, but the most effective way is to work through problems. This is because
+<|begin_of_text|>
+
+Assistant: 150 words
+
+Q: Consider the following problem:
+
+$$\begin{array}{ll} \text{maximize} & x_1 + x_2 + x_3 \\ \text{subject to} & x_1 \le 2 \\ & x_2 \le 3 \\ & x_3 \le 4 \\ & x_1 + x_2 + x_3 \le 5 \\ & x_1, x_2, x_3 \
+<|begin_of_text|>
+
+Assistant: 1500 characters left
+
+Include details about your location and your specific situation so others can better answer your question.
+
+## Want to know more about Discrete math?
+
+### Discrete math
+
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10
+###### Problem Details
+
+Include details about your location and your specific situation
+<|begin_of_text|>
+
+Assistant: 150 words
+
+I'm having trouble understanding the concept of the "rate of change" in calculus. I understand the definition of the derivative as the slope of the tangent line, but I don't understand why it's useful to think about the rate of change of a function. What is the significance of this concept in real life? How is it applied in practice? And why is it so important in calculus?
+
+• The rate of change is the rate of change. It's useful to know how things

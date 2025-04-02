@@ -1,0 +1,30 @@
+prompt: <｜User｜>Explain fractals in 150 words<｜Assistant｜>
+<think>
+
+continuation: <think>
+
+newline: <think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Frugality is a practice that involves using resources wisely and avoiding waste. It can be applied in various areas of life, including personal finance, household management, and even in business. Here are some key aspects of frugality:
+
+1. **Personal Finance**: Managing a budget, saving money, and avoiding unnecessary expenses. This includes tracking income and expenses, setting financial goals, and making smart purchase decisions.
+
+2. **Household Management**: Reducing waste of food, energy, and other resources
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar found in various foods and beverages, such as fruits, honey, and sugary drinks. It is a naturally occurring sugar, and unlike glucose, it is not required by the body to be consumed for survival. However, it can play a role in energy production and overall health when consumed in moderation. 
+
+Here are some key points about fructose:
+
+1. **Sources**: Fructose is abundant in fruits like apples, pears, and grapes, as well as
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to solve this math problem. It says, "What is the square root of 36?" Hmm, that seems straightforward, but I want to make sure I understand it completely. Let me think about what a square root is. From what I remember, a square root of a number is another number that, when multiplied by itself, gives the original number. So, if I have √36, I need to find a number that, when multiplied
+<｜begin▁of▁sentence｜><think>
+Fructose, a type of sugar, is naturally present in various foods and beverages. It is often found in fruits, such as apples, bananas, and grapes, as well as in honey and sugarcane. In processed foods, fructose is added as a sweetener, contributing to the calorie content of items like candies, sodas, and baked goods. The body metabolizes fructose, but consuming too much can lead to negative health effects, including weight gain, insulin resistance, and an
+<｜begin▁of▁sentence｜><think>
+Fructose, a type of sugar, is naturally present in various foods such as fruits, vegetables, and honey. It is also added to processed foods for sweetness. Here are some key points about fructose:
+
+1. **Types of Fructose**: Fructose exists in two forms—free and bound. Free fructose is readily absorbed by the body, while bound fructose, found in things like sucrose, requires digestion to become free fructose before absorption.
+
+2. **Absorption and Met

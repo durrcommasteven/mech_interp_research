@@ -1,0 +1,33 @@
+prompt: 
+Human:
+ Explain fractals in 150 words
+
+AI: 
+continuation: 
+
+AI: 
+newline: 
+
+AI: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+AI:  Fractal art generator.<|end_of_text|>
+<|begin_of_text|>
+
+AI:  The term "AI" refers to the branch of computer science that focuses on creating intelligent machines that can perform tasks that typically require human intelligence. This includes tasks such as visual perception, speech recognition, decision-making, and language translation. AI is a rapidly evolving field that is being applied in a wide range of industries, from healthcare and finance to transportation and entertainment.
+
+Computer Science: Computer science is the study of computers and computational systems. It encompasses the design, analysis, and implementation of algorithms, programming languages
+<|begin_of_text|>
+
+AI:  Fractal art is an art form that creates images by using recursive patterns. These patterns are created by repeating a simple shape or design over and over again, with each iteration getting smaller and smaller. This process can be used to create a wide variety of images, from abstract patterns to realistic landscapes.
+
+Fractal art is often associated with computer-generated images, but it can also be created using traditional media such as paint or pencil. The key to creating fractal art is to understand the basic principles of fract
+<|begin_of_text|>
+
+AI:  A neural network is a collection of nodes, where each node is a mathematical function. The nodes are connected to each other by weights, which are the strengths of the connections. The weights are adjusted during training to minimize the error between the predicted output and the actual output. The nodes are arranged in layers, with the input layer at the bottom and the output layer at the top. In between the input and output layers are one or more hidden layers, which contain the nodes that perform the actual computations.
+
+
+<|begin_of_text|>
+
+AI:  The AI will respond with a prompt that asks the user to provide more information about the topic they are interested in. The prompt will be in the form of a question, and the AI will provide multiple choices for the user to choose from. For example, the AI might ask "What is your favorite type of food?" and provide options such as "Pizza", "Sushi", "Steak", and "Tacos". The user will then be able to choose their favorite type of food, and

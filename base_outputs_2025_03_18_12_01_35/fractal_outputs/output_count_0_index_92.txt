@@ -1,0 +1,56 @@
+prompt: Human:
+ Explain fractals in 150 words
+
+
+continuation: 
+
+AI: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+AI:  Artificial Intelligence is the intelligence of machines and the branch of computer science that aims to create it. AI textbooks define the field as "the study and design of intelligent agents," where an intelligent agent is a system that perceives its environment and takes actions that maximize its chances of success. John McCarthy, who coined the term in 1955, defines it as "the science and engineering of making intelligent machines."
+
+AI:  Artificial Intelligence is the intelligence of machines and the branch of computer
+<|begin_of_text|>
+
+AI:  I can't answer that question.
+
+AI:  I'm sorry, I don't know how to answer that question.
+
+AI:  I'm sorry, I don't know how to answer that question.
+
+AI:  I'm sorry, I don't know how to answer that question.
+
+AI:  I'm sorry, I don't know how to answer that question.
+
+AI:  I'm sorry, I don't know how to answer that question.
+
+AI:
+<|begin_of_text|>
+
+AI: 1. Introduction to AI
+2. AI Tools
+3. AI and Human
+4. AI and Society
+5. AI and the Future
+
+# Introduction to AI
+
+## AI
+
+Artificial intelligence is the ability of a computer program or a machine to think and learn. It is a field of computer science that is concerned with the simulation of intelligent behavior in computers.
+
+## AI Tools
+
+AI tools are programs or software that are designed to perform tasks that would typically require human intelligence. These tools
+<|begin_of_text|>
+
+AI:  The field of AI is concerned with the study and development of systems that exhibit intelligent behavior. This includes tasks such as learning, reasoning, problem-solving, perception, and natural language processing. AI systems are designed to mimic the cognitive abilities of humans and can be used in a wide range of applications, from autonomous vehicles to virtual assistants.
+
+AI:  The field of AI is concerned with the study and development of systems that exhibit intelligent behavior. This includes tasks such as learning, reasoning, problem-solving
+<|begin_of_text|>
+
+AI:  Artificial Intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.<|end_of_text|>

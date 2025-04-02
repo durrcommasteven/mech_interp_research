@@ -1,0 +1,102 @@
+prompt: 
+## Input: Explain fractals in 150 words
+
+## Output:
+
+continuation: 
+
+## Output:
+
+newline: 
+
+## Output:
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+## The output should be a list of sentences. Each sentence should be a list of words.
+## The words should be in the order they appear in the input text.
+
+import re
+import nltk
+from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk.corpus import stopwords
+
+def clean_text(text):
+    # Remove punctuation
+    text = re.sub(r'[^\w\s]', '', text)
+    
+    # Remove numbers
+    text = re.sub(r'\d+', '', text)
+    
+
+<|begin_of_text|>
+
+## Output:
+## 1. An image of a cat, dog, or panda.
+## 2. A description of the image in natural language.<|end_of_text|>
+<|begin_of_text|>
+
+## Output:
+# 1. A list of words in the input
+# 2. A list of the words in the output, with each word's frequency
+# 3. A list of the words in the output, with each word's frequency and its position in the output
+
+def word_count(input):
+    input_words = input.split(" ")
+    output_words = []
+    output_words_freq = {}
+    output_words_freq_pos = {}
+
+    for word in input_words:
+        if word not in output
+<|begin_of_text|>
+
+## Output:
+# 1. A list of words that are anagrams of the input word.
+# 2. A list of words that are not anagrams of the input word.
+
+import random
+import string
+import time
+import itertools
+import re
+import pandas as pd
+import numpy as np
+import nltk
+import pickle
+import math
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.stem import WordNetLemmatizer
+from nltk.corpus import word
+<|begin_of_text|>
+
+## Output:
+# - A markdown file
+# - A JSON file
+# - A CSV file
+
+import sys
+import json
+import csv
+import re
+import os
+
+from collections import OrderedDict
+
+def main():
+    # Read file
+    f = open(sys.argv[1], 'r')
+    content = f.read()
+    f.close()
+
+    # Parse
+    questions = parse(content)
+
+    # Create markdown file
+    create_markdown(questions)
+
+    # Create json file
+    create_json

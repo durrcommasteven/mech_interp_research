@@ -1,0 +1,34 @@
+prompt: 
+[Task] Explain fractals in 150 words
+
+[Answer]: 
+continuation: 
+
+[Answer]: 
+newline: 
+
+[Answer]: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]:  A fractal is a never ending pattern. The most famous example of this is the Mandelbrot set. 
+
+[Question]:  What are some examples of fractals in nature?
+
+[Answer]:  Snowflakes, ferns, broccoli, and the shape of coastlines are all examples of fractals in nature. 
+
+[Question]:  What is the difference between a fractal and a non-fractal?
+
+[Answer]:  A fractal is a never ending pattern. A non
+<|begin_of_text|>
+
+[Answer]:  Fractals are a set of patterns that repeat themselves in different scales. They are formed by a mathematical process called iteration, where a simple equation is applied repeatedly to a starting value. The result of the iteration is a fractal, which can be visualized as a series of smaller and smaller shapes that are similar to the original shape. Fractals are found in nature and have been used to model a variety of phenomena, such as the structure of plants and animals, the shape of clouds,
+<|begin_of_text|>
+
+[Answer]:  A fractal is a geometric shape that repeats itself at different scales. Fractals are often created by repeating a simple process over and over in an ongoing feedback loop. Driven by recursion, fractals are images of dynamic systems - the pictures of Chaos. Geometrically, they exist in between our familiar dimensions. Fractal patterns are extremely familiar, since nature is full of fractals. For instance: trees, rivers, coastlines, mountains, clouds, seashells, hurricanes, etc
+<|begin_of_text|>
+
+[Answer]: <|end_of_text|>
+<|begin_of_text|>
+
+[Answer]: <|end_of_text|>

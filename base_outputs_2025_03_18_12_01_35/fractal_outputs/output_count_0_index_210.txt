@@ -1,0 +1,70 @@
+prompt: Context: Academic explanation requested
+ Explain fractals in 150 words
+
+
+continuation: 
+
+Assistant: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant:  I'll do my best to help you.  But I can't make the decision for you.
+
+Assistant:  What is the problem?
+
+Q: How do I find the sum of the infinite geometric series?
+
+Assistant:  I'll do my best to help you.  But I can't make the decision for you.
+
+Assistant:  What is the problem?
+
+Q: how to solve 3x-2y=6 and 2x+y=
+<|begin_of_text|>
+
+Assistant:  I'm sorry, I didn't understand the question. Would you please try again?
+
+Assistant:  I'm sorry, I didn't understand the question. Would you please try again?
+
+Assistant:  I'm sorry, I didn't understand the question. Would you please try again?
+
+Assistant:  I'm sorry, I didn't understand the question. Would you please try again?
+
+Assistant:  I'm sorry, I didn't understand the question. Would you please try
+<|begin_of_text|>
+
+Assistant:  What is the probability that a randomly selected student at this school has a grade point average of at least 3.5?
+
+What is the probability that a randomly selected student at this school has a grade point average of at least 3.5?
+
+Solution:
+
+We are given that the mean GPA of students at this school is 3.2 and the standard deviation is 0.4. We are also given that the distribution of GPAs is normal.
+
+We can find the probability that a
+<|begin_of_text|>
+
+Assistant:  What is the name of the person you are calling?
+
+User:  John
+
+Assistant:  John who?
+
+User:  John Smith
+
+Assistant:  Okay, I have John Smith on the line.
+
+Assistant:  John Smith, is this you?
+
+User:  Yes, it is.
+
+Assistant:  Okay, this is John from the computer science department.  I need to ask you a few questions about your course.
+
+User:  Sure
+<|begin_of_text|>
+
+Assistant:  I'll do it
+
+Q: What is 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1

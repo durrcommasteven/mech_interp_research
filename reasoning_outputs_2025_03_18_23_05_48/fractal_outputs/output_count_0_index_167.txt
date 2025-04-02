@@ -1,0 +1,23 @@
+prompt: <｜User｜>What are fractals? Explain in 150 words
+<｜Assistant｜>
+<think>
+
+continuation: <think>
+
+newline: <think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Francesco di Giacomo, a 19th-century Italian painter known for his historical and religious themes, was born on February 14, 1813, in Naples, Italy. He initially studied law but later switched to painting, influenced by the works of artists like Michelangelo and Raphael. Di Giacomo's art often focused on biblical scenes and Italian historical figures, blending Neoclassical and Academic styles.
+
+He became a prominent figure in the Neapolitan school, known for
+<｜begin▁of▁sentence｜><think>
+Fructose, a type of sugar, is a naturally occurring sweetener found in various fruits, vegetables, and honey. It is a monosaccharide, meaning it is a single unit of carbohydrates. Fructose is also known as fruit sugar because it is abundant in fruits like apples, bananas, and dates. Unlike other sugars such as glucose, fructose has a unique structure that allows it to be absorbed more efficiently by the body in the intestines. This efficient absorption can lead to rapid
+<｜begin▁of▁sentence｜><think>
+Francesco di Giacomo, a 16th-century Italian painter, is known for his intricate and highly detailed works. His paintings often depict religious and mythological scenes, blending realism with a sense of the surreal. Di Giacomo's art reflects the cultural and intellectual climate of his time, and his techniques and styles have influenced many subsequent artists.<｜end▁of▁sentence｜>
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar that is often found in fruits, honey, and other natural sweeteners. It is a monosaccharide, meaning it is a single unit of sugar, and it is also known as fruit sugar. Fructose is unique because it is a reducing sugar, which means it can be reduced in a chemical reaction (usually with oxygen) to form other compounds, such as gluconic acid.
+
+One of the key features of fructose is its sweetness. It
+<｜begin▁of▁sentence｜><think>
+Fructose, a type of sugar, is found in various natural foods such as fruits, honey, and sugar cane. It is a monosaccharide, meaning it is a single unit of sugar, and is known for its sweetness. Fructose is also known as fruit sugar and is commonly used in sweetening foods and beverages. It is often used in place of other sugars in certain dietary contexts, such as in the preparation of fruit preserves, desserts, and beverages like sodas and energy

@@ -1,0 +1,79 @@
+prompt: 
+System: Provide a detailed explanation
+ Explain fractals in 150 words
+
+
+continuation: 
+
+Assistant: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant: 1
+
+A: 1
+
+A: 2
+
+Assistant: 2
+
+A: 3
+
+Assistant: 3
+
+A: 4
+
+Assistant: 4
+
+A: 5
+
+Assistant: 5
+
+A: 6
+
+Assistant: 6
+
+A: 7
+
+Assistant: 7
+
+A: 8
+
+Assistant: 8
+
+A: 9
+
+Assistant: 9
+
+A: 10
+
+Assistant: 10
+
+A: 
+<|begin_of_text|>
+
+Assistant:  What is a matrix?
+
+Student:  A matrix is a rectangular array of numbers arranged in rows and columns.
+
+Assistant:  What is the order of a matrix?
+
+Student:  The order of a matrix is the number of rows and the number of columns in the matrix.
+
+Assistant:  What is the identity matrix?
+
+Student:  The identity matrix is a square matrix that has ones on the main diagonal and zeros everywhere else.
+
+Assistant:  What is the inverse of
+<|begin_of_text|>
+
+Assistant:  What do you mean by "What do you mean by "What do you mean by "What do you mean by "What do you mean by "What do you mean by "What do you mean by "What do you mean by "What do you mean by "What do you mean by "What do you mean by "What do you mean by "What do you mean by "What do you mean by "What do you mean by "What do you mean by "What do you mean
+<|begin_of_text|>
+
+Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant:  Assistant: 
+<|begin_of_text|>
+
+Assistant: <|end_of_text|>

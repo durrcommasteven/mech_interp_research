@@ -1,0 +1,45 @@
+prompt: 
+Context: Academic explanation requested Explain fractals in 150 words
+
+Assistant: 
+continuation: 
+
+Assistant: 
+newline: 
+
+Assistant: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant:  Sure, I can help you with that. Here is a possible answer to your question:
+
+"An electric motor is a device that converts electrical energy into mechanical energy. It consists of a rotor, which is the rotating part of the motor, and a stator, which is the stationary part. The rotor is usually made of a coil of wire wrapped around a metal core, and the stator is made of a set of permanent magnets. When an electric current is passed through the coil, it creates
+<|begin_of_text|>
+
+Assistant:  Frigidaire Dishwasher Error Code F5E1: What It Means and How to Fix It
+
+The Frigidaire dishwasher error code F5E1 indicates a problem with the water supply. This could be due to a clogged filter or a malfunctioning water valve. To fix the issue, you should first check the water supply and make sure it is working properly. If the water supply is not the issue, you should check the dishwasher's filter and make sure it is not
+<|begin_of_text|>
+
+Assistant:  I found the following definition of "Definition" on Wikipedia: "In mathematics, a definition is used to give a precise meaning to a new term. A definition can be defined inductively: a definition consists of three parts: a subject term, a predicate, and an explanation. The subject term is the term being defined, the predicate is a statement that the subject term satisfies, and the explanation is a statement of why the predicate holds for the subject term." I also found the following definition of
+<|begin_of_text|>
+
+Assistant:  Franny
+
+Franny:  Hi, I'm Franny, your personal assistant. How can I help you today?
+
+User:  I need to write an essay on the topic of "The Benefits of Reading".
+
+Franny:  Sure, let me gather some information for you. Here are some potential benefits of reading:
+
+1. Improved vocabulary and language skills
+2. Increased knowledge and understanding of the world
+3. Enhanced critical thinking and problem-solving abilities
+4. Reduced stress and anxiety
+<|begin_of_text|>
+
+Assistant:  I found the following definition of "Society" in Wikipedia:
+> The word "society" comes from the French société, which in turn derives from the Latin word societas, from socio "to associate with, to companion". The concept of society is distinguished from "human society", which, broadly speaking, is a collection of individuals.
+
+Assistant:  I found the following definition of "Human" in Wikipedia:
+> Humans ( Homo sapiens) are the only extant members of the sub

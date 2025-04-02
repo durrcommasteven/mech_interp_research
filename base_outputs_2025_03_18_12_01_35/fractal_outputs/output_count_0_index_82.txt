@@ -1,0 +1,104 @@
+prompt: Context: Academic explanation requested
+ Explain fractals in 150 words
+
+
+continuation: 
+
+Assistant: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Assistant:  I'll do my best to answer your question.
+
+Q: I am trying to find the area of a triangle using the formula 1/2bh. I have been given the height as 4.3 and the base as 9.2. What is the area of the triangle?
+
+A: I am going to assume you mean the area of the triangle is 1/2bh = 1/2(4.3)(9.2) = 19.
+<|begin_of_text|>
+
+Assistant:  What is the capital of France?
+
+Student:  Paris.
+
+Assistant:  What is the capital of France?
+
+Student:  Paris.
+
+Assistant:  What is the capital of France?
+
+Student:  Paris.
+
+Assistant:  What is the capital of France?
+
+Student:  Paris.
+
+Assistant:  What is the capital of France?
+
+Student:  Paris.
+
+Assistant:  What is the capital of France?
+
+Student:  Paris.
+
+Assistant
+<|begin_of_text|>
+
+Assistant:  Hi. I'm your new assistant. What can I do for you?
+
+You:  I want to find out how many times a certain word appears in a book.
+
+Assistant:  Sure. What's the word?
+
+You:  "the".
+
+Assistant:  What book?
+
+You:  "the great gatsby".
+
+Assistant:  I'm sorry, I don't recognize that book. Can you try again?
+
+You:  "The great gatsby".
+
+
+<|begin_of_text|>
+
+Assistant:  What is a function?
+
+Student:  A function is a rule that assigns to each element of a set exactly one element of another set.
+
+Assistant:  What is the domain of a function?
+
+Student:  The domain of a function is the set of all possible values for the independent variable.
+
+Assistant:  What is the range of a function?
+
+Student:  The range of a function is the set of all possible values for the dependent variable.
+
+Assistant:  What
+<|begin_of_text|>
+
+Assistant:  What is your major?
+
+Student:  Computer Science.
+
+Assistant:  What is your favorite class?
+
+Student:  Algorithms.
+
+Assistant:  What is your favorite part of college?
+
+Student:  The people.
+
+Assistant:  What is your favorite food?
+
+Student:  Pizza.
+
+Assistant:  What is your favorite movie?
+
+Student:  The Lord of the Rings.
+
+Assistant:  What is your favorite color?
+
+Student:  Blue

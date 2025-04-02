@@ -1,0 +1,65 @@
+prompt: Instructions: Be concise and clear
+ Explain fractals in 150 words
+
+Response: 
+continuation: 
+
+Response: 
+newline: 
+
+Response: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response: 150 words
+
+# 1. Introduction
+
+In this article, we will discuss the concept of a hash table and how it can be implemented using a linked list. A hash table is a data structure that is used to store key-value pairs, where the keys are used to index into the table. The hash function is used to map the keys to a location in the table, and the value is stored at that location. A linked list is a data structure that consists of a series of nodes,
+<|begin_of_text|>
+
+Response: 150 words
+
+A: 3/10
+
+B: 2/10
+
+C: 1/10
+
+D: 1/10
+
+E: 2/10
+
+F: 0/10
+
+G: 0/10
+
+H: 0/10
+
+I: 0/10
+
+J: 0/10
+
+K: 0/10
+
+L: 0/10
+
+M: 0/10
+
+N: 0/10
+<|begin_of_text|>
+
+Response: 150 words
+<|end_of_text|>
+<|begin_of_text|>
+
+Response: 150 words
+
+This is a very interesting question. I think it is important to understand what a neural network is before we can answer this question. A neural network is a type of artificial intelligence that is designed to learn from data. It is made up of a series of interconnected nodes, or neurons, that work together to recognize patterns in data. Neural networks are often used in machine learning applications because they are good at recognizing patterns in data.
+
+So, what is the difference between a neural network and a
+<|begin_of_text|>
+
+Response:  Friction is the force that opposes the motion of an object. It is the force that resists the motion of an object when it is in contact with another object. Friction is caused by the interaction of the surfaces of two objects, and it is proportional to the normal force between the two objects.
+
+Friction can be either static or dynamic. Static friction is the force that resists the motion of an object when it is at rest. Dynamic friction is the force that resists the motion of

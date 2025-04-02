@@ -1,0 +1,32 @@
+prompt: 
+Instructions: Be concise and clear Explain fractals in 150 words
+
+Response: 
+continuation: 
+
+Response: 
+newline: 
+
+Response: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response: 1. The first thing that comes to mind is that they will have to do a lot of research to get the right information. 2. They will need to know how to use the internet and other sources of information. 3. They will need to be able to read and understand complex information. 4. They will need to be able to think critically and analyze information. 5. They will need to be able to communicate their findings effectively. 6. They will need to be
+<|begin_of_text|>
+
+Response:  Fractals are complex shapes that are self-similar at different scales. They are found in nature and are often used in art and design. Fractals are often used to create complex and intricate patterns, and can be used to represent data in a more visually appealing way.<|end_of_text|>
+<|begin_of_text|>
+
+Response:  A fractal is a pattern that repeats itself at smaller and smaller scales to produce ever more detail. The word fractal was coined by mathematician Benoit Mandelbrot in 1975 and comes from the Latin word "fractus" meaning "broken" or "fractured." Fractals are often used to model natural phenomena that exhibit self-similarity, such as coastlines, mountain ranges, and lightning bolts. They are also used in fields such as computer graphics and medicine
+<|begin_of_text|>
+
+Response: 150 words
+
+A. The main point of the article is to explain the importance of using a combination of machine learning and traditional statistical methods to improve the accuracy of predictions in various fields, such as healthcare, finance, and marketing. The author argues that while machine learning has shown great potential in these areas, it is not always reliable and can sometimes make incorrect predictions. By combining machine learning with traditional statistical methods, researchers can improve the accuracy of their predictions and make more informed decisions.
+
+B. The author
+<|begin_of_text|>
+
+Response: 150 words
+
+A: I have never seen a better way of writing this essay. I am so impressed by your writing skills. You have a great command of the English language and you know how to use it to your advantage. You are able to convey your ideas in a clear and concise manner, which is exactly what I am looking for in an essay. Your use of examples and anecdotes is also very effective. You have a good sense of humor, which is always appreciated in an essay. I

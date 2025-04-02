@@ -1,0 +1,97 @@
+prompt: 
+## Input: Explain fractals in 150 words
+
+## Output:
+
+continuation: 
+
+## Output:
+
+newline: 
+
+## Output:
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+## Output:
+# - 5 sentences in total
+# - 2 sentences for each of the 3 main points
+# - 1 sentence for the conclusion
+# - each sentence should be a maximum of 20 words
+# - each sentence should be grammatically correct
+
+import random
+
+main_points = ["The importance of being on time", "The importance of being polite", "The importance of being prepared"]
+conclusion = "In conclusion, being on time, polite, and prepared are essential for
+<|begin_of_text|>
+
+## Output:
+##   1. A document that is 500 words long
+##   2. A document that is 1000 words long
+##   3. A document that is 2000 words long
+
+## 1. Generate 500 words
+import random
+from faker import Faker
+fake = Faker()
+
+def generate_words(num_words):
+    words = []
+    for i in range(num_words):
+        word = fake.word()
+        words.append(word)
+    return words
+
+def generate
+<|begin_of_text|>
+
+## Output:
+- 1 sentence
+- 2 sentences
+- 3 sentences
+
+## Example input:
+- The sky is blue
+- The sky is blue and the grass is green
+- The sky is blue and the grass is green and the sun is shining
+
+## Example output:
+- The sky is blue.
+- The sky is blue, and the grass is green.
+- The sky is blue, the grass is green, and the sun is shining.
+
+## Example output:
+- The sky is blue
+<|begin_of_text|>
+
+## Output:
+# 1. A 10-15 second video, with a title and a few sentences
+# 2. A 5-10 minute video, with a title, a few sentences, and a few examples
+
+import os
+import sys
+import time
+import cv2
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import librosa
+import librosa.display
+import IPython.display as ipd
+import tensorflow as tf
+import tensorflow_hub as
+<|begin_of_text|>
+
+## Output:
+## - A markdown file containing the answer to the question
+## - A.csv file containing the answer to the question
+## - A.html file containing the answer to the question
+
+## Requirements:
+## - The markdown file must contain the answer to the question
+## - The.csv file must contain the answer to the question
+## - The.html file must contain the answer to the question
+## - The files must be in the same directory as the script
+## - The files

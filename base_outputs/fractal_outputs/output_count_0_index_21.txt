@@ -1,0 +1,29 @@
+prompt: Instructions: Be concise and clear Explain fractals in 150 words
+
+Response: 
+continuation: 
+
+Response: 
+newline: 
+
+Response: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response: 1. In the first experiment, the researcher used the same number of participants in each group. In the second experiment, the researcher used the same number of participants in each group. In the third experiment, the researcher used the same number of participants in each group. In the fourth experiment, the researcher used the same number of participants in each group. In the fifth experiment, the researcher used the same number of participants in each group. In the sixth experiment, the researcher used the same number of participants
+<|begin_of_text|>
+
+Response: 150 words
+
+The United States is a country that has been built on the backs of immigrants. From the very beginning, the United States has been a melting pot of cultures and ethnicities. This is one of the things that makes our country so great. We are a nation of immigrants, and we should be proud of that fact.
+
+One of the most important things that immigrants bring to the United States is their hard work ethic. Immigrants are often willing to work long hours for little pay in order
+<|begin_of_text|>
+
+Response:  It is a  way to solve a problem or answer a question. There are different ways to solve a problem or answer a question. Some people might use a calculator to solve a problem, while others might use a pencil and paper. Some people might use a computer to solve a problem, while others might use a graphing calculator. Some people might use a textbook to solve a problem, while others might use a teacher’s guide. There is no one right way to solve a problem or
+<|begin_of_text|>
+
+Response:  The first step in the process of solving a system of linear equations is to graph the two equations on the same coordinate plane. The point of intersection is the solution to the system of equations. To find the solution, first graph the first equation. To graph the equation, start by plotting the y-intercept, which is the point where the line crosses the y-axis. The y-intercept is (0, 3). Next, plot another point on the line. The second point should be
+<|begin_of_text|>
+
+Response:  The vector space is a space of all possible vector values and operations on them. The vector space has a structure of a vector space with a field of real or complex numbers as the field of scalars. The vector space is an important concept in mathematics and 

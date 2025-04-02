@@ -1,0 +1,31 @@
+prompt: Instructions: Be concise and clear Explain fractals in 150 words
+
+
+continuation: 
+
+Response: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response: 1. I think the most important thing to consider when writing a code is the readability of the code. If the code is not readable, it will be difficult for others to understand and maintain the code. In order to make the code more readable, it is important to use descriptive variable names, proper indentation, and comments. 2. Another important consideration when writing a code is the performance of the code. If the code is not optimized, it may take a long time to run and may not
+<|begin_of_text|>
+
+Response: 2
+
+1. A sample of 40 observations is selected from a normal population. The sample mean was 51 and the sample standard deviation was 5. Construct a 99% confidence interval estimate of the population mean. (Round your answers to two decimal places.)
+Upper limit = __________
+Lower limit = __________
+2. A sample of 60 observations is selected from a normal population. The sample mean was 18 and the sample standard deviation was 2. Construct a 98
+<|begin_of_text|>
+
+Response: 1. I don't think the above mentioned points are enough to define the word "intelligent". The word intelligent is a very complex word which can't be defined in just one or two points. It is a relative term which can be defined by different people in different ways. For example, according to me, intelligence is the ability to solve problems, learn from experience, and adapt to new situations. But according to someone else, intelligence might be the ability to use language effectively or the ability to
+<|begin_of_text|>
+
+Response: 1. What is the significance of the fact that the $N_{2}$ and $O_{2}$ concentrations are the same in the air you breathe?
+Answer:  The significance of the fact that the $N_{2}$ and $O_{2}$ concentrations are the same in the air you breathe is that the two elements are needed in the same ratio to support life.  $N_{2}$ is needed for the formation
+<|begin_of_text|>
+
+Response: 1. The average of a set of numbers is the sum of the numbers divided by the number of numbers. The median is the middle number in a set of numbers. The mode is the number that appears most frequently in a set of numbers. The range is the difference between the largest and smallest numbers in a set of numbers. The variance is the average of the squared differences from the mean. The standard deviation is the square root of the variance. 2. The average of a set of numbers

@@ -1,0 +1,23 @@
+prompt: <｜User｜>Using simple terms, Explain fractals in 150 words<｜Assistant｜><think>
+continuation: <｜Assistant｜><think>
+
+newline: <｜Assistant｜><think>
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out what a "quantum leap" means in a quantum mechanical context. I remember hearing the term before, maybe in a physics class or something, but I'm not entirely sure about the details. Let me try to break it down.
+
+First, I know that quantum mechanics is a branch of physics that deals with the very small, like particles and waves, and how they behave at that level. So, a quantum leap must have something to do with changes or
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain the concept of "emotional intelligence" in a way that's easy to understand. I'm not entirely sure what it all means, but I know it's something to do with understanding emotions. Let me start by breaking it down.
+
+First, the term "emotional intelligence" was probably coined by someone, maybe a psychologist. I think it's related to how well we manage our own emotions and maybe even read other people's emotions. I
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out what "sui generis" means. I've heard the term before, maybe in some Latin class or while reading a book. It sounds a bit fancy, like something from literature or philosophy. I think it's a Latin phrase, so maybe it's related to that.
+
+First, I'll break it down. "Sui" – that looks like the genitive case in Latin, right? So "sui" would mean "of oneself"
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out what a "non-coding RNA" is. I've heard the term before, maybe in biology class or something. Let me try to recall. I think it's related to RNA, which stands for ribonucleic acid. I know RNA is a type of nucleic acid, like DNA, but it's not the same. DNA is usually double-stranded, right? And RNA is single-stranded, but I think it can form structures like
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out how to explain what a "flying car" is. I'm not entirely sure if this is a real thing or just something from movies or science fiction. I know that cars are vehicles that people use to travel by land, and flying cars must be some kind of vehicle that can also fly. But how does that work exactly? I mean, cars have engines and are made for driving on roads, right? So, how do they also fly?
+
+Maybe

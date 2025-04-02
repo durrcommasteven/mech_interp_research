@@ -1,0 +1,25 @@
+prompt: <｜User｜>Explain fractals in 150 words
+<｜Assistant｜>
+<think>
+
+continuation: <think>
+
+newline: <think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Francesco de Sanctis was a prominent Italian politician and journalist who played a significant role in the unification of Italy. He was born on February 28, 1817, in the town of Morolo, in the Province of Teramo, Abruzzi, Italy. After attending local schools, he moved to Rome, where he became involved in the political movements of the time. He was a key figure in the Carbonari movement, which aimed to unify Italy under the House of Savoy
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar that is naturally found in fruits, honey, and other natural sweeteners. It is a monosaccharide, meaning it is a single unit of sugar, and it is also known as fruit sugar. Fructose is absorbed into the bloodstream more slowly than glucose, which is another type of sugar, and it does not cause a rapid spike in blood sugar levels. This makes it a better choice for individuals with diabetes or those managing blood sugar levels.
+
+One of
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar that is found in fruits, honey, and other natural sources. It is a monosaccharide, meaning it is a single unit of carbohydrates. Fructose is also known as fruit sugar and is known for its sweetness and ability to be absorbed quickly by the body. Here are some key points about fructose:
+
+1. **Structure**: Fructose is a six-carbon monosaccharide, similar in structure to glucose, but with different functional groups
+<｜begin▁of▁sentence｜><think>
+Francesco Puglia is an Italian singer, musician, and actor known for his unique style and versatile voice. Born in 1955 in Padua, Puglia began his career in the late 1970s, blending elements of rock, jazz, and classical music. His distinctive voice and theatrical performances have made him a favorite among music enthusiasts and actors in the Italian entertainment industry.
+
+Puglia has released several albums throughout his career, showcasing his ability to interpret a wide range of
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar that is often found in fruits and honey. It is a monosaccharide, meaning it is a single unit of sugar, and it is also known as fruit sugar. Fructose is different from glucose in that it is sweeter and has a different structure. When fructose is consumed, it is absorbed into the bloodstream through the small intestine, but it does not require insulin for absorption, unlike glucose. This is one reason why it is sometimes recommended for

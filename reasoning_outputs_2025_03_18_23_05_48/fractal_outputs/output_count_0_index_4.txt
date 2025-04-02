@@ -1,0 +1,27 @@
+prompt: <｜User｜>Explain fractals in 150 words<｜Assistant｜><think>
+
+continuation: <think>
+
+newline: <think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to approach this. The user has provided a query where they're asking about a specific topic, and they've included an example response. It seems like they want me to generate a similar thought process, but not the actual response. 
+
+First, I should understand the user's intent. They might be looking to create a natural-sounding thought process that a person would have before responding to a question. The example given is about explaining the process of photosynthesis
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to understand the concept of "emotional intelligence." I've heard the term before, especially in self-help books and articles about personal development. The user provided a pretty detailed explanation, but I want to make sure I really get it.
+
+First, the definition: Emotional intelligence is the ability to recognize, understand, manage, and influence one's own emotions and those of others. It's about being aware of how you feel and how others feel, which helps in navigating social
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to write a detailed thought process of someone trying to understand how to answer the question about the best way to approach writing an essay on a given topic. The example provided is about the impact of social media on mental health, so I should focus on that. 
+
+First, I think the person would start by understanding the topic. They might break it down into different aspects, like positive and negative impacts. Maybe they'll consider how social media connects people but also
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to respond to this query. The user provided a detailed response about the topic, so I should probably use that. First, I'll read through the original response to understand the key points. It explains what a bot is, its purpose, types, benefits, limitations, and examples. 
+
+Hmm, the user is asking me to write a response, so maybe they want a more conversational or simplified version? Or perhaps they need a different structure. I
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to understand this concept of "moral relativism." The user mentioned that it's the view that moral values are relative to individuals or cultures, right? So, basically, what's right or wrong depends on who you are or where you come from. Hmm, that makes sense in some ways because different cultures have different customs and values. For example, some cultures have different attitudes towards things like marriage, family, and even things like eating habits.
+
+But I'm not

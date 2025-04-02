@@ -1,0 +1,37 @@
+prompt: [Task] Explain fractals in 150 words
+
+
+continuation: 
+
+[Answer]: 
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+[Answer]: 1) The answer is "C". The statement is true. The function $f$ is not defined at $x=0$ because $\frac{1}{x}$ is not defined at $x=0$. This is because when $x=0$, the denominator of the fraction is $0$, which is undefined. The function $f$ is not continuous at $x=0$ because the limit as $x$ approaches $0$ from the left is $-\infty$,
+<|begin_of_text|>
+
+[Answer]: 1
+
+[Explanation]: 1. If you're using the latest version of the iOS SDK, you can use the new AVPlayerItem class, which has a property called "playbackLikelyToKeepUp" that returns a Boolean value indicating whether the player is likely to keep up with the current playback rate.<|end_of_text|>
+<|begin_of_text|>
+
+[Answer]: 1.1.1.1
+
+[Explanation]: [The first 1.1.1.1 was announced by Google in 2008, and is now used as a DNS resolver by default on some Android devices, as well as some Windows 10 devices.](https://en.wikipedia.org/wiki/1.1.1.1_(DNS_server))
+
+[Source]: [1.1.1.1](https://en.wikipedia.org/wiki/1.1.1.1
+<|begin_of_text|>
+
+[Answer]: 1. What is the first thing you should do when you find a bug? 2. What is the second thing you should do when you find a bug? 3. What is the third thing you should do when you find a bug? 4. What is the fourth thing you should do when you find a bug? 5. What is the fifth thing you should do when you find a bug?
+
+1. What is the first thing you should do when you find a bug?
+
+
+<|begin_of_text|>
+
+[Answer]: 1
+
+Explanation: The first letter is the first letter of the alphabet. The second letter is the second letter of the alphabet. The third letter is the third letter of the alphabet. The fourth letter is the fourth letter of the alphabet. The fifth letter is the fifth letter of the alphabet. The sixth letter is the sixth letter of the alphabet. The seventh letter is the seventh letter of the alphabet. The eighth letter is the eighth letter of the alphabet. The ninth letter is the ninth letter of

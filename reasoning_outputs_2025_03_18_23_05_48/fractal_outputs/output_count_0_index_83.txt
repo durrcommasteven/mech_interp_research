@@ -1,0 +1,24 @@
+prompt: <｜User｜>Provide a clear explanation of fractals in 150 words
+<｜Assistant｜>
+<think>
+continuation: <think>
+newline: <think>
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to solve the equation 2x + 3 = 5. Hmm, let me think about this step by step. First, I remember that to solve for x, I need to isolate it on one side of the equation. That means I should get rid of the 2 that's being multiplied by x and the 3 that's being added. 
+
+Alright, the equation is 2x + 3 = 5. So,
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to calculate the area of a rectangle. I remember from school that the area of a rectangle is related to its length and width. But I'm a bit fuzzy on the exact formula. Let me think... I believe it's something like multiplying the length by the width. Yeah, that sounds right. So, Area = length × width. 
+
+Wait, but I'm not 100% sure if that's correct. Maybe I should double-check
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to calculate the area of a parallelogram. I remember that a parallelogram is a four-sided shape with two pairs of parallel sides. But I'm not exactly sure how to find its area. Let me think.
+
+First, I know that for some shapes, like rectangles and squares, the area is just length times width. But a parallelogram isn't a rectangle unless it's a special case. So maybe the formula is similar?
+<｜begin▁of▁sentence｜><think>
+Alright, so I need to figure out how to solve the equation 2x² + 3x + 1 = 0. I remember from school that quadratic equations can be solved using the quadratic formula, but let me try to recall the exact steps. First, I think I need to identify the coefficients of the equation. In this case, the equation is in the standard form ax² + bx + c = 0, so a is 2, b is 3,
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to make a simple calculator using Python. I'm pretty new to programming, so I'll take it step by step. First, I should think about what a calculator does. It takes two numbers as input, performs an operation like addition, subtraction, multiplication, or division, and then displays the result.
+
+Hmm, so in Python, I can get input from the user using the input() function. But I need to handle both numbers and operations.

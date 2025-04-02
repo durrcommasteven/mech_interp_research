@@ -1,0 +1,55 @@
+prompt: 
+# Question Explain fractals in 150 words
+
+# Answer
+
+continuation: 
+
+# Answer
+
+newline: 
+
+# Answer
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+# Answer
+# A fractal is a geometric shape that is self-similar, which means that it has the same structure at all scales. In other words, if you zoom in on a fractal, you will see the same pattern repeating itself. Fractals are often used to represent natural phenomena that are too complex to be described by traditional Euclidean geometry, such as coastlines, rivers, and mountains.
+
+# One of the most famous fractals is the Mandelbrot set, which was discovered
+<|begin_of_text|>
+
+# Answer
+# Here is an example of a function that prints a message to the console:
+def print_message():
+    print("Hello, World!")
+print_message()
+<|end_of_text|>
+<|begin_of_text|>
+
+# Answer
+# A list is a collection of items in a particular order. You can use
+# square brackets to create a list, and use commas to separate the
+# items. For example:
+# 
+# fruits = ['apples', 'bananas', 'oranges']
+# 
+# This creates a list of three items: 'apples', 'bananas', and 'oranges'.
+# 
+# You can access items in a list using their index (the position in the
+# list
+<|begin_of_text|>
+
+# Answer
+# - A dictionary is a collection of key-value pairs
+# - The keys are unique and the values can be of any data type
+# - Dictionaries are mutable, meaning that the values can be changed
+# - Dictionaries are unordered, meaning that the order of the key-value pairs is not guaranteed
+# - Dictionaries are accessed using square brackets
+# - Dictionaries can be created using the `dict` constructor or by using curly braces
+# - Dictionaries can be updated using
+<|begin_of_text|>
+
+# Answer
+# A: In the context of a computer, a file is a collection of data stored on a disk. The data can be anything, such as text, images, music, or video. Files are organized into folders, which are like drawers in a filing cabinet. Each file has a name, and the name is used to identify the file. Files can be opened and edited using a program, such as a word processor or a graphics editor. Files can also be copied, moved, or deleted

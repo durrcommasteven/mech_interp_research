@@ -1,0 +1,50 @@
+prompt: 
+<prompt>Explain fractals in 150 words</prompt>
+
+
+continuation: 
+
+ <response>
+newline: 
+
+
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+ <response> <id>123</id> <name>Some name</name> <email>some@email.com</email> <password>somepassword</password> </response> 
+<|end_of_text|>
+<|begin_of_text|>
+
+ <response> 
+
+  <return> 
+
+   <id>1</id> 
+
+   <name>John</name> 
+
+   <age>28</age> 
+
+  </return> 
+
+ </response> 
+ <|end_of_text|>
+<|begin_of_text|>
+
+ <response> <|end_of_text|>
+<|begin_of_text|>
+
+ <response> <|end_of_text|>
+<|begin_of_text|>
+
+ <response> 
+    <error>0</error>
+    <data>
+        <code>0</code>
+        <message>Success</message>
+        <data>
+            <username>user</username>
+            <token>1234567890</token>
+        </data>
+    </data>
+</response><|end_of_text|>

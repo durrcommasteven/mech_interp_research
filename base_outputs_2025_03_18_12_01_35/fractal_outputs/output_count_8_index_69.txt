@@ -1,0 +1,38 @@
+prompt: Instructions: Be concise and clear
+ Explain fractals in 150 words
+
+Response: 
+continuation: 
+
+Response: 
+newline: 
+
+Response: 
+--------------- OUTPUTS BELOW ------------
+<|begin_of_text|>
+
+Response:  Fractals are patterns that repeat at different scales. They are often found in nature, and can be used to model complex systems. Some examples of fractals include the Mandelbrot set, the Sierpinski triangle, and the Koch snowflake. Fractals can be used to model a variety of phenomena, including the behavior of stock markets, the distribution of galaxies in the universe, and the structure of the human brain.
+
+One of the most famous fractals is the Mandel
+<|begin_of_text|>
+
+Response: 1. The term "web server" refers to a computer program that responds to HTTP requests. The term "web server" can also refer to the computer or device that is running the web server software. In this context, the web server is responsible for delivering web pages to the user's web browser. The web server may also be responsible for other tasks, such as processing forms, generating dynamic content, and managing user sessions.
+
+2. The term "web server" can also refer to the computer
+<|begin_of_text|>
+
+Response:  A program is a set of instructions that a computer follows to perform a specific task. A program can be written in any programming language, such as Python, C++, or Java. A program is executed by a computer, which reads the instructions and performs the actions specified by the program. Programs can be used to perform a wide variety of tasks, such as calculating mathematical equations, displaying information on a screen, or controlling a robot.
+
+To write a program, a programmer uses a programming language, which is
+<|begin_of_text|>
+
+Response: 150 words
+
+In my opinion, I would say that the most important factor that will influence the future of the Internet is the development of the Internet of Things (IoT). The IoT is a network of physical devices, vehicles, and other items that are connected to the Internet and can exchange data. This includes everything from smart homes and appliances to wearable devices and even industrial equipment. The potential applications of the IoT are vast and include everything from improving energy efficiency and reducing waste to enhancing healthcare and transportation.
+
+
+<|begin_of_text|>
+
+Response:  Fractals are geometric figures that are self-similar across different scales. This means that if you zoom in on a fractal, you will see the same patterns repeated over and over again. Fractals are often used to model natural phenomena such as coastlines, clouds, and river networks. They are also used in computer graphics to create realistic images and animations.
+
+The Mandelbrot set is a famous example of a fractal. It is a set of complex numbers that can be visual

@@ -1,0 +1,25 @@
+prompt: <｜User｜>Explain fractals in 150 words<｜Assistant｜>
+continuation: <｜Assistant｜><think>
+
+newline: <｜Assistant｜>
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I'm trying to understand what the user is asking for here. They provided a response about quantum computing, but then they followed it up with "Why are you here?" Hmm, maybe they're confused or perhaps they're testing me. Let me break this down.
+
+First, the response they gave explains quantum computing in a pretty straightforward way. It mentions qubits, entanglement, and quantum supremacy. That's a solid intro, but I'm not sure if that's what the
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out what to write about when explaining the concept of "nothingness" in physics. Hmm, I remember from my classes that in physics, especially in quantum mechanics, there's this idea that particles can sometimes be in states where they're neither here nor there. I think it's called "superposition." So maybe that's related.
+
+Wait, but the user mentioned "nothingness" specifically. I think that might be a more philosophical term. In physics, they
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I'm trying to understand what "sin" in trigonometry means. I remember it's one of the basic functions, but I'm a bit fuzzy on the details. Let me think about what I learned in class.
+
+First, I recall that trigonometry deals with triangles, specifically right-angled ones, and the relationships between their sides. The word "trigonometry" comes from Greek, I think, meaning "triangle measurement." That makes sense because trig functions are about
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Alright, so I need to figure out what to write about when someone asks me to explain "I could have sworn." Hmm, okay, let's break this down. First off, the phrase is "I could have sworn." I think it's used when someone is expressing a strong belief or certainty about something, but then they realize that their memory might not be accurate. 
+
+So, maybe the user is trying to understand the meaning behind this phrase. They might have heard it in a conversation or
+<｜begin▁of▁sentence｜><｜Assistant｜><think>
+Okay, so I need to figure out what "I'm not a robot" means when someone says it to me. I'm a bit confused about the context in which this phrase is used. Maybe it's from a specific situation or conversation. Let me think about possible scenarios where someone might say that to me.
+
+First, maybe it's in a customer service setting. If I'm talking to a chatbot or an automated system, they might say something like that to confirm I'm human. But

@@ -1,0 +1,27 @@
+prompt: <｜User｜>For a beginner audience, Explain fractals in 150 words
+<｜Assistant｜>
+<think>
+
+continuation: <think>
+
+newline: <think>
+
+--------------- OUTPUTS BELOW ------------
+<｜begin▁of▁sentence｜><think>
+Fructose, a type of sugar, is naturally found in various foods like fruits, honey, and sweeteners. It's known for its sweet taste and is often used in baking, cooking, and as a sweetener in beverages. Fructose can be categorized into two forms: free fructose and fructose glucose. Free fructose is the form that is more readily available for absorption in the body, as it doesn't require digestion like other sugars do. This makes it a popular ingredient in processed
+<｜begin▁of▁sentence｜><think>
+Fructose is a type of sugar found in fruits, honey, and other natural sources. It is a monosaccharide, meaning it is a single unit of a carbohydrate. Fructose is also known as fruit sugar because it is abundant in fruits. It is a sweet-tasting substance that plays a role in the flavor of many foods and beverages.
+
+Fructose is different from glucose in some ways. For example, glucose is a simple sugar that is absorbed directly into the bloodstream, providing quick
+<｜begin▁of▁sentence｜><think>
+Okay, so I need to figure out how to make a simple web app that lets me track my expenses. I've never really built anything like this before, but I have some basic knowledge of HTML and CSS. Let me think through this step by step.
+
+First, I guess I need to decide on the structure of the app. I want it to have a form where I can input my expenses, along with some details like the date, the amount, and maybe a category. Then, I
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to understand what "keto" means in the context of diet and health. I've heard the term before, but I'm not exactly sure what it entails. Let me start by breaking it down.
+
+First, I think "keto" has something to do with ketones. I remember hearing that the body produces ketones when it doesn't have enough glucose to burn for energy. So, maybe a keto diet is related to this process? I should probably look
+<｜begin▁of▁sentence｜><think>
+Okay, so I'm trying to figure out how to approach this problem. It says, "Prove that the set of all real numbers is a basis for itself." Hmm, that sounds a bit abstract. Let me break it down.
+
+First, I know that in linear algebra, a basis is a set of vectors that are linearly independent and span the vector space. So, in this case, the vector space is the set of all real numbers, which is a one-dimensional space. That
