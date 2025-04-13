@@ -23,23 +23,20 @@ from transformers.models.llama.modeling_llama import (
 class ActivationContainer:
     """
     A dataclass to hold activations of keys, values
-    at specified layers and token indices
+    at specified layers and token indices.
     """
-
     # mapping from (token idx, layer idx)
-    # to another dictionary, mapping string (eg: "key")
-    # to tensor
-    activity_dict = defaultdict(dict)
+    # to another dictionary mapping string (e.g., "key") to tensor
+    activity_dict: dict = field(default_factory=lambda: defaultdict(dict))
 
-    # map the token index to its values
-    # eg: 7: ("the ", 311)
-    token_idx_to_value_dict = dict()
+    # maps the token index to its values, e.g., 7: ("the ", 311)
+    token_idx_to_value_dict: dict = field(default_factory=dict)
 
-    # Given a token string, or token int
-    # return the corresponding token indices
-    # eg: "the " -> returns all index positions of "the "
-    token_int_to_token_idx = defaultdict(list)
-    token_str_to_token_idx = defaultdict(list)
+    # Given a token string or token int,
+    # return the corresponding token indices.
+    # e.g., "the " -> returns all index positions of "the "
+    token_int_to_token_idx: dict = field(default_factory=lambda: defaultdict(list))
+    token_str_to_token_idx: dict = field(default_factory=lambda: defaultdict(list))
 
     def set_tokens(self, token_index, token_int, token_string):
         if isinstance(token_int, torch.Tensor):
@@ -48,15 +45,15 @@ class ActivationContainer:
         self.token_idx_to_value_dict[token_index] = (token_string, token_int)
 
         self.token_int_to_token_idx[token_int].append(token_index)
-        self.token_int_to_token_idx[token_string].append(token_index)
+        self.token_str_to_token_idx[token_string].append(token_index)
 
         self.token_int_to_token_idx[token_int].sort()
-        self.token_int_to_token_idx[token_string].sort()
+        self.token_str_to_token_idx[token_string].sort()
 
     def get_token_by_index(self, token_index):
         return self.token_idx_to_value_dict.get(token_index, None)
 
-    def set_activation(self, token_index, layer_index, tensor, label):    
+    def set_activation(self, token_index, layer_index, tensor, label):   
         self.activity_dict[(token_index, layer_index)][label] = tensor
 
     def get_activation(self, token_index, layer_index, label):
@@ -66,19 +63,45 @@ class ActivationContainer:
         output = []
         layer_index = 0
         while (token_index, layer_index) in self.activity_dict:
-            output.append(self.activity_dict[(token_index, layer_index)][label])
+            try:
+                output.append(self.activity_dict[(token_index, layer_index)][label])
+                
+            except:
+                print(self.activity_dict[(token_index, layer_index)])
+                print(self.activity_dict[(token_index, layer_index)].keys())
+                print(token_index, layer_index)
+                assert False
+            
             layer_index += 1
         return output
     
     def set_values(self):
-        # reset the value of all tensors contained in the activity dict 
-        for key1 in self.activity_dict:
-            for key2 in self.activity_dict[key1]:
-                v = self.activity_dict[key1][key2]
-                if isinstance(v, nnsight.intervention.graph.proxy.InterventionProxy):
-                    #print(v, key1, key2)
-                    self.activity_dict[key1][key2] = v.value
+        # Reset the value of all tensors contained in the activity dict.
+        # Note: these values are only set for those with actual values.
+        total_token_num = len(self.token_idx_to_value_dict)
+        for token_idx in range(total_token_num):
+            for layer_idx in range(32):
+                for key in self.activity_dict[(token_idx, layer_idx)]:
+                    value = self.activity_dict[(token_idx, layer_idx)][key]
+                    if isinstance(value, nnsight.intervention.graph.proxy.InterventionProxy):
+                        try:
+                            self.activity_dict[(token_idx, layer_idx)][key] = value.value
+                        except Exception:
+                            print(f"No value present for {(token_idx, layer_idx)}, {key}")
+                            raise ValueError
+        
+        # Remove all entries beyond the end-of-sequence (eos)
+        max_key_val = max([tok_idx for tok_idx, _ in self.activity_dict])
+        total_token_num = len(self.token_idx_to_value_dict)
+        for token_idx in range(total_token_num, max_key_val+1):
+            for layer_idx in range(32):
+                del self.activity_dict[(token_idx, layer_idx)]
 
+
+def split_string_into_tokens(llama, string):
+    return [
+        llama.tokenizer.decode(w) for w in llama.tokenizer.encode(string)
+    ]
 
 @dataclass
 class AttentionContainer:
