@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REQUIRED_PYTHON="3.12"
+REQUIRED_PYTHON="3.10"
 
 version_ge() {
     [ "$(printf '%s\n' "$@" | sort -V | head -n 1)" != "$1" ]

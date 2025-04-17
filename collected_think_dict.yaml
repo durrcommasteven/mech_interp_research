@@ -1,0 +1,4096 @@
+'0_0':
+  mean_stop_think_ratio: 0.42606255412101746
+  mean_think_ratio: 0.4333517551422119
+  mean_think_stop_think_ratio: 0.4263741075992584
+'0_1':
+  mean_stop_think_ratio: 0.4642314314842224
+  mean_think_ratio: 0.8353716135025024
+  mean_think_stop_think_ratio: 0.8036103248596191
+'0_10':
+  mean_stop_think_ratio: 0.04396642744541168
+  mean_think_ratio: 0.14164099097251892
+  mean_think_stop_think_ratio: 0.1340315192937851
+'0_11':
+  mean_stop_think_ratio: 0.12291404604911804
+  mean_think_ratio: 0.22596955299377441
+  mean_think_stop_think_ratio: 0.20880138874053955
+'0_12':
+  mean_stop_think_ratio: 0.36665382981300354
+  mean_think_ratio: 0.8932843208312988
+  mean_think_stop_think_ratio: 0.8612390160560608
+'0_13':
+  mean_stop_think_ratio: 0.4116363525390625
+  mean_think_ratio: 0.9017752408981323
+  mean_think_stop_think_ratio: 0.8707626461982727
+'0_14':
+  mean_stop_think_ratio: 0.11144105345010757
+  mean_think_ratio: 0.40929481387138367
+  mean_think_stop_think_ratio: 0.39398783445358276
+'0_15':
+  mean_stop_think_ratio: 0.07040796428918839
+  mean_think_ratio: 0.2003040760755539
+  mean_think_stop_think_ratio: 0.18713152408599854
+'0_16':
+  mean_stop_think_ratio: 0.24708174169063568
+  mean_think_ratio: 0.5671371221542358
+  mean_think_stop_think_ratio: 0.5480619668960571
+'0_17':
+  mean_stop_think_ratio: 0.2564641237258911
+  mean_think_ratio: 0.46668821573257446
+  mean_think_stop_think_ratio: 0.44193533062934875
+0_18:
+  mean_stop_think_ratio: 0.24290798604488373
+  mean_think_ratio: 0.5439488291740417
+  mean_think_stop_think_ratio: 0.5273949503898621
+0_19:
+  mean_stop_think_ratio: 0.4333721995353699
+  mean_think_ratio: 0.9213495850563049
+  mean_think_stop_think_ratio: 0.887672483921051
+'0_2':
+  mean_stop_think_ratio: 1.5326952934265137
+  mean_think_ratio: 1.168358325958252
+  mean_think_stop_think_ratio: 1.1934305429458618
+'0_20':
+  mean_stop_think_ratio: 1.4755626916885376
+  mean_think_ratio: 2.8802032470703125
+  mean_think_stop_think_ratio: 2.813822031021118
+'0_21':
+  mean_stop_think_ratio: 5.43832540512085
+  mean_think_ratio: 4.924925327301025
+  mean_think_stop_think_ratio: 4.9486775398254395
+'0_22':
+  mean_stop_think_ratio: 9.41950511932373
+  mean_think_ratio: 8.31287956237793
+  mean_think_stop_think_ratio: 8.45154857635498
+'0_23':
+  mean_stop_think_ratio: 0.08849886059761047
+  mean_think_ratio: 0.19624347984790802
+  mean_think_stop_think_ratio: 0.18880391120910645
+'0_24':
+  mean_stop_think_ratio: 0.3131687343120575
+  mean_think_ratio: 0.733284056186676
+  mean_think_stop_think_ratio: 0.6887075901031494
+'0_25':
+  mean_stop_think_ratio: 0.0802593007683754
+  mean_think_ratio: 0.22026555240154266
+  mean_think_stop_think_ratio: 0.2055949717760086
+'0_26':
+  mean_stop_think_ratio: 0.13252805173397064
+  mean_think_ratio: 0.3748610317707062
+  mean_think_stop_think_ratio: 0.35116031765937805
+'0_27':
+  mean_stop_think_ratio: 0.07648545503616333
+  mean_think_ratio: 0.21656803786754608
+  mean_think_stop_think_ratio: 0.202177956700325
+0_28:
+  mean_stop_think_ratio: 2.217712640762329
+  mean_think_ratio: 2.0312018394470215
+  mean_think_stop_think_ratio: 2.0539474487304688
+0_29:
+  mean_stop_think_ratio: 0.07317878305912018
+  mean_think_ratio: 0.24182140827178955
+  mean_think_stop_think_ratio: 0.22565114498138428
+'0_3':
+  mean_stop_think_ratio: 1.6273784637451172
+  mean_think_ratio: 2.312786817550659
+  mean_think_stop_think_ratio: 2.249896287918091
+'0_30':
+  mean_stop_think_ratio: 0.476466566324234
+  mean_think_ratio: 0.9925670623779297
+  mean_think_stop_think_ratio: 0.9563474655151367
+'0_31':
+  mean_stop_think_ratio: 0.024291403591632843
+  mean_think_ratio: 0.2611202001571655
+  mean_think_stop_think_ratio: 0.2312876284122467
+'0_4':
+  mean_stop_think_ratio: 0.2207208275794983
+  mean_think_ratio: 0.526694118976593
+  mean_think_stop_think_ratio: 0.497236430644989
+'0_5':
+  mean_stop_think_ratio: 0.23164202272891998
+  mean_think_ratio: 0.5824700593948364
+  mean_think_stop_think_ratio: 0.5514011979103088
+'0_6':
+  mean_stop_think_ratio: 0.6380070447921753
+  mean_think_ratio: 1.3282811641693115
+  mean_think_stop_think_ratio: 1.2589865922927856
+'0_7':
+  mean_stop_think_ratio: 0.16326335072517395
+  mean_think_ratio: 0.4041980504989624
+  mean_think_stop_think_ratio: 0.3809404969215393
+0_8:
+  mean_stop_think_ratio: 0.09418558329343796
+  mean_think_ratio: 0.18653911352157593
+  mean_think_stop_think_ratio: 0.17454223334789276
+0_9:
+  mean_stop_think_ratio: 0.03712944686412811
+  mean_think_ratio: 0.13438598811626434
+  mean_think_stop_think_ratio: 0.1263725459575653
+'10_0':
+  mean_stop_think_ratio: 0.8040658831596375
+  mean_think_ratio: 0.4106346368789673
+  mean_think_stop_think_ratio: 0.4372836947441101
+'10_1':
+  mean_stop_think_ratio: 0.6452385783195496
+  mean_think_ratio: 0.5160966515541077
+  mean_think_stop_think_ratio: 0.5116247534751892
+'10_10':
+  mean_stop_think_ratio: 0.6374696493148804
+  mean_think_ratio: 0.44342148303985596
+  mean_think_stop_think_ratio: 0.45790037512779236
+'10_11':
+  mean_stop_think_ratio: 0.24235709011554718
+  mean_think_ratio: 0.3673154413700104
+  mean_think_stop_think_ratio: 0.35150831937789917
+'10_12':
+  mean_stop_think_ratio: 0.9047707915306091
+  mean_think_ratio: 0.4213237762451172
+  mean_think_stop_think_ratio: 0.4608181118965149
+'10_13':
+  mean_stop_think_ratio: 2.339890956878662
+  mean_think_ratio: 0.7703173756599426
+  mean_think_stop_think_ratio: 0.9382864236831665
+'10_14':
+  mean_stop_think_ratio: 0.21746988594532013
+  mean_think_ratio: 0.2222628891468048
+  mean_think_stop_think_ratio: 0.21836034953594208
+'10_15':
+  mean_stop_think_ratio: 1.9708091020584106
+  mean_think_ratio: 0.5271822810173035
+  mean_think_stop_think_ratio: 0.6230301856994629
+'10_16':
+  mean_stop_think_ratio: 0.4818962812423706
+  mean_think_ratio: 0.32483676075935364
+  mean_think_stop_think_ratio: 0.3273274004459381
+'10_17':
+  mean_stop_think_ratio: 0.5704559683799744
+  mean_think_ratio: 0.4840322434902191
+  mean_think_stop_think_ratio: 0.5027913451194763
+'10_18':
+  mean_stop_think_ratio: 0.1992846131324768
+  mean_think_ratio: 0.2601548433303833
+  mean_think_stop_think_ratio: 0.24683667719364166
+'10_19':
+  mean_stop_think_ratio: 0.4388367235660553
+  mean_think_ratio: 0.3884020447731018
+  mean_think_stop_think_ratio: 0.3741443455219269
+'10_2':
+  mean_stop_think_ratio: 0.6109912395477295
+  mean_think_ratio: 0.5567967295646667
+  mean_think_stop_think_ratio: 0.5301613211631775
+'10_20':
+  mean_stop_think_ratio: 0.25291740894317627
+  mean_think_ratio: 0.3459504544734955
+  mean_think_stop_think_ratio: 0.3472176492214203
+'10_21':
+  mean_stop_think_ratio: 0.8089724779129028
+  mean_think_ratio: 0.8148633241653442
+  mean_think_stop_think_ratio: 0.8363286852836609
+'10_22':
+  mean_stop_think_ratio: 0.6614879965782166
+  mean_think_ratio: 0.5758591890335083
+  mean_think_stop_think_ratio: 0.5893182754516602
+'10_23':
+  mean_stop_think_ratio: 0.5189327001571655
+  mean_think_ratio: 0.3417568504810333
+  mean_think_stop_think_ratio: 0.36281436681747437
+'10_24':
+  mean_stop_think_ratio: 0.45994383096694946
+  mean_think_ratio: 0.4218042194843292
+  mean_think_stop_think_ratio: 0.4290750026702881
+'10_25':
+  mean_stop_think_ratio: 0.6208106875419617
+  mean_think_ratio: 0.6585874557495117
+  mean_think_stop_think_ratio: 0.6595105528831482
+'10_26':
+  mean_stop_think_ratio: 0.7883517742156982
+  mean_think_ratio: 0.6805291175842285
+  mean_think_stop_think_ratio: 0.6890431046485901
+'10_27':
+  mean_stop_think_ratio: 0.13038748502731323
+  mean_think_ratio: 0.09796594828367233
+  mean_think_stop_think_ratio: 0.10003458708524704
+'10_28':
+  mean_stop_think_ratio: 1.3252644538879395
+  mean_think_ratio: 1.018168568611145
+  mean_think_stop_think_ratio: 1.0315606594085693
+'10_29':
+  mean_stop_think_ratio: 0.7918469905853271
+  mean_think_ratio: 0.3698331117630005
+  mean_think_stop_think_ratio: 0.403384268283844
+'10_3':
+  mean_stop_think_ratio: 0.9732273817062378
+  mean_think_ratio: 0.7089426517486572
+  mean_think_stop_think_ratio: 0.7298817038536072
+'10_30':
+  mean_stop_think_ratio: 0.5313642621040344
+  mean_think_ratio: 0.279438853263855
+  mean_think_stop_think_ratio: 0.29741373658180237
+'10_31':
+  mean_stop_think_ratio: 0.7215122580528259
+  mean_think_ratio: 0.771967887878418
+  mean_think_stop_think_ratio: 0.6859362721443176
+'10_4':
+  mean_stop_think_ratio: 1.0637805461883545
+  mean_think_ratio: 1.4807873964309692
+  mean_think_stop_think_ratio: 1.469522476196289
+'10_5':
+  mean_stop_think_ratio: 0.3443004786968231
+  mean_think_ratio: 0.48112258315086365
+  mean_think_stop_think_ratio: 0.468995064496994
+'10_6':
+  mean_stop_think_ratio: 0.976696789264679
+  mean_think_ratio: 1.0431469678878784
+  mean_think_stop_think_ratio: 1.083019733428955
+'10_7':
+  mean_stop_think_ratio: 0.4794374704360962
+  mean_think_ratio: 0.6866927146911621
+  mean_think_stop_think_ratio: 0.7012453079223633
+'10_8':
+  mean_stop_think_ratio: 0.4724738895893097
+  mean_think_ratio: 0.25848153233528137
+  mean_think_stop_think_ratio: 0.27527832984924316
+'10_9':
+  mean_stop_think_ratio: 0.4395422041416168
+  mean_think_ratio: 0.43370407819747925
+  mean_think_stop_think_ratio: 0.4315320551395416
+'11_0':
+  mean_stop_think_ratio: 0.7752985954284668
+  mean_think_ratio: 0.514005720615387
+  mean_think_stop_think_ratio: 0.5450946092605591
+'11_1':
+  mean_stop_think_ratio: 0.8503701686859131
+  mean_think_ratio: 0.5773683190345764
+  mean_think_stop_think_ratio: 0.5898123979568481
+'11_10':
+  mean_stop_think_ratio: 0.5092085003852844
+  mean_think_ratio: 0.5316694378852844
+  mean_think_stop_think_ratio: 0.5380138754844666
+'11_11':
+  mean_stop_think_ratio: 1.4338072538375854
+  mean_think_ratio: 0.7625534534454346
+  mean_think_stop_think_ratio: 0.8271448612213135
+'11_12':
+  mean_stop_think_ratio: 0.864560604095459
+  mean_think_ratio: 0.9357768893241882
+  mean_think_stop_think_ratio: 0.8631335496902466
+'11_13':
+  mean_stop_think_ratio: 1.7589657306671143
+  mean_think_ratio: 1.140974521636963
+  mean_think_stop_think_ratio: 1.2087639570236206
+'11_14':
+  mean_stop_think_ratio: 0.9905931949615479
+  mean_think_ratio: 0.5044451355934143
+  mean_think_stop_think_ratio: 0.5443792939186096
+'11_15':
+  mean_stop_think_ratio: 2.3235020637512207
+  mean_think_ratio: 1.5945305824279785
+  mean_think_stop_think_ratio: 1.612833857536316
+'11_16':
+  mean_stop_think_ratio: 0.5484488010406494
+  mean_think_ratio: 0.4265444874763489
+  mean_think_stop_think_ratio: 0.42922767996788025
+'11_17':
+  mean_stop_think_ratio: 0.6778889298439026
+  mean_think_ratio: 0.31704840064048767
+  mean_think_stop_think_ratio: 0.3476239740848541
+'11_18':
+  mean_stop_think_ratio: 0.950410783290863
+  mean_think_ratio: 0.7578085064888
+  mean_think_stop_think_ratio: 0.7807491421699524
+'11_19':
+  mean_stop_think_ratio: 0.5710765719413757
+  mean_think_ratio: 0.41840487718582153
+  mean_think_stop_think_ratio: 0.435699999332428
+'11_2':
+  mean_stop_think_ratio: 1.1294459104537964
+  mean_think_ratio: 1.4269139766693115
+  mean_think_stop_think_ratio: 1.4284378290176392
+'11_20':
+  mean_stop_think_ratio: 1.3929888010025024
+  mean_think_ratio: 1.2675766944885254
+  mean_think_stop_think_ratio: 1.2727088928222656
+'11_21':
+  mean_stop_think_ratio: 1.1239750385284424
+  mean_think_ratio: 0.8554601669311523
+  mean_think_stop_think_ratio: 0.8712942004203796
+'11_22':
+  mean_stop_think_ratio: 1.6733100414276123
+  mean_think_ratio: 1.148490309715271
+  mean_think_stop_think_ratio: 1.1726635694503784
+'11_23':
+  mean_stop_think_ratio: 0.5816726088523865
+  mean_think_ratio: 0.616185188293457
+  mean_think_stop_think_ratio: 0.6046686172485352
+'11_24':
+  mean_stop_think_ratio: 1.4682235717773438
+  mean_think_ratio: 0.9712144136428833
+  mean_think_stop_think_ratio: 1.0391643047332764
+'11_25':
+  mean_stop_think_ratio: 0.6103881001472473
+  mean_think_ratio: 0.47212013602256775
+  mean_think_stop_think_ratio: 0.4802102744579315
+'11_26':
+  mean_stop_think_ratio: 0.8265485167503357
+  mean_think_ratio: 0.5112002491950989
+  mean_think_stop_think_ratio: 0.5458212494850159
+'11_27':
+  mean_stop_think_ratio: 1.1715458631515503
+  mean_think_ratio: 0.7886450886726379
+  mean_think_stop_think_ratio: 0.8336503505706787
+'11_28':
+  mean_stop_think_ratio: 0.3261893689632416
+  mean_think_ratio: 0.8830172419548035
+  mean_think_stop_think_ratio: 0.8268761038780212
+'11_29':
+  mean_stop_think_ratio: 1.0302079916000366
+  mean_think_ratio: 2.3266923427581787
+  mean_think_stop_think_ratio: 2.2794651985168457
+'11_3':
+  mean_stop_think_ratio: 2.156926155090332
+  mean_think_ratio: 1.4716591835021973
+  mean_think_stop_think_ratio: 1.5118567943572998
+'11_30':
+  mean_stop_think_ratio: 0.3364506959915161
+  mean_think_ratio: 0.5833197236061096
+  mean_think_stop_think_ratio: 0.5759549736976624
+'11_31':
+  mean_stop_think_ratio: 0.542205810546875
+  mean_think_ratio: 0.3335762917995453
+  mean_think_stop_think_ratio: 0.341341495513916
+'11_4':
+  mean_stop_think_ratio: 0.28215494751930237
+  mean_think_ratio: 0.27936723828315735
+  mean_think_stop_think_ratio: 0.27898871898651123
+'11_5':
+  mean_stop_think_ratio: 0.6899091601371765
+  mean_think_ratio: 0.8992499709129333
+  mean_think_stop_think_ratio: 0.7977126240730286
+'11_6':
+  mean_stop_think_ratio: 0.3567640781402588
+  mean_think_ratio: 0.9344353079795837
+  mean_think_stop_think_ratio: 0.842707633972168
+'11_7':
+  mean_stop_think_ratio: 0.7873997092247009
+  mean_think_ratio: 1.0689078569412231
+  mean_think_stop_think_ratio: 1.0175042152404785
+'11_8':
+  mean_stop_think_ratio: 0.9874985814094543
+  mean_think_ratio: 0.6494967341423035
+  mean_think_stop_think_ratio: 0.7034347057342529
+'11_9':
+  mean_stop_think_ratio: 0.6256324648857117
+  mean_think_ratio: 0.639371931552887
+  mean_think_stop_think_ratio: 0.6523773074150085
+'12_0':
+  mean_stop_think_ratio: 1.1422502994537354
+  mean_think_ratio: 0.8708895444869995
+  mean_think_stop_think_ratio: 0.8989372253417969
+'12_1':
+  mean_stop_think_ratio: 1.509466290473938
+  mean_think_ratio: 1.116531491279602
+  mean_think_stop_think_ratio: 1.1872366666793823
+'12_10':
+  mean_stop_think_ratio: 0.802394688129425
+  mean_think_ratio: 0.37346577644348145
+  mean_think_stop_think_ratio: 0.41853585839271545
+'12_11':
+  mean_stop_think_ratio: 0.8722985982894897
+  mean_think_ratio: 0.5217980742454529
+  mean_think_stop_think_ratio: 0.5604610443115234
+'12_12':
+  mean_stop_think_ratio: 0.9511831402778625
+  mean_think_ratio: 0.3811798095703125
+  mean_think_stop_think_ratio: 0.4235672354698181
+'12_13':
+  mean_stop_think_ratio: 0.41397470235824585
+  mean_think_ratio: 0.4522504508495331
+  mean_think_stop_think_ratio: 0.45453566312789917
+'12_14':
+  mean_stop_think_ratio: 1.9371328353881836
+  mean_think_ratio: 1.6229296922683716
+  mean_think_stop_think_ratio: 1.6567823886871338
+'12_15':
+  mean_stop_think_ratio: 1.2084590196609497
+  mean_think_ratio: 0.5286222100257874
+  mean_think_stop_think_ratio: 0.5918490290641785
+'12_16':
+  mean_stop_think_ratio: 0.3251117169857025
+  mean_think_ratio: 0.33650684356689453
+  mean_think_stop_think_ratio: 0.3405478000640869
+'12_17':
+  mean_stop_think_ratio: 0.24540729820728302
+  mean_think_ratio: 0.28003185987472534
+  mean_think_stop_think_ratio: 0.27135974168777466
+'12_18':
+  mean_stop_think_ratio: 0.322549045085907
+  mean_think_ratio: 0.2383684664964676
+  mean_think_stop_think_ratio: 0.24249683320522308
+'12_19':
+  mean_stop_think_ratio: 0.3825080692768097
+  mean_think_ratio: 0.61162930727005
+  mean_think_stop_think_ratio: 0.5856379866600037
+'12_2':
+  mean_stop_think_ratio: 0.8416829109191895
+  mean_think_ratio: 0.387912780046463
+  mean_think_stop_think_ratio: 0.43495094776153564
+'12_20':
+  mean_stop_think_ratio: 0.9337804913520813
+  mean_think_ratio: 0.6084387898445129
+  mean_think_stop_think_ratio: 0.6316322088241577
+'12_21':
+  mean_stop_think_ratio: 0.8607392311096191
+  mean_think_ratio: 0.6186731457710266
+  mean_think_stop_think_ratio: 0.6590813994407654
+'12_22':
+  mean_stop_think_ratio: 0.20090605318546295
+  mean_think_ratio: 0.37798044085502625
+  mean_think_stop_think_ratio: 0.366881787776947
+'12_23':
+  mean_stop_think_ratio: 0.29463887214660645
+  mean_think_ratio: 0.6090685725212097
+  mean_think_stop_think_ratio: 0.5848585367202759
+'12_24':
+  mean_stop_think_ratio: 0.4798721969127655
+  mean_think_ratio: 0.3936501145362854
+  mean_think_stop_think_ratio: 0.4033971428871155
+'12_25':
+  mean_stop_think_ratio: 0.7511930465698242
+  mean_think_ratio: 0.7295612096786499
+  mean_think_stop_think_ratio: 0.7518707513809204
+'12_26':
+  mean_stop_think_ratio: 0.6215482950210571
+  mean_think_ratio: 0.7173932194709778
+  mean_think_stop_think_ratio: 0.7175783514976501
+'12_27':
+  mean_stop_think_ratio: 0.9733510613441467
+  mean_think_ratio: 0.840939462184906
+  mean_think_stop_think_ratio: 0.8618337512016296
+'12_28':
+  mean_stop_think_ratio: 0.38194864988327026
+  mean_think_ratio: 0.2697945535182953
+  mean_think_stop_think_ratio: 0.27592605352401733
+'12_29':
+  mean_stop_think_ratio: 0.4848630428314209
+  mean_think_ratio: 0.3450946807861328
+  mean_think_stop_think_ratio: 0.35879185795783997
+'12_3':
+  mean_stop_think_ratio: 0.5957924723625183
+  mean_think_ratio: 0.6484763026237488
+  mean_think_stop_think_ratio: 0.6512826681137085
+'12_30':
+  mean_stop_think_ratio: 0.5108214020729065
+  mean_think_ratio: 0.4149530231952667
+  mean_think_stop_think_ratio: 0.4220542013645172
+'12_31':
+  mean_stop_think_ratio: 0.2966964840888977
+  mean_think_ratio: 0.24774691462516785
+  mean_think_stop_think_ratio: 0.25272485613822937
+'12_4':
+  mean_stop_think_ratio: 0.5031242966651917
+  mean_think_ratio: 0.4640805125236511
+  mean_think_stop_think_ratio: 0.4743586480617523
+'12_5':
+  mean_stop_think_ratio: 0.6919829845428467
+  mean_think_ratio: 0.8117871284484863
+  mean_think_stop_think_ratio: 0.8264181613922119
+'12_6':
+  mean_stop_think_ratio: 0.8477849364280701
+  mean_think_ratio: 0.6386077404022217
+  mean_think_stop_think_ratio: 0.6674078702926636
+'12_7':
+  mean_stop_think_ratio: 0.662248969078064
+  mean_think_ratio: 0.4987092912197113
+  mean_think_stop_think_ratio: 0.5234383940696716
+'12_8':
+  mean_stop_think_ratio: 1.1656478643417358
+  mean_think_ratio: 0.7719250917434692
+  mean_think_stop_think_ratio: 0.812745988368988
+'12_9':
+  mean_stop_think_ratio: 0.6048623323440552
+  mean_think_ratio: 0.4003712236881256
+  mean_think_stop_think_ratio: 0.42776137590408325
+'13_0':
+  mean_stop_think_ratio: 0.8218091130256653
+  mean_think_ratio: 0.6683061122894287
+  mean_think_stop_think_ratio: 0.6644271612167358
+'13_1':
+  mean_stop_think_ratio: 0.4752930998802185
+  mean_think_ratio: 0.27586185932159424
+  mean_think_stop_think_ratio: 0.26800698041915894
+'13_10':
+  mean_stop_think_ratio: 1.0851515531539917
+  mean_think_ratio: 1.4710464477539062
+  mean_think_stop_think_ratio: 1.3702548742294312
+'13_11':
+  mean_stop_think_ratio: 0.32093340158462524
+  mean_think_ratio: 0.21755291521549225
+  mean_think_stop_think_ratio: 0.22094182670116425
+'13_12':
+  mean_stop_think_ratio: 0.20745724439620972
+  mean_think_ratio: 0.19320261478424072
+  mean_think_stop_think_ratio: 0.19042620062828064
+'13_13':
+  mean_stop_think_ratio: 0.45362550020217896
+  mean_think_ratio: 0.5000104308128357
+  mean_think_stop_think_ratio: 0.4872487783432007
+'13_14':
+  mean_stop_think_ratio: 0.5461350083351135
+  mean_think_ratio: 0.7786412835121155
+  mean_think_stop_think_ratio: 0.7126038670539856
+'13_15':
+  mean_stop_think_ratio: 0.40829962491989136
+  mean_think_ratio: 0.4948902726173401
+  mean_think_stop_think_ratio: 0.4952273666858673
+'13_16':
+  mean_stop_think_ratio: 1.4729647636413574
+  mean_think_ratio: 0.5730726718902588
+  mean_think_stop_think_ratio: 0.6382724046707153
+'13_17':
+  mean_stop_think_ratio: 2.312798023223877
+  mean_think_ratio: 1.760006070137024
+  mean_think_stop_think_ratio: 1.711533784866333
+'13_18':
+  mean_stop_think_ratio: 1.3461312055587769
+  mean_think_ratio: 0.8119749426841736
+  mean_think_stop_think_ratio: 0.8084003925323486
+'13_19':
+  mean_stop_think_ratio: 0.8407877087593079
+  mean_think_ratio: 0.6282252073287964
+  mean_think_stop_think_ratio: 0.6340259313583374
+'13_2':
+  mean_stop_think_ratio: 1.3110077381134033
+  mean_think_ratio: 0.3713034987449646
+  mean_think_stop_think_ratio: 0.43754273653030396
+'13_20':
+  mean_stop_think_ratio: 0.7584888339042664
+  mean_think_ratio: 0.668002188205719
+  mean_think_stop_think_ratio: 0.6733428835868835
+'13_21':
+  mean_stop_think_ratio: 0.5917714238166809
+  mean_think_ratio: 0.5244083404541016
+  mean_think_stop_think_ratio: 0.5059266090393066
+'13_22':
+  mean_stop_think_ratio: 0.3182434141635895
+  mean_think_ratio: 0.22431756556034088
+  mean_think_stop_think_ratio: 0.2335779070854187
+'13_23':
+  mean_stop_think_ratio: 1.889625072479248
+  mean_think_ratio: 1.4538233280181885
+  mean_think_stop_think_ratio: 1.4609241485595703
+'13_24':
+  mean_stop_think_ratio: 0.9184184670448303
+  mean_think_ratio: 0.6733116507530212
+  mean_think_stop_think_ratio: 0.6896988153457642
+'13_25':
+  mean_stop_think_ratio: 1.0579334497451782
+  mean_think_ratio: 0.6465191841125488
+  mean_think_stop_think_ratio: 0.6663532257080078
+'13_26':
+  mean_stop_think_ratio: 0.31323254108428955
+  mean_think_ratio: 0.641697347164154
+  mean_think_stop_think_ratio: 0.5936211347579956
+'13_27':
+  mean_stop_think_ratio: 0.4355279803276062
+  mean_think_ratio: 0.4813140332698822
+  mean_think_stop_think_ratio: 0.4504193663597107
+'13_28':
+  mean_stop_think_ratio: 1.381306529045105
+  mean_think_ratio: 0.9515367150306702
+  mean_think_stop_think_ratio: 0.9774571657180786
+'13_29':
+  mean_stop_think_ratio: 0.5800636410713196
+  mean_think_ratio: 0.9064039587974548
+  mean_think_stop_think_ratio: 0.8952666521072388
+'13_3':
+  mean_stop_think_ratio: 0.7204031944274902
+  mean_think_ratio: 0.7748888731002808
+  mean_think_stop_think_ratio: 0.7586585283279419
+'13_30':
+  mean_stop_think_ratio: 0.30268585681915283
+  mean_think_ratio: 0.4567154049873352
+  mean_think_stop_think_ratio: 0.4365750551223755
+'13_31':
+  mean_stop_think_ratio: 0.4806617200374603
+  mean_think_ratio: 1.0951933860778809
+  mean_think_stop_think_ratio: 1.0693657398223877
+'13_4':
+  mean_stop_think_ratio: 0.5528696775436401
+  mean_think_ratio: 1.5555789470672607
+  mean_think_stop_think_ratio: 1.4092621803283691
+'13_5':
+  mean_stop_think_ratio: 0.9533998966217041
+  mean_think_ratio: 2.071535348892212
+  mean_think_stop_think_ratio: 1.8879872560501099
+'13_6':
+  mean_stop_think_ratio: 0.4715188145637512
+  mean_think_ratio: 1.1320130825042725
+  mean_think_stop_think_ratio: 1.0661351680755615
+'13_7':
+  mean_stop_think_ratio: 0.570529580116272
+  mean_think_ratio: 0.5562594532966614
+  mean_think_stop_think_ratio: 0.5646036267280579
+'13_8':
+  mean_stop_think_ratio: 0.43409183621406555
+  mean_think_ratio: 0.6478462219238281
+  mean_think_stop_think_ratio: 0.5685256123542786
+'13_9':
+  mean_stop_think_ratio: 0.7656022310256958
+  mean_think_ratio: 0.9864328503608704
+  mean_think_stop_think_ratio: 0.9424286484718323
+'14_0':
+  mean_stop_think_ratio: 0.5065329074859619
+  mean_think_ratio: 0.8490006923675537
+  mean_think_stop_think_ratio: 0.8169727325439453
+'14_1':
+  mean_stop_think_ratio: 0.7602857351303101
+  mean_think_ratio: 0.5490648150444031
+  mean_think_stop_think_ratio: 0.5854331254959106
+'14_10':
+  mean_stop_think_ratio: 1.0399149656295776
+  mean_think_ratio: 0.40166276693344116
+  mean_think_stop_think_ratio: 0.4285218417644501
+'14_11':
+  mean_stop_think_ratio: 0.7410628795623779
+  mean_think_ratio: 0.40057480335235596
+  mean_think_stop_think_ratio: 0.41858094930648804
+'14_12':
+  mean_stop_think_ratio: 0.5485479235649109
+  mean_think_ratio: 0.5267379879951477
+  mean_think_stop_think_ratio: 0.5179333090782166
+'14_13':
+  mean_stop_think_ratio: 0.2922033369541168
+  mean_think_ratio: 0.2723834216594696
+  mean_think_stop_think_ratio: 0.28334298729896545
+'14_14':
+  mean_stop_think_ratio: 1.4138540029525757
+  mean_think_ratio: 0.633591890335083
+  mean_think_stop_think_ratio: 0.7139055132865906
+'14_15':
+  mean_stop_think_ratio: 0.891237199306488
+  mean_think_ratio: 0.7010899186134338
+  mean_think_stop_think_ratio: 0.7122268080711365
+'14_16':
+  mean_stop_think_ratio: 0.5155848860740662
+  mean_think_ratio: 0.4651564359664917
+  mean_think_stop_think_ratio: 0.4574905037879944
+'14_17':
+  mean_stop_think_ratio: 0.39895033836364746
+  mean_think_ratio: 0.7459770441055298
+  mean_think_stop_think_ratio: 0.6445035934448242
+'14_18':
+  mean_stop_think_ratio: 0.1988084465265274
+  mean_think_ratio: 0.4077928960323334
+  mean_think_stop_think_ratio: 0.3799973726272583
+'14_19':
+  mean_stop_think_ratio: 0.3058741092681885
+  mean_think_ratio: 0.633690595626831
+  mean_think_stop_think_ratio: 0.5732010006904602
+'14_2':
+  mean_stop_think_ratio: 0.8057535290718079
+  mean_think_ratio: 0.7146468162536621
+  mean_think_stop_think_ratio: 0.7403227686882019
+'14_20':
+  mean_stop_think_ratio: 0.9587573409080505
+  mean_think_ratio: 1.3000359535217285
+  mean_think_stop_think_ratio: 1.3037737607955933
+'14_21':
+  mean_stop_think_ratio: 0.6098574995994568
+  mean_think_ratio: 0.3640652894973755
+  mean_think_stop_think_ratio: 0.3878939747810364
+'14_22':
+  mean_stop_think_ratio: 0.2970584034919739
+  mean_think_ratio: 0.5037400722503662
+  mean_think_stop_think_ratio: 0.48081672191619873
+'14_23':
+  mean_stop_think_ratio: 0.48817896842956543
+  mean_think_ratio: 0.4383467435836792
+  mean_think_stop_think_ratio: 0.4586044251918793
+'14_24':
+  mean_stop_think_ratio: 0.3250863552093506
+  mean_think_ratio: 0.6811397671699524
+  mean_think_stop_think_ratio: 0.6616320013999939
+'14_25':
+  mean_stop_think_ratio: 0.45557546615600586
+  mean_think_ratio: 0.6274598240852356
+  mean_think_stop_think_ratio: 0.619252622127533
+'14_26':
+  mean_stop_think_ratio: 0.547083854675293
+  mean_think_ratio: 0.5166923999786377
+  mean_think_stop_think_ratio: 0.5079803466796875
+'14_27':
+  mean_stop_think_ratio: 1.25438392162323
+  mean_think_ratio: 1.3546706438064575
+  mean_think_stop_think_ratio: 1.3440473079681396
+'14_28':
+  mean_stop_think_ratio: 0.7499459981918335
+  mean_think_ratio: 0.4701463580131531
+  mean_think_stop_think_ratio: 0.4900088310241699
+'14_29':
+  mean_stop_think_ratio: 0.40085461735725403
+  mean_think_ratio: 0.7498822808265686
+  mean_think_stop_think_ratio: 0.648411214351654
+'14_3':
+  mean_stop_think_ratio: 0.6194168329238892
+  mean_think_ratio: 0.7523990869522095
+  mean_think_stop_think_ratio: 0.744046151638031
+'14_30':
+  mean_stop_think_ratio: 0.6856622695922852
+  mean_think_ratio: 1.214055061340332
+  mean_think_stop_think_ratio: 1.0992647409439087
+'14_31':
+  mean_stop_think_ratio: 0.11934518814086914
+  mean_think_ratio: 0.19881287217140198
+  mean_think_stop_think_ratio: 0.18491391837596893
+'14_4':
+  mean_stop_think_ratio: 0.5168375372886658
+  mean_think_ratio: 0.7838627099990845
+  mean_think_stop_think_ratio: 0.7863439917564392
+'14_5':
+  mean_stop_think_ratio: 0.34932756423950195
+  mean_think_ratio: 0.39990779757499695
+  mean_think_stop_think_ratio: 0.4023702144622803
+'14_6':
+  mean_stop_think_ratio: 0.4209473729133606
+  mean_think_ratio: 0.48391619324684143
+  mean_think_stop_think_ratio: 0.48850294947624207
+'14_7':
+  mean_stop_think_ratio: 0.5759842991828918
+  mean_think_ratio: 0.5000613331794739
+  mean_think_stop_think_ratio: 0.5067653059959412
+'14_8':
+  mean_stop_think_ratio: 0.41610532999038696
+  mean_think_ratio: 0.35335075855255127
+  mean_think_stop_think_ratio: 0.35747137665748596
+'14_9':
+  mean_stop_think_ratio: 0.9995176792144775
+  mean_think_ratio: 0.5513886213302612
+  mean_think_stop_think_ratio: 0.5771536231040955
+'15_0':
+  mean_stop_think_ratio: 1.1034351587295532
+  mean_think_ratio: 0.6285889744758606
+  mean_think_stop_think_ratio: 0.631659984588623
+'15_1':
+  mean_stop_think_ratio: 0.15274621546268463
+  mean_think_ratio: 0.8772113919258118
+  mean_think_stop_think_ratio: 0.8198807835578918
+'15_10':
+  mean_stop_think_ratio: 1.2275035381317139
+  mean_think_ratio: 1.1834646463394165
+  mean_think_stop_think_ratio: 1.1847002506256104
+'15_11':
+  mean_stop_think_ratio: 0.6746206283569336
+  mean_think_ratio: 0.6691718101501465
+  mean_think_stop_think_ratio: 0.6418623328208923
+'15_12':
+  mean_stop_think_ratio: 0.7823982834815979
+  mean_think_ratio: 0.41554123163223267
+  mean_think_stop_think_ratio: 0.4175563156604767
+'15_13':
+  mean_stop_think_ratio: 0.3336852490901947
+  mean_think_ratio: 0.5750943422317505
+  mean_think_stop_think_ratio: 0.5379106998443604
+'15_14':
+  mean_stop_think_ratio: 0.3741593062877655
+  mean_think_ratio: 0.4597623944282532
+  mean_think_stop_think_ratio: 0.40443098545074463
+'15_15':
+  mean_stop_think_ratio: 0.3732697367668152
+  mean_think_ratio: 1.0932244062423706
+  mean_think_stop_think_ratio: 1.0354982614517212
+'15_16':
+  mean_stop_think_ratio: 0.5437588095664978
+  mean_think_ratio: 0.9327039122581482
+  mean_think_stop_think_ratio: 0.8812785148620605
+'15_17':
+  mean_stop_think_ratio: 0.7626433968544006
+  mean_think_ratio: 1.0742957592010498
+  mean_think_stop_think_ratio: 1.027543544769287
+'15_18':
+  mean_stop_think_ratio: 1.408624529838562
+  mean_think_ratio: 1.9046275615692139
+  mean_think_stop_think_ratio: 1.9016000032424927
+'15_19':
+  mean_stop_think_ratio: 0.27549588680267334
+  mean_think_ratio: 0.49440982937812805
+  mean_think_stop_think_ratio: 0.4869024455547333
+'15_2':
+  mean_stop_think_ratio: 0.29356613755226135
+  mean_think_ratio: 1.7068169116973877
+  mean_think_stop_think_ratio: 1.6084322929382324
+'15_20':
+  mean_stop_think_ratio: 0.4150516390800476
+  mean_think_ratio: 0.5952858328819275
+  mean_think_stop_think_ratio: 0.5728731155395508
+'15_21':
+  mean_stop_think_ratio: 0.3509379029273987
+  mean_think_ratio: 0.5157878994941711
+  mean_think_stop_think_ratio: 0.46991226077079773
+'15_22':
+  mean_stop_think_ratio: 0.35983723402023315
+  mean_think_ratio: 0.6959484815597534
+  mean_think_stop_think_ratio: 0.6785152554512024
+'15_23':
+  mean_stop_think_ratio: 0.2615605592727661
+  mean_think_ratio: 0.35113686323165894
+  mean_think_stop_think_ratio: 0.33774086833000183
+'15_24':
+  mean_stop_think_ratio: 0.9279195070266724
+  mean_think_ratio: 0.5155004858970642
+  mean_think_stop_think_ratio: 0.552189290523529
+'15_25':
+  mean_stop_think_ratio: 0.7890401482582092
+  mean_think_ratio: 2.3474643230438232
+  mean_think_stop_think_ratio: 2.2809696197509766
+'15_26':
+  mean_stop_think_ratio: 0.14118421077728271
+  mean_think_ratio: 0.37876319885253906
+  mean_think_stop_think_ratio: 0.36922672390937805
+'15_27':
+  mean_stop_think_ratio: 0.3631480932235718
+  mean_think_ratio: 0.3562581539154053
+  mean_think_stop_think_ratio: 0.353961318731308
+'15_28':
+  mean_stop_think_ratio: 0.18743717670440674
+  mean_think_ratio: 0.6971302628517151
+  mean_think_stop_think_ratio: 0.6583144664764404
+'15_29':
+  mean_stop_think_ratio: 0.35802677273750305
+  mean_think_ratio: 0.6444073915481567
+  mean_think_stop_think_ratio: 0.6178635954856873
+'15_3':
+  mean_stop_think_ratio: 0.18335400521755219
+  mean_think_ratio: 0.8781653642654419
+  mean_think_stop_think_ratio: 0.7834137678146362
+'15_30':
+  mean_stop_think_ratio: 0.27209240198135376
+  mean_think_ratio: 0.780964732170105
+  mean_think_stop_think_ratio: 0.7401288747787476
+'15_31':
+  mean_stop_think_ratio: 0.5767953395843506
+  mean_think_ratio: 0.22443224489688873
+  mean_think_stop_think_ratio: 0.24065755307674408
+'15_4':
+  mean_stop_think_ratio: 0.42106717824935913
+  mean_think_ratio: 0.16954734921455383
+  mean_think_stop_think_ratio: 0.18808436393737793
+'15_5':
+  mean_stop_think_ratio: 0.6447633504867554
+  mean_think_ratio: 0.4472953677177429
+  mean_think_stop_think_ratio: 0.4425494968891144
+'15_6':
+  mean_stop_think_ratio: 0.9056065082550049
+  mean_think_ratio: 0.5980637073516846
+  mean_think_stop_think_ratio: 0.6152357459068298
+'15_7':
+  mean_stop_think_ratio: 0.39894306659698486
+  mean_think_ratio: 0.33178719878196716
+  mean_think_stop_think_ratio: 0.33090293407440186
+'15_8':
+  mean_stop_think_ratio: 0.7504578232765198
+  mean_think_ratio: 0.4534774124622345
+  mean_think_stop_think_ratio: 0.4785424768924713
+'15_9':
+  mean_stop_think_ratio: 2.739020586013794
+  mean_think_ratio: 1.8203511238098145
+  mean_think_stop_think_ratio: 1.902796745300293
+'16_0':
+  mean_stop_think_ratio: 0.382740318775177
+  mean_think_ratio: 1.184834599494934
+  mean_think_stop_think_ratio: 1.0786652565002441
+'16_1':
+  mean_stop_think_ratio: 0.18186162412166595
+  mean_think_ratio: 1.043206810951233
+  mean_think_stop_think_ratio: 0.948493242263794
+'16_10':
+  mean_stop_think_ratio: 0.08077234774827957
+  mean_think_ratio: 0.515019416809082
+  mean_think_stop_think_ratio: 0.4711883068084717
+'16_11':
+  mean_stop_think_ratio: 0.11345821619033813
+  mean_think_ratio: 0.5042990446090698
+  mean_think_stop_think_ratio: 0.49673277139663696
+'16_12':
+  mean_stop_think_ratio: 0.583511471748352
+  mean_think_ratio: 0.49563974142074585
+  mean_think_stop_think_ratio: 0.4892893135547638
+'16_13':
+  mean_stop_think_ratio: 0.5367040634155273
+  mean_think_ratio: 0.2736545205116272
+  mean_think_stop_think_ratio: 0.2782233953475952
+'16_14':
+  mean_stop_think_ratio: 0.5320955514907837
+  mean_think_ratio: 0.41483908891677856
+  mean_think_stop_think_ratio: 0.4208972752094269
+'16_15':
+  mean_stop_think_ratio: 0.3939521312713623
+  mean_think_ratio: 0.4024631679058075
+  mean_think_stop_think_ratio: 0.3940770924091339
+'16_16':
+  mean_stop_think_ratio: 0.5514232516288757
+  mean_think_ratio: 0.3297087848186493
+  mean_think_stop_think_ratio: 0.3441247344017029
+'16_17':
+  mean_stop_think_ratio: 0.22821477055549622
+  mean_think_ratio: 0.22943075001239777
+  mean_think_stop_think_ratio: 0.22859671711921692
+'16_18':
+  mean_stop_think_ratio: 0.21848520636558533
+  mean_think_ratio: 1.2516883611679077
+  mean_think_stop_think_ratio: 1.2019087076187134
+'16_19':
+  mean_stop_think_ratio: 0.1766306608915329
+  mean_think_ratio: 0.45995059609413147
+  mean_think_stop_think_ratio: 0.43738794326782227
+'16_2':
+  mean_stop_think_ratio: 0.31657809019088745
+  mean_think_ratio: 0.4168192446231842
+  mean_think_stop_think_ratio: 0.379232257604599
+'16_20':
+  mean_stop_think_ratio: 0.7093182802200317
+  mean_think_ratio: 3.9754116535186768
+  mean_think_stop_think_ratio: 3.6640069484710693
+'16_21':
+  mean_stop_think_ratio: 0.12782558798789978
+  mean_think_ratio: 0.5839378833770752
+  mean_think_stop_think_ratio: 0.5665456652641296
+'16_22':
+  mean_stop_think_ratio: 0.5224536657333374
+  mean_think_ratio: 0.34285566210746765
+  mean_think_stop_think_ratio: 0.3443213999271393
+'16_23':
+  mean_stop_think_ratio: 0.0855022445321083
+  mean_think_ratio: 0.541881263256073
+  mean_think_stop_think_ratio: 0.5012012124061584
+'16_24':
+  mean_stop_think_ratio: 0.2719234228134155
+  mean_think_ratio: 0.5581399202346802
+  mean_think_stop_think_ratio: 0.5441727638244629
+'16_25':
+  mean_stop_think_ratio: 0.1762719750404358
+  mean_think_ratio: 0.3403695225715637
+  mean_think_stop_think_ratio: 0.3116045296192169
+'16_26':
+  mean_stop_think_ratio: 0.12042858451604843
+  mean_think_ratio: 0.8753940463066101
+  mean_think_stop_think_ratio: 0.8371527791023254
+'16_27':
+  mean_stop_think_ratio: 0.09393276274204254
+  mean_think_ratio: 0.2331637293100357
+  mean_think_stop_think_ratio: 0.22659708559513092
+'16_28':
+  mean_stop_think_ratio: 0.812919020652771
+  mean_think_ratio: 0.4649302363395691
+  mean_think_stop_think_ratio: 0.48905307054519653
+'16_29':
+  mean_stop_think_ratio: 0.43900159001350403
+  mean_think_ratio: 0.39286404848098755
+  mean_think_stop_think_ratio: 0.3926781117916107
+'16_3':
+  mean_stop_think_ratio: 0.17095299065113068
+  mean_think_ratio: 0.3329659402370453
+  mean_think_stop_think_ratio: 0.30762699246406555
+'16_30':
+  mean_stop_think_ratio: 0.9223583340644836
+  mean_think_ratio: 0.4341680705547333
+  mean_think_stop_think_ratio: 0.4597381055355072
+'16_31':
+  mean_stop_think_ratio: 1.0287024974822998
+  mean_think_ratio: 0.8762097358703613
+  mean_think_stop_think_ratio: 0.8919865489006042
+'16_4':
+  mean_stop_think_ratio: 0.3008479177951813
+  mean_think_ratio: 0.8124808073043823
+  mean_think_stop_think_ratio: 0.7776620984077454
+'16_5':
+  mean_stop_think_ratio: 1.1833877563476562
+  mean_think_ratio: 2.072624444961548
+  mean_think_stop_think_ratio: 1.9780173301696777
+'16_6':
+  mean_stop_think_ratio: 0.24495269358158112
+  mean_think_ratio: 0.3767220079898834
+  mean_think_stop_think_ratio: 0.3551270067691803
+'16_7':
+  mean_stop_think_ratio: 0.11784044653177261
+  mean_think_ratio: 0.28565359115600586
+  mean_think_stop_think_ratio: 0.2802025377750397
+'16_8':
+  mean_stop_think_ratio: 0.14973485469818115
+  mean_think_ratio: 1.1962616443634033
+  mean_think_stop_think_ratio: 1.0584057569503784
+'16_9':
+  mean_stop_think_ratio: 0.5269246101379395
+  mean_think_ratio: 1.86749267578125
+  mean_think_stop_think_ratio: 1.6863311529159546
+'17_0':
+  mean_stop_think_ratio: 0.23049937188625336
+  mean_think_ratio: 1.5183252096176147
+  mean_think_stop_think_ratio: 1.426567792892456
+'17_1':
+  mean_stop_think_ratio: 1.1428159475326538
+  mean_think_ratio: 1.9011733531951904
+  mean_think_stop_think_ratio: 1.793505311012268
+'17_10':
+  mean_stop_think_ratio: 0.048783399164676666
+  mean_think_ratio: 0.14035940170288086
+  mean_think_stop_think_ratio: 0.12936751544475555
+'17_11':
+  mean_stop_think_ratio: 0.11989756673574448
+  mean_think_ratio: 0.11002098768949509
+  mean_think_stop_think_ratio: 0.11008388549089432
+'17_12':
+  mean_stop_think_ratio: 0.5308831930160522
+  mean_think_ratio: 0.2872271239757538
+  mean_think_stop_think_ratio: 0.29880666732788086
+'17_13':
+  mean_stop_think_ratio: 0.1890805959701538
+  mean_think_ratio: 0.6698775291442871
+  mean_think_stop_think_ratio: 0.660346269607544
+'17_14':
+  mean_stop_think_ratio: 0.2647985517978668
+  mean_think_ratio: 0.2645803391933441
+  mean_think_stop_think_ratio: 0.25921934843063354
+'17_15':
+  mean_stop_think_ratio: 0.47801706194877625
+  mean_think_ratio: 0.5153068900108337
+  mean_think_stop_think_ratio: 0.49623170495033264
+'17_16':
+  mean_stop_think_ratio: 1.1242784261703491
+  mean_think_ratio: 1.34458327293396
+  mean_think_stop_think_ratio: 1.3243348598480225
+'17_17':
+  mean_stop_think_ratio: 0.3889036774635315
+  mean_think_ratio: 0.4615881145000458
+  mean_think_stop_think_ratio: 0.46695512533187866
+'17_18':
+  mean_stop_think_ratio: 0.08712080866098404
+  mean_think_ratio: 0.24197670817375183
+  mean_think_stop_think_ratio: 0.22689926624298096
+'17_19':
+  mean_stop_think_ratio: 0.5465512275695801
+  mean_think_ratio: 0.5679029822349548
+  mean_think_stop_think_ratio: 0.5749013423919678
+'17_2':
+  mean_stop_think_ratio: 0.7394008040428162
+  mean_think_ratio: 3.1991734504699707
+  mean_think_stop_think_ratio: 3.0327813625335693
+'17_20':
+  mean_stop_think_ratio: 0.13964393734931946
+  mean_think_ratio: 0.14983387291431427
+  mean_think_stop_think_ratio: 0.14590872824192047
+'17_21':
+  mean_stop_think_ratio: 0.07153533399105072
+  mean_think_ratio: 0.38244161009788513
+  mean_think_stop_think_ratio: 0.36623096466064453
+'17_22':
+  mean_stop_think_ratio: 0.5449224710464478
+  mean_think_ratio: 0.4795319736003876
+  mean_think_stop_think_ratio: 0.4846266508102417
+'17_23':
+  mean_stop_think_ratio: 0.24922749400138855
+  mean_think_ratio: 1.4299310445785522
+  mean_think_stop_think_ratio: 1.388438105583191
+'17_24':
+  mean_stop_think_ratio: 0.062099702656269073
+  mean_think_ratio: 0.26975762844085693
+  mean_think_stop_think_ratio: 0.2619149684906006
+'17_25':
+  mean_stop_think_ratio: 0.40096738934516907
+  mean_think_ratio: 1.2604082822799683
+  mean_think_stop_think_ratio: 1.1804252862930298
+'17_26':
+  mean_stop_think_ratio: 0.16661345958709717
+  mean_think_ratio: 0.5346279144287109
+  mean_think_stop_think_ratio: 0.5136799812316895
+'17_27':
+  mean_stop_think_ratio: 0.2435838282108307
+  mean_think_ratio: 0.4690125286579132
+  mean_think_stop_think_ratio: 0.45295530557632446
+'17_28':
+  mean_stop_think_ratio: 0.1579355001449585
+  mean_think_ratio: 2.653472423553467
+  mean_think_stop_think_ratio: 2.6141910552978516
+'17_29':
+  mean_stop_think_ratio: 0.019372889772057533
+  mean_think_ratio: 0.20401330292224884
+  mean_think_stop_think_ratio: 0.1914364993572235
+'17_3':
+  mean_stop_think_ratio: 0.14009065926074982
+  mean_think_ratio: 0.46951979398727417
+  mean_think_stop_think_ratio: 0.41346874833106995
+'17_30':
+  mean_stop_think_ratio: 0.06982975453138351
+  mean_think_ratio: 0.1023281067609787
+  mean_think_stop_think_ratio: 0.09758012741804123
+'17_31':
+  mean_stop_think_ratio: 0.11378928273916245
+  mean_think_ratio: 0.5471215844154358
+  mean_think_stop_think_ratio: 0.5107946991920471
+'17_4':
+  mean_stop_think_ratio: 0.37504541873931885
+  mean_think_ratio: 0.30047309398651123
+  mean_think_stop_think_ratio: 0.30548202991485596
+'17_5':
+  mean_stop_think_ratio: 0.42370375990867615
+  mean_think_ratio: 0.6001734733581543
+  mean_think_stop_think_ratio: 0.586052417755127
+'17_6':
+  mean_stop_think_ratio: 0.7599252462387085
+  mean_think_ratio: 0.6938796043395996
+  mean_think_stop_think_ratio: 0.6923710107803345
+'17_7':
+  mean_stop_think_ratio: 0.4134480059146881
+  mean_think_ratio: 0.4257672131061554
+  mean_think_stop_think_ratio: 0.4185389280319214
+'17_8':
+  mean_stop_think_ratio: 0.12943759560585022
+  mean_think_ratio: 0.2670938968658447
+  mean_think_stop_think_ratio: 0.2534092962741852
+'17_9':
+  mean_stop_think_ratio: 0.11802197992801666
+  mean_think_ratio: 0.29055798053741455
+  mean_think_stop_think_ratio: 0.2760496139526367
+'18_0':
+  mean_stop_think_ratio: 0.05130569264292717
+  mean_think_ratio: 0.1356131136417389
+  mean_think_stop_think_ratio: 0.12144148349761963
+'18_1':
+  mean_stop_think_ratio: 0.6901736855506897
+  mean_think_ratio: 2.061267852783203
+  mean_think_stop_think_ratio: 1.9689710140228271
+'18_10':
+  mean_stop_think_ratio: 0.21866364777088165
+  mean_think_ratio: 0.24863147735595703
+  mean_think_stop_think_ratio: 0.23652543127536774
+'18_11':
+  mean_stop_think_ratio: 0.12211000174283981
+  mean_think_ratio: 0.15963256359100342
+  mean_think_stop_think_ratio: 0.1590341031551361
+'18_12':
+  mean_stop_think_ratio: 0.26772671937942505
+  mean_think_ratio: 0.7845119833946228
+  mean_think_stop_think_ratio: 0.7328553795814514
+'18_13':
+  mean_stop_think_ratio: 0.3299565613269806
+  mean_think_ratio: 1.1761856079101562
+  mean_think_stop_think_ratio: 1.1005827188491821
+'18_14':
+  mean_stop_think_ratio: 0.24883829057216644
+  mean_think_ratio: 1.6086794137954712
+  mean_think_stop_think_ratio: 1.5556585788726807
+'18_15':
+  mean_stop_think_ratio: 0.4222012460231781
+  mean_think_ratio: 0.6548144221305847
+  mean_think_stop_think_ratio: 0.6223948001861572
+'18_16':
+  mean_stop_think_ratio: 0.11254290491342545
+  mean_think_ratio: 0.30599769949913025
+  mean_think_stop_think_ratio: 0.27691784501075745
+'18_17':
+  mean_stop_think_ratio: 0.5190408825874329
+  mean_think_ratio: 1.3701622486114502
+  mean_think_stop_think_ratio: 1.2228224277496338
+'18_18':
+  mean_stop_think_ratio: 0.08875402808189392
+  mean_think_ratio: 0.4014905095100403
+  mean_think_stop_think_ratio: 0.3635161519050598
+'18_19':
+  mean_stop_think_ratio: 0.1923154592514038
+  mean_think_ratio: 0.5295993685722351
+  mean_think_stop_think_ratio: 0.47571897506713867
+'18_2':
+  mean_stop_think_ratio: 0.4266739785671234
+  mean_think_ratio: 0.48751577734947205
+  mean_think_stop_think_ratio: 0.4335119426250458
+'18_20':
+  mean_stop_think_ratio: 0.15350686013698578
+  mean_think_ratio: 0.39689314365386963
+  mean_think_stop_think_ratio: 0.34543874859809875
+'18_21':
+  mean_stop_think_ratio: 0.2483094036579132
+  mean_think_ratio: 1.488571286201477
+  mean_think_stop_think_ratio: 1.3125444650650024
+'18_22':
+  mean_stop_think_ratio: 0.2905653715133667
+  mean_think_ratio: 0.811271607875824
+  mean_think_stop_think_ratio: 0.7600551843643188
+'18_23':
+  mean_stop_think_ratio: 0.29421985149383545
+  mean_think_ratio: 1.4815465211868286
+  mean_think_stop_think_ratio: 1.4527391195297241
+'18_24':
+  mean_stop_think_ratio: 0.5168845057487488
+  mean_think_ratio: 0.839534342288971
+  mean_think_stop_think_ratio: 0.8233507871627808
+'18_25':
+  mean_stop_think_ratio: 0.18950995802879333
+  mean_think_ratio: 0.3155916631221771
+  mean_think_stop_think_ratio: 0.3020137548446655
+'18_26':
+  mean_stop_think_ratio: 0.2660018503665924
+  mean_think_ratio: 0.35395821928977966
+  mean_think_stop_think_ratio: 0.35521823167800903
+'18_27':
+  mean_stop_think_ratio: 0.29614368081092834
+  mean_think_ratio: 0.32034146785736084
+  mean_think_stop_think_ratio: 0.3176487982273102
+'18_28':
+  mean_stop_think_ratio: 0.0814490020275116
+  mean_think_ratio: 0.17561505734920502
+  mean_think_stop_think_ratio: 0.1565258502960205
+'18_29':
+  mean_stop_think_ratio: 0.1871315836906433
+  mean_think_ratio: 0.1436469554901123
+  mean_think_stop_think_ratio: 0.14435338973999023
+'18_3':
+  mean_stop_think_ratio: 0.45050469040870667
+  mean_think_ratio: 2.5473949909210205
+  mean_think_stop_think_ratio: 2.4405295848846436
+'18_30':
+  mean_stop_think_ratio: 0.32919129729270935
+  mean_think_ratio: 0.29996752738952637
+  mean_think_stop_think_ratio: 0.29436254501342773
+'18_31':
+  mean_stop_think_ratio: 0.3771927058696747
+  mean_think_ratio: 0.37988170981407166
+  mean_think_stop_think_ratio: 0.3741365671157837
+'18_4':
+  mean_stop_think_ratio: 0.14404702186584473
+  mean_think_ratio: 0.6976995468139648
+  mean_think_stop_think_ratio: 0.64317387342453
+'18_5':
+  mean_stop_think_ratio: 0.3951481878757477
+  mean_think_ratio: 0.7812137603759766
+  mean_think_stop_think_ratio: 0.6655506491661072
+'18_6':
+  mean_stop_think_ratio: 0.6563758254051208
+  mean_think_ratio: 1.2493414878845215
+  mean_think_stop_think_ratio: 1.1583380699157715
+'18_7':
+  mean_stop_think_ratio: 0.666668176651001
+  mean_think_ratio: 0.2546168267726898
+  mean_think_stop_think_ratio: 0.27234357595443726
+'18_8':
+  mean_stop_think_ratio: 0.1000429317355156
+  mean_think_ratio: 0.2562709450721741
+  mean_think_stop_think_ratio: 0.24748924374580383
+'18_9':
+  mean_stop_think_ratio: 0.17584405839443207
+  mean_think_ratio: 0.4815712869167328
+  mean_think_stop_think_ratio: 0.4801311492919922
+'19_0':
+  mean_stop_think_ratio: 0.14212153851985931
+  mean_think_ratio: 0.7450366616249084
+  mean_think_stop_think_ratio: 0.7109515070915222
+'19_1':
+  mean_stop_think_ratio: 0.12683910131454468
+  mean_think_ratio: 0.19801297783851624
+  mean_think_stop_think_ratio: 0.19157062470912933
+'19_10':
+  mean_stop_think_ratio: 0.2974900007247925
+  mean_think_ratio: 0.4096042811870575
+  mean_think_stop_think_ratio: 0.40097859501838684
+'19_11':
+  mean_stop_think_ratio: 0.5010536313056946
+  mean_think_ratio: 0.5000623464584351
+  mean_think_stop_think_ratio: 0.5072761178016663
+'19_12':
+  mean_stop_think_ratio: 0.04206174984574318
+  mean_think_ratio: 0.7429590225219727
+  mean_think_stop_think_ratio: 0.7276957035064697
+'19_13':
+  mean_stop_think_ratio: 0.06732670962810516
+  mean_think_ratio: 0.4747066795825958
+  mean_think_stop_think_ratio: 0.43426913022994995
+'19_14':
+  mean_stop_think_ratio: 0.13835424184799194
+  mean_think_ratio: 0.3196744918823242
+  mean_think_stop_think_ratio: 0.294344425201416
+'19_15':
+  mean_stop_think_ratio: 0.1370687037706375
+  mean_think_ratio: 0.9099819660186768
+  mean_think_stop_think_ratio: 0.8045319318771362
+'19_16':
+  mean_stop_think_ratio: 0.19204621016979218
+  mean_think_ratio: 1.0334233045578003
+  mean_think_stop_think_ratio: 1.0016164779663086
+'19_17':
+  mean_stop_think_ratio: 0.2500152885913849
+  mean_think_ratio: 1.729027509689331
+  mean_think_stop_think_ratio: 1.6414709091186523
+'19_18':
+  mean_stop_think_ratio: 0.15107020735740662
+  mean_think_ratio: 0.5399492979049683
+  mean_think_stop_think_ratio: 0.5240543484687805
+'19_19':
+  mean_stop_think_ratio: 0.027287136763334274
+  mean_think_ratio: 0.27188459038734436
+  mean_think_stop_think_ratio: 0.26457422971725464
+'19_2':
+  mean_stop_think_ratio: 0.09729711711406708
+  mean_think_ratio: 0.34508785605430603
+  mean_think_stop_think_ratio: 0.3154229521751404
+'19_20':
+  mean_stop_think_ratio: 0.4043194651603699
+  mean_think_ratio: 0.41428670287132263
+  mean_think_stop_think_ratio: 0.4126766324043274
+'19_21':
+  mean_stop_think_ratio: 0.1699192374944687
+  mean_think_ratio: 0.6544435024261475
+  mean_think_stop_think_ratio: 0.6218940019607544
+'19_22':
+  mean_stop_think_ratio: 0.11950740218162537
+  mean_think_ratio: 0.231397345662117
+  mean_think_stop_think_ratio: 0.22747983038425446
+'19_23':
+  mean_stop_think_ratio: 0.5973531007766724
+  mean_think_ratio: 0.5509157180786133
+  mean_think_stop_think_ratio: 0.5505864024162292
+'19_24':
+  mean_stop_think_ratio: 0.9955680966377258
+  mean_think_ratio: 1.8302409648895264
+  mean_think_stop_think_ratio: 1.808889627456665
+'19_25':
+  mean_stop_think_ratio: 0.3917795717716217
+  mean_think_ratio: 1.5989913940429688
+  mean_think_stop_think_ratio: 1.541913628578186
+'19_26':
+  mean_stop_think_ratio: 1.2811111211776733
+  mean_think_ratio: 0.6259299516677856
+  mean_think_stop_think_ratio: 0.6765673756599426
+'19_27':
+  mean_stop_think_ratio: 0.4371248781681061
+  mean_think_ratio: 1.5488077402114868
+  mean_think_stop_think_ratio: 1.3580600023269653
+'19_28':
+  mean_stop_think_ratio: 0.5694470405578613
+  mean_think_ratio: 1.5666141510009766
+  mean_think_stop_think_ratio: 1.5245450735092163
+'19_29':
+  mean_stop_think_ratio: 0.35897397994995117
+  mean_think_ratio: 1.8300806283950806
+  mean_think_stop_think_ratio: 1.7745821475982666
+'19_3':
+  mean_stop_think_ratio: 0.29485487937927246
+  mean_think_ratio: 0.38489559292793274
+  mean_think_stop_think_ratio: 0.3625170886516571
+'19_30':
+  mean_stop_think_ratio: 0.322101354598999
+  mean_think_ratio: 1.314931035041809
+  mean_think_stop_think_ratio: 1.2596049308776855
+'19_31':
+  mean_stop_think_ratio: 0.39172637462615967
+  mean_think_ratio: 0.9006065726280212
+  mean_think_stop_think_ratio: 0.8926113843917847
+'19_4':
+  mean_stop_think_ratio: 0.5695807337760925
+  mean_think_ratio: 1.0430173873901367
+  mean_think_stop_think_ratio: 1.0226976871490479
+'19_5':
+  mean_stop_think_ratio: 0.21700379252433777
+  mean_think_ratio: 0.3525485694408417
+  mean_think_stop_think_ratio: 0.3393908143043518
+'19_6':
+  mean_stop_think_ratio: 0.4642615020275116
+  mean_think_ratio: 0.6066492795944214
+  mean_think_stop_think_ratio: 0.6103984713554382
+'19_7':
+  mean_stop_think_ratio: 0.1206710934638977
+  mean_think_ratio: 0.22542406618595123
+  mean_think_stop_think_ratio: 0.21434102952480316
+'19_8':
+  mean_stop_think_ratio: 0.310751348733902
+  mean_think_ratio: 0.2756507992744446
+  mean_think_stop_think_ratio: 0.26907363533973694
+'19_9':
+  mean_stop_think_ratio: 0.14092274010181427
+  mean_think_ratio: 0.46514827013015747
+  mean_think_stop_think_ratio: 0.4375069737434387
+'1_0':
+  mean_stop_think_ratio: 1.0735775232315063
+  mean_think_ratio: 0.8463284969329834
+  mean_think_stop_think_ratio: 0.8342177867889404
+'1_1':
+  mean_stop_think_ratio: 0.46792399883270264
+  mean_think_ratio: 0.40761634707450867
+  mean_think_stop_think_ratio: 0.38176295161247253
+'1_10':
+  mean_stop_think_ratio: 1.9348806142807007
+  mean_think_ratio: 1.1945778131484985
+  mean_think_stop_think_ratio: 1.2211941480636597
+'1_11':
+  mean_stop_think_ratio: 0.5433645248413086
+  mean_think_ratio: 0.4797603189945221
+  mean_think_stop_think_ratio: 0.4710266888141632
+'1_12':
+  mean_stop_think_ratio: 3.0160443782806396
+  mean_think_ratio: 4.084445476531982
+  mean_think_stop_think_ratio: 3.7947165966033936
+'1_13':
+  mean_stop_think_ratio: 0.991569459438324
+  mean_think_ratio: 0.7594685554504395
+  mean_think_stop_think_ratio: 0.743977427482605
+'1_14':
+  mean_stop_think_ratio: 1.0560894012451172
+  mean_think_ratio: 1.0382102727890015
+  mean_think_stop_think_ratio: 0.9892602562904358
+'1_15':
+  mean_stop_think_ratio: 0.5288985371589661
+  mean_think_ratio: 0.5808218121528625
+  mean_think_stop_think_ratio: 0.5634549260139465
+'1_16':
+  mean_stop_think_ratio: 1.6161893606185913
+  mean_think_ratio: 1.060974359512329
+  mean_think_stop_think_ratio: 1.0583240985870361
+'1_17':
+  mean_stop_think_ratio: 0.29821422696113586
+  mean_think_ratio: 0.2612943947315216
+  mean_think_stop_think_ratio: 0.24519118666648865
+'1_18':
+  mean_stop_think_ratio: 0.7820641398429871
+  mean_think_ratio: 0.5290396213531494
+  mean_think_stop_think_ratio: 0.5287768244743347
+'1_19':
+  mean_stop_think_ratio: 0.5951729416847229
+  mean_think_ratio: 0.505792498588562
+  mean_think_stop_think_ratio: 0.4742697775363922
+'1_2':
+  mean_stop_think_ratio: 1.9149171113967896
+  mean_think_ratio: 2.441802501678467
+  mean_think_stop_think_ratio: 2.296459913253784
+'1_20':
+  mean_stop_think_ratio: 1.147678256034851
+  mean_think_ratio: 0.5090886950492859
+  mean_think_stop_think_ratio: 0.5409526228904724
+'1_21':
+  mean_stop_think_ratio: 1.2358630895614624
+  mean_think_ratio: 0.7173095345497131
+  mean_think_stop_think_ratio: 0.7371290922164917
+'1_22':
+  mean_stop_think_ratio: 3.5156612396240234
+  mean_think_ratio: 3.8342819213867188
+  mean_think_stop_think_ratio: 3.7929306030273438
+'1_23':
+  mean_stop_think_ratio: 3.256298065185547
+  mean_think_ratio: 4.18194580078125
+  mean_think_stop_think_ratio: 4.120393753051758
+'1_24':
+  mean_stop_think_ratio: 0.6080219745635986
+  mean_think_ratio: 0.49942895770072937
+  mean_think_stop_think_ratio: 0.48322683572769165
+'1_25':
+  mean_stop_think_ratio: 0.7726324796676636
+  mean_think_ratio: 0.6863915324211121
+  mean_think_stop_think_ratio: 0.6629253029823303
+'1_26':
+  mean_stop_think_ratio: 2.349759817123413
+  mean_think_ratio: 1.4772531986236572
+  mean_think_stop_think_ratio: 1.4961755275726318
+'1_27':
+  mean_stop_think_ratio: 1.4482965469360352
+  mean_think_ratio: 1.061568260192871
+  mean_think_stop_think_ratio: 1.0537817478179932
+'1_28':
+  mean_stop_think_ratio: 0.9712807536125183
+  mean_think_ratio: 0.5119842290878296
+  mean_think_stop_think_ratio: 0.5293763279914856
+'1_29':
+  mean_stop_think_ratio: 0.09968636929988861
+  mean_think_ratio: 0.040613804012537
+  mean_think_stop_think_ratio: 0.043683189898729324
+'1_3':
+  mean_stop_think_ratio: 1.011011004447937
+  mean_think_ratio: 0.729037880897522
+  mean_think_stop_think_ratio: 0.7036299705505371
+'1_30':
+  mean_stop_think_ratio: 0.3605767488479614
+  mean_think_ratio: 0.32595860958099365
+  mean_think_stop_think_ratio: 0.31913653016090393
+'1_31':
+  mean_stop_think_ratio: 0.072697713971138
+  mean_think_ratio: 0.04443379491567612
+  mean_think_stop_think_ratio: 0.04429968073964119
+'1_4':
+  mean_stop_think_ratio: 1.6724740266799927
+  mean_think_ratio: 1.6012990474700928
+  mean_think_stop_think_ratio: 1.5164538621902466
+'1_5':
+  mean_stop_think_ratio: 0.7575291395187378
+  mean_think_ratio: 0.5278705954551697
+  mean_think_stop_think_ratio: 0.5195792317390442
+'1_6':
+  mean_stop_think_ratio: 0.7652000188827515
+  mean_think_ratio: 0.5641162991523743
+  mean_think_stop_think_ratio: 0.5491226315498352
+'1_7':
+  mean_stop_think_ratio: 2.1291728019714355
+  mean_think_ratio: 2.732609510421753
+  mean_think_stop_think_ratio: 2.532297134399414
+'1_8':
+  mean_stop_think_ratio: 1.4488028287887573
+  mean_think_ratio: 0.8666918873786926
+  mean_think_stop_think_ratio: 0.8779224753379822
+'1_9':
+  mean_stop_think_ratio: 0.7131932377815247
+  mean_think_ratio: 1.5946284532546997
+  mean_think_stop_think_ratio: 1.422674298286438
+'20_0':
+  mean_stop_think_ratio: 0.44046393036842346
+  mean_think_ratio: 0.6870390772819519
+  mean_think_stop_think_ratio: 0.6485181450843811
+'20_1':
+  mean_stop_think_ratio: 0.4253891706466675
+  mean_think_ratio: 0.9907585382461548
+  mean_think_stop_think_ratio: 0.9044435024261475
+'20_10':
+  mean_stop_think_ratio: 0.8547933101654053
+  mean_think_ratio: 1.3196971416473389
+  mean_think_stop_think_ratio: 1.235546588897705
+'20_11':
+  mean_stop_think_ratio: 0.8454629778862
+  mean_think_ratio: 0.7269113659858704
+  mean_think_stop_think_ratio: 0.7171575427055359
+'20_12':
+  mean_stop_think_ratio: 0.47242218255996704
+  mean_think_ratio: 0.36317723989486694
+  mean_think_stop_think_ratio: 0.36547449231147766
+'20_13':
+  mean_stop_think_ratio: 0.056848540902137756
+  mean_think_ratio: 0.12897805869579315
+  mean_think_stop_think_ratio: 0.12172315269708633
+'20_14':
+  mean_stop_think_ratio: 0.45289984345436096
+  mean_think_ratio: 0.4072304368019104
+  mean_think_stop_think_ratio: 0.4023611545562744
+'20_15':
+  mean_stop_think_ratio: 0.1775263100862503
+  mean_think_ratio: 0.8890908360481262
+  mean_think_stop_think_ratio: 0.8482449650764465
+'20_16':
+  mean_stop_think_ratio: 0.5782332420349121
+  mean_think_ratio: 0.9912487864494324
+  mean_think_stop_think_ratio: 0.9313032627105713
+'20_17':
+  mean_stop_think_ratio: 0.5629523992538452
+  mean_think_ratio: 1.869998812675476
+  mean_think_stop_think_ratio: 1.7633215188980103
+'20_18':
+  mean_stop_think_ratio: 0.45935192704200745
+  mean_think_ratio: 1.099898099899292
+  mean_think_stop_think_ratio: 0.9915719628334045
+'20_19':
+  mean_stop_think_ratio: 1.535187840461731
+  mean_think_ratio: 1.8425872325897217
+  mean_think_stop_think_ratio: 1.8150395154953003
+'20_2':
+  mean_stop_think_ratio: 0.2172585427761078
+  mean_think_ratio: 0.5900368094444275
+  mean_think_stop_think_ratio: 0.5703279376029968
+'20_20':
+  mean_stop_think_ratio: 0.16695663332939148
+  mean_think_ratio: 0.38955458998680115
+  mean_think_stop_think_ratio: 0.34153035283088684
+'20_21':
+  mean_stop_think_ratio: 0.2788011133670807
+  mean_think_ratio: 0.32947811484336853
+  mean_think_stop_think_ratio: 0.31668734550476074
+'20_22':
+  mean_stop_think_ratio: 0.12688840925693512
+  mean_think_ratio: 0.10754900425672531
+  mean_think_stop_think_ratio: 0.10335081815719604
+'20_23':
+  mean_stop_think_ratio: 0.12572476267814636
+  mean_think_ratio: 0.5200387239456177
+  mean_think_stop_think_ratio: 0.4769790470600128
+'20_24':
+  mean_stop_think_ratio: 0.31048959493637085
+  mean_think_ratio: 0.2440716028213501
+  mean_think_stop_think_ratio: 0.22927670180797577
+'20_25':
+  mean_stop_think_ratio: 0.3686855137348175
+  mean_think_ratio: 0.7902706265449524
+  mean_think_stop_think_ratio: 0.7425006031990051
+'20_26':
+  mean_stop_think_ratio: 0.0826241597533226
+  mean_think_ratio: 0.19596557319164276
+  mean_think_stop_think_ratio: 0.18285799026489258
+'20_27':
+  mean_stop_think_ratio: 0.35747742652893066
+  mean_think_ratio: 0.2748486399650574
+  mean_think_stop_think_ratio: 0.2807699143886566
+'20_28':
+  mean_stop_think_ratio: 0.057125598192214966
+  mean_think_ratio: 0.08228366822004318
+  mean_think_stop_think_ratio: 0.07829258590936661
+'20_29':
+  mean_stop_think_ratio: 0.26822489500045776
+  mean_think_ratio: 0.2700270116329193
+  mean_think_stop_think_ratio: 0.268749862909317
+'20_3':
+  mean_stop_think_ratio: 0.3586183190345764
+  mean_think_ratio: 0.377200722694397
+  mean_think_stop_think_ratio: 0.3454928398132324
+'20_30':
+  mean_stop_think_ratio: 0.07269401848316193
+  mean_think_ratio: 0.333159863948822
+  mean_think_stop_think_ratio: 0.3121742010116577
+'20_31':
+  mean_stop_think_ratio: 0.1825873702764511
+  mean_think_ratio: 0.5665539503097534
+  mean_think_stop_think_ratio: 0.5565723776817322
+'20_4':
+  mean_stop_think_ratio: 0.12781739234924316
+  mean_think_ratio: 0.21078629791736603
+  mean_think_stop_think_ratio: 0.21144279837608337
+'20_5':
+  mean_stop_think_ratio: 0.1483733355998993
+  mean_think_ratio: 0.39987942576408386
+  mean_think_stop_think_ratio: 0.38234466314315796
+'20_6':
+  mean_stop_think_ratio: 0.0609036423265934
+  mean_think_ratio: 0.22633527219295502
+  mean_think_stop_think_ratio: 0.22449977695941925
+'20_7':
+  mean_stop_think_ratio: 0.15997236967086792
+  mean_think_ratio: 0.23811523616313934
+  mean_think_stop_think_ratio: 0.23478008806705475
+'20_8':
+  mean_stop_think_ratio: 0.34628453850746155
+  mean_think_ratio: 0.4971944987773895
+  mean_think_stop_think_ratio: 0.47146859765052795
+'20_9':
+  mean_stop_think_ratio: 0.33936452865600586
+  mean_think_ratio: 1.0537097454071045
+  mean_think_stop_think_ratio: 1.0070120096206665
+'21_0':
+  mean_stop_think_ratio: 0.13542918860912323
+  mean_think_ratio: 0.33537429571151733
+  mean_think_stop_think_ratio: 0.31901493668556213
+'21_1':
+  mean_stop_think_ratio: 0.1415998786687851
+  mean_think_ratio: 0.7348325252532959
+  mean_think_stop_think_ratio: 0.6545925140380859
+'21_10':
+  mean_stop_think_ratio: 1.4544429779052734
+  mean_think_ratio: 0.6275580525398254
+  mean_think_stop_think_ratio: 0.6711511015892029
+'21_11':
+  mean_stop_think_ratio: 0.18858130276203156
+  mean_think_ratio: 0.9379919767379761
+  mean_think_stop_think_ratio: 0.8741162419319153
+'21_12':
+  mean_stop_think_ratio: 0.16543692350387573
+  mean_think_ratio: 1.945090889930725
+  mean_think_stop_think_ratio: 1.900983452796936
+'21_13':
+  mean_stop_think_ratio: 0.3961161673069
+  mean_think_ratio: 1.6779999732971191
+  mean_think_stop_think_ratio: 1.6452020406723022
+'21_14':
+  mean_stop_think_ratio: 0.23636849224567413
+  mean_think_ratio: 0.7547770738601685
+  mean_think_stop_think_ratio: 0.6617220640182495
+'21_15':
+  mean_stop_think_ratio: 0.5942999720573425
+  mean_think_ratio: 1.037438988685608
+  mean_think_stop_think_ratio: 1.007710576057434
+'21_16':
+  mean_stop_think_ratio: 1.2006230354309082
+  mean_think_ratio: 1.6716121435165405
+  mean_think_stop_think_ratio: 1.6775426864624023
+'21_17':
+  mean_stop_think_ratio: 1.740739345550537
+  mean_think_ratio: 1.673967957496643
+  mean_think_stop_think_ratio: 1.6931480169296265
+'21_18':
+  mean_stop_think_ratio: 0.5513782501220703
+  mean_think_ratio: 0.7756960988044739
+  mean_think_stop_think_ratio: 0.778900146484375
+'21_19':
+  mean_stop_think_ratio: 0.11388109624385834
+  mean_think_ratio: 0.20651651918888092
+  mean_think_stop_think_ratio: 0.20439423620700836
+'21_2':
+  mean_stop_think_ratio: 0.1513006091117859
+  mean_think_ratio: 0.5004235506057739
+  mean_think_stop_think_ratio: 0.4634854793548584
+'21_20':
+  mean_stop_think_ratio: 0.08999437838792801
+  mean_think_ratio: 0.375002920627594
+  mean_think_stop_think_ratio: 0.36506491899490356
+'21_21':
+  mean_stop_think_ratio: 0.9736208915710449
+  mean_think_ratio: 1.0556330680847168
+  mean_think_stop_think_ratio: 1.0380940437316895
+'21_22':
+  mean_stop_think_ratio: 0.21117348968982697
+  mean_think_ratio: 0.4057714641094208
+  mean_think_stop_think_ratio: 0.3981095254421234
+'21_23':
+  mean_stop_think_ratio: 0.4686538577079773
+  mean_think_ratio: 0.9520070552825928
+  mean_think_stop_think_ratio: 0.9370447397232056
+'21_24':
+  mean_stop_think_ratio: 1.0384471416473389
+  mean_think_ratio: 0.9810105562210083
+  mean_think_stop_think_ratio: 0.943426787853241
+'21_25':
+  mean_stop_think_ratio: 0.3912108540534973
+  mean_think_ratio: 0.9510772824287415
+  mean_think_stop_think_ratio: 0.8813924193382263
+'21_26':
+  mean_stop_think_ratio: 0.29611504077911377
+  mean_think_ratio: 0.6009613871574402
+  mean_think_stop_think_ratio: 0.5659223198890686
+'21_27':
+  mean_stop_think_ratio: 0.6826693415641785
+  mean_think_ratio: 0.7397059202194214
+  mean_think_stop_think_ratio: 0.7346232533454895
+'21_28':
+  mean_stop_think_ratio: 0.251024067401886
+  mean_think_ratio: 0.8587034344673157
+  mean_think_stop_think_ratio: 0.801034152507782
+'21_29':
+  mean_stop_think_ratio: 0.14319665729999542
+  mean_think_ratio: 0.5295790433883667
+  mean_think_stop_think_ratio: 0.5044226050376892
+'21_3':
+  mean_stop_think_ratio: 0.3387693762779236
+  mean_think_ratio: 0.4328438341617584
+  mean_think_stop_think_ratio: 0.40895959734916687
+'21_30':
+  mean_stop_think_ratio: 0.04593083634972572
+  mean_think_ratio: 0.21738576889038086
+  mean_think_stop_think_ratio: 0.1918318122625351
+'21_31':
+  mean_stop_think_ratio: 0.11063256859779358
+  mean_think_ratio: 0.3438829481601715
+  mean_think_stop_think_ratio: 0.31087589263916016
+'21_4':
+  mean_stop_think_ratio: 0.47091785073280334
+  mean_think_ratio: 0.2652910351753235
+  mean_think_stop_think_ratio: 0.26564812660217285
+'21_5':
+  mean_stop_think_ratio: 0.32930275797843933
+  mean_think_ratio: 0.20956577360630035
+  mean_think_stop_think_ratio: 0.21406294405460358
+'21_6':
+  mean_stop_think_ratio: 0.3567008376121521
+  mean_think_ratio: 0.2804418206214905
+  mean_think_stop_think_ratio: 0.2779857814311981
+'21_7':
+  mean_stop_think_ratio: 0.5616677403450012
+  mean_think_ratio: 0.31038448214530945
+  mean_think_stop_think_ratio: 0.31848829984664917
+'21_8':
+  mean_stop_think_ratio: 0.4544674754142761
+  mean_think_ratio: 0.4201008379459381
+  mean_think_stop_think_ratio: 0.41509848833084106
+'21_9':
+  mean_stop_think_ratio: 0.3131466507911682
+  mean_think_ratio: 0.39294350147247314
+  mean_think_stop_think_ratio: 0.3815914988517761
+'22_0':
+  mean_stop_think_ratio: 0.11112898588180542
+  mean_think_ratio: 0.2907164692878723
+  mean_think_stop_think_ratio: 0.2509339153766632
+'22_1':
+  mean_stop_think_ratio: 0.29513633251190186
+  mean_think_ratio: 0.5055655241012573
+  mean_think_stop_think_ratio: 0.4346221387386322
+'22_10':
+  mean_stop_think_ratio: 0.13373221457004547
+  mean_think_ratio: 0.48000606894493103
+  mean_think_stop_think_ratio: 0.44290804862976074
+'22_11':
+  mean_stop_think_ratio: 0.3955688178539276
+  mean_think_ratio: 0.3681384027004242
+  mean_think_stop_think_ratio: 0.35738012194633484
+'22_12':
+  mean_stop_think_ratio: 0.17262156307697296
+  mean_think_ratio: 0.5339303612709045
+  mean_think_stop_think_ratio: 0.49325117468833923
+'22_13':
+  mean_stop_think_ratio: 0.13011528551578522
+  mean_think_ratio: 0.4241096079349518
+  mean_think_stop_think_ratio: 0.39448195695877075
+'22_14':
+  mean_stop_think_ratio: 0.24176721274852753
+  mean_think_ratio: 0.3647110164165497
+  mean_think_stop_think_ratio: 0.3397029638290405
+'22_15':
+  mean_stop_think_ratio: 0.19977159798145294
+  mean_think_ratio: 0.3410183787345886
+  mean_think_stop_think_ratio: 0.3267457187175751
+'22_16':
+  mean_stop_think_ratio: 0.5040861964225769
+  mean_think_ratio: 0.5902705192565918
+  mean_think_stop_think_ratio: 0.5925613641738892
+'22_17':
+  mean_stop_think_ratio: 0.31929507851600647
+  mean_think_ratio: 0.40298542380332947
+  mean_think_stop_think_ratio: 0.39013686776161194
+'22_18':
+  mean_stop_think_ratio: 0.40059274435043335
+  mean_think_ratio: 0.4458683431148529
+  mean_think_stop_think_ratio: 0.44684919714927673
+'22_19':
+  mean_stop_think_ratio: 0.3741513192653656
+  mean_think_ratio: 0.46013590693473816
+  mean_think_stop_think_ratio: 0.45724156498908997
+'22_2':
+  mean_stop_think_ratio: 0.1586928814649582
+  mean_think_ratio: 0.2685498893260956
+  mean_think_stop_think_ratio: 0.23130017518997192
+'22_20':
+  mean_stop_think_ratio: 0.18756148219108582
+  mean_think_ratio: 0.8489048480987549
+  mean_think_stop_think_ratio: 0.7729535698890686
+'22_21':
+  mean_stop_think_ratio: 0.20504043996334076
+  mean_think_ratio: 1.232619047164917
+  mean_think_stop_think_ratio: 1.1321097612380981
+'22_22':
+  mean_stop_think_ratio: 0.2496005892753601
+  mean_think_ratio: 0.995511531829834
+  mean_think_stop_think_ratio: 0.8523639440536499
+'22_23':
+  mean_stop_think_ratio: 0.30112791061401367
+  mean_think_ratio: 1.5614631175994873
+  mean_think_stop_think_ratio: 1.4376819133758545
+'22_24':
+  mean_stop_think_ratio: 0.12842148542404175
+  mean_think_ratio: 0.399141401052475
+  mean_think_stop_think_ratio: 0.3810867369174957
+'22_25':
+  mean_stop_think_ratio: 0.3686425983905792
+  mean_think_ratio: 0.8928653001785278
+  mean_think_stop_think_ratio: 0.8191871643066406
+'22_26':
+  mean_stop_think_ratio: 0.3262152373790741
+  mean_think_ratio: 0.8603790998458862
+  mean_think_stop_think_ratio: 0.8353242874145508
+'22_27':
+  mean_stop_think_ratio: 0.1670188009738922
+  mean_think_ratio: 0.5033310055732727
+  mean_think_stop_think_ratio: 0.4751887619495392
+'22_28':
+  mean_stop_think_ratio: 0.21233779191970825
+  mean_think_ratio: 0.20122267305850983
+  mean_think_stop_think_ratio: 0.18751198053359985
+'22_29':
+  mean_stop_think_ratio: 0.10926690697669983
+  mean_think_ratio: 0.19683070480823517
+  mean_think_stop_think_ratio: 0.18348044157028198
+'22_3':
+  mean_stop_think_ratio: 0.1368410289287567
+  mean_think_ratio: 0.11935114860534668
+  mean_think_stop_think_ratio: 0.11074481904506683
+'22_30':
+  mean_stop_think_ratio: 0.1022733822464943
+  mean_think_ratio: 0.1075400561094284
+  mean_think_stop_think_ratio: 0.10078569501638412
+'22_31':
+  mean_stop_think_ratio: 0.05807100608944893
+  mean_think_ratio: 0.3199714422225952
+  mean_think_stop_think_ratio: 0.26791706681251526
+'22_4':
+  mean_stop_think_ratio: 0.5489559173583984
+  mean_think_ratio: 0.453792929649353
+  mean_think_stop_think_ratio: 0.4408230483531952
+'22_5':
+  mean_stop_think_ratio: 0.19845964014530182
+  mean_think_ratio: 0.6790779829025269
+  mean_think_stop_think_ratio: 0.6515259146690369
+'22_6':
+  mean_stop_think_ratio: 0.40756237506866455
+  mean_think_ratio: 1.1685967445373535
+  mean_think_stop_think_ratio: 1.1557257175445557
+'22_7':
+  mean_stop_think_ratio: 0.15375037491321564
+  mean_think_ratio: 0.4675220251083374
+  mean_think_stop_think_ratio: 0.43122565746307373
+'22_8':
+  mean_stop_think_ratio: 0.08810978382825851
+  mean_think_ratio: 0.8966383337974548
+  mean_think_stop_think_ratio: 0.8297805190086365
+'22_9':
+  mean_stop_think_ratio: 0.20837880671024323
+  mean_think_ratio: 0.3348314166069031
+  mean_think_stop_think_ratio: 0.3108103573322296
+'23_0':
+  mean_stop_think_ratio: 0.15565693378448486
+  mean_think_ratio: 0.4570683538913727
+  mean_think_stop_think_ratio: 0.4413287937641144
+'23_1':
+  mean_stop_think_ratio: 0.6343979239463806
+  mean_think_ratio: 0.7793573141098022
+  mean_think_stop_think_ratio: 0.7102072834968567
+'23_10':
+  mean_stop_think_ratio: 0.2674735486507416
+  mean_think_ratio: 1.3385509252548218
+  mean_think_stop_think_ratio: 1.310468077659607
+'23_11':
+  mean_stop_think_ratio: 0.25924378633499146
+  mean_think_ratio: 0.6797778010368347
+  mean_think_stop_think_ratio: 0.6699637174606323
+'23_12':
+  mean_stop_think_ratio: 0.3442493677139282
+  mean_think_ratio: 0.884553074836731
+  mean_think_stop_think_ratio: 0.8243423700332642
+'23_13':
+  mean_stop_think_ratio: 0.16082705557346344
+  mean_think_ratio: 0.4572475850582123
+  mean_think_stop_think_ratio: 0.43055203557014465
+'23_14':
+  mean_stop_think_ratio: 0.8833292722702026
+  mean_think_ratio: 0.4870443642139435
+  mean_think_stop_think_ratio: 0.5032269358634949
+'23_15':
+  mean_stop_think_ratio: 0.08719249069690704
+  mean_think_ratio: 0.3023717999458313
+  mean_think_stop_think_ratio: 0.27911457419395447
+'23_16':
+  mean_stop_think_ratio: 0.1030745580792427
+  mean_think_ratio: 0.13932232558727264
+  mean_think_stop_think_ratio: 0.1290850192308426
+'23_17':
+  mean_stop_think_ratio: 0.06953657418489456
+  mean_think_ratio: 0.28118664026260376
+  mean_think_stop_think_ratio: 0.25776612758636475
+'23_18':
+  mean_stop_think_ratio: 0.5632830858230591
+  mean_think_ratio: 0.5286041498184204
+  mean_think_stop_think_ratio: 0.5174049735069275
+'23_19':
+  mean_stop_think_ratio: 0.10351473838090897
+  mean_think_ratio: 0.3477264940738678
+  mean_think_stop_think_ratio: 0.3231040835380554
+'23_2':
+  mean_stop_think_ratio: 0.59368497133255
+  mean_think_ratio: 1.5328333377838135
+  mean_think_stop_think_ratio: 1.47565758228302
+'23_20':
+  mean_stop_think_ratio: 0.36342349648475647
+  mean_think_ratio: 0.8692010641098022
+  mean_think_stop_think_ratio: 0.8413814306259155
+'23_21':
+  mean_stop_think_ratio: 0.1817794144153595
+  mean_think_ratio: 0.2778196930885315
+  mean_think_stop_think_ratio: 0.26698651909828186
+'23_22':
+  mean_stop_think_ratio: 0.37423619627952576
+  mean_think_ratio: 0.7683895230293274
+  mean_think_stop_think_ratio: 0.7163867950439453
+'23_23':
+  mean_stop_think_ratio: 0.15508340299129486
+  mean_think_ratio: 0.27318936586380005
+  mean_think_stop_think_ratio: 0.2558773458003998
+'23_24':
+  mean_stop_think_ratio: 0.1689630001783371
+  mean_think_ratio: 0.8488806486129761
+  mean_think_stop_think_ratio: 0.7693085670471191
+'23_25':
+  mean_stop_think_ratio: 0.44867491722106934
+  mean_think_ratio: 1.2905607223510742
+  mean_think_stop_think_ratio: 1.1701112985610962
+'23_26':
+  mean_stop_think_ratio: 0.6520188450813293
+  mean_think_ratio: 3.5224719047546387
+  mean_think_stop_think_ratio: 3.1730306148529053
+'23_27':
+  mean_stop_think_ratio: 0.18031474947929382
+  mean_think_ratio: 2.738891839981079
+  mean_think_stop_think_ratio: 2.549664258956909
+'23_28':
+  mean_stop_think_ratio: 0.3432045578956604
+  mean_think_ratio: 0.40424013137817383
+  mean_think_stop_think_ratio: 0.40253114700317383
+'23_29':
+  mean_stop_think_ratio: 0.3144034743309021
+  mean_think_ratio: 0.3579128086566925
+  mean_think_stop_think_ratio: 0.3433837592601776
+'23_3':
+  mean_stop_think_ratio: 0.9481436014175415
+  mean_think_ratio: 2.05961275100708
+  mean_think_stop_think_ratio: 1.964963674545288
+'23_30':
+  mean_stop_think_ratio: 0.2803690731525421
+  mean_think_ratio: 0.2529096305370331
+  mean_think_stop_think_ratio: 0.24853923916816711
+'23_31':
+  mean_stop_think_ratio: 0.3178493082523346
+  mean_think_ratio: 0.2717864215373993
+  mean_think_stop_think_ratio: 0.26826709508895874
+'23_4':
+  mean_stop_think_ratio: 0.4814795255661011
+  mean_think_ratio: 1.8345656394958496
+  mean_think_stop_think_ratio: 1.7628350257873535
+'23_5':
+  mean_stop_think_ratio: 0.3386039435863495
+  mean_think_ratio: 0.8514484167098999
+  mean_think_stop_think_ratio: 0.7587847113609314
+'23_6':
+  mean_stop_think_ratio: 0.5468878746032715
+  mean_think_ratio: 2.381610870361328
+  mean_think_stop_think_ratio: 2.2008633613586426
+'23_7':
+  mean_stop_think_ratio: 0.41237741708755493
+  mean_think_ratio: 0.5122655630111694
+  mean_think_stop_think_ratio: 0.48365360498428345
+'23_8':
+  mean_stop_think_ratio: 0.18690353631973267
+  mean_think_ratio: 0.9797462821006775
+  mean_think_stop_think_ratio: 0.9380824565887451
+'23_9':
+  mean_stop_think_ratio: 0.14412523806095123
+  mean_think_ratio: 0.5813028812408447
+  mean_think_stop_think_ratio: 0.5647966861724854
+'24_0':
+  mean_stop_think_ratio: 0.5670029520988464
+  mean_think_ratio: 2.375735282897949
+  mean_think_stop_think_ratio: 2.3073947429656982
+'24_1':
+  mean_stop_think_ratio: 0.493771493434906
+  mean_think_ratio: 1.9949290752410889
+  mean_think_stop_think_ratio: 1.9717744588851929
+'24_10':
+  mean_stop_think_ratio: 0.2540406882762909
+  mean_think_ratio: 0.5018661022186279
+  mean_think_stop_think_ratio: 0.4935888648033142
+'24_11':
+  mean_stop_think_ratio: 0.4307042956352234
+  mean_think_ratio: 0.888774037361145
+  mean_think_stop_think_ratio: 0.8540381193161011
+'24_12':
+  mean_stop_think_ratio: 0.20351557433605194
+  mean_think_ratio: 0.35373350977897644
+  mean_think_stop_think_ratio: 0.34495675563812256
+'24_13':
+  mean_stop_think_ratio: 0.15881775319576263
+  mean_think_ratio: 0.33413150906562805
+  mean_think_stop_think_ratio: 0.3258739709854126
+'24_14':
+  mean_stop_think_ratio: 0.32053864002227783
+  mean_think_ratio: 0.7955131530761719
+  mean_think_stop_think_ratio: 0.7611376643180847
+'24_15':
+  mean_stop_think_ratio: 0.5820739269256592
+  mean_think_ratio: 0.5421414375305176
+  mean_think_stop_think_ratio: 0.5295040011405945
+'24_16':
+  mean_stop_think_ratio: 0.32556939125061035
+  mean_think_ratio: 0.8945189714431763
+  mean_think_stop_think_ratio: 0.810911238193512
+'24_17':
+  mean_stop_think_ratio: 1.4906188249588013
+  mean_think_ratio: 3.01468825340271
+  mean_think_stop_think_ratio: 2.761735200881958
+'24_18':
+  mean_stop_think_ratio: 0.7509105801582336
+  mean_think_ratio: 0.9978359937667847
+  mean_think_stop_think_ratio: 0.9550706744194031
+'24_19':
+  mean_stop_think_ratio: 0.4348834753036499
+  mean_think_ratio: 0.733863890171051
+  mean_think_stop_think_ratio: 0.686053991317749
+'24_2':
+  mean_stop_think_ratio: 0.1899590939283371
+  mean_think_ratio: 0.8506627082824707
+  mean_think_stop_think_ratio: 0.8060733079910278
+'24_20':
+  mean_stop_think_ratio: 0.434156596660614
+  mean_think_ratio: 1.27979576587677
+  mean_think_stop_think_ratio: 1.1576277017593384
+'24_21':
+  mean_stop_think_ratio: 0.24760210514068604
+  mean_think_ratio: 0.42468518018722534
+  mean_think_stop_think_ratio: 0.4021213948726654
+'24_22':
+  mean_stop_think_ratio: 0.185984805226326
+  mean_think_ratio: 0.8543859720230103
+  mean_think_stop_think_ratio: 0.757481575012207
+'24_23':
+  mean_stop_think_ratio: 0.22795328497886658
+  mean_think_ratio: 0.3501013219356537
+  mean_think_stop_think_ratio: 0.31587642431259155
+'24_24':
+  mean_stop_think_ratio: 0.1724957823753357
+  mean_think_ratio: 0.32087063789367676
+  mean_think_stop_think_ratio: 0.30333736538887024
+'24_25':
+  mean_stop_think_ratio: 1.2124826908111572
+  mean_think_ratio: 0.838583767414093
+  mean_think_stop_think_ratio: 0.8468069434165955
+'24_26':
+  mean_stop_think_ratio: 0.14548712968826294
+  mean_think_ratio: 0.596335232257843
+  mean_think_stop_think_ratio: 0.5585376024246216
+'24_27':
+  mean_stop_think_ratio: 0.17321039736270905
+  mean_think_ratio: 0.27727535367012024
+  mean_think_stop_think_ratio: 0.2657589614391327
+'24_28':
+  mean_stop_think_ratio: 0.6319740414619446
+  mean_think_ratio: 0.5668437480926514
+  mean_think_stop_think_ratio: 0.5830996632575989
+'24_29':
+  mean_stop_think_ratio: 0.3654884397983551
+  mean_think_ratio: 0.5650187730789185
+  mean_think_stop_think_ratio: 0.5565621852874756
+'24_3':
+  mean_stop_think_ratio: 0.3521082103252411
+  mean_think_ratio: 1.0853053331375122
+  mean_think_stop_think_ratio: 0.981634795665741
+'24_30':
+  mean_stop_think_ratio: 0.23596417903900146
+  mean_think_ratio: 0.22892190515995026
+  mean_think_stop_think_ratio: 0.22822190821170807
+'24_31':
+  mean_stop_think_ratio: 0.33145585656166077
+  mean_think_ratio: 0.42405954003334045
+  mean_think_stop_think_ratio: 0.43120044469833374
+'24_4':
+  mean_stop_think_ratio: 0.16415894031524658
+  mean_think_ratio: 1.7092922925949097
+  mean_think_stop_think_ratio: 1.6870290040969849
+'24_5':
+  mean_stop_think_ratio: 0.10994251817464828
+  mean_think_ratio: 2.5742812156677246
+  mean_think_stop_think_ratio: 2.540618658065796
+'24_6':
+  mean_stop_think_ratio: 0.2886918783187866
+  mean_think_ratio: 1.5635360479354858
+  mean_think_stop_think_ratio: 1.5319898128509521
+'24_7':
+  mean_stop_think_ratio: 0.0556146614253521
+  mean_think_ratio: 0.6504482626914978
+  mean_think_stop_think_ratio: 0.6212359666824341
+'24_8':
+  mean_stop_think_ratio: 0.6870592832565308
+  mean_think_ratio: 0.9194132089614868
+  mean_think_stop_think_ratio: 0.8983996510505676
+'24_9':
+  mean_stop_think_ratio: 0.3733671009540558
+  mean_think_ratio: 0.8573148250579834
+  mean_think_stop_think_ratio: 0.8228902220726013
+'25_0':
+  mean_stop_think_ratio: 0.19851018488407135
+  mean_think_ratio: 1.1215192079544067
+  mean_think_stop_think_ratio: 1.028126835823059
+'25_1':
+  mean_stop_think_ratio: 0.5094281435012817
+  mean_think_ratio: 0.5405839681625366
+  mean_think_stop_think_ratio: 0.5354991555213928
+'25_10':
+  mean_stop_think_ratio: 0.42964884638786316
+  mean_think_ratio: 2.619075059890747
+  mean_think_stop_think_ratio: 2.58125638961792
+'25_11':
+  mean_stop_think_ratio: 0.17867465317249298
+  mean_think_ratio: 0.2459263950586319
+  mean_think_stop_think_ratio: 0.24028939008712769
+'25_12':
+  mean_stop_think_ratio: 0.3318990468978882
+  mean_think_ratio: 0.9995391964912415
+  mean_think_stop_think_ratio: 0.9563999772071838
+'25_13':
+  mean_stop_think_ratio: 0.10757140070199966
+  mean_think_ratio: 0.5140376091003418
+  mean_think_stop_think_ratio: 0.48093464970588684
+'25_14':
+  mean_stop_think_ratio: 0.19705140590667725
+  mean_think_ratio: 0.7896881699562073
+  mean_think_stop_think_ratio: 0.7338607907295227
+'25_15':
+  mean_stop_think_ratio: 0.12076842784881592
+  mean_think_ratio: 0.5513625741004944
+  mean_think_stop_think_ratio: 0.5037288069725037
+'25_16':
+  mean_stop_think_ratio: 0.4577542245388031
+  mean_think_ratio: 0.6970005035400391
+  mean_think_stop_think_ratio: 0.6898710131645203
+'25_17':
+  mean_stop_think_ratio: 0.44942164421081543
+  mean_think_ratio: 0.9451804757118225
+  mean_think_stop_think_ratio: 0.9150033593177795
+'25_18':
+  mean_stop_think_ratio: 0.7165778279304504
+  mean_think_ratio: 0.2983623147010803
+  mean_think_stop_think_ratio: 0.3320803940296173
+'25_19':
+  mean_stop_think_ratio: 0.7700914144515991
+  mean_think_ratio: 0.621328592300415
+  mean_think_stop_think_ratio: 0.6078488230705261
+'25_2':
+  mean_stop_think_ratio: 0.5113723874092102
+  mean_think_ratio: 1.8703745603561401
+  mean_think_stop_think_ratio: 1.7077418565750122
+'25_20':
+  mean_stop_think_ratio: 0.2866594195365906
+  mean_think_ratio: 0.2456485778093338
+  mean_think_stop_think_ratio: 0.2402830868959427
+'25_21':
+  mean_stop_think_ratio: 0.37023985385894775
+  mean_think_ratio: 0.5117788910865784
+  mean_think_stop_think_ratio: 0.5072141289710999
+'25_22':
+  mean_stop_think_ratio: 0.4495469331741333
+  mean_think_ratio: 0.30209633708000183
+  mean_think_stop_think_ratio: 0.3025319576263428
+'25_23':
+  mean_stop_think_ratio: 0.32269468903541565
+  mean_think_ratio: 0.46501851081848145
+  mean_think_stop_think_ratio: 0.45387107133865356
+'25_24':
+  mean_stop_think_ratio: 0.30094844102859497
+  mean_think_ratio: 0.6616597175598145
+  mean_think_stop_think_ratio: 0.6286371350288391
+'25_25':
+  mean_stop_think_ratio: 0.33814847469329834
+  mean_think_ratio: 1.470862865447998
+  mean_think_stop_think_ratio: 1.3974051475524902
+'25_26':
+  mean_stop_think_ratio: 0.3418511152267456
+  mean_think_ratio: 1.6391702890396118
+  mean_think_stop_think_ratio: 1.597037672996521
+'25_27':
+  mean_stop_think_ratio: 0.22522979974746704
+  mean_think_ratio: 0.9128795266151428
+  mean_think_stop_think_ratio: 0.8769271969795227
+'25_28':
+  mean_stop_think_ratio: 0.3219367563724518
+  mean_think_ratio: 0.757316529750824
+  mean_think_stop_think_ratio: 0.7292656898498535
+'25_29':
+  mean_stop_think_ratio: 0.6954124569892883
+  mean_think_ratio: 0.6137834191322327
+  mean_think_stop_think_ratio: 0.6160826683044434
+'25_3':
+  mean_stop_think_ratio: 0.2330079972743988
+  mean_think_ratio: 0.8094617128372192
+  mean_think_stop_think_ratio: 0.6798802614212036
+'25_30':
+  mean_stop_think_ratio: 0.5196965336799622
+  mean_think_ratio: 0.7452588677406311
+  mean_think_stop_think_ratio: 0.7426461577415466
+'25_31':
+  mean_stop_think_ratio: 0.4600059986114502
+  mean_think_ratio: 0.5990307927131653
+  mean_think_stop_think_ratio: 0.5899304151535034
+'25_4':
+  mean_stop_think_ratio: 0.1925836205482483
+  mean_think_ratio: 0.7161868810653687
+  mean_think_stop_think_ratio: 0.6733396649360657
+'25_5':
+  mean_stop_think_ratio: 0.25901171565055847
+  mean_think_ratio: 0.6378075480461121
+  mean_think_stop_think_ratio: 0.6032091379165649
+'25_6':
+  mean_stop_think_ratio: 0.07729747891426086
+  mean_think_ratio: 0.23385831713676453
+  mean_think_stop_think_ratio: 0.2150925248861313
+'25_7':
+  mean_stop_think_ratio: 0.1434457004070282
+  mean_think_ratio: 0.7665880918502808
+  mean_think_stop_think_ratio: 0.7055041193962097
+'25_8':
+  mean_stop_think_ratio: 0.279356986284256
+  mean_think_ratio: 0.7768110632896423
+  mean_think_stop_think_ratio: 0.776542067527771
+'25_9':
+  mean_stop_think_ratio: 0.26138174533843994
+  mean_think_ratio: 1.9561831951141357
+  mean_think_stop_think_ratio: 1.890236496925354
+'26_0':
+  mean_stop_think_ratio: 0.46425357460975647
+  mean_think_ratio: 0.5019729733467102
+  mean_think_stop_think_ratio: 0.46653586626052856
+'26_1':
+  mean_stop_think_ratio: 0.7991220355033875
+  mean_think_ratio: 0.4634062349796295
+  mean_think_stop_think_ratio: 0.4655013382434845
+'26_10':
+  mean_stop_think_ratio: 0.10099330544471741
+  mean_think_ratio: 0.7369697690010071
+  mean_think_stop_think_ratio: 0.7206776738166809
+'26_11':
+  mean_stop_think_ratio: 0.1892927587032318
+  mean_think_ratio: 0.8717338442802429
+  mean_think_stop_think_ratio: 0.8537145853042603
+'26_12':
+  mean_stop_think_ratio: 0.21099650859832764
+  mean_think_ratio: 0.6109578013420105
+  mean_think_stop_think_ratio: 0.545106828212738
+'26_13':
+  mean_stop_think_ratio: 2.3507485389709473
+  mean_think_ratio: 1.5302090644836426
+  mean_think_stop_think_ratio: 1.459525465965271
+'26_14':
+  mean_stop_think_ratio: 0.3936958909034729
+  mean_think_ratio: 0.684196412563324
+  mean_think_stop_think_ratio: 0.6257064342498779
+'26_15':
+  mean_stop_think_ratio: 0.5748525261878967
+  mean_think_ratio: 0.4063059687614441
+  mean_think_stop_think_ratio: 0.369996577501297
+'26_16':
+  mean_stop_think_ratio: 0.1492137610912323
+  mean_think_ratio: 0.44139912724494934
+  mean_think_stop_think_ratio: 0.431152880191803
+'26_17':
+  mean_stop_think_ratio: 0.27100038528442383
+  mean_think_ratio: 1.2482670545578003
+  mean_think_stop_think_ratio: 1.2343494892120361
+'26_18':
+  mean_stop_think_ratio: 0.23168709874153137
+  mean_think_ratio: 0.6446549892425537
+  mean_think_stop_think_ratio: 0.6075860857963562
+'26_19':
+  mean_stop_think_ratio: 0.24274703860282898
+  mean_think_ratio: 0.3189491629600525
+  mean_think_stop_think_ratio: 0.3207905888557434
+'26_2':
+  mean_stop_think_ratio: 1.328859806060791
+  mean_think_ratio: 0.8325629234313965
+  mean_think_stop_think_ratio: 0.8397203087806702
+'26_20':
+  mean_stop_think_ratio: 0.7474347352981567
+  mean_think_ratio: 0.9891360402107239
+  mean_think_stop_think_ratio: 0.9788041114807129
+'26_21':
+  mean_stop_think_ratio: 0.3189253807067871
+  mean_think_ratio: 0.41602015495300293
+  mean_think_stop_think_ratio: 0.4107291102409363
+'26_22':
+  mean_stop_think_ratio: 0.5540868639945984
+  mean_think_ratio: 0.4925607144832611
+  mean_think_stop_think_ratio: 0.48789164423942566
+'26_23':
+  mean_stop_think_ratio: 0.5214146971702576
+  mean_think_ratio: 0.7973177433013916
+  mean_think_stop_think_ratio: 0.7658115029335022
+'26_24':
+  mean_stop_think_ratio: 0.4415041208267212
+  mean_think_ratio: 1.854662537574768
+  mean_think_stop_think_ratio: 1.8082677125930786
+'26_25':
+  mean_stop_think_ratio: 1.2864809036254883
+  mean_think_ratio: 1.0295130014419556
+  mean_think_stop_think_ratio: 1.078410267829895
+'26_26':
+  mean_stop_think_ratio: 0.2643123269081116
+  mean_think_ratio: 0.4916761517524719
+  mean_think_stop_think_ratio: 0.47906917333602905
+'26_27':
+  mean_stop_think_ratio: 0.4845346510410309
+  mean_think_ratio: 0.6688926219940186
+  mean_think_stop_think_ratio: 0.6701715588569641
+'26_28':
+  mean_stop_think_ratio: 0.24617506563663483
+  mean_think_ratio: 0.29710015654563904
+  mean_think_stop_think_ratio: 0.2847447395324707
+'26_29':
+  mean_stop_think_ratio: 0.24057705700397491
+  mean_think_ratio: 0.3132351040840149
+  mean_think_stop_think_ratio: 0.29725566506385803
+'26_3':
+  mean_stop_think_ratio: 0.5175006985664368
+  mean_think_ratio: 0.3378318250179291
+  mean_think_stop_think_ratio: 0.34800320863723755
+'26_30':
+  mean_stop_think_ratio: 0.06790472567081451
+  mean_think_ratio: 0.177995964884758
+  mean_think_stop_think_ratio: 0.17104411125183105
+'26_31':
+  mean_stop_think_ratio: 1.0701051950454712
+  mean_think_ratio: 1.4001410007476807
+  mean_think_stop_think_ratio: 1.3322876691818237
+'26_4':
+  mean_stop_think_ratio: 0.45359209179878235
+  mean_think_ratio: 0.6699416637420654
+  mean_think_stop_think_ratio: 0.6760494709014893
+'26_5':
+  mean_stop_think_ratio: 0.8519429564476013
+  mean_think_ratio: 1.0019091367721558
+  mean_think_stop_think_ratio: 1.0190461874008179
+'26_6':
+  mean_stop_think_ratio: 1.0231444835662842
+  mean_think_ratio: 1.4710901975631714
+  mean_think_stop_think_ratio: 1.4463647603988647
+'26_7':
+  mean_stop_think_ratio: 0.3296773433685303
+  mean_think_ratio: 0.7481076717376709
+  mean_think_stop_think_ratio: 0.7474544048309326
+'26_8':
+  mean_stop_think_ratio: 0.1590263843536377
+  mean_think_ratio: 0.9538084864616394
+  mean_think_stop_think_ratio: 0.9343484044075012
+'26_9':
+  mean_stop_think_ratio: 0.13734179735183716
+  mean_think_ratio: 0.8622936606407166
+  mean_think_stop_think_ratio: 0.8376299738883972
+'27_0':
+  mean_stop_think_ratio: 0.6703252196311951
+  mean_think_ratio: 1.5805754661560059
+  mean_think_stop_think_ratio: 1.5100986957550049
+'27_1':
+  mean_stop_think_ratio: 0.43036699295043945
+  mean_think_ratio: 0.7243420481681824
+  mean_think_stop_think_ratio: 0.6678845286369324
+'27_10':
+  mean_stop_think_ratio: 0.37244531512260437
+  mean_think_ratio: 0.6119645833969116
+  mean_think_stop_think_ratio: 0.5972562432289124
+'27_11':
+  mean_stop_think_ratio: 0.6652710437774658
+  mean_think_ratio: 0.4552706182003021
+  mean_think_stop_think_ratio: 0.46437540650367737
+'27_12':
+  mean_stop_think_ratio: 0.31982356309890747
+  mean_think_ratio: 0.8340770602226257
+  mean_think_stop_think_ratio: 0.8273887634277344
+'27_13':
+  mean_stop_think_ratio: 0.3433150053024292
+  mean_think_ratio: 1.0381900072097778
+  mean_think_stop_think_ratio: 1.0421531200408936
+'27_14':
+  mean_stop_think_ratio: 0.38213855028152466
+  mean_think_ratio: 0.41256392002105713
+  mean_think_stop_think_ratio: 0.4261864125728607
+'27_15':
+  mean_stop_think_ratio: 0.7165536284446716
+  mean_think_ratio: 0.9075780510902405
+  mean_think_stop_think_ratio: 0.9109118580818176
+'27_16':
+  mean_stop_think_ratio: 0.3155433237552643
+  mean_think_ratio: 0.6213727593421936
+  mean_think_stop_think_ratio: 0.6127179861068726
+'27_17':
+  mean_stop_think_ratio: 1.8821913003921509
+  mean_think_ratio: 2.327939748764038
+  mean_think_stop_think_ratio: 2.301374673843384
+'27_18':
+  mean_stop_think_ratio: 0.7200286984443665
+  mean_think_ratio: 2.872426986694336
+  mean_think_stop_think_ratio: 2.7422027587890625
+'27_19':
+  mean_stop_think_ratio: 0.29216858744621277
+  mean_think_ratio: 2.044404983520508
+  mean_think_stop_think_ratio: 1.9581819772720337
+'27_2':
+  mean_stop_think_ratio: 0.6747463345527649
+  mean_think_ratio: 0.6302446126937866
+  mean_think_stop_think_ratio: 0.598819375038147
+'27_20':
+  mean_stop_think_ratio: 1.174384355545044
+  mean_think_ratio: 1.650011658668518
+  mean_think_stop_think_ratio: 1.528971791267395
+'27_21':
+  mean_stop_think_ratio: 0.5437279343605042
+  mean_think_ratio: 0.7367992997169495
+  mean_think_stop_think_ratio: 0.7072116732597351
+'27_22':
+  mean_stop_think_ratio: 0.3409470319747925
+  mean_think_ratio: 0.6925047039985657
+  mean_think_stop_think_ratio: 0.6456266641616821
+'27_23':
+  mean_stop_think_ratio: 0.971437931060791
+  mean_think_ratio: 1.6187796592712402
+  mean_think_stop_think_ratio: 1.4792425632476807
+'27_24':
+  mean_stop_think_ratio: 1.2187511920928955
+  mean_think_ratio: 1.5469621419906616
+  mean_think_stop_think_ratio: 1.5212538242340088
+'27_25':
+  mean_stop_think_ratio: 1.1290074586868286
+  mean_think_ratio: 1.1406631469726562
+  mean_think_stop_think_ratio: 1.1435315608978271
+'27_26':
+  mean_stop_think_ratio: 0.6045454144477844
+  mean_think_ratio: 0.907551646232605
+  mean_think_stop_think_ratio: 0.8741467595100403
+'27_27':
+  mean_stop_think_ratio: 0.6417955756187439
+  mean_think_ratio: 0.8166939616203308
+  mean_think_stop_think_ratio: 0.7815003991127014
+'27_28':
+  mean_stop_think_ratio: 1.2386113405227661
+  mean_think_ratio: 1.5067487955093384
+  mean_think_stop_think_ratio: 1.490431785583496
+'27_29':
+  mean_stop_think_ratio: 0.7091048359870911
+  mean_think_ratio: 1.3481788635253906
+  mean_think_stop_think_ratio: 1.292958378791809
+'27_3':
+  mean_stop_think_ratio: 0.3748951554298401
+  mean_think_ratio: 1.3016672134399414
+  mean_think_stop_think_ratio: 1.2472186088562012
+'27_30':
+  mean_stop_think_ratio: 0.7484824061393738
+  mean_think_ratio: 1.1076905727386475
+  mean_think_stop_think_ratio: 1.1045777797698975
+'27_31':
+  mean_stop_think_ratio: 0.3958190083503723
+  mean_think_ratio: 0.8116600513458252
+  mean_think_stop_think_ratio: 0.8020316362380981
+'27_4':
+  mean_stop_think_ratio: 0.47910669445991516
+  mean_think_ratio: 1.1842772960662842
+  mean_think_stop_think_ratio: 1.0994181632995605
+'27_5':
+  mean_stop_think_ratio: 0.21835359930992126
+  mean_think_ratio: 0.8144802451133728
+  mean_think_stop_think_ratio: 0.7229726314544678
+'27_6':
+  mean_stop_think_ratio: 0.6846411824226379
+  mean_think_ratio: 1.7746851444244385
+  mean_think_stop_think_ratio: 1.6627839803695679
+'27_7':
+  mean_stop_think_ratio: 0.21791265904903412
+  mean_think_ratio: 0.7685129642486572
+  mean_think_stop_think_ratio: 0.7156264781951904
+'27_8':
+  mean_stop_think_ratio: 0.48703551292419434
+  mean_think_ratio: 0.3522420823574066
+  mean_think_stop_think_ratio: 0.3594743013381958
+'27_9':
+  mean_stop_think_ratio: 0.8507745862007141
+  mean_think_ratio: 0.767601490020752
+  mean_think_stop_think_ratio: 0.7837819457054138
+'28_0':
+  mean_stop_think_ratio: 0.18658731877803802
+  mean_think_ratio: 0.2797870337963104
+  mean_think_stop_think_ratio: 0.27488231658935547
+'28_1':
+  mean_stop_think_ratio: 0.2243608981370926
+  mean_think_ratio: 0.4493877589702606
+  mean_think_stop_think_ratio: 0.4346959888935089
+'28_10':
+  mean_stop_think_ratio: 0.6275634765625
+  mean_think_ratio: 0.5967661738395691
+  mean_think_stop_think_ratio: 0.6027758717536926
+'28_11':
+  mean_stop_think_ratio: 1.0788196325302124
+  mean_think_ratio: 1.1311365365982056
+  mean_think_stop_think_ratio: 1.1311633586883545
+'28_12':
+  mean_stop_think_ratio: 0.7480223178863525
+  mean_think_ratio: 0.47530752420425415
+  mean_think_stop_think_ratio: 0.49587225914001465
+'28_13':
+  mean_stop_think_ratio: 0.34448572993278503
+  mean_think_ratio: 1.6457240581512451
+  mean_think_stop_think_ratio: 1.458972692489624
+'28_14':
+  mean_stop_think_ratio: 0.7219447493553162
+  mean_think_ratio: 0.8380047082901001
+  mean_think_stop_think_ratio: 0.8266957402229309
+'28_15':
+  mean_stop_think_ratio: 1.9034397602081299
+  mean_think_ratio: 0.6664860248565674
+  mean_think_stop_think_ratio: 0.7555184960365295
+'28_16':
+  mean_stop_think_ratio: 0.7774232625961304
+  mean_think_ratio: 0.9649448394775391
+  mean_think_stop_think_ratio: 0.991894006729126
+'28_17':
+  mean_stop_think_ratio: 0.967069685459137
+  mean_think_ratio: 0.6439077854156494
+  mean_think_stop_think_ratio: 0.6796727180480957
+'28_18':
+  mean_stop_think_ratio: 0.6761913895606995
+  mean_think_ratio: 0.3828016519546509
+  mean_think_stop_think_ratio: 0.4212583303451538
+'28_19':
+  mean_stop_think_ratio: 0.6143015623092651
+  mean_think_ratio: 0.9777430891990662
+  mean_think_stop_think_ratio: 1.0044509172439575
+'28_2':
+  mean_stop_think_ratio: 0.5080068111419678
+  mean_think_ratio: 0.8227236270904541
+  mean_think_stop_think_ratio: 0.8181520104408264
+'28_20':
+  mean_stop_think_ratio: 0.19055581092834473
+  mean_think_ratio: 0.3337063789367676
+  mean_think_stop_think_ratio: 0.32565438747406006
+'28_21':
+  mean_stop_think_ratio: 0.3882804811000824
+  mean_think_ratio: 0.4995664656162262
+  mean_think_stop_think_ratio: 0.4910758435726166
+'28_22':
+  mean_stop_think_ratio: 1.2668336629867554
+  mean_think_ratio: 0.6526961326599121
+  mean_think_stop_think_ratio: 0.6932576894760132
+'28_23':
+  mean_stop_think_ratio: 0.6796000003814697
+  mean_think_ratio: 0.33029934763908386
+  mean_think_stop_think_ratio: 0.3506203591823578
+'28_24':
+  mean_stop_think_ratio: 1.185964584350586
+  mean_think_ratio: 0.8562713265419006
+  mean_think_stop_think_ratio: 0.881436288356781
+'28_25':
+  mean_stop_think_ratio: 0.15459252893924713
+  mean_think_ratio: 0.17605939507484436
+  mean_think_stop_think_ratio: 0.16544698178768158
+'28_26':
+  mean_stop_think_ratio: 0.6443642973899841
+  mean_think_ratio: 0.2780190110206604
+  mean_think_stop_think_ratio: 0.30235353112220764
+'28_27':
+  mean_stop_think_ratio: 0.15539880096912384
+  mean_think_ratio: 0.42190688848495483
+  mean_think_stop_think_ratio: 0.36109960079193115
+'28_28':
+  mean_stop_think_ratio: 0.332059383392334
+  mean_think_ratio: 0.7045813798904419
+  mean_think_stop_think_ratio: 0.6969939470291138
+'28_29':
+  mean_stop_think_ratio: 1.0284391641616821
+  mean_think_ratio: 0.4353017508983612
+  mean_think_stop_think_ratio: 0.4681073725223541
+'28_3':
+  mean_stop_think_ratio: 0.5520070195198059
+  mean_think_ratio: 0.5567760467529297
+  mean_think_stop_think_ratio: 0.5335506796836853
+'28_30':
+  mean_stop_think_ratio: 0.3717759847640991
+  mean_think_ratio: 0.36184781789779663
+  mean_think_stop_think_ratio: 0.3653917908668518
+'28_31':
+  mean_stop_think_ratio: 0.20625783503055573
+  mean_think_ratio: 0.2605869174003601
+  mean_think_stop_think_ratio: 0.2594774067401886
+'28_4':
+  mean_stop_think_ratio: 0.8624807596206665
+  mean_think_ratio: 0.783141016960144
+  mean_think_stop_think_ratio: 0.7980156540870667
+'28_5':
+  mean_stop_think_ratio: 0.9120919704437256
+  mean_think_ratio: 0.6455458998680115
+  mean_think_stop_think_ratio: 0.6552979946136475
+'28_6':
+  mean_stop_think_ratio: 0.7261787056922913
+  mean_think_ratio: 0.9557462930679321
+  mean_think_stop_think_ratio: 0.9557514786720276
+'28_7':
+  mean_stop_think_ratio: 1.8574618101119995
+  mean_think_ratio: 1.1283869743347168
+  mean_think_stop_think_ratio: 1.188605785369873
+'28_8':
+  mean_stop_think_ratio: 0.3263799548149109
+  mean_think_ratio: 0.33280810713768005
+  mean_think_stop_think_ratio: 0.3336518108844757
+'28_9':
+  mean_stop_think_ratio: 0.5253217816352844
+  mean_think_ratio: 0.33136799931526184
+  mean_think_stop_think_ratio: 0.33684343099594116
+'29_0':
+  mean_stop_think_ratio: 0.36795881390571594
+  mean_think_ratio: 0.6020084023475647
+  mean_think_stop_think_ratio: 0.5782474279403687
+'29_1':
+  mean_stop_think_ratio: 0.8894326686859131
+  mean_think_ratio: 0.7842881679534912
+  mean_think_stop_think_ratio: 0.7921889424324036
+'29_10':
+  mean_stop_think_ratio: 0.8675531148910522
+  mean_think_ratio: 0.7261327505111694
+  mean_think_stop_think_ratio: 0.7153076529502869
+'29_11':
+  mean_stop_think_ratio: 0.1058637872338295
+  mean_think_ratio: 0.4485342502593994
+  mean_think_stop_think_ratio: 0.44178342819213867
+'29_12':
+  mean_stop_think_ratio: 0.3185560703277588
+  mean_think_ratio: 0.7526997923851013
+  mean_think_stop_think_ratio: 0.7236122488975525
+'29_13':
+  mean_stop_think_ratio: 0.7410497665405273
+  mean_think_ratio: 0.6017959713935852
+  mean_think_stop_think_ratio: 0.6101374626159668
+'29_14':
+  mean_stop_think_ratio: 0.30057844519615173
+  mean_think_ratio: 1.2874773740768433
+  mean_think_stop_think_ratio: 1.2478773593902588
+'29_15':
+  mean_stop_think_ratio: 0.5710293054580688
+  mean_think_ratio: 0.8469557166099548
+  mean_think_stop_think_ratio: 0.8362975120544434
+'29_16':
+  mean_stop_think_ratio: 0.4090723991394043
+  mean_think_ratio: 1.7107774019241333
+  mean_think_stop_think_ratio: 1.6824651956558228
+'29_17':
+  mean_stop_think_ratio: 1.0912402868270874
+  mean_think_ratio: 2.2650351524353027
+  mean_think_stop_think_ratio: 2.1889123916625977
+'29_18':
+  mean_stop_think_ratio: 0.6745222210884094
+  mean_think_ratio: 0.472135066986084
+  mean_think_stop_think_ratio: 0.5015608668327332
+'29_19':
+  mean_stop_think_ratio: 1.1850523948669434
+  mean_think_ratio: 1.8439536094665527
+  mean_think_stop_think_ratio: 1.8542864322662354
+'29_2':
+  mean_stop_think_ratio: 0.30032646656036377
+  mean_think_ratio: 0.7251841425895691
+  mean_think_stop_think_ratio: 0.6985507607460022
+'29_20':
+  mean_stop_think_ratio: 0.1465669423341751
+  mean_think_ratio: 0.32487940788269043
+  mean_think_stop_think_ratio: 0.3126085102558136
+'29_21':
+  mean_stop_think_ratio: 0.1789519190788269
+  mean_think_ratio: 0.43390369415283203
+  mean_think_stop_think_ratio: 0.408904105424881
+'29_22':
+  mean_stop_think_ratio: 0.3528710603713989
+  mean_think_ratio: 0.41250747442245483
+  mean_think_stop_think_ratio: 0.39636921882629395
+'29_23':
+  mean_stop_think_ratio: 0.22103717923164368
+  mean_think_ratio: 0.2345520704984665
+  mean_think_stop_think_ratio: 0.22058090567588806
+'29_24':
+  mean_stop_think_ratio: 0.395158588886261
+  mean_think_ratio: 0.2715763449668884
+  mean_think_stop_think_ratio: 0.2839115858078003
+'29_25':
+  mean_stop_think_ratio: 0.27599528431892395
+  mean_think_ratio: 0.2885224521160126
+  mean_think_stop_think_ratio: 0.2732028067111969
+'29_26':
+  mean_stop_think_ratio: 0.32377877831459045
+  mean_think_ratio: 0.2325843870639801
+  mean_think_stop_think_ratio: 0.23689597845077515
+'29_27':
+  mean_stop_think_ratio: 0.33823302388191223
+  mean_think_ratio: 0.15688607096672058
+  mean_think_stop_think_ratio: 0.16974350810050964
+'29_28':
+  mean_stop_think_ratio: 0.2503894865512848
+  mean_think_ratio: 0.3733968436717987
+  mean_think_stop_think_ratio: 0.3662514090538025
+'29_29':
+  mean_stop_think_ratio: 2.627392053604126
+  mean_think_ratio: 1.5599218606948853
+  mean_think_stop_think_ratio: 1.6367489099502563
+'29_3':
+  mean_stop_think_ratio: 0.20728564262390137
+  mean_think_ratio: 0.3364667296409607
+  mean_think_stop_think_ratio: 0.33062881231307983
+'29_30':
+  mean_stop_think_ratio: 1.105009913444519
+  mean_think_ratio: 1.4093263149261475
+  mean_think_stop_think_ratio: 1.4144446849822998
+'29_31':
+  mean_stop_think_ratio: 0.2629323899745941
+  mean_think_ratio: 0.2878289222717285
+  mean_think_stop_think_ratio: 0.28422409296035767
+'29_4':
+  mean_stop_think_ratio: 0.7098970413208008
+  mean_think_ratio: 0.762077808380127
+  mean_think_stop_think_ratio: 0.7094188928604126
+'29_5':
+  mean_stop_think_ratio: 0.5876857042312622
+  mean_think_ratio: 0.7874557971954346
+  mean_think_stop_think_ratio: 0.7807579040527344
+'29_6':
+  mean_stop_think_ratio: 0.7671289443969727
+  mean_think_ratio: 1.3910751342773438
+  mean_think_stop_think_ratio: 1.3362810611724854
+'29_7':
+  mean_stop_think_ratio: 0.38358640670776367
+  mean_think_ratio: 0.34396860003471375
+  mean_think_stop_think_ratio: 0.35701072216033936
+'29_8':
+  mean_stop_think_ratio: 0.20447449386119843
+  mean_think_ratio: 0.18920007348060608
+  mean_think_stop_think_ratio: 0.19670821726322174
+'29_9':
+  mean_stop_think_ratio: 0.17916741967201233
+  mean_think_ratio: 0.6297052502632141
+  mean_think_stop_think_ratio: 0.6093847155570984
+'2_0':
+  mean_stop_think_ratio: 0.8977043628692627
+  mean_think_ratio: 0.6352264285087585
+  mean_think_stop_think_ratio: 0.6374271512031555
+'2_1':
+  mean_stop_think_ratio: 1.1191731691360474
+  mean_think_ratio: 1.0171207189559937
+  mean_think_stop_think_ratio: 1.0015933513641357
+'2_10':
+  mean_stop_think_ratio: 1.1747533082962036
+  mean_think_ratio: 1.0275212526321411
+  mean_think_stop_think_ratio: 0.9957842826843262
+'2_11':
+  mean_stop_think_ratio: 0.8218541145324707
+  mean_think_ratio: 0.8936633467674255
+  mean_think_stop_think_ratio: 0.8818923830986023
+'2_12':
+  mean_stop_think_ratio: 0.5810747146606445
+  mean_think_ratio: 0.8354817032814026
+  mean_think_stop_think_ratio: 0.8092342615127563
+'2_13':
+  mean_stop_think_ratio: 0.5373623371124268
+  mean_think_ratio: 0.6836513876914978
+  mean_think_stop_think_ratio: 0.6601155996322632
+'2_14':
+  mean_stop_think_ratio: 0.3715437948703766
+  mean_think_ratio: 0.5105287432670593
+  mean_think_stop_think_ratio: 0.49778708815574646
+'2_15':
+  mean_stop_think_ratio: 0.506452739238739
+  mean_think_ratio: 0.8346000909805298
+  mean_think_stop_think_ratio: 0.809172511100769
+'2_16':
+  mean_stop_think_ratio: 0.6107971668243408
+  mean_think_ratio: 0.9650196433067322
+  mean_think_stop_think_ratio: 0.9314265251159668
+'2_17':
+  mean_stop_think_ratio: 1.0573784112930298
+  mean_think_ratio: 1.115153193473816
+  mean_think_stop_think_ratio: 1.1109908819198608
+'2_18':
+  mean_stop_think_ratio: 0.6816951036453247
+  mean_think_ratio: 0.9899466633796692
+  mean_think_stop_think_ratio: 0.957944929599762
+'2_19':
+  mean_stop_think_ratio: 0.5897328853607178
+  mean_think_ratio: 1.3573344945907593
+  mean_think_stop_think_ratio: 1.2645061016082764
+'2_2':
+  mean_stop_think_ratio: 0.560144305229187
+  mean_think_ratio: 0.7719574570655823
+  mean_think_stop_think_ratio: 0.7521291971206665
+'2_20':
+  mean_stop_think_ratio: 0.33700039982795715
+  mean_think_ratio: 0.9354095458984375
+  mean_think_stop_think_ratio: 0.8893896341323853
+'2_21':
+  mean_stop_think_ratio: 0.31500235199928284
+  mean_think_ratio: 0.6147857904434204
+  mean_think_stop_think_ratio: 0.6092675924301147
+'2_22':
+  mean_stop_think_ratio: 0.39068832993507385
+  mean_think_ratio: 0.7549577951431274
+  mean_think_stop_think_ratio: 0.7385968565940857
+'2_23':
+  mean_stop_think_ratio: 0.565176248550415
+  mean_think_ratio: 2.2823326587677
+  mean_think_stop_think_ratio: 2.1543688774108887
+'2_24':
+  mean_stop_think_ratio: 0.9587695002555847
+  mean_think_ratio: 0.98193359375
+  mean_think_stop_think_ratio: 0.9752373695373535
+'2_25':
+  mean_stop_think_ratio: 0.6979621648788452
+  mean_think_ratio: 1.4371047019958496
+  mean_think_stop_think_ratio: 1.3847393989562988
+'2_26':
+  mean_stop_think_ratio: 0.6055412888526917
+  mean_think_ratio: 0.9315817952156067
+  mean_think_stop_think_ratio: 0.9015458226203918
+'2_27':
+  mean_stop_think_ratio: 1.4722213745117188
+  mean_think_ratio: 1.4131699800491333
+  mean_think_stop_think_ratio: 1.3951408863067627
+'2_28':
+  mean_stop_think_ratio: 0.9672443270683289
+  mean_think_ratio: 1.0409231185913086
+  mean_think_stop_think_ratio: 1.0188151597976685
+'2_29':
+  mean_stop_think_ratio: 0.692665696144104
+  mean_think_ratio: 0.8651259541511536
+  mean_think_stop_think_ratio: 0.8185063004493713
+'2_3':
+  mean_stop_think_ratio: 1.1144479513168335
+  mean_think_ratio: 1.4394328594207764
+  mean_think_stop_think_ratio: 1.3709678649902344
+'2_30':
+  mean_stop_think_ratio: 0.9186858534812927
+  mean_think_ratio: 1.022426962852478
+  mean_think_stop_think_ratio: 0.9987421631813049
+'2_31':
+  mean_stop_think_ratio: 0.5616685748100281
+  mean_think_ratio: 0.5521025061607361
+  mean_think_stop_think_ratio: 0.5417309403419495
+'2_4':
+  mean_stop_think_ratio: 1.1927363872528076
+  mean_think_ratio: 1.3364946842193604
+  mean_think_stop_think_ratio: 1.2917088270187378
+'2_5':
+  mean_stop_think_ratio: 0.706865131855011
+  mean_think_ratio: 1.0850841999053955
+  mean_think_stop_think_ratio: 1.0349984169006348
+'2_6':
+  mean_stop_think_ratio: 1.2457729578018188
+  mean_think_ratio: 2.27299427986145
+  mean_think_stop_think_ratio: 2.167635440826416
+'2_7':
+  mean_stop_think_ratio: 1.0520352125167847
+  mean_think_ratio: 0.9157928228378296
+  mean_think_stop_think_ratio: 0.9060682058334351
+'2_8':
+  mean_stop_think_ratio: 1.1603238582611084
+  mean_think_ratio: 1.2886945009231567
+  mean_think_stop_think_ratio: 1.2669496536254883
+'2_9':
+  mean_stop_think_ratio: 1.2610524892807007
+  mean_think_ratio: 1.0494624376296997
+  mean_think_stop_think_ratio: 1.0455018281936646
+'30_0':
+  mean_stop_think_ratio: 0.7455028295516968
+  mean_think_ratio: 0.7731719017028809
+  mean_think_stop_think_ratio: 0.7359653115272522
+'30_1':
+  mean_stop_think_ratio: 0.41415029764175415
+  mean_think_ratio: 0.39815279841423035
+  mean_think_stop_think_ratio: 0.40088120102882385
+'30_10':
+  mean_stop_think_ratio: 0.390351802110672
+  mean_think_ratio: 0.3652159869670868
+  mean_think_stop_think_ratio: 0.37297481298446655
+'30_11':
+  mean_stop_think_ratio: 0.3222484290599823
+  mean_think_ratio: 0.36836928129196167
+  mean_think_stop_think_ratio: 0.3508944809436798
+'30_12':
+  mean_stop_think_ratio: 0.8132927417755127
+  mean_think_ratio: 0.7970370054244995
+  mean_think_stop_think_ratio: 0.7773691415786743
+'30_13':
+  mean_stop_think_ratio: 0.2697371542453766
+  mean_think_ratio: 0.3415493965148926
+  mean_think_stop_think_ratio: 0.3354373574256897
+'30_14':
+  mean_stop_think_ratio: 0.28900453448295593
+  mean_think_ratio: 0.44965213537216187
+  mean_think_stop_think_ratio: 0.40959981083869934
+'30_15':
+  mean_stop_think_ratio: 0.5032702684402466
+  mean_think_ratio: 0.6448620557785034
+  mean_think_stop_think_ratio: 0.6183350682258606
+'30_16':
+  mean_stop_think_ratio: 0.5312953591346741
+  mean_think_ratio: 0.39335405826568604
+  mean_think_stop_think_ratio: 0.39547276496887207
+'30_17':
+  mean_stop_think_ratio: 0.22801633179187775
+  mean_think_ratio: 0.7725353837013245
+  mean_think_stop_think_ratio: 0.7700885534286499
+'30_18':
+  mean_stop_think_ratio: 1.0851752758026123
+  mean_think_ratio: 0.8439164161682129
+  mean_think_stop_think_ratio: 0.841796875
+'30_19':
+  mean_stop_think_ratio: 0.46522051095962524
+  mean_think_ratio: 0.47814151644706726
+  mean_think_stop_think_ratio: 0.4914413392543793
+'30_2':
+  mean_stop_think_ratio: 0.30836600065231323
+  mean_think_ratio: 0.30877676606178284
+  mean_think_stop_think_ratio: 0.32444366812705994
+'30_20':
+  mean_stop_think_ratio: 1.8657984733581543
+  mean_think_ratio: 2.714428663253784
+  mean_think_stop_think_ratio: 2.761167526245117
+'30_21':
+  mean_stop_think_ratio: 0.4098208248615265
+  mean_think_ratio: 0.49366506934165955
+  mean_think_stop_think_ratio: 0.46462997794151306
+'30_22':
+  mean_stop_think_ratio: 0.25626519322395325
+  mean_think_ratio: 0.3187985122203827
+  mean_think_stop_think_ratio: 0.314139723777771
+'30_23':
+  mean_stop_think_ratio: 0.33310407400131226
+  mean_think_ratio: 0.3158419132232666
+  mean_think_stop_think_ratio: 0.32766294479370117
+'30_24':
+  mean_stop_think_ratio: 0.320881187915802
+  mean_think_ratio: 0.31010058522224426
+  mean_think_stop_think_ratio: 0.31080371141433716
+'30_25':
+  mean_stop_think_ratio: 0.6148070693016052
+  mean_think_ratio: 0.46800294518470764
+  mean_think_stop_think_ratio: 0.4679469168186188
+'30_26':
+  mean_stop_think_ratio: 0.16749179363250732
+  mean_think_ratio: 0.2327454537153244
+  mean_think_stop_think_ratio: 0.23264595866203308
+'30_27':
+  mean_stop_think_ratio: 0.5130637884140015
+  mean_think_ratio: 0.5543583035469055
+  mean_think_stop_think_ratio: 0.5660492181777954
+'30_28':
+  mean_stop_think_ratio: 0.08936204761266708
+  mean_think_ratio: 0.1431201547384262
+  mean_think_stop_think_ratio: 0.13197337090969086
+'30_29':
+  mean_stop_think_ratio: 0.35503846406936646
+  mean_think_ratio: 0.6134534478187561
+  mean_think_stop_think_ratio: 0.5841267108917236
+'30_3':
+  mean_stop_think_ratio: 0.3020506203174591
+  mean_think_ratio: 0.32162153720855713
+  mean_think_stop_think_ratio: 0.31213676929473877
+'30_30':
+  mean_stop_think_ratio: 0.13176655769348145
+  mean_think_ratio: 0.22478646039962769
+  mean_think_stop_think_ratio: 0.21952497959136963
+'30_31':
+  mean_stop_think_ratio: 0.11541374772787094
+  mean_think_ratio: 0.14762315154075623
+  mean_think_stop_think_ratio: 0.14132998883724213
+'30_4':
+  mean_stop_think_ratio: 0.719118058681488
+  mean_think_ratio: 0.8323883414268494
+  mean_think_stop_think_ratio: 0.846669614315033
+'30_5':
+  mean_stop_think_ratio: 0.7783582806587219
+  mean_think_ratio: 0.8247100114822388
+  mean_think_stop_think_ratio: 0.8317752480506897
+'30_6':
+  mean_stop_think_ratio: 0.9348017573356628
+  mean_think_ratio: 0.5015282034873962
+  mean_think_stop_think_ratio: 0.5352784991264343
+'30_7':
+  mean_stop_think_ratio: 1.0442907810211182
+  mean_think_ratio: 0.7898248434066772
+  mean_think_stop_think_ratio: 0.8159314393997192
+'30_8':
+  mean_stop_think_ratio: 0.16700853407382965
+  mean_think_ratio: 0.23362188041210175
+  mean_think_stop_think_ratio: 0.23103538155555725
+'30_9':
+  mean_stop_think_ratio: 0.4884352684020996
+  mean_think_ratio: 0.2564547061920166
+  mean_think_stop_think_ratio: 0.28210511803627014
+'31_0':
+  mean_stop_think_ratio: 0.4548451900482178
+  mean_think_ratio: 0.38640764355659485
+  mean_think_stop_think_ratio: 0.38350021839141846
+'31_1':
+  mean_stop_think_ratio: 1.1475169658660889
+  mean_think_ratio: 0.6169103980064392
+  mean_think_stop_think_ratio: 0.6508186459541321
+'31_10':
+  mean_stop_think_ratio: 0.48456302285194397
+  mean_think_ratio: 0.6070303320884705
+  mean_think_stop_think_ratio: 0.6176586747169495
+'31_11':
+  mean_stop_think_ratio: 0.11936552822589874
+  mean_think_ratio: 0.21481817960739136
+  mean_think_stop_think_ratio: 0.19736649096012115
+'31_12':
+  mean_stop_think_ratio: 0.5655726790428162
+  mean_think_ratio: 0.28585052490234375
+  mean_think_stop_think_ratio: 0.30563026666641235
+'31_13':
+  mean_stop_think_ratio: 0.7421443462371826
+  mean_think_ratio: 1.0154653787612915
+  mean_think_stop_think_ratio: 1.020621657371521
+'31_14':
+  mean_stop_think_ratio: 1.3318077325820923
+  mean_think_ratio: 0.5266450643539429
+  mean_think_stop_think_ratio: 0.5744147300720215
+'31_15':
+  mean_stop_think_ratio: 0.6073597073554993
+  mean_think_ratio: 0.2157171368598938
+  mean_think_stop_think_ratio: 0.23675307631492615
+'31_16':
+  mean_stop_think_ratio: 0.3256126344203949
+  mean_think_ratio: 0.30514997243881226
+  mean_think_stop_think_ratio: 0.2837781608104706
+'31_17':
+  mean_stop_think_ratio: 0.7037093043327332
+  mean_think_ratio: 0.5260071158409119
+  mean_think_stop_think_ratio: 0.5396265983581543
+'31_18':
+  mean_stop_think_ratio: 0.39815473556518555
+  mean_think_ratio: 0.24407798051834106
+  mean_think_stop_think_ratio: 0.25576719641685486
+'31_19':
+  mean_stop_think_ratio: 0.45796912908554077
+  mean_think_ratio: 0.4362669587135315
+  mean_think_stop_think_ratio: 0.43754079937934875
+'31_2':
+  mean_stop_think_ratio: 0.666869044303894
+  mean_think_ratio: 0.7472187876701355
+  mean_think_stop_think_ratio: 0.738528847694397
+'31_20':
+  mean_stop_think_ratio: 0.9670137763023376
+  mean_think_ratio: 1.769330620765686
+  mean_think_stop_think_ratio: 1.6902836561203003
+'31_21':
+  mean_stop_think_ratio: 0.40244102478027344
+  mean_think_ratio: 0.6605621576309204
+  mean_think_stop_think_ratio: 0.6280456185340881
+'31_22':
+  mean_stop_think_ratio: 0.38056203722953796
+  mean_think_ratio: 0.26579761505126953
+  mean_think_stop_think_ratio: 0.2677772045135498
+'31_23':
+  mean_stop_think_ratio: 1.067055583000183
+  mean_think_ratio: 0.351794570684433
+  mean_think_stop_think_ratio: 0.39536261558532715
+'31_24':
+  mean_stop_think_ratio: 0.9843356609344482
+  mean_think_ratio: 0.31265369057655334
+  mean_think_stop_think_ratio: 0.35994449257850647
+'31_25':
+  mean_stop_think_ratio: 0.7877103686332703
+  mean_think_ratio: 0.5588298439979553
+  mean_think_stop_think_ratio: 0.5657052397727966
+'31_26':
+  mean_stop_think_ratio: 1.0126924514770508
+  mean_think_ratio: 0.42167946696281433
+  mean_think_stop_think_ratio: 0.45658329129219055
+'31_27':
+  mean_stop_think_ratio: 1.4758554697036743
+  mean_think_ratio: 1.0929548740386963
+  mean_think_stop_think_ratio: 1.0770645141601562
+'31_28':
+  mean_stop_think_ratio: 0.3585411310195923
+  mean_think_ratio: 0.18033753335475922
+  mean_think_stop_think_ratio: 0.19772839546203613
+'31_29':
+  mean_stop_think_ratio: 0.5251453518867493
+  mean_think_ratio: 0.7847038507461548
+  mean_think_stop_think_ratio: 0.7791529297828674
+'31_3':
+  mean_stop_think_ratio: 1.566313624382019
+  mean_think_ratio: 1.1173787117004395
+  mean_think_stop_think_ratio: 1.1377218961715698
+'31_30':
+  mean_stop_think_ratio: 1.7175849676132202
+  mean_think_ratio: 1.5380630493164062
+  mean_think_stop_think_ratio: 1.5817389488220215
+'31_31':
+  mean_stop_think_ratio: 0.8086885213851929
+  mean_think_ratio: 0.8823474049568176
+  mean_think_stop_think_ratio: 0.8806713819503784
+'31_4':
+  mean_stop_think_ratio: 0.44372421503067017
+  mean_think_ratio: 1.9679752588272095
+  mean_think_stop_think_ratio: 1.8901649713516235
+'31_5':
+  mean_stop_think_ratio: 2.2975399494171143
+  mean_think_ratio: 0.7159146070480347
+  mean_think_stop_think_ratio: 0.8326764106750488
+'31_6':
+  mean_stop_think_ratio: 0.3736269474029541
+  mean_think_ratio: 0.5083467364311218
+  mean_think_stop_think_ratio: 0.507990837097168
+'31_7':
+  mean_stop_think_ratio: 0.17190413177013397
+  mean_think_ratio: 0.4270569980144501
+  mean_think_stop_think_ratio: 0.4267658293247223
+'31_8':
+  mean_stop_think_ratio: 0.9467942714691162
+  mean_think_ratio: 0.6560273766517639
+  mean_think_stop_think_ratio: 0.7018095254898071
+'31_9':
+  mean_stop_think_ratio: 1.2262041568756104
+  mean_think_ratio: 0.5392572283744812
+  mean_think_stop_think_ratio: 0.6126017570495605
+'3_0':
+  mean_stop_think_ratio: 0.8140483498573303
+  mean_think_ratio: 1.050282597541809
+  mean_think_stop_think_ratio: 0.9593750238418579
+'3_1':
+  mean_stop_think_ratio: 1.2456961870193481
+  mean_think_ratio: 6.4490814208984375
+  mean_think_stop_think_ratio: 6.1095075607299805
+'3_10':
+  mean_stop_think_ratio: 0.4405669569969177
+  mean_think_ratio: 0.3762155771255493
+  mean_think_stop_think_ratio: 0.373366117477417
+'3_11':
+  mean_stop_think_ratio: 0.9237287044525146
+  mean_think_ratio: 0.8121675252914429
+  mean_think_stop_think_ratio: 0.792277455329895
+'3_12':
+  mean_stop_think_ratio: 0.43117421865463257
+  mean_think_ratio: 1.1316686868667603
+  mean_think_stop_think_ratio: 1.0213263034820557
+'3_13':
+  mean_stop_think_ratio: 0.5177978873252869
+  mean_think_ratio: 1.289206624031067
+  mean_think_stop_think_ratio: 1.1514902114868164
+'3_14':
+  mean_stop_think_ratio: 0.5822692513465881
+  mean_think_ratio: 1.8817652463912964
+  mean_think_stop_think_ratio: 1.6915758848190308
+'3_15':
+  mean_stop_think_ratio: 0.6815788149833679
+  mean_think_ratio: 1.4507516622543335
+  mean_think_stop_think_ratio: 1.2929319143295288
+'3_16':
+  mean_stop_think_ratio: 0.7647480964660645
+  mean_think_ratio: 0.8415378332138062
+  mean_think_stop_think_ratio: 0.7999463677406311
+'3_17':
+  mean_stop_think_ratio: 0.9951282739639282
+  mean_think_ratio: 0.8459498882293701
+  mean_think_stop_think_ratio: 0.8345005512237549
+'3_18':
+  mean_stop_think_ratio: 0.8483994007110596
+  mean_think_ratio: 0.7933922410011292
+  mean_think_stop_think_ratio: 0.7873572111129761
+'3_19':
+  mean_stop_think_ratio: 0.7201383113861084
+  mean_think_ratio: 0.8792934417724609
+  mean_think_stop_think_ratio: 0.8527941107749939
+'3_2':
+  mean_stop_think_ratio: 0.6423609256744385
+  mean_think_ratio: 0.6433593034744263
+  mean_think_stop_think_ratio: 0.6099658608436584
+'3_20':
+  mean_stop_think_ratio: 0.5883892178535461
+  mean_think_ratio: 1.75777268409729
+  mean_think_stop_think_ratio: 1.6519525051116943
+'3_21':
+  mean_stop_think_ratio: 0.6286367177963257
+  mean_think_ratio: 1.15718674659729
+  mean_think_stop_think_ratio: 1.0697697401046753
+'3_22':
+  mean_stop_think_ratio: 0.5587777495384216
+  mean_think_ratio: 2.591301441192627
+  mean_think_stop_think_ratio: 2.4020371437072754
+'3_23':
+  mean_stop_think_ratio: 1.1680710315704346
+  mean_think_ratio: 1.3976750373840332
+  mean_think_stop_think_ratio: 1.3713620901107788
+'3_24':
+  mean_stop_think_ratio: 0.7128304839134216
+  mean_think_ratio: 1.3391097784042358
+  mean_think_stop_think_ratio: 1.182616949081421
+'3_25':
+  mean_stop_think_ratio: 0.9218351244926453
+  mean_think_ratio: 2.8970134258270264
+  mean_think_stop_think_ratio: 2.6252589225769043
+'3_26':
+  mean_stop_think_ratio: 0.671858549118042
+  mean_think_ratio: 0.9120538830757141
+  mean_think_stop_think_ratio: 0.8701673150062561
+'3_27':
+  mean_stop_think_ratio: 0.49569621682167053
+  mean_think_ratio: 0.8194173574447632
+  mean_think_stop_think_ratio: 0.7741672992706299
+'3_28':
+  mean_stop_think_ratio: 0.6927049160003662
+  mean_think_ratio: 0.8442808985710144
+  mean_think_stop_think_ratio: 0.8070235252380371
+'3_29':
+  mean_stop_think_ratio: 0.7017584443092346
+  mean_think_ratio: 0.9842591881752014
+  mean_think_stop_think_ratio: 0.9346506595611572
+'3_3':
+  mean_stop_think_ratio: 0.8816229104995728
+  mean_think_ratio: 1.1103426218032837
+  mean_think_stop_think_ratio: 1.0568851232528687
+'3_30':
+  mean_stop_think_ratio: 0.40089595317840576
+  mean_think_ratio: 0.5996701121330261
+  mean_think_stop_think_ratio: 0.5688164830207825
+'3_31':
+  mean_stop_think_ratio: 0.7004898190498352
+  mean_think_ratio: 0.727512776851654
+  mean_think_stop_think_ratio: 0.6981931328773499
+'3_4':
+  mean_stop_think_ratio: 1.0782920122146606
+  mean_think_ratio: 0.8992199301719666
+  mean_think_stop_think_ratio: 0.8600408434867859
+'3_5':
+  mean_stop_think_ratio: 0.9340624213218689
+  mean_think_ratio: 0.9871063828468323
+  mean_think_stop_think_ratio: 0.960125744342804
+'3_6':
+  mean_stop_think_ratio: 0.576067328453064
+  mean_think_ratio: 0.653654158115387
+  mean_think_stop_think_ratio: 0.6287986040115356
+'3_7':
+  mean_stop_think_ratio: 0.8334747552871704
+  mean_think_ratio: 1.135752558708191
+  mean_think_stop_think_ratio: 1.0634599924087524
+'3_8':
+  mean_stop_think_ratio: 1.0115916728973389
+  mean_think_ratio: 0.6701563596725464
+  mean_think_stop_think_ratio: 0.6597098112106323
+'3_9':
+  mean_stop_think_ratio: 1.018943190574646
+  mean_think_ratio: 0.8638212084770203
+  mean_think_stop_think_ratio: 0.8436865210533142
+'4_0':
+  mean_stop_think_ratio: 0.7090529203414917
+  mean_think_ratio: 0.795367956161499
+  mean_think_stop_think_ratio: 0.7831572890281677
+'4_1':
+  mean_stop_think_ratio: 0.397308886051178
+  mean_think_ratio: 0.8416566848754883
+  mean_think_stop_think_ratio: 0.777734637260437
+'4_10':
+  mean_stop_think_ratio: 0.8935601711273193
+  mean_think_ratio: 2.0742263793945312
+  mean_think_stop_think_ratio: 1.9430516958236694
+'4_11':
+  mean_stop_think_ratio: 0.7356382012367249
+  mean_think_ratio: 1.0801448822021484
+  mean_think_stop_think_ratio: 1.0556246042251587
+'4_12':
+  mean_stop_think_ratio: 0.8289877772331238
+  mean_think_ratio: 0.6749958992004395
+  mean_think_stop_think_ratio: 0.6644420623779297
+'4_13':
+  mean_stop_think_ratio: 0.7085847854614258
+  mean_think_ratio: 0.7252272367477417
+  mean_think_stop_think_ratio: 0.7099785804748535
+'4_14':
+  mean_stop_think_ratio: 2.0353033542633057
+  mean_think_ratio: 1.7032086849212646
+  mean_think_stop_think_ratio: 1.692846655845642
+'4_15':
+  mean_stop_think_ratio: 0.38521555066108704
+  mean_think_ratio: 0.6334070563316345
+  mean_think_stop_think_ratio: 0.606391966342926
+'4_16':
+  mean_stop_think_ratio: 0.32338905334472656
+  mean_think_ratio: 0.6906700730323792
+  mean_think_stop_think_ratio: 0.6391764283180237
+'4_17':
+  mean_stop_think_ratio: 0.4072408974170685
+  mean_think_ratio: 0.2828877568244934
+  mean_think_stop_think_ratio: 0.2802715301513672
+'4_18':
+  mean_stop_think_ratio: 0.2986184358596802
+  mean_think_ratio: 0.37628617882728577
+  mean_think_stop_think_ratio: 0.3537836968898773
+'4_19':
+  mean_stop_think_ratio: 0.7884188294410706
+  mean_think_ratio: 0.9725817441940308
+  mean_think_stop_think_ratio: 0.953305184841156
+'4_2':
+  mean_stop_think_ratio: 0.23962348699569702
+  mean_think_ratio: 0.3984234035015106
+  mean_think_stop_think_ratio: 0.3764714300632477
+'4_20':
+  mean_stop_think_ratio: 1.5078041553497314
+  mean_think_ratio: 1.726249098777771
+  mean_think_stop_think_ratio: 1.693207859992981
+'4_21':
+  mean_stop_think_ratio: 0.5756707191467285
+  mean_think_ratio: 5.042082786560059
+  mean_think_stop_think_ratio: 4.679234027862549
+'4_22':
+  mean_stop_think_ratio: 1.309960126876831
+  mean_think_ratio: 1.457929015159607
+  mean_think_stop_think_ratio: 1.411678433418274
+'4_23':
+  mean_stop_think_ratio: 0.4291309416294098
+  mean_think_ratio: 1.231325626373291
+  mean_think_stop_think_ratio: 1.137712836265564
+'4_24':
+  mean_stop_think_ratio: 0.5844762921333313
+  mean_think_ratio: 0.5245515704154968
+  mean_think_stop_think_ratio: 0.5098699927330017
+'4_25':
+  mean_stop_think_ratio: 0.36278650164604187
+  mean_think_ratio: 0.41309651732444763
+  mean_think_stop_think_ratio: 0.39874833822250366
+'4_26':
+  mean_stop_think_ratio: 0.6609206795692444
+  mean_think_ratio: 1.0234571695327759
+  mean_think_stop_think_ratio: 0.995334267616272
+'4_27':
+  mean_stop_think_ratio: 0.4523618221282959
+  mean_think_ratio: 0.2571994960308075
+  mean_think_stop_think_ratio: 0.2549302875995636
+'4_28':
+  mean_stop_think_ratio: 0.9953552484512329
+  mean_think_ratio: 2.251768112182617
+  mean_think_stop_think_ratio: 2.1308586597442627
+'4_29':
+  mean_stop_think_ratio: 0.6709367036819458
+  mean_think_ratio: 1.2939302921295166
+  mean_think_stop_think_ratio: 1.214877963066101
+'4_3':
+  mean_stop_think_ratio: 1.1254020929336548
+  mean_think_ratio: 2.1715850830078125
+  mean_think_stop_think_ratio: 2.0785751342773438
+'4_30':
+  mean_stop_think_ratio: 0.712114155292511
+  mean_think_ratio: 2.390958070755005
+  mean_think_stop_think_ratio: 2.258707284927368
+'4_31':
+  mean_stop_think_ratio: 0.5251829624176025
+  mean_think_ratio: 0.7894159555435181
+  mean_think_stop_think_ratio: 0.7046778798103333
+'4_4':
+  mean_stop_think_ratio: 0.7882412672042847
+  mean_think_ratio: 0.6469901204109192
+  mean_think_stop_think_ratio: 0.640745222568512
+'4_5':
+  mean_stop_think_ratio: 0.38643020391464233
+  mean_think_ratio: 0.5128045082092285
+  mean_think_stop_think_ratio: 0.4870707392692566
+'4_6':
+  mean_stop_think_ratio: 0.40859782695770264
+  mean_think_ratio: 0.6262751817703247
+  mean_think_stop_think_ratio: 0.5713115930557251
+'4_7':
+  mean_stop_think_ratio: 0.702328085899353
+  mean_think_ratio: 0.631531834602356
+  mean_think_stop_think_ratio: 0.6148726940155029
+'4_8':
+  mean_stop_think_ratio: 0.9804666638374329
+  mean_think_ratio: 1.7090914249420166
+  mean_think_stop_think_ratio: 1.6025470495224
+'4_9':
+  mean_stop_think_ratio: 1.8137969970703125
+  mean_think_ratio: 0.7426996827125549
+  mean_think_stop_think_ratio: 0.7909428477287292
+'5_0':
+  mean_stop_think_ratio: 0.40693873167037964
+  mean_think_ratio: 0.3646535575389862
+  mean_think_stop_think_ratio: 0.345978319644928
+'5_1':
+  mean_stop_think_ratio: 0.34685850143432617
+  mean_think_ratio: 0.7138530611991882
+  mean_think_stop_think_ratio: 0.6520937085151672
+'5_10':
+  mean_stop_think_ratio: 0.76375812292099
+  mean_think_ratio: 0.9977970123291016
+  mean_think_stop_think_ratio: 0.9138298630714417
+'5_11':
+  mean_stop_think_ratio: 1.0234557390213013
+  mean_think_ratio: 0.7873673439025879
+  mean_think_stop_think_ratio: 0.7762030363082886
+'5_12':
+  mean_stop_think_ratio: 0.5501457452774048
+  mean_think_ratio: 0.30797213315963745
+  mean_think_stop_think_ratio: 0.31679144501686096
+'5_13':
+  mean_stop_think_ratio: 0.9240951538085938
+  mean_think_ratio: 0.3503156900405884
+  mean_think_stop_think_ratio: 0.38414162397384644
+'5_14':
+  mean_stop_think_ratio: 0.7340770363807678
+  mean_think_ratio: 0.558417558670044
+  mean_think_stop_think_ratio: 0.5530939698219299
+'5_15':
+  mean_stop_think_ratio: 0.3765156865119934
+  mean_think_ratio: 0.2695746421813965
+  mean_think_stop_think_ratio: 0.27456000447273254
+'5_16':
+  mean_stop_think_ratio: 0.48005181550979614
+  mean_think_ratio: 0.43369579315185547
+  mean_think_stop_think_ratio: 0.4190220534801483
+'5_17':
+  mean_stop_think_ratio: 0.42989784479141235
+  mean_think_ratio: 1.2028534412384033
+  mean_think_stop_think_ratio: 1.11247980594635
+'5_18':
+  mean_stop_think_ratio: 0.8007650375366211
+  mean_think_ratio: 1.1047693490982056
+  mean_think_stop_think_ratio: 1.0418062210083008
+'5_19':
+  mean_stop_think_ratio: 0.6473272442817688
+  mean_think_ratio: 0.7348291873931885
+  mean_think_stop_think_ratio: 0.7139762043952942
+'5_2':
+  mean_stop_think_ratio: 0.23947592079639435
+  mean_think_ratio: 0.23955363035202026
+  mean_think_stop_think_ratio: 0.22092832624912262
+'5_20':
+  mean_stop_think_ratio: 0.5805147290229797
+  mean_think_ratio: 1.1745861768722534
+  mean_think_stop_think_ratio: 1.1380547285079956
+'5_21':
+  mean_stop_think_ratio: 0.8271844983100891
+  mean_think_ratio: 0.9229409098625183
+  mean_think_stop_think_ratio: 0.9121845364570618
+'5_22':
+  mean_stop_think_ratio: 0.3773748576641083
+  mean_think_ratio: 0.35799410939216614
+  mean_think_stop_think_ratio: 0.3543541729450226
+'5_23':
+  mean_stop_think_ratio: 0.45358631014823914
+  mean_think_ratio: 0.7897494435310364
+  mean_think_stop_think_ratio: 0.7563039660453796
+'5_24':
+  mean_stop_think_ratio: 1.2060567140579224
+  mean_think_ratio: 3.00984263420105
+  mean_think_stop_think_ratio: 2.81974196434021
+'5_25':
+  mean_stop_think_ratio: 1.3014425039291382
+  mean_think_ratio: 1.3284423351287842
+  mean_think_stop_think_ratio: 1.1572840213775635
+'5_26':
+  mean_stop_think_ratio: 1.2458057403564453
+  mean_think_ratio: 0.7959837317466736
+  mean_think_stop_think_ratio: 0.8179908394813538
+'5_27':
+  mean_stop_think_ratio: 0.4900844395160675
+  mean_think_ratio: 0.6859412789344788
+  mean_think_stop_think_ratio: 0.6701074838638306
+'5_28':
+  mean_stop_think_ratio: 0.5907725691795349
+  mean_think_ratio: 0.3058125078678131
+  mean_think_stop_think_ratio: 0.31505489349365234
+'5_29':
+  mean_stop_think_ratio: 0.2271289974451065
+  mean_think_ratio: 0.20852579176425934
+  mean_think_stop_think_ratio: 0.20405727624893188
+'5_3':
+  mean_stop_think_ratio: 0.3477093577384949
+  mean_think_ratio: 0.2058214396238327
+  mean_think_stop_think_ratio: 0.20737308263778687
+'5_30':
+  mean_stop_think_ratio: 0.2028808444738388
+  mean_think_ratio: 0.18863670527935028
+  mean_think_stop_think_ratio: 0.18557244539260864
+'5_31':
+  mean_stop_think_ratio: 0.44816258549690247
+  mean_think_ratio: 0.32717975974082947
+  mean_think_stop_think_ratio: 0.32456278800964355
+'5_4':
+  mean_stop_think_ratio: 0.40695345401763916
+  mean_think_ratio: 0.3564690351486206
+  mean_think_stop_think_ratio: 0.3567056357860565
+'5_5':
+  mean_stop_think_ratio: 0.35188883543014526
+  mean_think_ratio: 0.5288416147232056
+  mean_think_stop_think_ratio: 0.5009666085243225
+'5_6':
+  mean_stop_think_ratio: 0.4187929928302765
+  mean_think_ratio: 0.3679006099700928
+  mean_think_stop_think_ratio: 0.3600797653198242
+'5_7':
+  mean_stop_think_ratio: 0.7496477961540222
+  mean_think_ratio: 0.8968432545661926
+  mean_think_stop_think_ratio: 0.8550856709480286
+'5_8':
+  mean_stop_think_ratio: 1.370412826538086
+  mean_think_ratio: 0.7766616344451904
+  mean_think_stop_think_ratio: 0.7909213304519653
+'5_9':
+  mean_stop_think_ratio: 0.7481377124786377
+  mean_think_ratio: 0.4677811861038208
+  mean_think_stop_think_ratio: 0.47394898533821106
+'6_0':
+  mean_stop_think_ratio: 0.49497219920158386
+  mean_think_ratio: 0.742465078830719
+  mean_think_stop_think_ratio: 0.6930171847343445
+'6_1':
+  mean_stop_think_ratio: 0.9874613285064697
+  mean_think_ratio: 0.5639501810073853
+  mean_think_stop_think_ratio: 0.5595318078994751
+'6_10':
+  mean_stop_think_ratio: 0.5082952380180359
+  mean_think_ratio: 0.2564021050930023
+  mean_think_stop_think_ratio: 0.2589787244796753
+'6_11':
+  mean_stop_think_ratio: 0.6376979947090149
+  mean_think_ratio: 0.6299318075180054
+  mean_think_stop_think_ratio: 0.6100009083747864
+'6_12':
+  mean_stop_think_ratio: 0.5934585928916931
+  mean_think_ratio: 0.5549556612968445
+  mean_think_stop_think_ratio: 0.5520926713943481
+'6_13':
+  mean_stop_think_ratio: 0.5714516043663025
+  mean_think_ratio: 0.4378214180469513
+  mean_think_stop_think_ratio: 0.4419257640838623
+'6_14':
+  mean_stop_think_ratio: 1.0902620553970337
+  mean_think_ratio: 0.665501058101654
+  mean_think_stop_think_ratio: 0.6779852509498596
+'6_15':
+  mean_stop_think_ratio: 0.6986864805221558
+  mean_think_ratio: 0.3472368121147156
+  mean_think_stop_think_ratio: 0.3567145764827728
+'6_16':
+  mean_stop_think_ratio: 0.5613337755203247
+  mean_think_ratio: 0.4291134476661682
+  mean_think_stop_think_ratio: 0.4162136912345886
+'6_17':
+  mean_stop_think_ratio: 5.313377380371094
+  mean_think_ratio: 2.6795389652252197
+  mean_think_stop_think_ratio: 2.8380424976348877
+'6_18':
+  mean_stop_think_ratio: 0.9958911538124084
+  mean_think_ratio: 0.9740378260612488
+  mean_think_stop_think_ratio: 0.9624543190002441
+'6_19':
+  mean_stop_think_ratio: 1.6076337099075317
+  mean_think_ratio: 0.7728496789932251
+  mean_think_stop_think_ratio: 0.7904212474822998
+'6_2':
+  mean_stop_think_ratio: 0.6946979761123657
+  mean_think_ratio: 0.8501287698745728
+  mean_think_stop_think_ratio: 0.8347938656806946
+'6_20':
+  mean_stop_think_ratio: 0.45888566970825195
+  mean_think_ratio: 0.842009961605072
+  mean_think_stop_think_ratio: 0.7965196967124939
+'6_21':
+  mean_stop_think_ratio: 0.7463876008987427
+  mean_think_ratio: 1.0875052213668823
+  mean_think_stop_think_ratio: 1.0576437711715698
+'6_22':
+  mean_stop_think_ratio: 0.3342439830303192
+  mean_think_ratio: 0.8544365763664246
+  mean_think_stop_think_ratio: 0.8211907744407654
+'6_23':
+  mean_stop_think_ratio: 0.781982958316803
+  mean_think_ratio: 0.8719442486763
+  mean_think_stop_think_ratio: 0.8267267346382141
+'6_24':
+  mean_stop_think_ratio: 1.703892707824707
+  mean_think_ratio: 2.03902268409729
+  mean_think_stop_think_ratio: 2.040099859237671
+'6_25':
+  mean_stop_think_ratio: 0.6775614023208618
+  mean_think_ratio: 0.9801849126815796
+  mean_think_stop_think_ratio: 0.9694238901138306
+'6_26':
+  mean_stop_think_ratio: 0.5470690727233887
+  mean_think_ratio: 0.839184045791626
+  mean_think_stop_think_ratio: 0.8013368248939514
+'6_27':
+  mean_stop_think_ratio: 0.7035408020019531
+  mean_think_ratio: 0.7670331001281738
+  mean_think_stop_think_ratio: 0.7523720860481262
+'6_28':
+  mean_stop_think_ratio: 0.23849256336688995
+  mean_think_ratio: 0.30518943071365356
+  mean_think_stop_think_ratio: 0.2884041965007782
+'6_29':
+  mean_stop_think_ratio: 0.20168226957321167
+  mean_think_ratio: 0.2980596423149109
+  mean_think_stop_think_ratio: 0.27912023663520813
+'6_3':
+  mean_stop_think_ratio: 0.652125895023346
+  mean_think_ratio: 1.0721081495285034
+  mean_think_stop_think_ratio: 1.027896761894226
+'6_30':
+  mean_stop_think_ratio: 0.287126362323761
+  mean_think_ratio: 0.18801270425319672
+  mean_think_stop_think_ratio: 0.18397921323776245
+'6_31':
+  mean_stop_think_ratio: 0.42747601866722107
+  mean_think_ratio: 0.5668724775314331
+  mean_think_stop_think_ratio: 0.5255961418151855
+'6_4':
+  mean_stop_think_ratio: 0.6959735155105591
+  mean_think_ratio: 0.7360971570014954
+  mean_think_stop_think_ratio: 0.7000057697296143
+'6_5':
+  mean_stop_think_ratio: 0.5913841128349304
+  mean_think_ratio: 0.7628675103187561
+  mean_think_stop_think_ratio: 0.7505452632904053
+'6_6':
+  mean_stop_think_ratio: 0.27826961874961853
+  mean_think_ratio: 0.6797733902931213
+  mean_think_stop_think_ratio: 0.6471956372261047
+'6_7':
+  mean_stop_think_ratio: 0.6129295825958252
+  mean_think_ratio: 0.4376780390739441
+  mean_think_stop_think_ratio: 0.42835262417793274
+'6_8':
+  mean_stop_think_ratio: 0.8979620933532715
+  mean_think_ratio: 0.37019839882850647
+  mean_think_stop_think_ratio: 0.37593069672584534
+'6_9':
+  mean_stop_think_ratio: 0.6564812660217285
+  mean_think_ratio: 0.5762577652931213
+  mean_think_stop_think_ratio: 0.5800611972808838
+'7_0':
+  mean_stop_think_ratio: 0.4705197215080261
+  mean_think_ratio: 0.7084001898765564
+  mean_think_stop_think_ratio: 0.6830450296401978
+'7_1':
+  mean_stop_think_ratio: 0.555732250213623
+  mean_think_ratio: 0.656215488910675
+  mean_think_stop_think_ratio: 0.632594108581543
+'7_10':
+  mean_stop_think_ratio: 0.31612440943717957
+  mean_think_ratio: 0.29175660014152527
+  mean_think_stop_think_ratio: 0.29107266664505005
+'7_11':
+  mean_stop_think_ratio: 0.6846214532852173
+  mean_think_ratio: 0.7262725234031677
+  mean_think_stop_think_ratio: 0.7076110243797302
+'7_12':
+  mean_stop_think_ratio: 0.5307435393333435
+  mean_think_ratio: 0.3988187313079834
+  mean_think_stop_think_ratio: 0.3934697210788727
+'7_13':
+  mean_stop_think_ratio: 0.9927836060523987
+  mean_think_ratio: 0.9925007820129395
+  mean_think_stop_think_ratio: 0.9595131278038025
+'7_14':
+  mean_stop_think_ratio: 0.17488858103752136
+  mean_think_ratio: 0.2390100061893463
+  mean_think_stop_think_ratio: 0.2330261617898941
+'7_15':
+  mean_stop_think_ratio: 0.3001978397369385
+  mean_think_ratio: 0.4760863482952118
+  mean_think_stop_think_ratio: 0.464964896440506
+'7_16':
+  mean_stop_think_ratio: 0.5023841261863708
+  mean_think_ratio: 1.8441760540008545
+  mean_think_stop_think_ratio: 1.6596909761428833
+'7_17':
+  mean_stop_think_ratio: 0.15916718542575836
+  mean_think_ratio: 0.2924084961414337
+  mean_think_stop_think_ratio: 0.2717595100402832
+'7_18':
+  mean_stop_think_ratio: 0.36045241355895996
+  mean_think_ratio: 0.5527222752571106
+  mean_think_stop_think_ratio: 0.5273526310920715
+'7_19':
+  mean_stop_think_ratio: 0.2871294617652893
+  mean_think_ratio: 0.3190407156944275
+  mean_think_stop_think_ratio: 0.2993846833705902
+'7_2':
+  mean_stop_think_ratio: 0.5893827080726624
+  mean_think_ratio: 0.43894249200820923
+  mean_think_stop_think_ratio: 0.438778281211853
+'7_20':
+  mean_stop_think_ratio: 0.5365729331970215
+  mean_think_ratio: 0.6794373989105225
+  mean_think_stop_think_ratio: 0.6512680649757385
+'7_21':
+  mean_stop_think_ratio: 0.9555912613868713
+  mean_think_ratio: 3.7321784496307373
+  mean_think_stop_think_ratio: 3.477773666381836
+'7_22':
+  mean_stop_think_ratio: 0.46277520060539246
+  mean_think_ratio: 1.1110342741012573
+  mean_think_stop_think_ratio: 1.0362839698791504
+'7_23':
+  mean_stop_think_ratio: 0.49024680256843567
+  mean_think_ratio: 1.0458768606185913
+  mean_think_stop_think_ratio: 0.9711641073226929
+'7_24':
+  mean_stop_think_ratio: 0.18460145592689514
+  mean_think_ratio: 0.3254097104072571
+  mean_think_stop_think_ratio: 0.3057911992073059
+'7_25':
+  mean_stop_think_ratio: 0.2497764378786087
+  mean_think_ratio: 0.5374480485916138
+  mean_think_stop_think_ratio: 0.4807601273059845
+'7_26':
+  mean_stop_think_ratio: 0.4220598042011261
+  mean_think_ratio: 0.6966161727905273
+  mean_think_stop_think_ratio: 0.6700056195259094
+'7_27':
+  mean_stop_think_ratio: 0.17094911634922028
+  mean_think_ratio: 0.2943281829357147
+  mean_think_stop_think_ratio: 0.2833918333053589
+'7_28':
+  mean_stop_think_ratio: 0.32575005292892456
+  mean_think_ratio: 0.48927778005599976
+  mean_think_stop_think_ratio: 0.4742515981197357
+'7_29':
+  mean_stop_think_ratio: 0.2786877155303955
+  mean_think_ratio: 0.4348505735397339
+  mean_think_stop_think_ratio: 0.41315603256225586
+'7_3':
+  mean_stop_think_ratio: 0.3037804663181305
+  mean_think_ratio: 0.5715130567550659
+  mean_think_stop_think_ratio: 0.5405188202857971
+'7_30':
+  mean_stop_think_ratio: 0.6196333169937134
+  mean_think_ratio: 1.2190322875976562
+  mean_think_stop_think_ratio: 1.1465919017791748
+'7_31':
+  mean_stop_think_ratio: 0.39024806022644043
+  mean_think_ratio: 0.6870735287666321
+  mean_think_stop_think_ratio: 0.6664418578147888
+'7_4':
+  mean_stop_think_ratio: 0.679379940032959
+  mean_think_ratio: 0.9965312480926514
+  mean_think_stop_think_ratio: 0.9699187278747559
+'7_5':
+  mean_stop_think_ratio: 0.6120968461036682
+  mean_think_ratio: 0.8170680999755859
+  mean_think_stop_think_ratio: 0.7932910919189453
+'7_6':
+  mean_stop_think_ratio: 0.6629272103309631
+  mean_think_ratio: 1.9659311771392822
+  mean_think_stop_think_ratio: 1.83846116065979
+'7_7':
+  mean_stop_think_ratio: 0.7376420497894287
+  mean_think_ratio: 1.948732614517212
+  mean_think_stop_think_ratio: 1.7627108097076416
+'7_8':
+  mean_stop_think_ratio: 0.4978722929954529
+  mean_think_ratio: 0.5051866769790649
+  mean_think_stop_think_ratio: 0.4986408054828644
+'7_9':
+  mean_stop_think_ratio: 0.20510736107826233
+  mean_think_ratio: 0.29640743136405945
+  mean_think_stop_think_ratio: 0.2942698895931244
+'8_0':
+  mean_stop_think_ratio: 3.5983197689056396
+  mean_think_ratio: 1.026476263999939
+  mean_think_stop_think_ratio: 1.2459596395492554
+'8_1':
+  mean_stop_think_ratio: 1.357759952545166
+  mean_think_ratio: 0.7069481611251831
+  mean_think_stop_think_ratio: 0.7564370632171631
+'8_10':
+  mean_stop_think_ratio: 1.008160948753357
+  mean_think_ratio: 1.1387156248092651
+  mean_think_stop_think_ratio: 1.125893473625183
+'8_11':
+  mean_stop_think_ratio: 0.46729767322540283
+  mean_think_ratio: 0.6705588102340698
+  mean_think_stop_think_ratio: 0.6157925128936768
+'8_12':
+  mean_stop_think_ratio: 0.3011392056941986
+  mean_think_ratio: 0.49596846103668213
+  mean_think_stop_think_ratio: 0.48378634452819824
+'8_13':
+  mean_stop_think_ratio: 0.4482540786266327
+  mean_think_ratio: 0.5816845297813416
+  mean_think_stop_think_ratio: 0.5757713913917542
+'8_14':
+  mean_stop_think_ratio: 0.37884366512298584
+  mean_think_ratio: 0.7144060134887695
+  mean_think_stop_think_ratio: 0.6964493989944458
+'8_15':
+  mean_stop_think_ratio: 0.28898757696151733
+  mean_think_ratio: 0.6533534526824951
+  mean_think_stop_think_ratio: 0.6181613206863403
+'8_16':
+  mean_stop_think_ratio: 0.8976782560348511
+  mean_think_ratio: 0.7010033130645752
+  mean_think_stop_think_ratio: 0.7103555202484131
+'8_17':
+  mean_stop_think_ratio: 0.34812572598457336
+  mean_think_ratio: 1.565879225730896
+  mean_think_stop_think_ratio: 1.5038483142852783
+'8_18':
+  mean_stop_think_ratio: 0.49991798400878906
+  mean_think_ratio: 4.5005717277526855
+  mean_think_stop_think_ratio: 4.370467185974121
+'8_19':
+  mean_stop_think_ratio: 0.28825464844703674
+  mean_think_ratio: 0.5681305527687073
+  mean_think_stop_think_ratio: 0.538565993309021
+'8_2':
+  mean_stop_think_ratio: 1.9791805744171143
+  mean_think_ratio: 0.6135717630386353
+  mean_think_stop_think_ratio: 0.739737868309021
+'8_20':
+  mean_stop_think_ratio: 1.1996278762817383
+  mean_think_ratio: 0.9422722458839417
+  mean_think_stop_think_ratio: 0.9623666405677795
+'8_21':
+  mean_stop_think_ratio: 0.9397290945053101
+  mean_think_ratio: 0.7840147018432617
+  mean_think_stop_think_ratio: 0.787910521030426
+'8_22':
+  mean_stop_think_ratio: 0.5520970821380615
+  mean_think_ratio: 0.45795243978500366
+  mean_think_stop_think_ratio: 0.4599730670452118
+'8_23':
+  mean_stop_think_ratio: 0.8645553588867188
+  mean_think_ratio: 0.849667489528656
+  mean_think_stop_think_ratio: 0.863065779209137
+'8_24':
+  mean_stop_think_ratio: 0.25831615924835205
+  mean_think_ratio: 0.40117964148521423
+  mean_think_stop_think_ratio: 0.3863438665866852
+'8_25':
+  mean_stop_think_ratio: 0.14420272409915924
+  mean_think_ratio: 0.31705981492996216
+  mean_think_stop_think_ratio: 0.31261181831359863
+'8_26':
+  mean_stop_think_ratio: 0.4892893433570862
+  mean_think_ratio: 0.7854100465774536
+  mean_think_stop_think_ratio: 0.7613160610198975
+'8_27':
+  mean_stop_think_ratio: 0.648829460144043
+  mean_think_ratio: 0.6844838261604309
+  mean_think_stop_think_ratio: 0.6924079060554504
+'8_28':
+  mean_stop_think_ratio: 0.5040606260299683
+  mean_think_ratio: 0.8467010259628296
+  mean_think_stop_think_ratio: 0.8141976594924927
+'8_29':
+  mean_stop_think_ratio: 0.4491540193557739
+  mean_think_ratio: 0.8006478548049927
+  mean_think_stop_think_ratio: 0.7565704584121704
+'8_3':
+  mean_stop_think_ratio: 0.7730477452278137
+  mean_think_ratio: 0.3341509699821472
+  mean_think_stop_think_ratio: 0.37541818618774414
+'8_30':
+  mean_stop_think_ratio: 0.4793844521045685
+  mean_think_ratio: 0.524997353553772
+  mean_think_stop_think_ratio: 0.5242897868156433
+'8_31':
+  mean_stop_think_ratio: 0.3593212366104126
+  mean_think_ratio: 0.28181761503219604
+  mean_think_stop_think_ratio: 0.290761262178421
+'8_4':
+  mean_stop_think_ratio: 0.34820595383644104
+  mean_think_ratio: 0.5160064697265625
+  mean_think_stop_think_ratio: 0.4984443187713623
+'8_5':
+  mean_stop_think_ratio: 0.5043442845344543
+  mean_think_ratio: 0.5445241332054138
+  mean_think_stop_think_ratio: 0.5374059081077576
+'8_6':
+  mean_stop_think_ratio: 0.23289424180984497
+  mean_think_ratio: 0.4507898688316345
+  mean_think_stop_think_ratio: 0.43836814165115356
+'8_7':
+  mean_stop_think_ratio: 0.6287199854850769
+  mean_think_ratio: 1.054801344871521
+  mean_think_stop_think_ratio: 1.037116527557373
+'8_8':
+  mean_stop_think_ratio: 0.2064087986946106
+  mean_think_ratio: 0.3215366005897522
+  mean_think_stop_think_ratio: 0.3022194504737854
+'8_9':
+  mean_stop_think_ratio: 0.5762712359428406
+  mean_think_ratio: 0.8031864762306213
+  mean_think_stop_think_ratio: 0.778862714767456
+'9_0':
+  mean_stop_think_ratio: 0.9177831411361694
+  mean_think_ratio: 0.7736780643463135
+  mean_think_stop_think_ratio: 0.7842433452606201
+'9_1':
+  mean_stop_think_ratio: 0.16918997466564178
+  mean_think_ratio: 0.3474309742450714
+  mean_think_stop_think_ratio: 0.3451146185398102
+'9_10':
+  mean_stop_think_ratio: 0.6936390995979309
+  mean_think_ratio: 0.5023682713508606
+  mean_think_stop_think_ratio: 0.5215458869934082
+'9_11':
+  mean_stop_think_ratio: 0.6529024839401245
+  mean_think_ratio: 0.4190303385257721
+  mean_think_stop_think_ratio: 0.4255305230617523
+'9_12':
+  mean_stop_think_ratio: 0.7927436828613281
+  mean_think_ratio: 0.7848111391067505
+  mean_think_stop_think_ratio: 0.7969719171524048
+'9_13':
+  mean_stop_think_ratio: 0.45842090249061584
+  mean_think_ratio: 0.44938430190086365
+  mean_think_stop_think_ratio: 0.452044814825058
+'9_14':
+  mean_stop_think_ratio: 0.528089702129364
+  mean_think_ratio: 0.5181475877761841
+  mean_think_stop_think_ratio: 0.5306278467178345
+'9_15':
+  mean_stop_think_ratio: 1.4960789680480957
+  mean_think_ratio: 1.015246868133545
+  mean_think_stop_think_ratio: 1.0566043853759766
+'9_16':
+  mean_stop_think_ratio: 0.8495270013809204
+  mean_think_ratio: 1.3985387086868286
+  mean_think_stop_think_ratio: 1.2925972938537598
+'9_17':
+  mean_stop_think_ratio: 0.6414875388145447
+  mean_think_ratio: 0.9800088405609131
+  mean_think_stop_think_ratio: 0.9274802803993225
+'9_18':
+  mean_stop_think_ratio: 0.9457167387008667
+  mean_think_ratio: 0.7603262662887573
+  mean_think_stop_think_ratio: 0.776789128780365
+'9_19':
+  mean_stop_think_ratio: 0.5151510238647461
+  mean_think_ratio: 0.8369622230529785
+  mean_think_stop_think_ratio: 0.7930752038955688
+'9_2':
+  mean_stop_think_ratio: 0.4084763526916504
+  mean_think_ratio: 0.727386474609375
+  mean_think_stop_think_ratio: 0.6877961754798889
+'9_20':
+  mean_stop_think_ratio: 0.4144052565097809
+  mean_think_ratio: 0.3906531035900116
+  mean_think_stop_think_ratio: 0.4005393087863922
+'9_21':
+  mean_stop_think_ratio: 1.2594197988510132
+  mean_think_ratio: 1.271497368812561
+  mean_think_stop_think_ratio: 1.273201823234558
+'9_22':
+  mean_stop_think_ratio: 0.5116310715675354
+  mean_think_ratio: 0.4726558029651642
+  mean_think_stop_think_ratio: 0.4874790906906128
+'9_23':
+  mean_stop_think_ratio: 0.8689424991607666
+  mean_think_ratio: 0.6806528568267822
+  mean_think_stop_think_ratio: 0.7023771405220032
+'9_24':
+  mean_stop_think_ratio: 0.28816547989845276
+  mean_think_ratio: 0.2946735620498657
+  mean_think_stop_think_ratio: 0.28997477889060974
+'9_25':
+  mean_stop_think_ratio: 0.7396118640899658
+  mean_think_ratio: 0.3468266725540161
+  mean_think_stop_think_ratio: 0.38907065987586975
+'9_26':
+  mean_stop_think_ratio: 0.24640442430973053
+  mean_think_ratio: 0.36371684074401855
+  mean_think_stop_think_ratio: 0.35231342911720276
+'9_27':
+  mean_stop_think_ratio: 1.4605872631072998
+  mean_think_ratio: 1.064009189605713
+  mean_think_stop_think_ratio: 1.1101698875427246
+'9_28':
+  mean_stop_think_ratio: 0.7981635928153992
+  mean_think_ratio: 0.6423336863517761
+  mean_think_stop_think_ratio: 0.6678603887557983
+'9_29':
+  mean_stop_think_ratio: 0.4552699327468872
+  mean_think_ratio: 0.4677954316139221
+  mean_think_stop_think_ratio: 0.4558204412460327
+'9_3':
+  mean_stop_think_ratio: 0.977716326713562
+  mean_think_ratio: 1.577400803565979
+  mean_think_stop_think_ratio: 1.4887224435806274
+'9_30':
+  mean_stop_think_ratio: 0.40629416704177856
+  mean_think_ratio: 0.5156134963035583
+  mean_think_stop_think_ratio: 0.5027372241020203
+'9_31':
+  mean_stop_think_ratio: 0.5366725325584412
+  mean_think_ratio: 0.5659219026565552
+  mean_think_stop_think_ratio: 0.5617362260818481
+'9_4':
+  mean_stop_think_ratio: 0.5186004638671875
+  mean_think_ratio: 2.8334882259368896
+  mean_think_stop_think_ratio: 2.784379005432129
+'9_5':
+  mean_stop_think_ratio: 0.960893452167511
+  mean_think_ratio: 1.1441874504089355
+  mean_think_stop_think_ratio: 1.1477209329605103
+'9_6':
+  mean_stop_think_ratio: 0.2771090567111969
+  mean_think_ratio: 1.101847529411316
+  mean_think_stop_think_ratio: 1.0703351497650146
+'9_7':
+  mean_stop_think_ratio: 0.2231260985136032
+  mean_think_ratio: 1.6727551221847534
+  mean_think_stop_think_ratio: 1.641502857208252
+'9_8':
+  mean_stop_think_ratio: 1.0263558626174927
+  mean_think_ratio: 0.6487265825271606
+  mean_think_stop_think_ratio: 0.6589981913566589
+'9_9':
+  mean_stop_think_ratio: 0.46478068828582764
+  mean_think_ratio: 0.3191133737564087
+  mean_think_stop_think_ratio: 0.32658323645591736
