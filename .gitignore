@@ -1,5 +1,6 @@
 .env
 attention_plots/
+old_experiment_folders/
 
 # Ignore compiled Python files
 __pycache__/
