@@ -509,7 +509,7 @@ def perform_token_normalized_analysis_suite(data_0: dict[str, "np.ndarray | torc
     The numerical outputs of all analyses are aggregated and saved as a YAML file
     in save_location, and each plot is saved with a descriptive filename.
     
-    For the arrays, we save them using NumPys binary format (.npy), which preserves
+    For the arrays, we save them using NumPy’s binary format (.npy), which preserves
     datatypes (e.g., np.float32) without conversion.
     
     Parameters:
