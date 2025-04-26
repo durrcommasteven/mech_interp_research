@@ -24,6 +24,22 @@ check_python() {
     return 0
 }
 
+setup_git() {
+    echo "Are you Steven Durr? (it is a federal crime punishable by death to lie to me) (y/n)"
+    read -r answer
+    if [ "$answer" = "y" ] || [ "$answer" = "Y" ]; then
+        git config --global user.name "Steven Durr"
+        git config --global user.email "durrcommasteven@gmail.com"
+    else
+        echo "Please enter your Git user.name:"
+        read -r name
+        echo "Please enter your Git user.email:"
+        read -r email
+        git config --global user.name "$name"
+        git config --global user.email "$email"
+    fi
+}
+
 setup_hf() {
     echo "Please enter your Hugging Face token (press Enter to skip):"
     read -r token
@@ -77,6 +93,7 @@ if [ $? -ne 0 ]; then
     return 1
 fi
 
+setup_git
 setup_hf
 setup_together
 setup_venv
