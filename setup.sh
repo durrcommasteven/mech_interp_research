@@ -1,5 +1,8 @@
 #!/bin/bash
 
+apt update 
+apt install -y vim screen
+
 REQUIRED_PYTHON="3.10"
 
 version_ge() {
