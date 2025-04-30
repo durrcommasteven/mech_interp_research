@@ -10,6 +10,8 @@ import hashlib
 import pickle
 import numpy as np
 import matplotlib.pyplot as plt 
+from typing import Dict, List, Tuple, Callable
+
 
 torch.set_grad_enabled(False)
 
@@ -78,7 +80,11 @@ class ReasoningAnsweringComparator:
         self.p_ref_think = self._get_full_dist(model, self.think_prefix)
         self.p_ref_ans   = self._get_full_dist(model, self.answer_prefix)
 
-    def _greedy_think_generation(self, model: HookedTransformer, prefix: str) -> str:
+    def _greedy_think_generation(
+        self,
+        model: HookedTransformer,
+        prefix: str
+    ) -> str:
         out = model.generate(
             prefix,
             max_new_tokens=500,
@@ -88,24 +94,43 @@ class ReasoningAnsweringComparator:
         assert out.endswith(self.eos_token)
         return out
 
-    def _get_full_dist(self, model: HookedTransformer, prefix: str) -> torch.Tensor:
+    def _get_full_dist(
+        self,
+        model: HookedTransformer,
+        prefix: str,
+        fwd_hooks: List[Tuple[str, Callable]] = None
+    ) -> torch.Tensor:
         """
         Returns a 1-D tensor of next-token probabilities for the entire vocab.
+        If fwd_hooks is provided, runs with hooks; otherwise calls model(...) directly.
         """
-        logits = model(prefix, return_type="logits")  # [1, L, V]
-        last   = logits[0, -1]                        # [V]
+        if fwd_hooks is not None:
+            # run with hooks and grab logits
+            logits = model.run_with_hooks(
+                prefix,
+                fwd_hooks=fwd_hooks,
+                return_type="logits"
+            )  # [1, L, V]
+        else:
+            logits = model(prefix, return_type="logits")  # [1, L, V]
+
+        last = logits[0, -1]  # [V]
         return F.softmax(last, dim=-1)
 
     def compare_model(
         self,
         other_model: HookedTransformer,
         mode: str = "think",
-        eps: float = 1e-12
+        eps: float = 1e-12,
+        fwd_hooks: List[Tuple[str, Callable]] = None
     ) -> Dict[str, float]:
         """
         Compute JS-distance for the chosen region (think or answer), then
         build a mode_score = (d_think - d_ans)/(d_think + d_ans) in [-1,1],
         plus softmax probabilities.
+
+        If fwd_hooks is provided, it will be applied when computing the model's
+        output distribution for the chosen prefix.
         """
         if mode == "think":
             cur_prefix = self.think_prefix
@@ -114,8 +139,8 @@ class ReasoningAnsweringComparator:
         else:
             raise ValueError("mode must be 'think' or 'answer'")
 
-        # model's output distribution for this prefix
-        q = self._get_full_dist(other_model, cur_prefix)
+        # model's output distribution for this prefix (with hooks if given)
+        q = self._get_full_dist(other_model, cur_prefix, fwd_hooks)
 
         # distances to each reference distribution
         d_think = js_distance(self.p_ref_think, q, eps)
