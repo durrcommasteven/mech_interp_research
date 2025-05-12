@@ -103,17 +103,55 @@ class ReasoningAnsweringComparator:
         # 3) stash full-vocabulary reference distributions
         self.p_ref_think = self._get_full_dist(model, self.think_prefix)
         self.p_ref_ans   = self._get_full_dist(model, self.answer_prefix)
-
+    
+    def give_think_answer(self, include_bos=False):
+        """
+        Process think and answer prefixes based on BOS token inclusion preference.
+        
+        Args:
+            include_bos (bool): Whether to include the beginning-of-sentence token
+        
+        Returns:
+            dict: Dictionary containing processed 'think' and 'answer' prefixes
+        """
+        think_answer_dict = {}
+        bos_token = "<｜begin▁of▁sentence｜>"
+        
+        # Process think prefix
+        if self.think_prefix.startswith(bos_token):
+            think_answer_dict["think"] = (
+                self.think_prefix if include_bos else self.think_prefix[len(bos_token):]
+            )
+        else:
+            think_answer_dict["think"] = self.think_prefix
+        
+        # Process answer prefix
+        if self.answer_prefix.startswith(bos_token):
+            think_answer_dict["answer"] = (
+                self.answer_prefix if include_bos else self.answer_prefix[len(bos_token):]
+            )
+        else:
+            think_answer_dict["answer"] = self.answer_prefix
+        
+        return think_answer_dict
+        
     def _greedy_think_generation(
         self,
         model: HookedTransformer,
         prefix: str
     ) -> str:
+        
+        if prefix.startswith("<｜begin▁of▁sentence｜>"):
+            prepend_bos=False 
+        else:
+            prepend_bos=True
+
         out = model.generate(
             prefix,
             max_new_tokens=500,
             do_sample=False,
-            eos_token_id=self.eos_id
+            eos_token_id=self.eos_id,
+            prepend_bos=prepend_bos
         )
         if not out.endswith(self.eos_token):
             return None
@@ -197,6 +235,7 @@ def head_patch_heatmap(
     tag: str = None,
     save_folder: str = None,
     plot: bool = False,
+    delta: int=1
 ):
     """
     For each attention head, patch its z-output from str2 into str1,
@@ -249,7 +288,7 @@ def head_patch_heatmap(
     # ——— Dimensions and baseline ———
     n_heads, head_dim = z2[0].shape[2], z2[0].shape[3]
     L1, L2 = toks1.shape[1], toks2.shape[1]
-    pos1, pos2 = L1 - 1, L2 - 1
+    pos1, pos2 = L1 - delta, L2 - delta
 
     if cache_path and os.path.exists(cache_path):
         loaded = torch.load(cache_path)
@@ -305,7 +344,8 @@ def head_patch_mode_score_heatmap(
     cache_path: str = None,
     tag: str = None,
     save_folder: str = None,
-    plot: bool = False
+    plot: bool = False,
+    delta=1
 ):
     """
     For each attention head, patch its z-output from `str2` into `str1`,
@@ -363,7 +403,7 @@ def head_patch_mode_score_heatmap(
     # — dimensions —
     n_heads, _ = z2[0].shape[2], z2[0].shape[3]
     L1, L2     = toks1.shape[1], toks2.shape[1]
-    pos1, pos2 = L1 - 1, L2 - 1
+    pos1, pos2 = L1 - delta, L2 - delta
 
     # — 2) load or init heat —
     if cache_path and os.path.exists(cache_path):
@@ -464,7 +504,8 @@ def evaluate_and_save_mode_heatmaps(
     tag: str = None,
     save_folder: str = None,
     immediately_answer: bool = False,
-    comparator_list: str = None
+    comparator_list: str = None,
+    delta: int = 1,
 ):
     """
     Evaluate and save mode heatmaps for each comparator.
@@ -512,7 +553,8 @@ def evaluate_and_save_mode_heatmaps(
             cache_path=cache_path,
             tag=tag,
             save_folder=save_folder,
-            plot=False
+            plot=False,
+            delta=delta
         )
 
 
@@ -582,10 +624,22 @@ if __name__ == "__main__":
         prompts,
         collection_mode="JS_dist_ans",
         device='cuda:0',
-        tag="",
+        tag="delta_1",
         save_folder='immediately_answer_js_dist_heatmap_collection_experiment',
         immediately_answer=True,
-        comparator_list="heatmap_collection_experiment/comparator_list.pkl"
+        comparator_list="heatmap_collection_experiment/comparator_list.pkl",
+        delta=1
+    )
+    evaluate_and_save_mode_heatmaps(
+        model,
+        prompts,
+        collection_mode="JS_dist_ans",
+        device='cuda:0',
+        tag="delta_2",
+        save_folder='immediately_answer_js_dist_heatmap_collection_experiment',
+        immediately_answer=True,
+        comparator_list="heatmap_collection_experiment/comparator_list.pkl",
+        delta=1
     )
 
     """evaluate_and_save_mode_heatmaps(
