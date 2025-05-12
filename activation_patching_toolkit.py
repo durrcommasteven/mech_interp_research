@@ -484,7 +484,8 @@ def sanitize_for_filename(s: str) -> str:
     Sanitize a string so it only contains letters and underscores,
     suitable for use in a filename.
 
-    All other characters (spaces, punctuation, symbols) are replaced with '_'.
+    All other characters (spaces, punctuation, symbols) are replaced with '_',
+    and multiple underscores are collapsed into a single one.
 
     Args:
         s (str): The input string.
@@ -492,8 +493,9 @@ def sanitize_for_filename(s: str) -> str:
     Returns:
         str: A sanitized string with only [a-zA-Z_] characters.
     """
-    # Replace any character that is not a letter or underscore with '_'
-    return re.sub(r'[^a-zA-Z_]', '_', s)
+    s = re.sub(r'[^a-zA-Z_]', '_', s)       # Replace non-letters/underscores
+    s = re.sub(r'_+', '_', s)               # Collapse multiple underscores
+    return s
 
 
 def evaluate_and_save_mode_heatmaps(
@@ -619,28 +621,30 @@ if __name__ == "__main__":
 
     prompts = read_prompts()[:50]
 
-    evaluate_and_save_mode_heatmaps(
-        model,
-        prompts,
-        collection_mode="JS_dist_ans",
-        device='cuda:0',
-        tag="delta_1",
-        save_folder='immediately_answer_js_dist_heatmap_collection_experiment',
-        immediately_answer=True,
-        comparator_list="heatmap_collection_experiment/comparator_list.pkl",
-        delta=1
-    )
-    evaluate_and_save_mode_heatmaps(
-        model,
-        prompts,
-        collection_mode="JS_dist_ans",
-        device='cuda:0',
-        tag="delta_2",
-        save_folder='immediately_answer_js_dist_heatmap_collection_experiment',
-        immediately_answer=True,
-        comparator_list="heatmap_collection_experiment/comparator_list.pkl",
-        delta=1
-    )
+    for p in prompts:
+        evaluate_and_save_mode_heatmaps(
+            model,
+            [p],
+            collection_mode="JS_dist_ans",
+            device='cuda:0',
+            tag="delta_2",
+            save_folder='may_11_immediately_answer_js_dist_heatmap_collection_experiment',
+            immediately_answer=True,
+            comparator_list="heatmap_collection_experiment/comparator_list.pkl",
+            delta=2
+        )
+        evaluate_and_save_mode_heatmaps(
+            model,
+            [p],
+            collection_mode="JS_dist_ans",
+            device='cuda:0',
+            tag="delta_1",
+            save_folder='may_11_immediately_answer_js_dist_heatmap_collection_experiment',
+            immediately_answer=True,
+            comparator_list="heatmap_collection_experiment/comparator_list.pkl",
+            delta=1
+        )
+        
 
     """evaluate_and_save_mode_heatmaps(
         model,
