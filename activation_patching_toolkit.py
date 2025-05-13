@@ -560,6 +560,132 @@ def evaluate_and_save_mode_heatmaps(
         )
 
 
+import os
+import torch
+from tqdm import tqdm
+from matplotlib.colors import LogNorm
+import matplotlib.pyplot as plt
+
+def head_patch_delta_circuit_sweep(
+    model: HookedTransformer,
+    metric_comparator,
+    collection_mode: str,
+    mode: str,
+    str1: str,
+    str2: str,
+    default_layer: int = 2,
+    default_head: int = 17,
+    device: str = None,
+    cache_folder: str = None,
+    tag: str = None,
+    plot: bool = False,
+):
+    """
+    1) Compute baseline mode score.
+    2) Delta=1: patch only (default_layer, default_head) at final token → single_score.
+    3) Delta=2: patch each head one at a time at second­-to­-last token → heatmap (n_layers×n_heads).
+    Optionally caches results and plots the Δ=2 heatmap.
+    """
+    # — prepare device/model —
+    if device:
+        model = model.to(device)
+    else:
+        device = next(model.parameters()).device
+
+    # — tokenize inputs —
+    toks1 = model.to_tokens(str1).to(device)
+    toks2 = model.to_tokens(str2).to(device)
+    n_layers = model.cfg.n_layers
+
+    # — capture z2 for ALL heads & layers (on str2) —
+    z2 = {}
+    def save_z(l):
+        return lambda act, hook: z2.setdefault(l, act.detach().cpu())
+    hooks = [(f"blocks.{l}.attn.hook_z", save_z(l)) for l in range(n_layers)]
+    model.run_with_hooks(toks2, fwd_hooks=hooks, return_type=None)
+
+    # — compute baseline —
+    baseline = metric_comparator.compare_model(model, mode)
+    baseline_score = baseline[collection_mode]
+
+    # — prepare result containers —
+    single_score = None
+    heat = torch.full((n_layers, z2[0].shape[2]), float("nan"))
+
+    # — EXPERIMENT 1: Delta = 1, single head —
+    delta1 = 1
+    L1, L2 = toks1.shape[1], toks2.shape[1]
+    pos1, pos2 = L1 - delta1, L2 - delta1
+
+    def patch_one(act, hook):
+        p = act.clone()
+        p[0, pos1, default_head, :] = z2[default_layer][0, pos2, default_head, :]
+        return p
+
+    out = metric_comparator.compare_model(
+        model,
+        mode,
+        fwd_hooks=[(f"blocks.{default_layer}.attn.hook_z", patch_one)]
+    )
+    single_score = out[collection_mode]
+
+    # — EXPERIMENT 2: Delta = 2, full sweep —
+    delta2 = 2
+    pos1_2, pos2_2 = L1 - delta2, L2 - delta2
+
+    total = n_layers * z2[0].shape[2]
+    with tqdm(total=total, desc="Sweeping all heads (Δ=2)") as pbar:
+        for l in range(n_layers):
+            for h in range(z2[l].shape[2]):
+                def make_patcher(layer, head):
+                    def patch(act, hook):
+                        p = act.clone()
+                        p[0, pos1_2, head, :] = z2[layer][0, pos2_2, head, :]
+                        return p
+                    return patch
+
+                result = metric_comparator.compare_model(
+                    model,
+                    mode,
+                    fwd_hooks=[(f"blocks.{l}.attn.hook_z", make_patcher(l, h))]
+                )
+                heat[l, h] = result[collection_mode]
+                pbar.update(1)
+
+    # — optional caching —
+    if cache_folder:
+        os.makedirs(cache_folder, exist_ok=True)
+        save_path = os.path.join(cache_folder, f"delta_sweep_{tag or 'run'}.pt")
+        torch.save({
+            "baseline": baseline_score,
+            "single_head": single_score,
+            "heatmap": heat,
+            "default_head": (default_layer, default_head),
+            "str1": str1, "str2": str2,
+            "collection_mode": collection_mode,
+            "mode": mode
+        }, save_path)
+        print(f"Saved results to {save_path}")
+
+    # — optional plotting of the Δ=2 heatmap —
+    if plot:
+        fig, ax = plt.subplots(1, 1, figsize=(6, 6))
+        im = ax.imshow(
+            heat.numpy(),
+            aspect="auto",
+            origin="lower",
+            cmap="viridis"
+        )
+        ax.set_title(f"Δ=2 heatmap ({collection_mode})")
+        ax.set_xlabel("Head index")
+        ax.set_ylabel("Layer index")
+        plt.colorbar(im, ax=ax, label="Mode score")
+        plt.tight_layout()
+        plt.show()
+
+    return baseline_score, single_score, heat
+
+
 def read_prompts(file_path="mds/reasoning-prompts.md"):
     """
     Read prompts from a text file and return them as a list of strings.
@@ -622,6 +748,7 @@ if __name__ == "__main__":
     prompts = read_prompts()[:50]
 
     for p in prompts:
+
         evaluate_and_save_mode_heatmaps(
             model,
             [p],
